@@ -20,4 +20,4 @@ Anomalies:
 
 
 Purpose:<br>
-Our purpose is to create foundations to help other victims of bots, abuse, and <href a="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a>. We want to save lives and help partners create systems to help online.
+Our purpose is to create foundations to help other victims of bots, cyberabuse, domestic abuse, and <href a="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a>. We want to save lives and help partners create systems to help online.
