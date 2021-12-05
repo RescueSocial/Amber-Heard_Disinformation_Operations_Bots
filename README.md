@@ -20,7 +20,7 @@ Anomalies:
 
 
 Purpose:<br>
-Our purpose is to create foundations to help other victims of bots, cyberabuse, domestic abuse, and <href a="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a>. We want to save lives and help partners create systems to help online - including specialized and accurate rescue, quality custom, forensic, and public safety technologies - with focus on the victim primarily.
+Our purpose is to create foundations to help other victims of bots, cyberabuse, domestic abuse, and <href a="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a>. We want to save lives and help partners create systems to help online - including specialized and accurate rescue, quality custom, social network analysis, forensic, and public safety technologies - with focus on the victim primarily. Many of us helped in thse sectors.
 
 Collaboration: <br>
 If you're a social enterprise, researcher, or organization helping female victims of abuse, harassment, coercive control, or domestic abuse, we welcome partnership with you to create social network analysis, OSINT, data analysis, machinelearning, natural language processing, artificial inteligence, and monitoring systems. Although it's abuse of process, coercive control is becoming illegal in more countries and states/provinces worldwide. Please contact us for data and code at: ____
