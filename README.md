@@ -36,7 +36,8 @@ Our analysis is in-progress and will be added after published research papers fo
 
 <b>Collaboration:</b> <br>
 If you're a social enterprise, researcher, or organization helping female victims of abuse, harassment, coercive control, domestic abuse, bots, or hostile environments, we welcome partnership with you to create Social Network Analysis, data analysis, machine learning, natural language processing, artificial intelligence, OSINT, and monitoring systems. 
-<br>Although it's abuse of process, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a> is becoming illegal in more countries and states/provinces worldwide. 
+<br>
+Although it's abuse of process, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a> is becoming illegal in more countries and states/provinces worldwide. 
 <br><i>Please contact us for data and code at: ____</i>
 <i><br>If you're a victim needing help against cyberabuse especially in online domestic abuse and <a href="https://metta-space.com">hostile environments</a>, please contact us.</i>
 
