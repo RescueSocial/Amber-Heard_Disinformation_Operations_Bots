@@ -41,9 +41,10 @@ New Account Layers, Aged Accounts, and created news-sites:
 https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf<br>
 Psy-Group - https://www.newyorker.com/magazine/2019/02/18/private-mossad-for-hire<br>
 Devumi Bots: https://www.thebureauinvestigates.com/stories/2017-12-07/twitterbots<br>
-Video - RoseMcGown vs BlackCube: https://www.youtube.com/watch?v=tv6ewJQ7L3k<br>
+Video - RoseMcGowan vs BlackCube: https://www.youtube.com/watch?v=tv6ewJQ7L3k<br>
 BlackCube: https://www.newyorker.com/news/news-desk/harvey-weinsteins-army-of-spies<br>
 A Medium article: https://medium.com/@aquaman-bots/how-social-bots-created-an-anti-amber-heard-aquaman-campaign-e68e16637d3a<br>
+Meghan Markle: (1) https://laptrinhx.com/meghan-markle-s-twitter-bot-network-the-whole-thing-is-a-bit-insane-2560404981/ (2) https://www.newsweek.com/meghan-markle-troll-accused-posing-black-woman-second-account-suspended-twitter-bot-sentinel-1652271
 
 
 <b>Researchers:</b><br>
