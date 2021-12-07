@@ -6,8 +6,8 @@ We're an independent research team with over 20 data analysts, scientists, and o
 <b>Index:</b>
 
 
-<b>Cross-Platform:</b>
-
+<b>Cross-Platforms:</b>
+We will make cross-platform analysis public when a research paper is published, for data analyst 
 
 <b>Anomalies:</b>
 
@@ -18,7 +18,12 @@ We're an independent research team with over 20 data analysts, scientists, and o
 
 
 <b>Dates of Data Collections:</b>
-
+Twitter -
+Reddit -
+Instagram -
+Change.org -
+YouTube -
+Facebook - 
 
 <b>Background:</b>
 
