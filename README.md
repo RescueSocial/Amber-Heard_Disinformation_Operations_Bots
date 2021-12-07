@@ -43,7 +43,7 @@ If you're a social enterprise, researcher, or organization helping female victim
 All collaborators, researchers, and observers are required to sign, acknowledge, agree to "Do No Harm" agreements. If you are one of the victims listed in this study and need harmful material removed or to collaborate with us, please contact us.
 
 <b>Related Articles - for Understanding:</b><br>
-New Account Layers, Aged Accounts, Created News-Sites - 
+New Account Layers, Aged Accounts, Created News-Sites: 
 <br><i>"Disinformation in the Private Sector: The Price of Influence"</i></br>
 https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf<br>
 Psy-Group Bots - https://www.newyorker.com/magazine/2019/02/18/private-mossad-for-hire<br>
