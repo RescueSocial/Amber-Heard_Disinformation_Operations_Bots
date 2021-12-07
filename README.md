@@ -34,4 +34,5 @@ If you're a social enterprise, researcher, or organization helping female victim
 <b>Do No Harm:</b> <br>
 All collaborators, researchers, and observers are required to sign, acknowledge, agree to "Do No Harm" agreements. If you are one of the victims listed in this study and need harmful material removed or to collaborate with us, please contact us.
 
-We welcome Researchers to work with this data on AH to create blueprints on how bots and disinformation/influence operations work. Please ask to collaborate with us for access to data. 
+<b>Researchers:</b>
+We welcome Researchers to work with this Data on AH to create blueprints on how bots and disinformation/influence operations work. Please ask to collaborate with us for access to data. 
