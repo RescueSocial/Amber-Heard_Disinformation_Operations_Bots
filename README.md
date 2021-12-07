@@ -23,6 +23,8 @@ We're an independent research team with over 20 data analysts, scientists, and o
 <b>Background:</b>
 
 
+
+
 <b>Purpose:</b><br>
 <b>Our purpose is to create foundations to help other victims of bots, cyberabuse, domestic abuse, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a>, and disinformation operations</b>. We want to save lives and help partners create systems to help online - including specialized and accurate rescue, quality custom, data analysis, social network analysis, forensics, research, and public safety technologies - <i>with focus on the victim primarily and her environment</i>. Many of us helped in these sectors.
 
@@ -31,8 +33,16 @@ If you're a social enterprise, researcher, or organization helping female victim
 <br><i>Please contact us for data and code at: ____</i>
 <i><br>If you're a victim needing help against cyberabuse especially in online domestic abuse and <a href="https://metta-space.com">hostile environments</a>, please contact us.</i>
 
+<b>Related Articles:</b>
+New Account Layers and Aged Accounts:
+https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf
+Psy-Group 2019 - https://www.newyorker.com/magazine/2019/02/18/private-mossad-for-hire
+Devumi Bots: https://www.thebureauinvestigates.com/stories/2017-12-07/twitterbots
+Video - RoseMcGown vs BlackCube: https://www.youtube.com/watch?v=tv6ewJQ7L3k
+A Medium article: https://medium.com/@aquaman-bots/how-social-bots-created-an-anti-amber-heard-aquaman-campaign-e68e16637d3a
+
 <b>Do No Harm:</b> <br>
 All collaborators, researchers, and observers are required to sign, acknowledge, agree to "Do No Harm" agreements. If you are one of the victims listed in this study and need harmful material removed or to collaborate with us, please contact us.
 
-<b>Researchers:</b>
+<b>Researchers:</b><br>
 We welcome Researchers to work with this Data on AH to create blueprints on how bots and disinformation/influence operations work. Please ask to collaborate with us for access to data. 
