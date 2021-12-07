@@ -44,7 +44,7 @@ Psy-Group Bots - https://www.newyorker.com/magazine/2019/02/18/private-mossad-fo
 Devumi Bots: https://www.thebureauinvestigates.com/stories/2017-12-07/twitterbots<br>
 BlackCube vs Actresses: https://www.newyorker.com/news/news-desk/harvey-weinsteins-army-of-spies<br>
 Medium "Bots Created an Anti-Amber Heard Campaign": https://medium.com/@aquaman-bots/how-social-bots-created-an-anti-amber-heard-aquaman-campaign-e68e16637d3a<br>
-Meghan Markle: (1) https://laptrinhx.com/meghan-markle-s-twitter-bot-network-the-whole-thing-is-a-bit-insane-2560404981 (2) https://www.newsweek.com/meghan-markle-troll-accused-posing-black-woman-second-account-suspended-twitter-bot-sentinel-1652271<br>
+Meghan Markle Operations: (1) https://laptrinhx.com/meghan-markle-s-twitter-bot-network-the-whole-thing-is-a-bit-insane-2560404981 (2) https://www.newsweek.com/meghan-markle-troll-accused-posing-black-woman-second-account-suspended-twitter-bot-sentinel-1652271<br>
 Jessica Reisinger-Raubenolt & Lilia, Cameron Herrin Operations - https://www.tampabay.com/news/crime/2021/08/05/cameron-herrin-went-to-prison-for-a-tampa-crash-were-the-tweets-that-followed-real<br>
 Video - Rose McGowan vs BlackCube: https://www.youtube.com/watch?v=tv6ewJQ7L3k<br>
 Amber Heard, Cyrillic Spiders from Mars - https://www.thegeekbuzz.com/the-basement/cyrillic-russian-spiders-from-mars
