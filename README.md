@@ -6,8 +6,6 @@ We're an independent research team with over 20 data analysts, scientists, and o
 <b>Index:</b>
 
 
-<b>Cross-Platforms:</b>
-We will make cross-platform data analysis public when a research paper is published, for data analyst privacy to keep their research.
 
 <b>Anomalies:</b>
 
