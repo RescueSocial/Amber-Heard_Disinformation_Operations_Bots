@@ -36,10 +36,10 @@ If you're a social enterprise, researcher, or organization helping female victim
 <b>Do No Harm:</b> <br>
 All collaborators, researchers, and observers are required to sign, acknowledge, agree to "Do No Harm" agreements. If you are one of the victims listed in this study and need harmful material removed or to collaborate with us, please contact us.
 
-<b>Related Articles:</b>
-New Account Layers and Aged Accounts:
+<b>Related Articles:</b><br>
+New Account Layers, Aged Accounts, and created news-sites:
 https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf<br>
-Psy-Group 2019 - https://www.newyorker.com/magazine/2019/02/18/private-mossad-for-hire<br>
+Psy-Group - https://www.newyorker.com/magazine/2019/02/18/private-mossad-for-hire<br>
 Devumi Bots: https://www.thebureauinvestigates.com/stories/2017-12-07/twitterbots<br>
 Video - RoseMcGown vs BlackCube: https://www.youtube.com/watch?v=tv6ewJQ7L3k<br>
 BlackCube: https://www.newyorker.com/news/news-desk/harvey-weinsteins-army-of-spies<br>
