@@ -32,4 +32,6 @@ If you're a social enterprise, researcher, or organization helping female victim
 <i><br>If you're a victim needing help against cyberabuse especially in online domestic abuse and <a href="https://metta-space.com">hostile environments</a>, please contact us.</i>
 
 <b>Do No Harm:</b> <br>
-All collaborators and observers are required to sign, acknowledge, agree to "Do No Harm" agreements. If you are one of the victims listed in this study and need harmful material removed or to collaborate with us, please contact us.
+All collaborators, researchers, and observers are required to sign, acknowledge, agree to "Do No Harm" agreements. If you are one of the victims listed in this study and need harmful material removed or to collaborate with us, please contact us.
+
+We welcome Researchers to work with this data on AH to create blueprints on how bots and disinformation/influence operations work. Please ask to collaborate with us for access to data. 
