@@ -49,4 +49,5 @@ Amber Heard, Cyrillic Spiders from Mars - https://www.thegeekbuzz.com/the-baseme
 
 
 <b>Researchers:</b><br>
-We welcome Researchers to work with this Data on AH to create blueprints on how bots and disinformation/influence operations work. Please ask to collaborate with us for access to data. 
+We welcome Researchers to work with this Data on AH to create blueprints on how bots and disinformation/influence operations work. 
+<br>Please ask to collaborate with us for access to data. 
