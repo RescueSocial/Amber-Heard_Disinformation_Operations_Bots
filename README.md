@@ -15,17 +15,18 @@ We're an independent research team with over 20 data analysts, scientists, and o
 <b>Data Samples:</b>
 
 
+ 
+
+<b>Background:</b>
+
+
 <b>Dates of Data Collections:</b><br>
 Twitter -
 <br>Reddit -
 <br>Instagram -
 <br>Change.org -
 <br>YouTube -
-<br>Facebook - 
-
-<b>Background:</b>
-
-
+<br>Facebook -
 
 
 <b>Purpose:</b><br>
