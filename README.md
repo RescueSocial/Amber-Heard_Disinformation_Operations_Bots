@@ -39,6 +39,7 @@ Our analysis is in-progress and will be added after published research papers fo
 <b>Collaboration:</b> <br>
 If you're a social enterprise, researcher, or organization helping female victims of abuse, harassment, coercive control, domestic abuse, bots, or hostile environments, we welcome partnership with you to create Social Network Analysis, data analysis, machine learning, natural language processing, artificial intelligence, OSINT, and monitoring systems. 
 <br>
+
 Although it's abuse of process, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a> is becoming illegal in more countries and states/provinces worldwide. 
 <br><i>Please contact us for data and code at: ____</i>
 <i><br>If you're a victim needing help against cyberabuse especially in online domestic abuse and <a href="https://metta-space.com">hostile environments</a>, please contact us.</i>
@@ -46,7 +47,7 @@ Although it's abuse of process, <a href="https://www.connecticutprotectivemoms.o
 <b>Do No Harm:</b> <br>
 All collaborators, researchers, and observers are required to sign, acknowledge, agree to "Do No Harm" agreements. If you are one of the victims listed in this study and need harmful material removed or to collaborate with us, please contact us.
 
-<b>Related Articles for Understanding:</b><br>
+<b>Related Articles - for Understanding:</b><br>
 New Account Layers, Aged Accounts, Created News-Sites: 
 <br><i>"Disinformation in the Private Sector: The Price of Influence"</i></br>
 https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf<br>
@@ -61,5 +62,5 @@ Amber Heard, Cyrillic Spiders from Mars - https://www.thegeekbuzz.com/the-baseme
 
 
 <b>Researchers:</b><br>
-We welcome Researchers to work with this Data on AH to create Blueprints on how Bots and Disinformation/Influence Operations work. 
+We welcome Researchers to work with this Data on Amber Heard to create Blueprints on how Bots and Disinformation/Influence Operations work. 
 <br>Please ask to collaborate with us for access to data. 
