@@ -1,7 +1,7 @@
 # Amber-Heard_Disinformation_Operations_Bots
 <b>6 Social Media Platforms analyzed of Disinformation/Influence Operations and Bots Cross-Platforms. Twitter, Reddit, YouTube, Instagram, Change.org, and Facebook.</b>
 
-We're an independent research team with over 20 data analysts, scientists, and observers analyzing this data for over a year.
+We're an independent research team with over 20 data analysts, scientists, and observers analyzing this data for over a year. The data collected is primarily related to the years 2018-2021.
 
 <b>Our purpose is to create foundations to help other victims of bots, cyberabuse, domestic abuse, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a>, and disinformation operations</b>. 
 <br>We want to save lives and help partners create systems to help online - including specialized and accurate rescue, quality custom, data analysis, social network analysis, forensics, research, and public safety technologies - <i>with focus on the victim primarily and her environment</i>. 
