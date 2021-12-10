@@ -49,7 +49,7 @@ All collaborators, researchers, and observers are required to sign, acknowledge,
 
 <b>Related Articles for Understanding:</b><br> 
 <br><i>"Disinformation in the Private Sector: The Price of Influence"</i>
-- New Accounts Layers, Aged Accounts Layers, Created News-Sites:</br>
+- New Accounts Layers, Aged Accounts, Created News-Sites:</br>
 https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf<br>
 - Psy-Group's Bots - https://www.newyorker.com/magazine/2019/02/18/private-mossad-for-hire<br>
 - Devumi Bots - https://www.thebureauinvestigates.com/stories/2017-12-07/twitterbots<br>
