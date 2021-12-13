@@ -69,10 +69,10 @@ https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf<br>
 <b>Scientific Methods:</b><br>
 Worldwide PhDs, Researchers in Cyber Intelligence, Data Analysists and Data Scientists collected and analyzed data. We used the scientific method of testing.
 
-<a href="https://en.wikipedia.org/wiki/Situation_awareness">Situation Awareness:</a><br>
-Objective	Tactical (short-term)	situational assessment	situation awareness<br>
-Strategic (long-term)	sensemaking	understanding<br>
-Scientific (longer-term)	analysis	prediction
+<i><a href="https://en.wikipedia.org/wiki/Situation_awareness">Situation Awareness:</a></i><br>
+Objective	Tactical (short-term)	situational assessment	- situation awareness<br>
+Strategic (long-term)	sensemaking -	understanding<br>
+Scientific (longer-term)	analysis	- prediction
 
 
 <b>Researchers:</b><br>
