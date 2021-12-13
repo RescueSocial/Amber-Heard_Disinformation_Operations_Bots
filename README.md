@@ -29,8 +29,8 @@ We're an Independent Research Team with over 20 data analysts, scientists, and o
 Twitter -
 <br>Reddit -
 <br>Instagram -
-<br>Change.org -
 <br>YouTube -
+<br>Change.org -
 <br>Facebook -
 
 <b>Cross-Platforms Analysis:</b><br>
