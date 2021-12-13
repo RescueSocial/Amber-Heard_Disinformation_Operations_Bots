@@ -2,9 +2,8 @@
 <b>6 Social Media Platforms analyzed of Disinformation/Influence Operations and Bots Cross-Platforms. Twitter, Reddit, YouTube, Instagram, Change.org, and Facebook.</b>
 
 We're an independent research team with over 20 data analysts, scientists, and observers analyzing this data for over a year. 
-Data collected on Amber Heard is primarily related to the years 2018-2021. We studied millions of texts and accounts for Social Network Analysis.
+<br>Data collected on Amber Heard is primarily related to the years 2018-2021. We studied millions of texts and accounts for Social Network Analysis.
 
-<i><b>Purpose:</b><br></i>
 <b>Our purpose is to create foundations and precedents to help other victims of bots, cyberabuse, domestic abuse, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a>, hostile environments, and Disinformation Operations</b>. 
 <br>We want to save lives and help partners create systems to help online - including specialized and accurate rescue, quality custom, data analysis, Social Network Analysis, forensics, research, and public safety technologies - <i>with focus on the victim primarily and <b>her environment</b></i>. 
 <br>Many of us helped in these sectors.
@@ -26,7 +25,7 @@ Data collected on Amber Heard is primarily related to the years 2018-2021. We st
 <b>Background:</b>
 
 
-<b>Dates of Data Collections:</b><br>
+<b>Dates & Amounts of Data Collections:</b><br>
 Twitter -
 <br>Reddit -
 <br>Instagram -
@@ -47,6 +46,9 @@ Although it's abuse of process, <a href="https://www.connecticutprotectivemoms.o
 
 <b>Do No Harm:</b> <br>
 All collaborators, researchers, and observers are required to sign, acknowledge, agree to "Do No Harm" agreements. If you are one of the victims listed in this study and need harmful material removed or to collaborate with us, please contact us.
+
+<b>Analysis Guides:</b>
+
 
 <b>Related Articles for Understanding:</b><br> 
 <br><i>"Disinformation in the Private Sector: The Price of Influence"</i>
