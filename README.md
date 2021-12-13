@@ -66,6 +66,14 @@ https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf<br>
 - Amber Heard, Cyrillic Spiders from Mars - https://www.thegeekbuzz.com/the-basement/cyrillic-russian-spiders-from-mars
 
 
+<b>Scientific Methods:</b>
+Worldwide PhDs, Researchers in Cyber Intelligence, Data Analysists and Data Scientists collected and analyzed data. We used the scientific method of testing.
+
+Objective	Tactical (short-term)	situational assessment	situation awareness
+Strategic (long-term)	sensemaking	understanding
+Scientific (longer-term)	analysis	prediction
+
+
 <b>Researchers:</b><br>
 We welcome Researchers to work with this Data on Amber Heard to create Blueprints on how Bots and Disinformation/Influence Operations work. 
 <br>Please ask to collaborate with us for access to data. 
