@@ -5,7 +5,7 @@ We're an Independent Research Team with over 20 data analysts, scientists, and o
 <br>Data collected on Amber Heard is primarily related to the years 2018-2021. We studied millions of texts and accounts for <b>Social Network Analysis.</b>
 
 <b>Our Purpose is to create foundations and precedents to help other victims of bots, cyberabuse, domestic abuse, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a>, hostile environments, and Disinformation Operations</b>. 
-<br>We want to save lives and help partners create systems to help online - including specialized and accurate rescue, quality custom, data analysis, Social Network Analysis, forensics, research, <a href="https://en.wikipedia.org/wiki/Situation_awareness">situation awareness</a>, and public safety technologies - <i>with focus on the victim primarily and <b>her environment</b></i>. 
+<br>We want to save lives and help partners create systems to help online - including specialized and accurate rescue, quality custom, data analysis, Social Network Analysis, forensics, research, situation awareness, and public safety technologies - <i>with focus on the victim primarily and <b>her environment</b></i>. 
 
 <b>Amounts & Dates of Data Collections:</b><br>
 Twitter -
@@ -69,8 +69,9 @@ https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf<br>
 <b>Scientific Methods:</b>
 Worldwide PhDs, Researchers in Cyber Intelligence, Data Analysists and Data Scientists collected and analyzed data. We used the scientific method of testing.
 
-Objective	Tactical (short-term)	situational assessment	situation awareness
-Strategic (long-term)	sensemaking	understanding
+<a href="https://en.wikipedia.org/wiki/Situation_awareness">Situation Awareness:</a>
+Objective	Tactical (short-term)	situational assessment	situation awareness<b>
+Strategic (long-term)	sensemaking	understanding<br>
 Scientific (longer-term)	analysis	prediction
 
 
