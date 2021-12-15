@@ -69,7 +69,7 @@ https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf<br>
 <b>Semiosis - Compliments Prompt GPT-J of NLG:</b><br>
 Compliment Generation Based on Jason Momoa and Amber Heard<br>
  https://github.com/semiosis/prompts/blob/master/prompts/compliment-generation-based-on-a-celebrity-1.prompt<br>
-<a href="https://github.com/semiosis">Semiosis</a> is a free and open-source curation of prompts for OpenAI's GPT-3/Codex, EleutherAI's GPT-j, AlephAlpha's World Model and other language models.
+- <a href="https://github.com/semiosis">Semiosis</a> is a free and open-source curation of prompts for OpenAI's GPT-3/Codex, EleutherAI's GPT-j, AlephAlpha's World Model and other language models.
 <br><br>
 <b>Scientific Methods:</b><br>
 Worldwide Data Scientists, Researchers in Cyber Intelligence, PhDs, and Data Analysts collected and analyzed data. We used the scientific method of testing.
@@ -77,7 +77,7 @@ Worldwide Data Scientists, Researchers in Cyber Intelligence, PhDs, and Data Ana
 <i><a href="https://en.wikipedia.org/wiki/Situation_awareness">Situation Awareness:</a></i><br>
 Objective	Tactical (short-term)	situational assessment	- situation awareness<br>
 Strategic (long-term)	sensemaking -	understanding<br>
-Scientific (longer-term)	analysis	- prediction
+Scientific (longer-term)	analysis	- prediction<br>
 <br>
 
 <b>Researchers:</b><br>
