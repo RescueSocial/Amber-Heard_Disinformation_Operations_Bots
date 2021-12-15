@@ -43,7 +43,7 @@ If you're a social enterprise, researcher, organization, or academic helping fem
 <br>
 
 Although it's abuse of process, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a> is becoming illegal in more countries and states/provinces worldwide. 
-<br><i>Please contact us for data and code at: ____</i>
+<br><i>Please contact us for data and code at rescuesocial@gmail.com</i>
 <i><br>If you're a victim needing help against cyberabuse especially in online domestic abuse and <a href="https://metta-space.com">hostile environments</a>, please contact us.</i>
 
 <b>Do No Harm:</b> <br>
