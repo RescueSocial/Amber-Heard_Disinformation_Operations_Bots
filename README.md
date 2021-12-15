@@ -66,10 +66,10 @@ https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf<br>
 - Amber Heard, Cyrillic Spiders from Mars - https://www.thegeekbuzz.com/the-basement/cyrillic-russian-spiders-from-mars
 
 <br>
-<b><a href="https://github.com/semiosis">Semiosis</a> - Compliments Prompt GPT-J of NLG:</b><br>
+<b>Semiosis - Compliments Prompt GPT-J of NLG:</b><br>
 Compliment Generation Based on Jason Momoa and Amber Heard<br>
  https://github.com/semiosis/prompts/blob/master/prompts/compliment-generation-based-on-a-celebrity-1.prompt<br>
-Semiosis is a free and open-source curation of prompts for OpenAI's GPT-3/Codex, EleutherAI's GPT-j, AlephAlpha's World Model and other language models.
+<a href="https://github.com/semiosis">Semiosis</a> is a free and open-source curation of prompts for OpenAI's GPT-3/Codex, EleutherAI's GPT-j, AlephAlpha's World Model and other language models.
 <br><br>
 <b>Scientific Methods:</b><br>
 Worldwide Data Scientists, Researchers in Cyber Intelligence, PhDs, and Data Analysts collected and analyzed data. We used the scientific method of testing.
