@@ -52,7 +52,7 @@ All collaborators, researchers, and observers are required to sign, acknowledge,
 
 <b>Analysis Guides:</b>
 
-<br>
+
 <b>Semiosis - Compliments Prompt GPT-J of NLG:</b><br>
 Compliment Generation Based on Jason Momoa and Amber Heard<br>
  https://github.com/semiosis/prompts/blob/master/prompts/compliment-generation-based-on-a-celebrity-1.prompt<br>
