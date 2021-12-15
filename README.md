@@ -38,13 +38,6 @@ Twitter -
 <b>Cross-Platforms Analysis:</b><br>
 Our analysis is in-progress and will be added after published research papers for researcher privacy.
 
-<b>Analysis Guides:</b>
-
-<b>Semiosis - Compliments Prompt GPT-J of NLG:</b><br>
-Compliment Generation Based on Jason Momoa and Amber Heard<br>
- https://github.com/semiosis/prompts/blob/master/prompts/compliment-generation-based-on-a-celebrity-1.prompt<br>
-- <a href="https://github.com/semiosis">Semiosis</a> is a free and open-source curation of prompts for OpenAI's GPT-3/Codex, EleutherAI's GPT-j, AlephAlpha's World Model and other language models.
-<br><br>
 
 <b>Collaboration:</b> <br>
 If you're a social enterprise, researcher, organization, or academic helping female victims of abuse, harassment, coercive control, domestic abuse, bots, or hostile environments, we welcome partnership with you to create Social Network Analysis, data analysis, machine learning, natural language processing, artificial intelligence, OSINT, rescue, and monitoring systems. 
@@ -56,6 +49,15 @@ Although it's abuse of process, <a href="https://www.connecticutprotectivemoms.o
 
 <b>Do No Harm:</b> <br>
 All collaborators, researchers, and observers are required to sign, acknowledge, agree to "Do No Harm" agreements. If you are one of the victims listed in this study and need harmful material removed or to collaborate with us, please contact us.
+<br>
+
+<b>Semiosis - Compliments Prompt GPT-J of NLG:</b><br>
+Compliment Generation Based on Jason Momoa and Amber Heard<br>
+ https://github.com/semiosis/prompts/blob/master/prompts/compliment-generation-based-on-a-celebrity-1.prompt<br>
+- <a href="https://github.com/semiosis">Semiosis</a> is a free and open-source curation of prompts for OpenAI's GPT-3/Codex, EleutherAI's GPT-j, AlephAlpha's World Model and other language models.
+<br><br>
+
+<b>Analysis Guides:</b>
 <br>
 
 
