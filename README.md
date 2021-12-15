@@ -65,8 +65,9 @@ https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf<br>
 - Rose McGowan vs BlackCube Video: https://www.youtube.com/watch?v=tv6ewJQ7L3k<br>
 - Amber Heard, Cyrillic Spiders from Mars - https://www.thegeekbuzz.com/the-basement/cyrillic-russian-spiders-from-mars
 
+<br>
 <b>Semiosis - Compliments Prompt GPT-J of NLG:</b><br>
-Based on Jason Momoa and Amber Heard<br>
+Compliment Generation Based on Jason Momoa and Amber Heard<br>
  https://github.com/semiosis/prompts/blob/master/prompts/compliment-generation-based-on-a-celebrity-1.prompt<br>
 Semiosis is a free and open-source curation of prompts for OpenAI's GPT-3/Codex, EleutherAI's GPT-j, AlephAlpha's World Model and other language models.
 
