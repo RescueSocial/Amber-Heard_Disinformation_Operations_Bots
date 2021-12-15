@@ -86,5 +86,5 @@ Scientific (longer-term):	analysis	- prediction<br>
 <br>
 
 <b>Researchers:</b><br>
-We welcome Researchers to work with this Data on Amber Heard to create Blueprints on how Bots and Disinformation/Influence Operations work. 
+<b>We welcome Researchers to work with this Data on Amber Heard to create Blueprints on how Bots and Disinformation/Influence Operations work. </b>
 <br>Please ask to collaborate with us for access to data. 
