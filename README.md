@@ -41,7 +41,7 @@ Our analysis is in-progress and will be added after published research papers fo
 
 <b>Collaboration:</b> <br>
 If you're a social enterprise, researcher, organization, or academic helping female victims of abuse, coercive control, domestic abuse, bots, harassment, or hostile environments, we welcome partnership with you to create Social Network Analysis, data analysis, machine learning, natural language processing, artificial intelligence, OSINT, rescue, and monitoring systems to help other victims. 
-<br><i>Please contact us for data and code at rescuesocial@gmail.com</i>
+<br><i>Please contact us for data and code.</i>
 <br><br>
 <b>Although it's abuse of process, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a> is becoming illegal in more countries and states/provinces worldwide.</b>
 <i><br>If you're a victim needing help against cyberabuse especially in online domestic abuse and <a href="https://metta-space.com">hostile environments</a>, please contact us.</i>
@@ -89,4 +89,4 @@ Scientific (longer-term):	analysis	- prediction<br></i>
 
 <b>Researchers:</b><br>
 <b>We welcome Researchers to work with this Data on Amber Heard to create Blueprints on how Bots and Disinformation/Influence Operations work. </b>
-<br>Please ask to collaborate with us for access to data. 
+<br>Please ask to collaborate with us for access to data at at rescuesocial@gmail.com.
