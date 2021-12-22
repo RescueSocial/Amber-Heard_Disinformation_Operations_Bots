@@ -7,8 +7,20 @@ We're an Independent Research Team with over 20 data analysts, scientists, and o
 <b>Our Purpose is to create foundations and precedents to help other victims of bots, cyberabuse, domestic abuse, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a>, hostile environments, and Disinformation Operations</b>. 
 <br>We want to save lives and help partners create systems to help online - including specialized and accurate rescue, quality custom, data analysis, Social Network Analysis, forensics, research, situation awareness, and public safety technologies - <i>with focus on the victim primarily and <b>her environment</b></i>. 
 
+<b>Collaboration:</b> <br>
+If you're a social enterprise, researcher, organization, or academic helping female victims of abuse, coercive control, domestic abuse, bots, harassment, or hostile environments, we welcome partnership with you to create Social Network Analysis, data analysis, machine learning, natural language processing, artificial intelligence, OSINT, rescue, and monitoring systems to help other victims. 
+<br><i>Please contact us for data and code.</i>
+<br><br>
+<b>Although it's abuse of process, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a> is becoming illegal in more countries and states/provinces worldwide.</b>
+<i><br>If you're a victim needing help against cyberabuse especially in online domestic abuse and <a href="https://metta-space.com">hostile environments</a>, please contact us.</i>
+
+<b>Do No Harm:</b> <br>
+All collaborators, researchers, and observers are required to sign, acknowledge, agree to "Do No Harm" agreements. If you are one of the victims listed in this study and need harmful material removed or to collaborate with us, please contact us.
+<br>
+
 <b>Index [edit]:<br></b>
 - <b>Analysis of Social Media Platforms</b>
+- (edit - add files from analysts)
 - <b>Anomalies</b>
 - <b>Images & Highlights</b>
 - <b>Data Samples</b>
@@ -46,16 +58,6 @@ Compliment Generation Based on Jason Momoa and Amber Heard<br>
 - 3-Way Bots chat with actress Amber Heard, actor Tom Cruise, and director Christopher Nolan demonstrated at: https://semiosis.github.io/apostrophe <br>
 - Code and Demos from AI Researcher at: https://github.com/mullikine/positive-nlg-compliments<br>
 
-<b>Collaboration:</b> <br>
-If you're a social enterprise, researcher, organization, or academic helping female victims of abuse, coercive control, domestic abuse, bots, harassment, or hostile environments, we welcome partnership with you to create Social Network Analysis, data analysis, machine learning, natural language processing, artificial intelligence, OSINT, rescue, and monitoring systems to help other victims. 
-<br><i>Please contact us for data and code.</i>
-<br><br>
-<b>Although it's abuse of process, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a> is becoming illegal in more countries and states/provinces worldwide.</b>
-<i><br>If you're a victim needing help against cyberabuse especially in online domestic abuse and <a href="https://metta-space.com">hostile environments</a>, please contact us.</i>
-
-<b>Do No Harm:</b> <br>
-All collaborators, researchers, and observers are required to sign, acknowledge, agree to "Do No Harm" agreements. If you are one of the victims listed in this study and need harmful material removed or to collaborate with us, please contact us.
-<br>
 
 
 <b>Background:</b><br>
