@@ -20,6 +20,7 @@ Index (Edit):<br>
 - <b>Anomalies</b>
 - <b>Images & Highlights</b>
 - <b>Data Samples</b>
+- <b>Analysis Guides</b>
 
 
 <b>Collaboration:</b> <br>
@@ -61,11 +62,6 @@ Related Articles<br>
 Influence Operation of 6,000 Twitter accounts detected by BotSentinel: https://youtu.be/bb2bC04OEPw<br>
 August 2020 Counterclaims on Bots: https://www.scribd.com/document/473092071/cl-2019-2911-def-counterclaims-8-10-2020<br>
 
-<b>Analysis Guides:</b>
-<br>
--
--
--
 
 <b>Related Articles for Understanding:</b><br> 
 <br><i>"Disinformation in the Private Sector: The Price of Influence"</i>
