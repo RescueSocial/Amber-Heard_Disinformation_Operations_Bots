@@ -16,6 +16,8 @@ We're an Independent Research Team with over 20 data analysts, scientists, and o
 - Facebook: ___Comments, ___Reviews, ___ Links Groups 
 - Cross- Platform for Groups in Facebook, Reddit, and Channels of YouTube
 <i>The Academic API was used for Retweets and InformationTracer by Zhouhan Chen for CrowdTangle API<i>
+
+<br>
 <b>Collaboration:</b> <br>
 If you're a social enterprise, researcher, organization, or academic helping female victims of abuse, coercive control, domestic abuse, bots, harassment, or hostile environments, we welcome partnership with you to create Social Network Analysis, data analysis, machine learning, natural language processing, artificial intelligence, OSINT, rescue, and monitoring systems to help other victims. 
 <br><i>Please contact us for data and code.</i>
