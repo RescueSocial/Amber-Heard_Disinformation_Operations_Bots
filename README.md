@@ -61,7 +61,6 @@ All collaborators, researchers, and observers are required to sign, acknowledge,
 <b>Cross-Platforms Analysis:</b><br>
 Our analysis is in-progress and will be added after published research papers for researcher privacy.
 
-
 <b>Background:</b><br>
 Multiple Research Papers on Disinformation/Influence Operations Cross-Platforms<br>
 Influence Operation of 6,000 Twitter accounts detected by BotSentinel: https://youtu.be/bb2bC04OEPw<br>
