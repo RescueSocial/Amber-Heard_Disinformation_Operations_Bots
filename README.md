@@ -8,7 +8,7 @@ We're an Independent Research Team with over 20 data analysts, scientists, and o
 <br>We want to save lives and help partners create systems to help online - including specialized and accurate rescue, quality custom, data analysis, Social Network Analysis, forensics, research, situation awareness, and public safety technologies - <i>with focus on the victim primarily and <b>her environment</b></i>. 
 
 <b>Amounts & Dates of Data Collections:</b><br>
-Twitter -
+<br>Twitter -
 <br>Reddit -
 <br>Instagram -
 <br>YouTube -
@@ -49,10 +49,10 @@ All collaborators, researchers, and observers are required to sign, acknowledge,
 <h3><b>Positive NLG - Semiosis - Compliments Prompt GPT-J of NLG:</b><br></h3>
 Compliment Generation Based on Jason Momoa and Amber Heard<br>
  https://github.com/semiosis/prompts/blob/master/prompts/compliment-generation-based-on-a-celebrity-1.prompt<br>
-- <a href="https://github.com/semiosis">Semiosis</a> is a free and open-source curation of prompts for OpenAI's GPT-3/Codex, EleutherAI's GPT-j, AlephAlpha's World Model and other language models.
-- 10,000 Compliments on Amber Heard made in 2 hours: https://asciinema.org/a/w5ayuAEGGpgsxTCKWbAGRPfvZ
-- 3-Way Bots chat with actress Amber Heard, actor Tom Cruise, and director Christopher Nolan demonstrated at: https://semiosis.github.io/apostrophe 
-- Code and Demos from AI Researcher at: https://github.com/mullikine/positive-nlg-compliments
+- <a href="https://github.com/semiosis">Semiosis</a> is a free and open-source curation of prompts for OpenAI's GPT-3/Codex, EleutherAI's GPT-j, AlephAlpha's World Model and other language models.<br>
+- 10,000 Compliments on Amber Heard made in 2 hours: https://asciinema.org/a/w5ayuAEGGpgsxTCKWbAGRPfvZ<br>
+- 3-Way Bots chat with actress Amber Heard, actor Tom Cruise, and director Christopher Nolan demonstrated at: https://semiosis.github.io/apostrophe <br>
+- Code and Demos from AI Researcher at: https://github.com/mullikine/positive-nlg-compliments<br>
 
 <b>Cross-Platforms Analysis:</b><br>
 Our analysis is in-progress and will be added after published research papers for researcher privacy.
