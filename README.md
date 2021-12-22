@@ -34,11 +34,6 @@ Twitter -
 <b>Background:</b>
 
 
-<b>Analysis Guides:</b>
-<br>
--
--
--
 
 
 <b>Cross-Platforms Analysis:</b><br>
@@ -63,6 +58,12 @@ Compliment Generation Based on Jason Momoa and Amber Heard<br>
 - 10,000 Compliments on Amber Heard and 3-Way Bots chat with actress Amber Heard, actor Tom Cruise, and director Christopher Nolan demonstrated at https://semiosis.github.io/apostrophe and https://github.com/mullikine/positive-nlg-compliments
 
 <br>
+
+<b>Analysis Guides:</b>
+<br>
+-
+-
+-
 
 <b>Related Articles for Understanding:</b><br> 
 <br><i>"Disinformation in the Private Sector: The Price of Influence"</i>
