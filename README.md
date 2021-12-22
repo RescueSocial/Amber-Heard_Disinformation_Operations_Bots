@@ -40,10 +40,10 @@ Anomolies Data Samples <br>
 <b>Cross-Platforms Analysis:</b><br>
 Our analysis is in-progress and will be added after published research papers for researcher privacy.
 
-<b>Background:</b>
-Research Papers on Disinformation/Influence Operations Cross-Platforms
-Influence Operation of 6,000 Twitter accounts detected by BotSentinel: https://youtu.be/bb2bC04OEPw
-August 2020 Counterclaims on Bots: https://www.scribd.com/document/473092071/cl-2019-2911-def-counterclaims-8-10-2020
+<b>Background:</b><br>
+Research Papers on Disinformation/Influence Operations Cross-Platforms<br>
+Influence Operation of 6,000 Twitter accounts detected by BotSentinel: https://youtu.be/bb2bC04OEPw<br>
+August 2020 Counterclaims on Bots: https://www.scribd.com/document/473092071/cl-2019-2911-def-counterclaims-8-10-2020<br>
 
 
 <b>Collaboration:</b> <br>
