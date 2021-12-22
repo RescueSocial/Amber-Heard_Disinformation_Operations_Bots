@@ -92,6 +92,6 @@ Scientific (longer-term):	analysis	- prediction<br></i>
 
 <b>Researchers:</b><br>
 <b>We welcome Researchers to work with this Data on Amber Heard to create Blueprints on how Bots and Disinformation/Influence Operations work. </b>
-<br>Please ask to collaborate with us for access to data at at rescuesocial@gmail.com.
+<br>Please ask to collaborate with us for access to data at at rescuesocial@gmail.com.<br>
 <i>Research and building technologies is ongoing and this is a public github example. We are continuing analysis and data collections, including creating technologies for systems on coercive control.</i>
 
