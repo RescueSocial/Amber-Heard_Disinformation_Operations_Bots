@@ -17,24 +17,22 @@ Twitter -
 
 
 <b>Index:</b>
--
--
--
+
 
 
 <b>Anomalies:</b>
 
 
 
-<b>Data Samples:</b>
-5,000 Tweets of Twitter and Listed Accounts
-5,000 Contributions of Reddit and Listed Accounts
-5,000 Comments of Instagram and Listed Accounts
-5,000 Comments of Change.org, Milestones, and Petition Data
-5,000 Comments of YouTube, Adapt & Survive 130K Comments, Videos Data, Listed Accounts
-12.4K Labeled NLU Data
-10,168 Compliments of Amber Heard from NLG Prompts
-Anomolies Data Samples 
+<b>Data Samples:</b><br>
+5,000 Tweets of Twitter and Listed Accounts<br>
+5,000 Contributions of Reddit and Listed Accounts<br>
+5,000 Comments of Instagram and Listed Accounts<br>
+5,000 Comments of Change.org, Milestones, and Petition Data<br>
+5,000 Comments of YouTube, Adapt & Survive 130K Comments, Videos Data, Listed Accounts<br>
+12.4K Labeled NLU Data<br>
+10,168 Compliments of Amber Heard from NLG Prompts<br>
+Anomolies Data Samples <br>
 
 <b>Images & Highlights:</b>
  Images from Reports
