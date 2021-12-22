@@ -34,8 +34,8 @@ Twitter -
 10,168 Compliments of Amber Heard from NLG Prompts<br>
 Anomolies Data Samples <br>
 
-<b>Images & Highlights:</b>
- Images from Reports
+<b>Images & Highlights:</b><br>
+ Images of Anomalies from Reports
 
 <b>Cross-Platforms Analysis:</b><br>
 Our analysis is in-progress and will be added after published research papers for researcher privacy.
