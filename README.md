@@ -15,7 +15,8 @@ We're an Independent Research Team with over 20 data analysts, scientists, and o
 - Change.org: ___Comments, ___Petitions, ___Milestones, __Cross Platform Links
 - Facebook: ___Comments, ___Reviews, ___ Links Groups 
 - Cross- Platform for Groups in Facebook, Reddit, and Channels of YouTube<br>
-<i>The Academic API was used for Retweets and <a href="InformationTracer.com">InformationTracer</a> for CrowdTangle API</i>
+<i>The Academic API was used for Retweets and <a href="InformationTracer.com">InformationTracer</a> for CrowdTangle API</i><br>
+<i>We are continuing analysis and data collections, including creating technologies for systems on coercive control.</i>
 
 <b>Index [edit]:<br></b>
 - <b>Analysis of Social Media Platforms</b>
