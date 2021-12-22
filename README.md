@@ -15,20 +15,11 @@ Twitter -
 <br>Change.org -
 <br>Facebook -
 
-Index:
-<b>Social Media Platforms</b>
-<b>Anomalies</b>
-<b>Images & Highlights</b>
-
-<b>Data Samples:</b><br>
-5,000 Tweets of Twitter and Listed Accounts<br>
-5,000 Contributions of Reddit and Listed Accounts<br>
-5,000 Comments of Instagram and Listed Accounts<br>
-5,000 Comments of Change.org, Milestones, and Petition Data<br>
-5,000 Comments of YouTube, Adapt & Survive 130K Comments, Videos Data, Listed Accounts<br>
-12.4K Labeled NLU Data<br>
-10,168 Compliments of Amber Heard from NLG Prompts<br>
-Anomolies Data Samples <br>
+Index (Edit):<br>
+- <b>Social Media Platforms</b>
+- <b>Anomalies</b>
+- <b>Images & Highlights</b>
+- <b>Data Samples</b>
 
 
 <b>Collaboration:</b> <br>
@@ -52,6 +43,17 @@ Compliment Generation Based on Jason Momoa and Amber Heard<br>
 
 <b>Cross-Platforms Analysis:</b><br>
 Our analysis is in-progress and will be added after published research papers for researcher privacy.
+
+<b>Data Samples (Edit):</b><br>
+5,000 Tweets of Twitter and Listed Accounts<br>
+5,000 Contributions of Reddit and Listed Accounts<br>
+5,000 Comments of Instagram and Listed Accounts<br>
+5,000 Comments of Change.org, Milestones, and Petition Data<br>
+5,000 Comments of YouTube, Adapt & Survive 130K Comments, Videos Data, Listed Accounts<br>
+12.4K Labeled NLU Data<br>
+10,168 Compliments of Amber Heard from NLG Prompts<br>
+Anomolies Data Samples <br>
+
 
 <b>Background:</b><br>
 Research Papers on Disinformation/Influence Operations Cross-Platforms<br>
