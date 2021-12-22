@@ -39,8 +39,7 @@ Compliment Generation Based on Jason Momoa and Amber Heard<br>
 <b>Collaboration:</b> <br>
 If you're a social enterprise, researcher, organization, or academic helping female victims of abuse, coercive control, domestic abuse, bots, harassment, or hostile environments, we welcome partnership with you to create Social Network Analysis, data analysis, machine learning, natural language processing, artificial intelligence, OSINT, rescue, and monitoring systems to help other victims. 
 <br><i>Please contact us for data and code.</i>
-<br><br>
-
+<br>
 <b>Although it's abuse of process, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a> is becoming illegal in more countries and states/provinces worldwide.</b>
 <i><br>If you're a victim needing help against cyberabuse especially in online domestic abuse and <a href="https://metta-space.com">hostile environments</a>, please contact us.</i><br>
 
