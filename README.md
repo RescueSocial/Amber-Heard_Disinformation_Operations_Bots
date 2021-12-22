@@ -6,6 +6,7 @@ We're an Independent Research Team with over 20 data analysts, scientists, and o
 
 <b>Our Purpose is to create foundations and precedents to help other victims of bots, cyberabuse, domestic abuse, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a>, hostile environments, and Disinformation Operations</b>. 
 <br>We want to save lives and help partners create systems to help online - including specialized and accurate rescue, quality custom, data analysis, Social Network Analysis, forensics, research, situation awareness, and rescue/public safety technologies - <i>with focus on the victim primarily and <b>her environment</b></i>. 
+<i>Research and building technologies is ongoing and this is a public github example. We are continuing analysis and data collections, including creating technologies for systems on coercive control.</i>
 
 <b>Amounts of Data Collections [edit]:</b><br>
 - Twitter: ___ Tweets, ___Retweets, ___Accounts
@@ -16,7 +17,6 @@ We're an Independent Research Team with over 20 data analysts, scientists, and o
 - Facebook: ___Comments, ___Reviews, ___ Links Groups 
 - Cross- Platform for Groups in Facebook, Reddit, and Channels of YouTube<br>
 <i>The Academic API was used for Retweets and <a href="InformationTracer.com">InformationTracer</a> for CrowdTangle API</i><br>
-<i>We are continuing analysis and data collections, including creating technologies for systems on coercive control.</i>
 
 <b>Index [edit]:<br></b>
 - <b>Analysis of Social Media Platforms</b>
