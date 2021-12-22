@@ -17,6 +17,17 @@ We're an Independent Research Team with over 20 data analysts, scientists, and o
 - Cross- Platform for Groups in Facebook, Reddit, and Channels of YouTube<br>
 <i>The Academic API was used for Retweets and <a href="InformationTracer.com">InformationTracer</a> for CrowdTangle API</i>
 
+<b>Index [edit]:<br></b>
+- <b>Analysis of Social Media Platforms</b>
+- (edit - add files from analysts)
+- <b>Anomalies</b>
+- <b>Images & Highlights</b>
+- <b>Data Samples</b>
+- <b>Research Papers</b>
+- <b>Analysis Guides</b>
+- <b>Positive NLG Compliments</b>
+- <b>Background</b>
+
 <b>Positive NLG - Semiosis - Compliments Prompt GPT-J of NLG:</b><br>
 Compliment Generation Based on Jason Momoa and Amber Heard<br>
  https://github.com/semiosis/prompts/blob/master/prompts/compliment-generation-based-on-a-celebrity-1.prompt<br>
@@ -24,7 +35,6 @@ Compliment Generation Based on Jason Momoa and Amber Heard<br>
 - 10,000 Compliments on Amber Heard made in 2 hours: https://asciinema.org/a/w5ayuAEGGpgsxTCKWbAGRPfvZ<br>
 - 3-Way Bots chat with actress Amber Heard, actor Tom Cruise, and director Christopher Nolan demonstrated at: https://semiosis.github.io/apostrophe <br>
 - Code and Demos from AI Researcher at: https://github.com/mullikine/positive-nlg-compliments<br>
-
 
 <b>Collaboration:</b> <br>
 If you're a social enterprise, researcher, organization, or academic helping female victims of abuse, coercive control, domestic abuse, bots, harassment, or hostile environments, we welcome partnership with you to create Social Network Analysis, data analysis, machine learning, natural language processing, artificial intelligence, OSINT, rescue, and monitoring systems to help other victims. 
@@ -37,17 +47,6 @@ If you're a social enterprise, researcher, organization, or academic helping fem
 <b>Do No Harm:</b> <br>
 All collaborators, researchers, and observers are required to sign, acknowledge, agree to "Do No Harm" agreements. If you are one of the victims listed in this study and need harmful material removed or to collaborate with us, please contact us.
 <br>
-
-<b>Index [edit]:<br></b>
-- <b>Analysis of Social Media Platforms</b>
-- (edit - add files from analysts)
-- <b>Anomalies</b>
-- <b>Images & Highlights</b>
-- <b>Data Samples</b>
-- <b>Research Papers</b>
-- <b>Analysis Guides</b>
-- <b>Positive NLG Compliments</b>
-- <b>Background</b>
 
 <b>Data Samples [Edit]:</b><br>
 - 5K Tweets of Twitter and Listed Accounts
