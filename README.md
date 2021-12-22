@@ -15,13 +15,23 @@ Twitter -
 <br>Change.org -
 <br>Facebook -
 
-Index (Edit):<br>
-- <b>Social Media Platforms</b>
+Index:<br>
+- <b>Analysis of Social Media Platforms</b>
 - <b>Anomalies</b>
 - <b>Images & Highlights</b>
 - <b>Data Samples</b>
 - <b>Research Papers</b>
 - <b>Analysis Guides</b>
+
+<b>Data Samples (Edit):</b><br>
+5K Tweets of Twitter and Listed Accounts<br>
+5K Contributions of Reddit and Listed Accounts<br>
+5K Comments of Instagram and Listed Accounts<br>
+5K Comments of Change.org, Milestones, and Petition Data<br>
+5K Comments of YouTube, Adapt & Survive 130K Comments, Videos Data, Listed Accounts<br>
+12.4K Labeled NLU Data<br>
+10,168 Compliments of Amber Heard from NLG Prompts<br>
+Anomolies Data Samples <br>
 
 
 <b>Collaboration:</b> <br>
@@ -35,8 +45,8 @@ If you're a social enterprise, researcher, organization, or academic helping fem
 All collaborators, researchers, and observers are required to sign, acknowledge, agree to "Do No Harm" agreements. If you are one of the victims listed in this study and need harmful material removed or to collaborate with us, please contact us.
 <br>
 
-<h3>Positive NLG:</h3>
-<b>Positive NLG - Semiosis - Compliments Prompt GPT-J of NLG:</b><br>
+
+<h3><b>Positive NLG - Semiosis - Compliments Prompt GPT-J of NLG:</b><br></b3>
 Compliment Generation Based on Jason Momoa and Amber Heard<br>
  https://github.com/semiosis/prompts/blob/master/prompts/compliment-generation-based-on-a-celebrity-1.prompt<br>
 - <a href="https://github.com/semiosis">Semiosis</a> is a free and open-source curation of prompts for OpenAI's GPT-3/Codex, EleutherAI's GPT-j, AlephAlpha's World Model and other language models.
@@ -46,17 +56,6 @@ Compliment Generation Based on Jason Momoa and Amber Heard<br>
 
 <b>Cross-Platforms Analysis:</b><br>
 Our analysis is in-progress and will be added after published research papers for researcher privacy.
-
-<b>Data Samples (Edit):</b><br>
-5K Tweets of Twitter and Listed Accounts<br>
-5K Contributions of Reddit and Listed Accounts<br>
-5K Comments of Instagram and Listed Accounts<br>
-5K Comments of Change.org, Milestones, and Petition Data<br>
-5K Comments of YouTube, Adapt & Survive 130K Comments, Videos Data, Listed Accounts<br>
-12.4K Labeled NLU Data<br>
-10,168 Compliments of Amber Heard from NLG Prompts<br>
-Anomolies Data Samples <br>
-
 
 <b>Background:</b><br>
 Multiple Research Papers on Disinformation/Influence Operations Cross-Platforms<br>
