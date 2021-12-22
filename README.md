@@ -6,7 +6,6 @@ We're an Independent Research Team with over 20 data analysts, scientists, and o
 
 <b>Our Purpose is to create foundations and precedents to help other victims of bots, cyberabuse, domestic abuse, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a>, hostile environments, and Disinformation Operations</b>. 
 <br>We want to save lives and help partners create systems to help online - including specialized and accurate rescue, quality custom, data analysis, Social Network Analysis, forensics, research, situation awareness, and rescue/public safety technologies - <i>with focus on the victim primarily and <b>her environment</b></i>. 
-<i>Research and building technologies is ongoing and this is a public github example. We are continuing analysis and data collections, including creating technologies for systems on coercive control.</i>
 
 <b>Amounts of Data Collections [edit]:</b><br>
 - Twitter: ___ Tweets, ___Retweets, ___Accounts
@@ -94,3 +93,5 @@ Scientific (longer-term):	analysis	- prediction<br></i>
 <b>Researchers:</b><br>
 <b>We welcome Researchers to work with this Data on Amber Heard to create Blueprints on how Bots and Disinformation/Influence Operations work. </b>
 <br>Please ask to collaborate with us for access to data at at rescuesocial@gmail.com.
+<i>Research and building technologies is ongoing and this is a public github example. We are continuing analysis and data collections, including creating technologies for systems on coercive control.</i>
+
