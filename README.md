@@ -15,7 +15,7 @@ Twitter -
 <br>Change.org -
 <br>Facebook -
 
-Index:<br>
+<b>Index [edit]:<br></b>
 - <b>Analysis of Social Media Platforms</b>
 - <b>Anomalies</b>
 - <b>Images & Highlights</b>
@@ -46,7 +46,7 @@ All collaborators, researchers, and observers are required to sign, acknowledge,
 <br>
 
 
-<h3><b>Positive NLG - Semiosis - Compliments Prompt GPT-J of NLG:</b><br></b3>
+<h3><b>Positive NLG - Semiosis - Compliments Prompt GPT-J of NLG:</b><br></h3>
 Compliment Generation Based on Jason Momoa and Amber Heard<br>
  https://github.com/semiosis/prompts/blob/master/prompts/compliment-generation-based-on-a-celebrity-1.prompt<br>
 - <a href="https://github.com/semiosis">Semiosis</a> is a free and open-source curation of prompts for OpenAI's GPT-3/Codex, EleutherAI's GPT-j, AlephAlpha's World Model and other language models.
