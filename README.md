@@ -14,8 +14,7 @@ We're an Independent Research Team with over 20 data analysts, scientists, and o
 - YouTube: ___Comments, ___Videos, ___Accounts, __Cross Platform Links
 - Change.org: ___Comments, ___Petitions, ___Milestones, __Cross Platform Links
 - Facebook: ___Comments, ___Reviews, ___ Links Groups 
-- Cross- Platform for Groups in Facebook, Reddit, and Channels of YouTube<br>
-<i>The Academic API was used for Retweets and <a href="InformationTracer.com">InformationTracer</a> for CrowdTangle API</i><br>
+- CrossPlatform for Groups in Facebook, Reddit, and Channels of YouTube<br>
 
 <b>Index [edit]:<br></b>
 - <b>Analysis of Social Media Platforms</b>
@@ -59,6 +58,8 @@ All collaborators, researchers, and observers are required to sign, acknowledge,
 
 <b>Cross-Platforms Analysis:</b><br>
 Our analysis is in-progress and will be added after published research papers for researcher privacy.
+
+<i>The Academic API was used for Retweets and <a href="InformationTracer.com">InformationTracer</a> for CrowdTangle API</i><br>
 
 <b>Background:</b><br>
 Multiple Research Papers on Disinformation/Influence Operations Cross-Platforms<br>
