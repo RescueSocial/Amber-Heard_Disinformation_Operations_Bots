@@ -22,6 +22,7 @@ We're an Independent Research Team with over 20 data analysts, scientists, and o
 - <b>Data Samples</b>
 - <b>Research Papers</b>
 - <b>Analysis Guides</b>
+- <b>Background</b>
 
 <b>Data Samples [Edit]:</b><br>
 5K Tweets of Twitter and Listed Accounts<br>
@@ -59,7 +60,6 @@ All collaborators, researchers, and observers are required to sign, acknowledge,
 
 <b>Background:</b><br>
 Multiple Research Papers on Disinformation/Influence Operations Cross-Platforms<br>
-Related Articles<br>
 Influence Operation of 6,000 Twitter accounts detected by BotSentinel: https://youtu.be/bb2bC04OEPw<br>
 August 2020 Counterclaims on Bots: https://www.scribd.com/document/473092071/cl-2019-2911-def-counterclaims-8-10-2020<br>
 
