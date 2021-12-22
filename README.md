@@ -14,6 +14,7 @@ We're an Independent Research Team with over 20 data analysts, scientists, and o
 - <b>Data Samples</b>
 - <b>Research Papers</b>
 - <b>Analysis Guides</b>
+- <b>Positive NLG Compliments</b>
 - <b>Background</b>
 
 <b>Amounts & Dates of Data Collections:</b><br>
