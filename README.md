@@ -7,14 +7,6 @@ We're an Independent Research Team with over 20 data analysts, scientists, and o
 <b>Our Purpose is to create foundations and precedents to help other victims of bots, cyberabuse, domestic abuse, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a>, hostile environments, and Disinformation Operations</b>. 
 <br>We want to save lives and help partners create systems to help online - including specialized and accurate rescue, quality custom, data analysis, Social Network Analysis, forensics, research, situation awareness, and public safety technologies - <i>with focus on the victim primarily and <b>her environment</b></i>. 
 
-<b>Amounts & Dates of Data Collections:</b><br>
-<br>Twitter -
-<br>Reddit -
-<br>Instagram -
-<br>YouTube -
-<br>Change.org -
-<br>Facebook -
-
 <b>Index [edit]:<br></b>
 - <b>Analysis of Social Media Platforms</b>
 - <b>Anomalies</b>
@@ -23,6 +15,14 @@ We're an Independent Research Team with over 20 data analysts, scientists, and o
 - <b>Research Papers</b>
 - <b>Analysis Guides</b>
 - <b>Background</b>
+
+<b>Amounts & Dates of Data Collections:</b><br>
+- Twitter:
+- Reddit:
+- Instagram:
+- YouTube:
+- Change.org:
+- Facebook:
 
 <b>Data Samples [Edit]:</b><br>
 5K Tweets of Twitter and Listed Accounts<br>
