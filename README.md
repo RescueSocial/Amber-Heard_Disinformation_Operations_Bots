@@ -57,7 +57,7 @@ Compliment Generation Based on Jason Momoa and Amber Heard<br>
 - <a href="https://github.com/semiosis">Semiosis</a> is a free and open-source curation of prompts for OpenAI's GPT-3/Codex, EleutherAI's GPT-j, AlephAlpha's World Model and other language models.
 - 10,000 Compliments on Amber Heard made in 2 hours: https://asciinema.org/a/w5ayuAEGGpgsxTCKWbAGRPfvZ
 - 3-Way Bots chat with actress Amber Heard, actor Tom Cruise, and director Christopher Nolan demonstrated at: https://semiosis.github.io/apostrophe 
-- Code and Demos on Positve NLG Compliments from AI Researcher at: https://github.com/mullikine/positive-nlg-compliments
+- Code and Demos from AI Researcher at: https://github.com/mullikine/positive-nlg-compliments
 
 <b>Analysis Guides:</b>
 <br>
