@@ -25,14 +25,14 @@ We're an Independent Research Team with over 20 data analysts, scientists, and o
 - Facebook:
 
 <b>Data Samples [Edit]:</b><br>
-5K Tweets of Twitter and Listed Accounts<br>
-5K Contributions of Reddit and Listed Accounts<br>
-5K Comments of Instagram and Listed Accounts<br>
-5K Comments of Change.org, Milestones, and Petition Data<br>
-5K Comments of YouTube, Adapt & Survive 130K Comments, Videos Data, Listed Accounts<br>
-12.4K Labeled NLU Data<br>
-10,168 Compliments of Amber Heard from NLG Prompts<br>
-Anomolies Data Samples <br>
+- 5K Tweets of Twitter and Listed Accounts
+- 5K Contributions of Reddit and Listed Accounts
+- 5K Comments of Instagram and Listed Accounts
+- 5K Comments of Change.org, Milestones, and Petition Data
+- 5K Comments of YouTube, Adapt & Survive 130K Comments, Videos Data, Listed Accounts
+- 12.4K Labeled NLU Data
+- 10,168 Compliments of Amber Heard from NLG Prompts
+- Anomolies Data Samples
 
 <b>Cross-Platforms Analysis:</b><br>
 Our analysis is in-progress and will be added after published research papers for researcher privacy.
@@ -44,7 +44,6 @@ Compliment Generation Based on Jason Momoa and Amber Heard<br>
 - 10,000 Compliments on Amber Heard made in 2 hours: https://asciinema.org/a/w5ayuAEGGpgsxTCKWbAGRPfvZ<br>
 - 3-Way Bots chat with actress Amber Heard, actor Tom Cruise, and director Christopher Nolan demonstrated at: https://semiosis.github.io/apostrophe <br>
 - Code and Demos from AI Researcher at: https://github.com/mullikine/positive-nlg-compliments<br>
-<br>
 
 <b>Collaboration:</b> <br>
 If you're a social enterprise, researcher, organization, or academic helping female victims of abuse, coercive control, domestic abuse, bots, harassment, or hostile environments, we welcome partnership with you to create Social Network Analysis, data analysis, machine learning, natural language processing, artificial intelligence, OSINT, rescue, and monitoring systems to help other victims. 
