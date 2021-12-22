@@ -28,7 +28,7 @@ We're an Independent Research Team with over 20 data analysts, scientists, and o
 - <b>Background</b>
 
 <b>Positive NLG - Semiosis - Compliments Prompt GPT of NLG:</b><br>
-Compliment Generation Based on Jason Momoa and Amber Heard<br>
+Compliments Generation Based on Jason Momoa and Amber Heard<br>
  https://github.com/semiosis/prompts/blob/master/prompts/compliment-generation-based-on-a-celebrity-1.prompt<br>
 - <a href="https://github.com/semiosis">Semiosis</a> is a free and open-source curation of prompts for OpenAI's GPT-3/Codex, EleutherAI's GPT-j, AlephAlpha's World Model and other language models.<br>
 - 10,000 Compliments on Amber Heard made in 2 hours: https://asciinema.org/a/w5ayuAEGGpgsxTCKWbAGRPfvZ<br>
