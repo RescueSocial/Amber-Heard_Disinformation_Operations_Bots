@@ -59,7 +59,7 @@ All collaborators, researchers, and observers are required to sign, acknowledge,
 <b>Cross-Platforms Analysis:</b><br>
 Our analysis is in-progress and will be added after published research papers for researcher privacy.
 
-<i>The Academic API was used for Retweets and <a href="InformationTracer.com">InformationTracer</a> for CrowdTangle API.</i><br>
+<i>The Academic API was used for Retweets and <a href="https://InformationTracer.com">InformationTracer</a> for CrowdTangle API.</i><br>
 
 <b>Background:</b><br>
 Multiple Research Papers on Disinformation/Influence Operations Cross-Platforms<br>
