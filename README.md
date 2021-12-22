@@ -17,27 +17,35 @@ Twitter -
 
 
 <b>Index:</b>
-
+-
+-
+-
 
 
 <b>Anomalies:</b>
 
 
 
-
 <b>Data Samples:</b>
-
+5,000 Tweets of Twitter and Listed Accounts
+5,000 Contributions of Reddit and Listed Accounts
+5,000 Comments of Instagram and Listed Accounts
+5,000 Comments of Change.org, Milestones, and Petition Data
+5,000 Comments of YouTube, Adapt & Survive 130K Comments, Videos Data, Listed Accounts
+12.4K Labeled NLU Data
+10,168 Compliments of Amber Heard from NLG Prompts
+Anomolies Data Samples 
 
 <b>Images & Highlights:</b>
- 
-
-<b>Background:</b>
-
-
-
+ Images from Reports
 
 <b>Cross-Platforms Analysis:</b><br>
 Our analysis is in-progress and will be added after published research papers for researcher privacy.
+
+<b>Background:</b>
+Research Papers on Disinformation/Influence Operations Cross-Platforms
+Influence Operation of 6,000 Twitter accounts detected by BotSentinel: https://youtu.be/bb2bC04OEPw
+August 2020 Counterclaims on Bots: https://www.scribd.com/document/473092071/cl-2019-2911-def-counterclaims-8-10-2020
 
 
 <b>Collaboration:</b> <br>
