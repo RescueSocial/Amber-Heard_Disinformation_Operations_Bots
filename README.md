@@ -8,7 +8,7 @@ We're an Independent Research Team with over 20 data analysts, scientists, and o
 <br>We want to save lives and help partners create systems to help online - including specialized and accurate rescue, quality custom, data analysis, Social Network Analysis, forensics, research, situation awareness, and public safety technologies - <i>with focus on the victim primarily and <b>her environment</b></i>. 
 
 <b>Amounts of Data Collections [edit]:</b><br>
-- Twitter: ___ Tweets, ___Retweets (Academic API), ___Accounts
+- Twitter: ___ Tweets, ___Retweets, ___Accounts
 - Reddit: ___ Contributions, ___Submissions, ___Accounts
 - Instagram: ____Comments, ___Posts, ___Accounts
 - YouTube: ___Comments, ___Videos, ___Accounts, __Cross Platform Links
