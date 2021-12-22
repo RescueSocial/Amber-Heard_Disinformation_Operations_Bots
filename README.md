@@ -34,17 +34,6 @@ Twitter -
 10,168 Compliments of Amber Heard from NLG Prompts<br>
 Anomolies Data Samples <br>
 
-<b>Images & Highlights:</b><br>
- Images of Anomalies from Reports
-
-<b>Cross-Platforms Analysis:</b><br>
-Our analysis is in-progress and will be added after published research papers for researcher privacy.
-
-<b>Background:</b><br>
-Research Papers on Disinformation/Influence Operations Cross-Platforms<br>
-Influence Operation of 6,000 Twitter accounts detected by BotSentinel: https://youtu.be/bb2bC04OEPw<br>
-August 2020 Counterclaims on Bots: https://www.scribd.com/document/473092071/cl-2019-2911-def-counterclaims-8-10-2020<br>
-
 
 <b>Collaboration:</b> <br>
 If you're a social enterprise, researcher, organization, or academic helping female victims of abuse, coercive control, domestic abuse, bots, harassment, or hostile environments, we welcome partnership with you to create Social Network Analysis, data analysis, machine learning, natural language processing, artificial intelligence, OSINT, rescue, and monitoring systems to help other victims. 
@@ -64,6 +53,17 @@ Compliment Generation Based on Jason Momoa and Amber Heard<br>
 - 10,000 Compliments on Amber Heard made in 2 hours: https://asciinema.org/a/w5ayuAEGGpgsxTCKWbAGRPfvZ
 - 3-Way Bots chat with actress Amber Heard, actor Tom Cruise, and director Christopher Nolan demonstrated at: https://semiosis.github.io/apostrophe 
 - Code and Demos from AI Researcher at: https://github.com/mullikine/positive-nlg-compliments
+
+<b>Images & Highlights:</b><br>
+ Images of Anomalies from Reports
+
+<b>Cross-Platforms Analysis:</b><br>
+Our analysis is in-progress and will be added after published research papers for researcher privacy.
+
+<b>Background:</b><br>
+Research Papers on Disinformation/Influence Operations Cross-Platforms<br>
+Influence Operation of 6,000 Twitter accounts detected by BotSentinel: https://youtu.be/bb2bC04OEPw<br>
+August 2020 Counterclaims on Bots: https://www.scribd.com/document/473092071/cl-2019-2911-def-counterclaims-8-10-2020<br>
 
 <b>Analysis Guides:</b>
 <br>
