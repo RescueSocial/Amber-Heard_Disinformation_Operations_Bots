@@ -15,14 +15,10 @@ Twitter -
 <br>Change.org -
 <br>Facebook -
 
-
-<b>Index:</b>
-
-
-
-<b>Anomalies:</b>
-
-
+Index:
+<b>Social Media Platforms</b>
+<b>Anomalies</b>
+<b>Images & Highlights</b>
 
 <b>Data Samples:</b><br>
 5,000 Tweets of Twitter and Listed Accounts<br>
@@ -53,9 +49,6 @@ Compliment Generation Based on Jason Momoa and Amber Heard<br>
 - 10,000 Compliments on Amber Heard made in 2 hours: https://asciinema.org/a/w5ayuAEGGpgsxTCKWbAGRPfvZ
 - 3-Way Bots chat with actress Amber Heard, actor Tom Cruise, and director Christopher Nolan demonstrated at: https://semiosis.github.io/apostrophe 
 - Code and Demos from AI Researcher at: https://github.com/mullikine/positive-nlg-compliments
-
-<b>Images & Highlights:</b><br>
- Images of Anomalies from Reports
 
 <b>Cross-Platforms Analysis:</b><br>
 Our analysis is in-progress and will be added after published research papers for researcher privacy.
