@@ -35,7 +35,7 @@ If you're a social enterprise, researcher, organization, or academic helping fem
 All collaborators, researchers, and observers are required to sign, acknowledge, agree to "Do No Harm" agreements. If you are one of the victims listed in this study and need harmful material removed or to collaborate with us, please contact us.
 <br>
 
-<title>Positive</title>
+<h2>Positive:</h2><br>
 <b>Positive NLG - Semiosis - Compliments Prompt GPT-J of NLG:</b><br>
 Compliment Generation Based on Jason Momoa and Amber Heard<br>
  https://github.com/semiosis/prompts/blob/master/prompts/compliment-generation-based-on-a-celebrity-1.prompt<br>
