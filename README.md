@@ -14,8 +14,8 @@ We're an Independent Research Team with over 20 data analysts, scientists, and o
 - YouTube: ___Comments, ___Videos, ___Accounts, __Cross Platform Links
 - Change.org: ___Comments, ___Petitions, ___Milestones, __Cross Platform Links
 - Facebook: ___Comments, ___Reviews, ___ Links Groups 
-- Cross- Platform for Groups in Facebook, Reddit, and Channels of YouTube
-<i>The Academic API was used for Retweets and InformationTracer by Zhouhan Chen for CrowdTangle API<i>
+- Cross- Platform for Groups in Facebook, Reddit, and Channels of YouTube<br>
+<i>The Academic API was used for Retweets and <a href="InformationTracer.com">InformationTracer</a> for CrowdTangle API</i>
 
 <br>
 <b>Collaboration:</b> <br>
