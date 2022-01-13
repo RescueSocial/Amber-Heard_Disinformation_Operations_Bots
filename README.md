@@ -9,7 +9,7 @@ We're Worldwide Independent Researchers with over 20 data analysts, scientists, 
 
 This work is in-progress and prepared for peer-review. This is the most detailed public anaysis of a disinformation operation and the most volumnious yet.
 
-<b>Our Purpose is to create foundations and precedents to help other victims of bots, cyberabuse, domestic abuse, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a>, hostile environments, and Disinformation Operations</b>. 
+<b>Our Purpose is to create foundations and precedents to help other victims of cyberabuse, domestic abuse, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a>, hostile environments, bots, and Disinformation Operations</b>. 
 <br>We want to save lives and help partners create systems to help save lives online - including specialized and accurate rescue, quality custom studies, data analysis, Social Network Analysis, forensics, research, situation awareness, and rescue/public safety technologies - <i>with focus on the victim primarily and <b>her environment</b></i>. 
 
 <b>Amounts of Data Collections [edit]:</b><br>
