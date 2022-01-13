@@ -43,7 +43,7 @@ If you're a social enterprise, researcher, organization, or academic helping fem
 <br><i>Please contact us for data and code.</i>
 <br><br>
 <b>Although it's abuse of process, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a> is becoming illegal in more countries and states/provinces worldwide.</b>
-- <i><br>If you're a victim needing help against cyberabuse especially in online domestic abuse and <a href="https://metta-space.com">hostile environments</a>, please contact us.</i><br>
+- <i>If you're a victim needing help against cyberabuse especially in online domestic abuse and <a href="https://metta-space.com">hostile environments</a>, please contact us.</i><br>
 
 <b>Do No Harm:</b> <br>
 All collaborators, researchers, and observers are required to sign, acknowledge, agree to "Do No Harm" agreements. If you are one of the victims listed in this study and need harmful material removed or to collaborate with us, please contact us.
@@ -88,7 +88,7 @@ https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf<br>
 <b>Scientific Methods:</b><br>
 Worldwide Data Scientists, Researchers in Cyber Intelligence, PhDs, and Data Analysts collected and analyzed data. We used the scientific method of testing.
 <br>
-<i><a href="https://en.wikipedia.org/wiki/Situation_awareness">Situation Awareness:</a><br>
+- <i><a href="https://en.wikipedia.org/wiki/Situation_awareness">Situation Awareness:</a><br>
 Objective	Tactical (short-term):	situational assessment	- situation awareness<br>
 Strategic (long-term):	sensemaking -	understanding<br>
 Scientific (longer-term):	analysis	- prediction<br></i>
