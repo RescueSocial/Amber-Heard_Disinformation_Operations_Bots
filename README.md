@@ -64,7 +64,7 @@ All collaborators, researchers, and observers are required to sign, acknowledge,
 - 5K Contributions of Reddit and Listed Accounts
 - 5K Comments of Instagram and Listed Accounts
 - 5K Comments of Change.org, Milestones, and Petition Data
-- 5K Comments of YouTube, Adapt & Survive 130K Comments, Videos Data, Listed Accounts
+- 5K Comments of YouTube, "Adapt & Survive" 130K Comments, Videos Data, Listed Accounts
 - 5K Labeled NLU Data of Support, Defense
 - 10,168 Compliments of Amber Heard from NLG Prompts
 - Anomolies Data Samples
