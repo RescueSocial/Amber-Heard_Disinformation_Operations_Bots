@@ -2,7 +2,7 @@
 <b>Social Network Analysis of <i>Disinformation/Influence Operations and Bots</i> Cross-Platforms on Amber Heard. 
 <br>Twitter, Reddit, YouTube, Instagram, Change.org, and Facebook or for <i>6 Social Media Platforms</i>.</b>
 
-We're an Independent Research Team with over 20 data analysts, scientists, and observers analyzing this data for over a year. Research and development continues, and this public operation spans for years. We invite researchers to study this case example. 
+We're Independent Researchers with over 20 data analysts, scientists, and observers analyzing this data for over a year. Research and development continues, and this public operation spans for years. We invite researchers to study this case example. 
 <br>Data collected on Amber Heard is primarily related to the years 2018-2021. We studied millions of texts and accounts for <b>Social Network Analysis.</b>
 
 This work is in-progress and prepared for peer-review. 
