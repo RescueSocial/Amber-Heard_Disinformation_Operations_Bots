@@ -4,6 +4,8 @@
 We're an Independent Research Team with over 20 data analysts, scientists, and observers analyzing this data for over a year. Research and development continues, and this public operation spans for years. We invite researchers to study this case example. 
 <br>Data collected on Amber Heard is primarily related to the years 2018-2021. We studied millions of texts and accounts for <b>Social Network Analysis.</b>
 
+This work is in-progress and prepared for peer-review. 
+
 <b>Our Purpose is to create foundations and precedents to help other victims of bots, cyberabuse, domestic abuse, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a>, hostile environments, and Disinformation Operations</b>. 
 <br>We want to save lives and help partners create systems to help online - including specialized and accurate rescue, quality custom studies, data analysis, Social Network Analysis, forensics, research, situation awareness, and rescue/public safety technologies - <i>with focus on the victim primarily and <b>her environment</b></i>. 
 
