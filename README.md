@@ -24,7 +24,7 @@ This work is in-progress and prepared for peer-review. This is the most detailed
 <b>Index and Contents:<br></b>
 - <b>Analysis of Social Media Platforms</b>
 <i><br>Twitter, Reddit, Instagram, Change.org, YouTube, Facebook, Cross-Platforms
-<br>Peaks, Anomalies, Statistical Models
+<br>Peaks, Anomalies, Timelines, Statistical Models
 <br>Botnets, Timings, NLP Analysis
 <br>Banned, New, Unverfied Account Layers
 <br>Threat Analysis
