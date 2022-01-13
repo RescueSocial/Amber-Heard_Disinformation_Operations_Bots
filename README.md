@@ -4,7 +4,7 @@
 
 We're Worldwide Independent Researchers with over 20 data analysts, scientists, and observers analyzing this data for over a year. Research and development continues, and this public operation spans for years which continues. We invite researchers and students to study this case example. 
 
-<i>A study of Millions of Texts and Accounts for <b>Social Network Analysis.
+<i>A study of Millions of Texts and Accounts for <b>Social Network Analysis.</b></i>
 <br>Data collected on Amber Heard is primarily related to the years 2018-2021, ongoing into 2022. 
 
 This work is in-progress and prepared for peer-review. This is the most detailed public anaysis of a disinformation operation and the most volumnious yet. This is a <a href="https://www.brookings.edu/research/the-breakout-scale-measuring-the-impact-of-influence-operations">Category 6</a> Operation.</b></i>
@@ -100,9 +100,9 @@ Worldwide Data Scientists, Researchers in Cyber Intelligence, PhDs, and Data Ana
 <br>
 - <i>Scientific Method: Observation, Question, Hypothesis, Experiment, Results, Conclusion - Limit Variables, repeat same methods on all platforms. 
 <br>Cross-checking multiple times with full field JSONs and CSVs with processes in data science.</i>
-- <a href="https://www.brookings.edu/research/the-breakout-scale-measuring-the-impact-of-influence-operations/">The Breakout Scale: Measuring Impact of Influence Operations by <a href="https://twitter.com/benimmo/status/1309532354306879488">Ben Nimmo</a>:<br>
+- <a href="https://www.brookings.edu/research/the-breakout-scale-measuring-the-impact-of-influence-operations/">The Breakout Scale: Measuring Impact of Influence Operations</a> by <a href="https://twitter.com/benimmo/status/1309532354306879488">Ben Nimmo</a>:<br>
 "Category One operations only spread within one community on one platform, while Category Two operations either spread in one community across multiple platforms, or spread across multiple communities on one platform. Category Three operations spread across multiple social media platforms and reach multiple communities. 
- <br>Category Four operations break out from social media completely and are amplified by mainstream media, while Category Five operations are amplified by high-profile individuals such as celebrities and political candidates. An IO reaches <b>Category Six</b> if it triggers a policy response or some other form of concrete action, or if it includes <i>a call for violence.</i>"
+ <br>Category Four operations break out from social media completely and are amplified by mainstream media, while Category Five operations are amplified by high-profile individuals such as celebrities and political candidates. An IO reaches <b>Category Six</b> if it triggers a policy response or some other form of concrete action, or if it includes <b><i>a call for violence.</i></b>"
 - <i><a href="https://en.wikipedia.org/wiki/Situation_awareness">Situation Awareness:</a><br>
 Objective	Tactical (short-term):	situational assessment	- situation awareness<br>
 Strategic (long-term):	sensemaking -	understanding<br>
