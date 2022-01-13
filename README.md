@@ -4,7 +4,7 @@
 
 We're Worldwide Independent Researchers with over 20 data analysts, scientists, and observers analyzing this data for over a year. Research and development continues, and this public operation spans for years which continues. We invite researchers and students to study this case example. 
 
-<i>A study of Millions of Texts and Accounts for <b>Social Network Analysis.</b></i>
+<i>Millions of Texts and Accounts were studied for <b>Social Network Analysis.</b></i>
 <br>Data collected on Amber Heard is primarily related to the years 2018-2021, ongoing into 2022. 
 
 This work is in-progress and prepared for peer-review. This is the most detailed public anaysis of a disinformation operation and the most volumnious yet, showing the impact of <a href="https://www.brookings.edu/research/the-breakout-scale-measuring-the-impact-of-influence-operations"><i>Category 6</a> influence.</b></i>
