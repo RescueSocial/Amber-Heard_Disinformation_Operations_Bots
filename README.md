@@ -100,9 +100,10 @@ Worldwide Data Scientists, Researchers in Cyber Intelligence, PhDs, and Data Ana
 <br>
 - <i>Scientific Method: Observation, Question, Hypothesis, Experiment, Results, Conclusion - Limit Variables, repeat same methods on all platforms. 
 <br>Cross-checking multiple times with full field JSONs and CSVs with processes in data science.</i>
-- <a href="https://www.brookings.edu/research/the-breakout-scale-measuring-the-impact-of-influence-operations/">The Breakout Scale: Measuring Impact of Influence Operations</a> by <a href="https://twitter.com/benimmo/status/1309532354306879488">Ben Nimmo</a>:<br>
+- <a href="https://www.brookings.edu/research/the-breakout-scale-measuring-the-impact-of-influence-operations/">The Breakout Scale: Measuring Impact of Influence Operations</a> by <a href="https://twitter.com/benimmo/status/1309532354306879488">Ben Nimmo</a> in Standards:<br>
 "Category One operations only spread within one community on one platform, while Category Two operations either spread in one community across multiple platforms, or spread across multiple communities on one platform. Category Three operations spread across multiple social media platforms and reach multiple communities. 
- <br>Category Four operations break out from social media completely and are amplified by mainstream media, while Category Five operations are amplified by high-profile individuals such as celebrities and political candidates. An IO reaches <b>Category Six</b> if it triggers a policy response or some other form of concrete action, or if it includes <b><i>a call for violence.</i></b>"
+ <br>Category Four operations break out from social media completely and are amplified by mainstream media, while Category Five operations are amplified by high-profile individuals such as celebrities and political candidates. 
+ <i><br>An IO reaches <b>Category Six</b> if it triggers a policy response or some other form of concrete action, or if it includes <b>a call for violence.</i></b>"
 - <i><a href="https://en.wikipedia.org/wiki/Situation_awareness">Situation Awareness:</a><br>
 Objective	Tactical (short-term):	situational assessment	- situation awareness<br>
 Strategic (long-term):	sensemaking -	understanding<br>
