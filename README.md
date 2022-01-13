@@ -19,9 +19,9 @@ This work is in-progress and prepared for peer-review.
 - Facebook: ___Comments, ___Reviews, ___ Links Groups 
 - Crossplatform for Groups in Facebook, Reddit, and Channels of YouTube<br>
 
-<b>Index [edit]:<br></b>
+<b>Index and Contents:<br></b>
 - <b>Analysis of Social Media Platforms</b>
-- (edit - add files from analysts)
+- <b>Reports</b>
 - <b>Anomalies</b>
 - <b>Images & Highlights</b>
 - <b>Data Samples</b>
