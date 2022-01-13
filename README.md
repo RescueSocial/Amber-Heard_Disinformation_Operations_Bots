@@ -5,7 +5,7 @@
 We're Independent Researchers with over 20 data analysts, scientists, and observers analyzing this data for over a year. Research and development continues, and this public operation spans for years. We invite researchers to study this case example. 
 
 We studied Millions of Texts and Accounts for <b>Social Network Analysis.</b>
-<br>Data collected on Amber Heard is primarily related to the years 2018-2021. 
+<br>Data collected on Amber Heard is primarily related to the years 2018-2021, ongoing into 2022. 
 
 This work is in-progress and prepared for peer-review. This is the most detailed public anaysis of a disinformation operation and the most volumnious yet.
 
