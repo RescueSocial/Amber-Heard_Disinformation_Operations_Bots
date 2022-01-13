@@ -3,6 +3,7 @@
 <br>Twitter, Reddit, YouTube, Instagram, Change.org, and Facebook or for <i>6 Social Media Platforms</i>.</b>
 
 We're Independent Researchers with over 20 data analysts, scientists, and observers analyzing this data for over a year. Research and development continues, and this public operation spans for years. We invite researchers to study this case example. 
+
 <br>Data collected on Amber Heard is primarily related to the years 2018-2021. 
 <br>We studied Millions of Texts and Accounts for <b>Social Network Analysis.</b>
 
