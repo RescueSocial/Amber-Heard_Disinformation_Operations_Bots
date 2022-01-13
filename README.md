@@ -42,10 +42,10 @@ This work is in-progress and prepared for peer-review. This is the most detailed
 <b>Positive NLG, Natural Language Generation - Compliments Prompt:</b><br>
 Compliments Generation Based on Jason Momoa and Amber Heard<br>
  https://github.com/semiosis/prompts/blob/master/prompts/compliment-generation-based-on-a-celebrity-1.prompt<br>
-- <a href="https://github.com/semiosis">Semiosis</a> is a free and open-source curation of prompts for OpenAI's GPT-3/Codex, EleutherAI's GPT-j, AlephAlpha's World Model and other language models.<br>
 - 10,000 Compliments on Amber Heard made in 2 hours: https://asciinema.org/a/w5ayuAEGGpgsxTCKWbAGRPfvZ<br>
 - 3-Way Bots chat with Actress Amber Heard, Actor Tom Cruise, and Director Christopher Nolan demonstrated at: https://semiosis.github.io/apostrophe <br>
 - Code and Demos from AI Researcher at: https://github.com/mullikine/positive-nlg-compliments<br>
+- <a href="https://github.com/semiosis">Semiosis</a> is a free and open-source curation of prompts for OpenAI's GPT-3/Codex, EleutherAI's GPT-j, AlephAlpha's World Model and other language models.<br>
 
 <b>Collaboration:</b> <br>
 If you're a social enterprise, researcher, organization, student, or academic helping female victims of abuse, coercive control, domestic abuse, bots, harassment, or hostile environments, we welcome partnership with you to create Social Network Analysis, data analysis, machine learning, natural language processing, artificial intelligence, OSINT, rescue, and monitoring systems to help other victims and their lives. 
