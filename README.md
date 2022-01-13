@@ -6,10 +6,9 @@ We're Independent Researchers with over 20 data analysts, scientists, and observ
 <br>Data collected on Amber Heard is primarily related to the years 2018-2021. 
 <br>We studied millions of texts and accounts for <b>Social Network Analysis.</b>
 
-This work is in-progress and prepared for peer-review. 
+This work is in-progress and prepared for peer-review. This is the most detailed public anaysis of a disinformation operation and the most volumnious yet.
 
 <b>Our Purpose is to create foundations and precedents to help other victims of bots, cyberabuse, domestic abuse, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a>, hostile environments, and Disinformation Operations</b>. 
-This is the most detailed public anaysis of a disinformation operation and the most volumnious yet.
 <br>We want to save lives and help partners create systems to help online - including specialized and accurate rescue, quality custom studies, data analysis, Social Network Analysis, forensics, research, situation awareness, and rescue/public safety technologies - <i>with focus on the victim primarily and <b>her environment</b></i>. 
 
 <b>Amounts of Data Collections [edit]:</b><br>
@@ -55,7 +54,7 @@ If you're a social enterprise, researcher, organization, or academic helping fem
 
 <b>Do No Harm:</b> <br>
 All collaborators, researchers, and observers are required to sign, acknowledge, agree to "Do No Harm" agreements. If you are one of the victims listed in this study and need harmful material removed or to collaborate with us, please contact us.
-<br>We do not include the code or full data to protect individuals in this study and to prevent harmul operations. As a precedent, other reseachers and students should use this GitHub and study as a basis for their own social network analysis projects.
+<br><br>We do not include the code or full data to protect individuals in this study and to prevent harmul operations. As a precedent, other reseachers and students should use this GitHub and study as a basis for their own social network analysis projects. We draw attention to this project months before in-person appearances for safety.
 <br>
 
 <b>Data Samples [Edit]:</b><br>
@@ -106,5 +105,5 @@ Scientific (longer-term):	analysis	- prediction<br></i>
 <b>Researchers:</b><br>
 <b>We welcome Researchers to work with this Data on Amber Heard to create Blueprints on how Bots and Disinformation/Influence Operations work. </b>
 <br>Please ask to collaborate with us for access to data at at rescuesocial@gmail.com.<br>
-<i>Research and building technologies is ongoing and this is a public github example. We are continuing analysis and data collections, including creating technologies for systems on coercive control.</i>
+<i>Research and building technologies is ongoing as the operation is continuing over years and this is a public github example. We are continuing analysis and data collections, including creating technologies for systems on coercive control.</i>
 
