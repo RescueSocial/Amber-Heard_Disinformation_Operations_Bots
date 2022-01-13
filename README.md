@@ -24,6 +24,7 @@ This is the most detailed public anaysis of a disinformation operation and the m
 <b>Index and Contents:<br></b>
 - <b>Analysis of Social Media Platforms</b>
 <br>Twitter, Reddit, Instagram, Change.org, YouTube, Facebook, Cross-Platforms
+<br>Peaks, anomalies, statistical models
 <br>Banned, New, Unverfied Account Layers
 <br>Detailed Python Notebooks
 - <b>Reports</b>
