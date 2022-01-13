@@ -98,7 +98,7 @@ https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf<br>
 <b>Scientific Methods:</b><br>
 Worldwide Data Scientists, Researchers in Cyber Intelligence, PhDs, and Data Analysts collected and analyzed data. We used the scientific method of testing.
 <br>
-- Scientific Method: Observation, Question, Hypothesis, Experiment, Results, Conclusion. Limit Variables.
+- Scientific Method: Observation, Question, Hypothesis, Experiment, Results, Conclusion - Limit Variables. We collected full field JSONs and CSVs with processes in data science.
 - <i><a href="https://en.wikipedia.org/wiki/Situation_awareness">Situation Awareness:</a><br>
 Objective	Tactical (short-term):	situational assessment	- situation awareness<br>
 Strategic (long-term):	sensemaking -	understanding<br>
