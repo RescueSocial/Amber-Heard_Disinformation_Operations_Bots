@@ -7,7 +7,7 @@ We're Worldwide Independent Researchers with over 20 data analysts, scientists, 
 <i>A study of Millions of Texts and Accounts for <b>Social Network Analysis.</b></i>
 <br>Data collected on Amber Heard is primarily related to the years 2018-2021, ongoing into 2022. 
 
-This work is in-progress and prepared for peer-review. This is the most detailed public anaysis of a disinformation operation and the most volumnious yet, the impact of <a href="https://www.brookings.edu/research/the-breakout-scale-measuring-the-impact-of-influence-operations"><i>Category 6</a>.</b></i>
+This work is in-progress and prepared for peer-review. This is the most detailed public anaysis of a disinformation operation and the most volumnious yet, with the impact of <a href="https://www.brookings.edu/research/the-breakout-scale-measuring-the-impact-of-influence-operations"><i>Category 6</a>.</b></i>
 
 <b>Our Purpose is to create foundations and precedents to help other victims of cyberabuse, bots, domestic abuse, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a>, hostile environments, and Disinformation Operations</b>. 
 <br>We want to save lives and help partners create systems to help save lives online - including specialized and accurate rescue, quality custom studies, data analysis, Social Network Analysis, forensics, research, situation awareness, and rescue/public safety technologies - <i>with focus on the victim primarily and <b>her environment</b></i>. 
@@ -98,7 +98,8 @@ https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf<br>
 <b>Scientific Methods:</b><br>
 Worldwide Data Scientists, Researchers in Cyber Intelligence, PhDs, and Data Analysts collected and analyzed data. We used the scientific method of testing.
 <br>
-- <i>Scientific Method: Observation, Question, Hypothesis, Experiment, Results, Conclusion - Limit Variables and repeat same methods on all platforms. 
+- <i>Scientific Method: Observation, Question, Hypothesis, Experiment, Results, Conclusion 
+ <br>- Limit Variables and repeat same methods on all platforms. 
 <br>Cross-checking multiple times with full field JSONs and CSVs with processes in data science.</i>
 - <i><b><a href="https://www.brookings.edu/research/the-breakout-scale-measuring-the-impact-of-influence-operations/">The Breakout Scale: Measuring Impact of Influence Operations</a> by <a href="https://twitter.com/benimmo/status/1309532354306879488">Ben Nimmo</a> in Social Network Analysis Standards:</b></i><br>
 "Category One operations only spread within one community on one platform, while Category Two operations either spread in one community across multiple platforms, or spread across multiple communities on one platform. Category Three operations spread across <i>multiple social media platforms and reach multiple communities.</i> 
