@@ -7,7 +7,7 @@ We're Worldwide Independent Researchers with over 20 data analysts, scientists, 
 <i>A study of Millions of Texts and Accounts for <b>Social Network Analysis.</b></i>
 <br>Data collected on Amber Heard is primarily related to the years 2018-2021, ongoing into 2022. 
 
-This work is in-progress and prepared for peer-review. This is the most detailed public anaysis of a disinformation operation and the most volumnious yet, the impact of <a href="https://www.brookings.edu/research/the-breakout-scale-measuring-the-impact-of-influence-operations">Category 6</a>.</b></i>
+This work is in-progress and prepared for peer-review. This is the most detailed public anaysis of a disinformation operation and the most volumnious yet, the impact of <a href="https://www.brookings.edu/research/the-breakout-scale-measuring-the-impact-of-influence-operations"><i>Category 6</a>.</b></i>
 
 <b>Our Purpose is to create foundations and precedents to help other victims of cyberabuse, bots, domestic abuse, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a>, hostile environments, and Disinformation Operations</b>. 
 <br>We want to save lives and help partners create systems to help save lives online - including specialized and accurate rescue, quality custom studies, data analysis, Social Network Analysis, forensics, research, situation awareness, and rescue/public safety technologies - <i>with focus on the victim primarily and <b>her environment</b></i>. 
