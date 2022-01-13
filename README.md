@@ -23,14 +23,14 @@ This is the most detailed public anaysis of a disinformation operation and the m
 
 <b>Index and Contents:<br></b>
 - <b>Analysis of Social Media Platforms</b>
-<br>Twitter, Reddit, Instagram, Change.org, YouTube, Facebook, Cross-Platforms
+<i><br>Twitter, Reddit, Instagram, Change.org, YouTube, Facebook, Cross-Platforms
 <br>Peaks, Anomalies, Statistical Models
 <br>Botnets, Timings, NLP Analysis
 <br>Banned, New, Unverfied Account Layers
-<br>Detailed Python Notebooks
+<br>Detailed Python Notebooks</i>
 - <b>Reports</b>
 - <b>Anomalies</b>
-- <b>Images & Highlights</b>
+- <b>Images/Highlights/Figures</b>
 - <b>Data Samples</b>
 - <b>Research Papers</b>
 - <b>Analysis Guides</b>
@@ -55,6 +55,7 @@ If you're a social enterprise, researcher, organization, or academic helping fem
 
 <b>Do No Harm:</b> <br>
 All collaborators, researchers, and observers are required to sign, acknowledge, agree to "Do No Harm" agreements. If you are one of the victims listed in this study and need harmful material removed or to collaborate with us, please contact us.
+<br>We do not include the code or full data to protect individuals in this study and to prevent harmul operations. As a precedent, other reseachers and students should use this GitHub and study as a basis for their own social network analysis projects.
 <br>
 
 <b>Data Samples [Edit]:</b><br>
