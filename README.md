@@ -10,7 +10,7 @@ We're Worldwide Independent Researchers with over 20 data analysts, scientists, 
 This work is in-progress and prepared for peer-review. This is the most detailed public anaysis of a disinformation operation and the most volumnious yet, showing the impact of <a href="https://www.brookings.edu/research/the-breakout-scale-measuring-the-impact-of-influence-operations"><i>Category 6</a> influence.</b></i>
 
 <b>Our Purpose is to create precedents and foundations to help other victims of cyberabuse, bots, domestic abuse, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a>, hostile environments, and Disinformation Operations</b>. 
-<br>We want to save lives and help partners create systems to help save lives online - including specialized and accurate rescue, quality custom studies, data analysis, Social Network Analysis, forensics, research, situation awareness, and rescue/public safety technologies - <i>with focus on the victim primarily and <b>her environment</b></i>. 
+<br>We want to save lives and help partners create systems to help lives online - including specialized and accurate rescue, quality custom studies, data analysis, Social Network Analysis, forensics, research, situation awareness, and rescue/public safety technologies - <i>with focus on the victim primarily and <b>her environment</b></i>. 
 
 <b>Amounts of Data Collections [edit]:</b><br>
 - Twitter: ___ Tweets, ___Retweets, ___Accounts
