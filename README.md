@@ -39,7 +39,7 @@ This work is in-progress and prepared for peer-review. This is the most detailed
 - <b>Positive NLG Compliments</b>
 - <b>Background</b>
 
-<b>Positive NLG - Compliments Prompt:</b><br>
+<b>Positive NLG, Natural Language Generation - Compliments Prompt:</b><br>
 Compliments Generation Based on Jason Momoa and Amber Heard<br>
  https://github.com/semiosis/prompts/blob/master/prompts/compliment-generation-based-on-a-celebrity-1.prompt<br>
 - <a href="https://github.com/semiosis">Semiosis</a> is a free and open-source curation of prompts for OpenAI's GPT-3/Codex, EleutherAI's GPT-j, AlephAlpha's World Model and other language models.<br>
