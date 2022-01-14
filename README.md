@@ -2,12 +2,13 @@
 <b><i>Social Network Analysis of Disinformation/Influence Operations and Bots</i> Cross-Platforms on <i>Amber Heard</i>. 
 <br>Twitter, Reddit, YouTube, Instagram, Change.org, and Facebook for <i>6 Social Media Platforms</i>.</b>
 
+<i><b>Millions of Texts and Accounts were studied for Social Network Analysis.</b></i>
+
 We're Worldwide Independent Researchers with over 20 data analysts, scientists, and observers analyzing this data for over a year. Research and development is ongoing, and this public operation spanning for years continues. We invite researchers and students to study this case example. 
 
-<i><b>Millions of Texts and Accounts were studied for Social Network Analysis.</b></i>
 <br>Data collected on Amber Heard is primarily related to the years 2018-2021, ongoing into 2022. 
 
-This work is in-progress and prepared for peer-review. This is the most detailed public analysis of a disinformation operation and the most voluminious yet - showing the impact of <a href="https://www.brookings.edu/research/the-breakout-scale-measuring-the-impact-of-influence-operations"><i>Category 6</a> influence.</b></i>
+This is the most detailed public analysis of a disinformation operation and the most voluminious yet - showing the impact of <a href="https://www.brookings.edu/research/the-breakout-scale-measuring-the-impact-of-influence-operations"><i>Category 6</a> influence.</b></i> This work is in-progress and prepared for peer-review. 
 
 <b>Our Purpose is to create precedents and foundations to help other victims of cyberabuse, bots, domestic abuse, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a>, hostile environments, and Disinformation Operations</b>. 
 <br>We want to save lives and help partners create systems to help online - including specialized and accurate rescue, quality custom studies, data analysis, Social Network Analysis, forensics, research, situation awareness, and rescue/public safety technologies - <i>with focus on the victim primarily and <b>her environment</b></i>. 
@@ -49,6 +50,7 @@ Compliments Generation Based on Jason Momoa and Amber Heard<br>
 
 <b>Collaboration:</b> <br>
 If you're a social enterprise, researcher, organization, student, or academic helping female victims of abuse, coercive control, domestic abuse, bots, harassment, or hostile environments, we welcome partnership with you to create Social Network Analysis, Data Analysis, machine learning, natural language processing, artificial intelligence, OSINT, rescue, timelines, and monitoring systems to help other victims and their lives. 
+<br> Since this data is high volume about domestic abuse and gender, with an actress and film industry element, it's highly relevant for classification and data science projects on those topics.
 <br><i>Please contact us for data and code.</i>
 <br><br>
 <b>Although it's abuse of process, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a> is becoming illegal in more countries and states/provinces worldwide.</b>
