@@ -72,7 +72,7 @@ All collaborators, researchers, and observers are required to sign, acknowledge,
 - Anomolies Data Samples
 
 <b>Cross-Platforms Analysis:</b><br>
-Our analysis is in-progress and will be added after published research papers for researcher privacy.
+Analysis is in-progress and more will be added after published research papers for researcher privacy.
 
 <i>The Academic API was used for Retweets and <a href="https://InformationTracer.com">InformationTracer</a> for CrowdTangle API.</i><br>
 
