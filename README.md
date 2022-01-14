@@ -6,7 +6,7 @@
 
 We're Worldwide Independent Researchers with over 20 data analysts, scientists, and observers analyzing this data for over a year. Research and development is ongoing, and this public operation spanning for years continues. We invite researchers and students to study this case example. 
 
-<br>Data collected on Amber Heard is primarily related to the years 2018-2021, ongoing into 2022. 
+Data collected on Amber Heard is primarily related to the years 2018-2021, ongoing into 2022. 
 
 This is the most detailed public analysis of a disinformation operation and the most voluminious yet - showing the impact of <a href="https://www.brookings.edu/research/the-breakout-scale-measuring-the-impact-of-influence-operations"><i>Category 6</a> influence.</b></i> This work is in-progress and prepared for peer-review. 
 
