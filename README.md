@@ -22,14 +22,14 @@ This is the most detailed public analysis of a disinformation operation and the 
 - Facebook: ___Comments, ___Reviews, ___ Links Groups 
 - Crossplatform for Groups in Facebook, Reddit, and Channels of YouTube<br>
 
-<b>Index of Contents:<br></b>
+<b>Index and Contents:<br></b>
 - <b>Analysis of Social Media Platforms</b>
 <i><br>Twitter, Reddit, Instagram, Change.org, YouTube, Facebook, Cross-Platforms
 <br>Peaks, Anomalies, Timelines, Statistical Models
 <br>Botnets, Timings, NLP Analysis
 <br>Banned, New, Unverfied Account Layers
 <br>Investigations of Accounts and Postings
-<br>Repeated Texts with Timings and BotScores
+<br>Repeated Texts with Timings, Like Ratios, and BotScores
 <br>Threat Analysis
 <br>Links Analysis
 <br>Detailed Python Notebooks</i>
