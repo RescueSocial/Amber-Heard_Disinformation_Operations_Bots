@@ -72,7 +72,7 @@ All collaborators, researchers, and observers are required to sign, acknowledge,
 - 5.9K+ Labeled NLU Data of Support, Defense, Compliments/Offense and Training Data
 - Threat Analysis Data and NLU Test Data for Instagram, Reddit, and Twitter
 - Anomolies Data Samples
-- Links/URLs Lists of postings/comments of Instagram, YouTube, Twitter, and Reddit
+- Links/URLs Lists of comments/postings of Instagram, YouTube, Twitter, and Reddit
 - 10,168 Compliments of Amber Heard from NLG Prompts
 
 
