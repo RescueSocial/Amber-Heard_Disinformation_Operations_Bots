@@ -17,7 +17,7 @@ This is the most detailed public analysis of a disinformation operation and the 
 - Twitter: ___ Tweets, ___Retweets, ___Accounts
 - Reddit: ___ Contributions, ___Submissions, ___Accounts
 - Instagram: ____Comments, ___Posts, ___Accounts
-- YouTube: ___Comments, ___Videos, ___Accounts, __Cross Platform Links
+- YouTube: 1. ___Comments, 6893 Videos, ___Accounts, __Cross Platform Links
 - Change.org: ___Comments, ___Petitions, ___Milestones, __Cross Platform Links
 - Facebook: ___Comments, ___Reviews, ___ Links Groups 
 - Crossplatform for Groups in Facebook, Reddit, and Channels of YouTube<br>
