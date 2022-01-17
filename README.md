@@ -67,12 +67,14 @@ All collaborators, researchers, and observers are required to sign, acknowledge,
 - 5K Tweets of Twitter and Listed Accounts
 - 5K Contributions of Reddit and Listed Accounts
 - 5K Comments of Instagram and Listed Accounts
-- 5K Comments of Change.org, Milestones, and Petition Data
-- 5K Comments of YouTube, "Adapt & Survive" 130K Comments, Videos Data, Listed Accounts
+- 5K Comments of Change.org, 18908 Milestones, and 181 Petitions Data
+- YouTube Videos Data, 5K Comments of YouTube, "Adapt & Survive" 130K Comments, Listed Accounts
 - 5.9K+ Labeled NLU Data of Support, Defense, Compliments/Offense and Training Data
 - Threat Analysis Data and NLU Test Data for Instagram, Reddit, and Twitter
-- 10,168 Compliments of Amber Heard from NLG Prompts
 - Anomolies Data Samples
+- Links/URLs Lists of postings/comments of Instagram, YouTube, Twitter, and Reddit
+- 10,168 Compliments of Amber Heard from NLG Prompts
+
 
 <b>Cross-Platforms Analysis:</b><br>
 Analysis is in-progress and more will be added after published research papers for researcher privacy.
