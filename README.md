@@ -30,8 +30,8 @@ This is the most detailed public analysis of a disinformation operation and the 
 <br>Banned, New, Unverfied Account Layers
 <br>Investigations of Peaks, Accounts, Comments, and Postings
 <br>Repeated Texts with Timings and Community Detection
-<br>Gamifications, Likes/Dislikes, UpScores/DownScores, BotScores
 <br>Threat Analysis and Negative Texts Heat Maps
+<br>Gamifications, Likes/Dislikes, UpScores/DownScores, BotScores
 <br>Links Analysis, Urls, and NLP Analysis Cross-Platforms</i>
 - <b>Reports </b><i>- Analysis, Platforms, Years, Accounts, NLP</i>
 - <b>Anomalies</b>
