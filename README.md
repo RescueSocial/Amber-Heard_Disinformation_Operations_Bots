@@ -26,10 +26,10 @@ This is the most detailed public analysis of a disinformation operation and the 
 - <b>Analysis of Social Media Platforms</b> - Detailed Python Notebooks
 <i><br>Twitter, Reddit, Instagram, Change.org, YouTube, Facebook, Cross-Platforms
 <br>Peaks, Anomalies, Timelines, Statistical Models
-<br>Botnets, Timings, NLP Analysis
+<br>Botnets, Timings, Graphs, NLP Analysis
 <br>Banned, New, Unverfied Account Layers
 <br>Investigations of Peaks, Accounts, Comments, and Postings
-<br>Repeated Texts with Timings, Graphs, Community Detection
+<br>Repeated Texts with Timings, Community Detection
 <br>Gamifications, Dislikes/Likes, UpScores, BotScores
 <br>Threat Analysis and Negative Texts Heat Maps
 <br>Links Analysis, Urls, and NLP Analysis Cross-Platforms</i>
@@ -39,8 +39,8 @@ This is the most detailed public analysis of a disinformation operation and the 
 - <b>Data Samples</b>
 - <b>Research Papers</b>
 - <b>Analysis Guides</b>
-- <b>NLU Classifications</b>
-- <b>Positive NLG Compliments</b>
+- <b>NLU Classifications and AI</b>
+- <b>Positive NLG Compliments and AI</b>
 - <b>Background</b>
 
 <b>Positive NLG, Natural Language Generation - Compliments Prompt:</b><br>
