@@ -32,7 +32,7 @@ This is the most detailed public analysis of a disinformation operation and the 
 <br>Repeated Texts with Timings, Graphs, Community Detection
 <br>Gamifications, Dislikes/Likes, UpScores, BotScores
 <br>Threat Analysis and Negative Texts Heat Maps
-<br>Links Analysis
+<br>Links Analysis, Urls, and NLP Analysis Cross-Platforms
 <br>Detailed Python Notebooks</i>
 - <b>Reports</b>
 - <b>Anomalies</b>
