@@ -36,6 +36,7 @@ This is the most detailed public analysis of a disinformation operation and the 
 <br>Links Analysis, Urls, and NLP Analysis Cross-Platforms</i>
 - <b>Anomalies and Comparisons</b>
 - <b>Reports on Platforms</b><i> - Analysis, Years, Timelines, Accounts, NLP, Summaries</i>
+<br><i>Showing Coordinated Activity and Anomalies of Disinformation Operations</i>
 - <b>Images/Highlights/Figures</b>
 - <b>Data Samples</b>
 - <b>Research Papers</b>
