@@ -30,7 +30,7 @@ This is the most detailed public analysis of a disinformation operation and the 
 <br>Banned, New, Unverfied Account Layers
 <br>Investigations of Peaks, Accounts, and Postings
 <br>Repeated Texts with Timings, Graphs, Community Detection
-<br>Counts, Dislikes/Likes, UpScores, BotScores
+<br>Gamifications, Dislikes/Likes, UpScores, BotScores
 <br>Threat Analysis and Negative Texts Heat Maps
 <br>Links Analysis
 <br>Detailed Python Notebooks</i>
