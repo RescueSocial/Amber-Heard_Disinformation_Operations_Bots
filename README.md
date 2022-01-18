@@ -29,7 +29,8 @@ This is the most detailed public analysis of a disinformation operation and the 
 <br>Botnets, Timings, NLP Analysis
 <br>Banned, New, Unverfied Account Layers
 <br>Investigations of Peaks, Accounts, and Postings
-<br>Repeated Texts with Timings, Graphs, BotScores
+<br>Repeated Texts with Timings, Graphs, Community Detection
+<br>BotScores
 <br>Threat Analysis
 <br>Links Analysis
 <br>Detailed Python Notebooks</i>
