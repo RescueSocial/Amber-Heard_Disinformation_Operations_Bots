@@ -38,7 +38,7 @@ This is the most detailed public analysis of a disinformation operation and the 
 - <b>Images/Highlights/Figures</b>
 - <b>Data Samples</b>
 - <b>Research Papers</b>
-- <b>NLU Classifications and AI</b>
+- <b>NLU Classifications, Monitoring, and AI</b>
 - <b>Positive NLG Compliments and AI</b>
 - <b>Analysis Guides</b>
 - <b>Background</b>
