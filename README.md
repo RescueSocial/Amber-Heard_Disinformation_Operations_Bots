@@ -28,10 +28,11 @@ This is the most detailed public analysis of a disinformation operation and the 
 <br>Peaks, Anomalies, Timelines, Patterns, Statistical Models
 <br>Timings, Graphs, Bot Networks, NLP/NLU and Sentiment Analysis
 <br>Banned, New, Unverified Account Layers
-<br>Investigations of Peaks, Accounts, Comments, Coordination, Postings
+<br>Investigations of Peaks, Accounts, Comments, Postings
 <br>Repeated Texts with Timings, Multiple Accounts, and Community Detection
+<br>Coordination and Gamifications
 <br>Threat Analysis and Negative Texts Heat Maps
-<br>Gamifications, Likes/Dislikes, UpScores/DownScores, BotScores
+<br>Likes/Dislikes, UpScores/DownScores, BotScores
 <br>Links Analysis, Urls, and NLP Analysis Cross-Platforms</i>
 - <b>Anomalies and Comparisons</b>
 - <b>Reports on Platforms</b><i> - Analysis, Years, Timelines, Accounts, NLP, Summaries</i>
