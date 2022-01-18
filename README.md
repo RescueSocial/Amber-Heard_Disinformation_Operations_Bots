@@ -34,7 +34,7 @@ This is the most detailed public analysis of a disinformation operation and the 
 <br>Gamifications, Likes/Dislikes, UpScores/DownScores, BotScores
 <br>Links Analysis, Urls, and NLP Analysis Cross-Platforms</i>
 - <b>Anomalies and Comparisons</b>
-- <b>Reports </b><i>- Analysis, Platforms, Years, Accounts, NLP, Summaries</i>
+- <b>Reports on Platforms</b><i>- Analysis, Years, Patterns, Accounts, NLP, Summaries</i>
 - <b>Images/Highlights/Figures</b>
 - <b>Data Samples</b>
 - <b>Research Papers</b>
