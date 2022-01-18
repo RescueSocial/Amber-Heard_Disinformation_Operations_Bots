@@ -40,6 +40,7 @@ This is the most detailed public analysis of a disinformation operation and the 
 <br><i>Showing Coordinated Activity and Anomalies of Disinformation Operations</i>
 - <b>Images/Highlights/Figures</b>
 - <b>Data Samples</b>
+- <b>Banned, Deleted, Suspended Accounts</b>
 - <b>Research Papers</b>
 - <b>NLU Classifications, Monitoring, and AI</b>
 - <b>Positive NLG Compliments, Prompts, and AI</b>
