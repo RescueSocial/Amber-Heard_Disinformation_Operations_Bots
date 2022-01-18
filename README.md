@@ -29,7 +29,7 @@ This is the most detailed public analysis of a disinformation operation and the 
 <br>Timings, Graphs, BotNets, NLP/NLU Analysis
 <br>Banned, New, Unverified Account Layers
 <br>Investigations of Peaks, Accounts, Comments, and Postings
-<br>Repeated Texts with Timings and Community Detection
+<br>Repeated Texts with Timings, Multiple Accounts, and Community Detection
 <br>Threat Analysis and Negative Texts Heat Maps
 <br>Gamifications, Likes/Dislikes, UpScores/DownScores, BotScores
 <br>Links Analysis, Urls, and NLP Analysis Cross-Platforms</i>
