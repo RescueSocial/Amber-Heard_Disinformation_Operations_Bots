@@ -26,7 +26,7 @@ This is the most detailed public analysis of a disinformation operation and the 
 - <b>Analysis of Social Media Platforms</b> - Detailed Python Notebooks
 <i><br>Twitter, Reddit, Instagram, Change.org, YouTube, Facebook, Cross-Platforms
 <br>Peaks, Anomalies, Timelines, Statistical Models
-<br>Botnets, Timings, Graphs, NLP Analysis
+<br>BotNets, Timings, Graphs, NLP Analysis
 <br>Banned, New, Unverfied Account Layers
 <br>Investigations of Peaks, Accounts, Comments, and Postings
 <br>Repeated Texts with Timings and Community Detection
