@@ -1,6 +1,6 @@
 {
 	"info": {
-		"_postman_id": "4f889a89-c753-4bd7-a2f7-8b282466b6b6",
+		"_postman_id": "---KEY---",
 		"name": "NlpEngine",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
@@ -20,7 +20,7 @@
 					}
 				},
 				"url": {
-					"raw": "http://173.254.242.195/api/nlutext",
+					"raw": "http://----/api/nlutext",
 					"protocol": "http",
 					"host": [
 						"173",
@@ -51,7 +51,7 @@
 					}
 				},
 				"url": {
-					"raw": "http://173.254.242.195/api/nlgtext",
+					"raw": "http://----/api/nlgtext",
 					"protocol": "http",
 					"host": [
 						"173",
