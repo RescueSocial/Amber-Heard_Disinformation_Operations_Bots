@@ -33,7 +33,7 @@ This is the most detailed public analysis of a disinformation operation and the 
 <br>Threat Analysis and Negative Texts Heat Maps
 <br>Gamifications, Likes/Dislikes, UpScores/DownScores, BotScores
 <br>Links Analysis, Urls, and NLP Analysis Cross-Platforms</i>
-- <b>Reports </b><i>- Analysis, Platforms, Years, Accounts, NLP, and Summaries</i>
+- <b>Reports </b><i>- Analysis, Platforms, Years, Accounts, NLP, Summaries</i>
 - <b>Anomalies and Comparisons</b>
 - <b>Images/Highlights/Figures</b>
 - <b>Data Samples</b>
