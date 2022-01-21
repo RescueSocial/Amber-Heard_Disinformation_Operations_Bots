@@ -14,9 +14,9 @@ This is the most detailed public analysis of a disinformation operation and the 
 <br>We want to save lives and help partners create systems to help online - including specialized and accurate rescue, quality custom studies, data analysis, Social Network Analysis, forensics, research, situation awareness, and rescue/public safety technologies - <i>with focus on the victim primarily and <b>her environment</b></i>. 
 
 <b>Amounts of Data Collections [Update]:</b><br>
-- Twitter: 985,400 Tweets and 275,567 Accounts Jan 2018-April 2021, (2) Over 880,000 Tweets of Top Users, (3) ___ Retweets, Cross-Platform Links
-- Reddit: 164,530 Contributions, 15,896 Submissions, 71,319 Accounts, Cross-Platform Links
-- Instagram: 1,751,113 Comments, 193,967 Posts, 717,311 Accounts (Posts made by 36,137 accounts and 681,174 commented), Cross-Platform Links
+- Twitter: 985,400 Tweets and 275,567 Accounts Jan 2018-April 2021, (2) Over 880,000 Tweets of Top Users, (3) ___ Retweets, Links
+- Reddit: 164,530 Contributions, 15,896 Submissions, 71,319 Accounts, Links
+- Instagram: 1,751,113 Comments, 193,967 Posts, 717,311 Accounts (Posts made by 36,137 accounts and 681,174 commented), Links
 - YouTube: (1) 1,693,341 Comments, 6,893 Videos (with dislikes ratios), ___Accounts, Cross-Platform Links
 - Change.org: 27,238 Comments, 181 Petitions, 18,908 Milestones, Cross-Platform Links
 - Facebook: ___Comments, ___Reviews, ___ Links Groups 
