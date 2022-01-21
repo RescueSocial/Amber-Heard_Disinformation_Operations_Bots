@@ -11,3 +11,7 @@ Natural Language Understanding, Processing, and Sentiment Testing across social 
 Version 1 NLU Trained on data from: Twitter, Facebook, Change.org primarily with some YouTube and Reddit
 
 NLU engines, monitoring, classifications, training.
+
+Data used in NLU Testing Analysis is in /Testing Data folder
+1. First example (old nlpengine) is binary love or hate, quickly seen as not accurate and to move to an offense, defense, support strategy
+2. Second example, more accurate for nlp engine is multiclassifier - support, offense, defense, defense_against (focused on victim/target of operations)
