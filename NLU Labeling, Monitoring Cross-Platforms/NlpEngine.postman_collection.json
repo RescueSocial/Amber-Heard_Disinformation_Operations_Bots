@@ -1,0 +1,71 @@
+{
+	"info": {
+		"_postman_id": "----",
+		"name": "NlpEngine",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Nlp Text classification test",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"text\":\"Justice for Johnny.....\"}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://----/api/nlutext",
+					"protocol": "http",
+					"host": [
+						"173",
+						"254",
+						"242",
+						"195"
+					],
+					"path": [
+						"api",
+						"nlutext"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Nlg generation api endpoint",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"text\":\"Amber is a great women\"}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://----/api/nlgtext",
+					"protocol": "http",
+					"host": [
+						"173",
+						"254",
+						"242",
+						"195"
+					],
+					"path": [
+						"api",
+						"nlgtext"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
