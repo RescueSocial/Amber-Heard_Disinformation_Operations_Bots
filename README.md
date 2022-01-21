@@ -23,7 +23,7 @@ This is the most detailed public analysis of a disinformation operation and the 
 - Crossplatform for Groups in Facebook, Reddit, and Channels of YouTube<br>
 
 <b>Index and Contents:<br></b>
-- <b>Analysis of Social Media Platforms</b> - A Complex Study with Detailed Python Notebooks
+- <b>Analysis of Social Media Platforms</b> - Complex Study with Detailed Python Notebooks
 <i><br>Twitter, Reddit, Instagram, Change.org, YouTube, Facebook, Cross-Platforms
 <br>Peaks, Anomalies, Timelines, Patterns, Statistical Models
 <br>Timings, Graphs, Bot Networks, NLP/NLU and Sentiment Analysis
