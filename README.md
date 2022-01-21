@@ -14,11 +14,11 @@ This is the most detailed public analysis of a disinformation operation and the 
 <br>We want to save lives and help partners create systems to help online - including specialized and accurate rescue, quality custom studies, data analysis, Social Network Analysis, forensics, research, situation awareness, and rescue/public safety technologies - <i>with focus on the victim primarily and <b>her environment</b></i>. 
 
 <b>Amounts of Data Collections [edit]:</b><br>
-- Twitter: 985,400 Tweets and 275,567 Accounts Jan 2018-April 2021, 2. Over 880,000 Tweets of Top Users, 3. ___ Retweets
+- Twitter: 985,400 Tweets and 275,567 Accounts Jan 2018-April 2021, (2) Over 880,000 Tweets of Top Users, (3) ___ Retweets
 - Reddit: 164,530 Contributions, 15,896 Submissions, 71,319 Accounts
-- Instagram: ____Comments, ___Posts, ___Accounts
-- YouTube: 1. ___Comments, 6893 Videos (with dislikes ratios), ___Accounts, ___ Cross Platform Links
-- Change.org: 27238 Comments, 181 Petitions, 18908 Milestones, __Cross Platform Links
+- Instagram: 1,751,113 Comments, 193,967 Posts, 717,311 Accounts (Posts were made by 36,137 and 681,174 commented)
+- YouTube: (1) 1,693,341 Comments, 6,893 Videos (with dislikes ratios), ___Accounts, ___ Cross Platform Links
+- Change.org: 27,238 Comments, 181 Petitions, 18,908 Milestones, __Cross Platform Links
 - Facebook: ___Comments, ___Reviews, ___ Links Groups 
 - Crossplatform for Groups in Facebook, Reddit, and Channels of YouTube<br>
 
@@ -42,8 +42,8 @@ This is the most detailed public analysis of a disinformation operation and the 
 - <b>Data Samples</b>
 - <b>Banned, Deleted, Suspended Accounts</b>
 - <b>Research Papers</b>
-- <b>NLU Classifications, Monitoring, and AI</b>
-- <b>Positive NLG Compliments, Prompts, and AI</b>
+- <b>NLU Classifications, Monitoring, AI</b>
+- <b>Positive NLG Compliments, Prompts, AI</b>
 - <b>Analysis Guides</b>
 - <b>Background</b>
 
