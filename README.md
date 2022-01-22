@@ -13,17 +13,17 @@ This is the most detailed public analysis of a disinformation operation and the 
 <b>Our Purpose is to create precedents and foundations to help other victims of cyberabuse, bots, domestic abuse, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a>, hostile environments, and Disinformation Operations</b>. 
 <br>We want to save lives and help partners create systems to help online - including specialized and accurate rescue, quality custom studies, data analysis, Social Network Analysis, forensics, research, situation awareness, and rescue/public safety technologies - <i>with focus on the victim primarily and <b>her environment</b></i>. 
 
-<b>Amounts of Data Collections [edit]:</b><br>
-- Twitter: 985,400 Tweets and 275,567 Accounts Jan 2018-April 2021, (2) Over 880,000 Tweets of Top Users, (3) ___ Retweets
-- Reddit: 164,530 Contributions, 15,896 Submissions, 71,319 Accounts
-- Instagram: 1,751,113 Comments, 193,967 Posts, 717,311 Accounts (Posts were made by 36,137 and 681,174 commented)
-- YouTube: (1) 1,693,341 Comments, 6,893 Videos (with dislikes ratios), ___Accounts, ___ Cross Platform Links
-- Change.org: 27,238 Comments, 181 Petitions, 18,908 Milestones, __Cross Platform Links
-- Facebook: ___Comments, ___Reviews, ___ Links Groups 
+<b>Amounts of Data Collections [Updates]:</b><br>
+- Twitter: 985,400 Tweets and 275,567 Accounts Jan 2018-April 2021, (2) Over 880,000 Tweets of Top Users, (3) ___ Retweets, Links
+- Reddit: 164,530 Contributions, 15,896 Submissions, 71,319 Accounts, Links
+- Instagram: 1,751,113 Comments, 193,967 Posts, 717,311 Accounts (Posts made by 36,137 accounts and 681,174 commented), Links
+- YouTube: (1) 1,693,341 Comments, 6,893 Videos (with dislike ratios), ___ Accounts, Cross-Platform Links
+- Change.org: 27,238 Comments, 181 Petitions, 18,908 Milestones, Cross-Platform Links
+- Facebook: ___ Comments, ___ Reviews, ___ Links Groups 
 - Crossplatform for Groups in Facebook, Reddit, and Channels of YouTube<br>
 
 <b>Index and Contents:<br></b>
-- <b>Analysis of Social Media Platforms</b> - Detailed Python Notebooks and a Complex Study
+- <b>Analysis of Social Media Platforms</b> - Complex Study with Detailed Python Notebooks
 <i><br>Twitter, Reddit, Instagram, Change.org, YouTube, Facebook, Cross-Platforms
 <br>Peaks, Anomalies, Timelines, Patterns, Statistical Models
 <br>Timings, Graphs, Bot Networks, NLP/NLU and Sentiment Analysis
@@ -69,7 +69,7 @@ All collaborators, researchers, and observers are required to sign, acknowledge,
 <br><br>We do not include the code or full data to protect individuals in this study and to prevent harmful operations. As a precedent, other researchers and students should use this GitHub and study as a basis for their own social network analysis projects. We draw attention to this project months before in-person appearances for safety.
 <br>
 
-<b>Data Samples [Edit]:</b><br>
+<b>Data Samples [Updates]:</b><br>
 - 5K Tweets of Twitter and Listed Accounts
 - 5K Contributions of Reddit and Listed Accounts
 - 5K Comments of Instagram and Listed Accounts
