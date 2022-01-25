@@ -17,9 +17,9 @@ This is the most detailed public analysis of a disinformation operation and the 
 - Twitter: 985,400 Tweets and 275,567 Accounts Jan 2018-April 2021, (2) Over 880,000 Tweets of Top Users, (3) ___ Retweets, Links
 - Reddit: 164,530 Contributions, 15,896 Submissions, 71,319 Accounts, Links
 - Instagram: 1,751,113 Comments, 193,967 Posts, 717,311 Accounts (Posts made by 36,137 accounts and 681,174 commented), Links
-- YouTube: (1) 1,693,341 Comments, 6,893 Videos (with dislike ratios), ___ Accounts, Cross-Platform Links
+- YouTube: (1) 1,693,341 Comments, 6,893 Videos (with dislike ratios), 1,152,868 Accounts, Cross-Platform Links
 - Change.org: 27,238 Comments, 181 Petitions, 18,908 Milestones, Cross-Platform Links
-- Facebook: ___ Comments, ___ Reviews, ___ Links Groups 
+- Facebook: Page Comments and ___ Reviews, ___ Links Groups for Cross-Platforms 
 - Crossplatform for Groups in Facebook, Reddit, and Channels of YouTube<br>
 
 <b>Index and Contents:<br></b>
