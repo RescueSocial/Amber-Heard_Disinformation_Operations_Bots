@@ -105,7 +105,7 @@ https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf<br>
 - Jessica Reisinger-Raubenolt & Lilia Operations - https://www.tampabay.com/news/crime/2021/08/05/cameron-herrin-went-to-prison-for-a-tampa-crash-were-the-tweets-that-followed-real<br>
 - Video - Rose McGowan vs BlackCube: https://www.youtube.com/watch?v=tv6ewJQ7L3k<br>
 - Amber Heard, Cyrillic Spiders from Mars - https://www.thegeekbuzz.com/the-basement/cyrillic-russian-spiders-from-mars
-
+- <i>"“Since the fate of the world is non-existence, since you exist, be merry.” - <a href="https://en.wikipedia.org/wiki/Omar_Khayyam">Omar Khayyam</a>, Persion Mathematician</i>
 <br>
 
 <b>Scientific Methods:</b><br>
@@ -123,8 +123,6 @@ Objective	Tactical (short-term):	situational assessment	- situation awareness<br
 Strategic (long-term):	sensemaking -	understanding<br>
 Scientific (longer-term):	analysis	- prediction<br></i>
 <br>
-
-<i>"“Since The Fate Of The World Is Non-Existence, Since You Exist, Be Merry.” - <a href="https://en.wikipedia.org/wiki/Omar_Khayyam">Omar Khayyam</a>, Persion Mathematician</i>
 
 <b>Researchers:</b><br>
 <b>We welcome Researchers to work with this Data on Amber Heard to create Blueprints on how Bots and Disinformation/Influence Operations work. </b>
