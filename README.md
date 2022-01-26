@@ -105,7 +105,6 @@ https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf<br>
 - Jessica Reisinger-Raubenolt & Lilia Operations - https://www.tampabay.com/news/crime/2021/08/05/cameron-herrin-went-to-prison-for-a-tampa-crash-were-the-tweets-that-followed-real<br>
 - Video - Rose McGowan vs BlackCube: https://www.youtube.com/watch?v=tv6ewJQ7L3k<br>
 - Amber Heard, Cyrillic Spiders from Mars - https://www.thegeekbuzz.com/the-basement/cyrillic-russian-spiders-from-mars
-
 <br>
 
 <b>Scientific Methods:</b><br>
@@ -126,6 +125,8 @@ Scientific (longer-term):	analysis	- prediction<br></i>
 
 <b>Researchers:</b><br>
 <b>We welcome Researchers to work with this Data on Amber Heard to create Blueprints on how Bots and Disinformation/Influence Operations work. </b>
-<br>Please ask to collaborate with us for access to data at rescuesocial@gmail.com.<br>
-<i>Research and building technologies is ongoing as the operation is continuing over years and this is a public github example. We are continuing analysis and data collections, including creating technologies for systems on coercive control.</i>
+<br>Please ask to collaborate with us for access to Data at rescuesocial@gmail.com.<br>
+- <i><b>Research and building technologies is ongoing as the operation is continuing over years and this is a public github example. </b>
+<br>We are continuing analysis and data collections, including creating technologies for systems on coercive control.</i>
+<br><i>"“Since the fate of the world is non-existence, Since You Exist, Be Merry.” - <a href="https://en.wikipedia.org/wiki/Omar_Khayyam">Omar Khayyam</a>, Persian Mathematician</i>
 
