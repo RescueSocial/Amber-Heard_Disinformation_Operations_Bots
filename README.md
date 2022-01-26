@@ -19,7 +19,7 @@ This is the most detailed public analysis of a disinformation operation and the 
 - Instagram: 1,751,113 Comments, 193,967 Posts, 717,311 Accounts (Posts made by 36,137 accounts and 681,174 commented), Links
 - YouTube: (1) 1,693,341 Comments, 6,893 Videos (with dislike ratios), 1,152,868 Accounts, Cross-Platform Links
 - Change.org: 27,238 Comments, 181 Petitions, 18,908 Milestones, Cross-Platform Links
-- Facebook: Page Comments and ___ Reviews, ___ Links Groups for Cross-Platforms 
+- Facebook: Page Comments and Reviews, ___ Links Groups for Cross-Platforms 
 - Crossplatform for Groups in Facebook, Reddit, and Channels of YouTube<br>
 
 <b>Index and Contents:<br></b>
