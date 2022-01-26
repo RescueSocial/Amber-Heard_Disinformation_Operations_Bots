@@ -124,6 +124,8 @@ Strategic (long-term):	sensemaking -	understanding<br>
 Scientific (longer-term):	analysis	- prediction<br></i>
 <br>
 
+<i>"“Since The Fate Of The World Is Non-Existence, Since You Exist, Be Merry.” - <a href="https://en.wikipedia.org/wiki/Omar_Khayyam">Omar Khayyam</a>, Persion Mathematician</i>
+
 <b>Researchers:</b><br>
 <b>We welcome Researchers to work with this Data on Amber Heard to create Blueprints on how Bots and Disinformation/Influence Operations work. </b>
 <br>Please ask to collaborate with us for access to data at rescuesocial@gmail.com.<br>
