@@ -128,5 +128,5 @@ Scientific (longer-term):	analysis	- prediction<br></i>
 <br>Please ask to collaborate with us for access to Data at rescuesocial@gmail.com.<br>
 - <i><b>Research and building technologies is ongoing as the operation is continuing over years and this is a public github example. </b>
 <br>We are continuing analysis and data collections, including creating technologies for systems on coercive control.</i>
-<br><i>"“Since the fate of the world is non-existence, Since You Exist, Be Merry.” - <a href="https://en.wikipedia.org/wiki/Omar_Khayyam">Omar Khayyam</a>, Persian Mathematician</i>
+<br><i>“Since the fate of the world is non-existence, Since You Exist, Be Merry.” - <a href="https://en.wikipedia.org/wiki/Omar_Khayyam">Omar Khayyam</a>, Persian Mathematician</i>
 
