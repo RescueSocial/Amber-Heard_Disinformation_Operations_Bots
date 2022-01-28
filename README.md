@@ -130,6 +130,7 @@ Scientific (longer-term):	analysis	- prediction<br></i>
 - <i><b>Research and building technologies is ongoing as the operation is Continuing over years and this is a public github example. </b>
 <br>We are continuing analysis and data collections, including creating technologies for systems on <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control.</a></i>
 <br><i>“Since the fate of the world is non-existence, Since You Exist, Be Merry.” - Persian Mathematician <a href="https://en.wikipedia.org/wiki/Omar_Khayyam">Omar Khayyam</a></i>
+
 <br><b>Citing Research Project:</b>
 If interested in citing our research project in your publication, journal, database, or article, please provide a link to this GitHub repository with its title and contact us for collaboration.
 
