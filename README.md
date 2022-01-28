@@ -75,6 +75,7 @@ All collaborators, researchers, and observers are required to sign, acknowledge,
 - 5K Comments of Instagram and Listed Accounts
 - 5K Comments of Change.org, 18908 Milestones, and 181 Petitions Data
 - YouTube Videos Data, 5K Comments of YouTube, "Adapt & Survive" 130K Comments, Listed Accounts
+- 5 Months of Data for Cross-Platform Analysis
 - 5.9K+ Labeled NLU Data of Support, Defense, Compliments/Offense and Training Data
 - Threat Analysis Data and NLU Test Data for Instagram, Reddit, and Twitter
 - Anomolies Data Samples
@@ -129,4 +130,8 @@ Scientific (longer-term):	analysis	- prediction<br></i>
 - <i><b>Research and building technologies is ongoing as the operation is Continuing over years and this is a public github example. </b>
 <br>We are continuing analysis and data collections, including creating technologies for systems on <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control.</a></i>
 <br><i>“Since the fate of the world is non-existence, Since You Exist, Be Merry.” - Persian Mathematician <a href="https://en.wikipedia.org/wiki/Omar_Khayyam">Omar Khayyam</a></i>
+
+<b>Citing Research Project:</b><br>
+If interested in citing our research project in your publication, journal, database, or article, please provide a link to this GitHub repository with its title and contact us for collaboration.
+
 
