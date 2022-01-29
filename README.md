@@ -45,8 +45,7 @@ This is the most detailed public analysis of a disinformation operation and the 
 - <b>NLU Classifications, Monitoring, AI</b>
 - <b>Positive NLG Compliments, Prompts, AI</b>
 - <b>Analysis Guides</b>
-- <b>Background</b> 
-<br><i>Timeline Correlations to preliminary threats</i>
+- <b>Background</b> - <i>Timeline Correlations</i>
 
 <b>Positive NLG, Natural Language Generation - Compliments Prompt:</b><br>
 Compliments Generation on Amber Heard based on Jason Momoa<br>
