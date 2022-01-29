@@ -14,12 +14,12 @@ This is the most detailed public analysis of a disinformation operation and the 
 <br>We want to save lives and help partners create systems to help online - including specialized and accurate rescue, quality custom studies, data analysis, Social Network Analysis, forensics, research, situation awareness, and rescue/public safety technologies - <i>with focus on the victim primarily and <b>her environment</b></i>. 
 
 <b>Amounts of Data Collections [Updates]:</b><br>
-- Twitter: 985,400 Tweets and 275,567 Accounts Jan 2018-April 2021, (2) Over 880,000 Tweets of Top Users, (3) ___ Retweets, Links
+- Twitter: 985,400 Tweets and 275,567 Accounts Jan 2018-April 2021, (2) Over 880,000 Tweets of Top Users, (3) 142K+ Retweets, Links
 - Reddit: 164,530 Contributions, 15,896 Submissions, 71,319 Accounts, Links
 - Instagram: 1,751,113 Comments, 193,967 Posts, 717,311 Accounts (Posts made by 36,137 accounts and 681,174 commented), Links
 - YouTube: (1) 1,693,341 Comments, 6,893 Videos (with dislike ratios), 1,152,868 Accounts, Cross-Platform Links
-- Change.org: 27,238 Comments, 181 Petitions, 18,908 Milestones, Cross-Platform Links
-- Facebook: Page Comments and Reviews, ___ Links Groups for Cross-Platforms 
+- Change.org: 28,952 Comments, 181 Petitions, 18,908 Milestones, Cross-Platform Links
+- Facebook: Page Comments and Reviews, Links in Groups for Cross-Platforms 
 - Crossplatform for Groups in Facebook, Reddit, and Channels of YouTube<br>
 
 <b>Index and Contents:<br></b>
@@ -29,15 +29,16 @@ This is the most detailed public analysis of a disinformation operation and the 
 <br>Timings, Graphs, Bot Networks, NLP/NLU and Sentiment Analysis
 <br>Banned, New, Unverified Account Layers
 <br>Investigations of Peaks, Accounts, Comments, Postings
-<br>Repeated Texts with Timings, Multiple Accounts, and Community Detection
+<br>Repeated Texts with Timings, Multiple Accounts, Community Detection
 <br>Coordination and Gamifications
 <br>Threat Analysis and Negative Texts Heat Maps
-<br>Likes/Dislikes, UpScores/DownScores, BotScores
+<br>Metrics, Likes/Dislikes, UpScores/DownScores, BotScores
 <br>Links Analysis, Urls, and NLP Analysis Cross-Platforms</i>
 - <b>Anomalies and Comparisons</b>
 - <b>Reports on Analysis and Platforms:</b>
 <br><i>Summaries of Analysis, Years, Timelines, Accounts, Timings, NLP, Peaks</i>
 <br><i>Showing Coordinated Activity and Anomalies of Disinformation Operations</i>
+<br><i>Use for Timeline Correlations to Risks and Preliminary Effects</i>
 - <b>Images/Highlights/Figures</b>
 - <b>Data Samples</b>
 - <b>Banned, Deleted, Suspended Accounts</b>
@@ -45,9 +46,9 @@ This is the most detailed public analysis of a disinformation operation and the 
 - <b>NLU Classifications, Monitoring, AI</b>
 - <b>Positive NLG Compliments, Prompts, AI</b>
 - <b>Analysis Guides</b>
-- <b>Background</b>
+- <b>Background</b> 
 
-<b>Positive NLG, Natural Language Generation - Compliments Prompt:</b><br>
+<b>Positive NLG - Natural Language Generation - Compliments Prompt:</b><br>
 Compliments Generation on Amber Heard based on Jason Momoa<br>
  https://github.com/semiosis/prompts/blob/master/prompts/compliment-generation-based-on-a-celebrity-1.prompt<br>
 - 10,000 Compliments on Amber Heard made in 2 hours: https://asciinema.org/a/w5ayuAEGGpgsxTCKWbAGRPfvZ<br>
@@ -70,21 +71,22 @@ All collaborators, researchers, and observers are required to sign, acknowledge,
 <br>
 
 <b>Data Samples [Updates]:</b><br>
-- 5K Tweets of Twitter and Listed Accounts
-- 5K Contributions of Reddit and Listed Accounts
-- 5K Comments of Instagram and Listed Accounts
-- 5K Comments of Change.org, 18908 Milestones, and 181 Petitions Data
-- YouTube Videos Data, 5K Comments of YouTube, "Adapt & Survive" 130K Comments, Listed Accounts
 - 5 Months of Data for Cross-Platform Analysis
-- 5.9K+ Labeled NLU Data of Support, Defense, Compliments/Offense and Training Data
+- 307,649 Tweets of Twitter and All Listed Accounts
+- 43,509 Contributions of Reddit and All Listed Accounts
+- 394,237 Comments of Instagram and All Listed Accounts
+- 28,952 Comments of Change.org, 18,908 Milestones, and 181 Petitions Data
+- 6,893 YouTube Videos Data, 424,457 Comments of YouTube, "Adapt & Survive" 130K Comments, All Listed Accounts
+- 5.9K+ Labeled NLU Data of Support, Defense, Compliments and Training Data
 - Threat Analysis Data and NLU Test Data for Instagram, Reddit, and Twitter
 - Anomolies Data Samples
-- Links/URLs Lists of comments/postings of Instagram, YouTube, Twitter, and Reddit
-- 10,168 Compliments of Amber Heard from NLG Prompts
-
+- 10,168 Compliments of Amber Heard from AI NLG Prompts
+- Links/URLs Lists of comments/postings of Instagram, YouTube, Twitter, Reddit, Change.org
 
 <b>Cross-Platforms Analysis:</b><br>
 Analysis is in-progress and more will be added after published research papers for researcher privacy.
+<br><i>Data of 5 months of December 2020 to April 2021 is provided for open peer-review and research studies.</i>
+<br>Note: Peaks, Heat Maps of Threats, coordinated bot activities, repeated same texts, and more anomalies show for 2018-2022 continuing, especially February 2020 onward as seen in analysis files.
 
 <i>The Academic API was used for Retweets and <a href="https://InformationTracer.com">InformationTracer</a> for CrowdTangle API.</i><br>
 
@@ -126,7 +128,7 @@ Scientific (longer-term):	analysis	- prediction<br></i>
 
 <b>Researchers:</b><br>
 <b>We welcome Researchers to work with this Data on Amber Heard to create Blueprints on how Bots and Disinformation/Influence Operations work. </b>
-<br>Please ask to collaborate with us for access to Data at rescuesocial@gmail.com.<br>
+<br>Please ask to collaborate with us for access to more Data at rescuesocial@gmail.com.<br>
 - <i><b>Research and building technologies is ongoing as the operation is Continuing over years and this is a public github example. </b>
 <br>We are continuing analysis and data collections, including creating technologies for systems on <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control.</a></i>
 <br><i>“Since the fate of the world is non-existence, Since You Exist, Be Merry.” - Persian Mathematician <a href="https://en.wikipedia.org/wiki/Omar_Khayyam">Omar Khayyam</a></i>
