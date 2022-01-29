@@ -77,7 +77,7 @@ All collaborators, researchers, and observers are required to sign, acknowledge,
 - 394,237 Comments of Instagram and All Listed Accounts
 - 28,952 Comments of Change.org, 18,908 Milestones, and 181 Petitions Data
 - 6,893 YouTube Videos Data, 424,457 Comments of YouTube, "Adapt & Survive" 130K Comments, All Listed Accounts
-- 5.9K+ Labeled NLU Data of Support, Defense, Compliments, and Training Data
+- 5.9K+ Labeled NLU Data of Support, Defense, Compliments and Training Data
 - Threat Analysis Data and NLU Test Data for Instagram, Reddit, and Twitter
 - Anomolies Data Samples
 - 10,168 Compliments of Amber Heard from AI NLG Prompts
@@ -86,7 +86,7 @@ All collaborators, researchers, and observers are required to sign, acknowledge,
 <b>Cross-Platforms Analysis:</b><br>
 Analysis is in-progress and more will be added after published research papers for researcher privacy.
 <br><i>Data of 5 months of December 2020 to April 2021 is provided for open peer-review and research studies.</i>
-<br>Note: Peaks, Heat Maps of threats, coordinated bot activities, repeated same texts, and more anomalies show for 2018-2022 continuing, especially February 2020 onward as seen in analysis files.
+<br>Note: Peaks, Heat Maps of Threats, coordinated bot activities, repeated same texts, and more anomalies show for 2018-2022 continuing, especially February 2020 onward as seen in analysis files.
 
 <i>The Academic API was used for Retweets and <a href="https://InformationTracer.com">InformationTracer</a> for CrowdTangle API.</i><br>
 
