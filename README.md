@@ -38,7 +38,7 @@ This is the most detailed public analysis of a disinformation operation and the 
 - <b>Reports on Analysis and Platforms:</b>
 <br><i>Summaries of Analysis, Years, Timelines, Accounts, Timings, NLP, Peaks</i>
 <br><i>Showing Coordinated Activity and Anomalies of Disinformation Operations</i>
-<br><i>Use for Timelines Correlations to Risks and Preliminary Effects</i>
+<br><i>Use for Timeline Correlations to Risks and Preliminary Effects</i>
 - <b>Images/Highlights/Figures</b>
 - <b>Data Samples</b>
 - <b>Banned, Deleted, Suspended Accounts</b>
