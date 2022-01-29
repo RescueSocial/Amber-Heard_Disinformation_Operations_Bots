@@ -14,12 +14,12 @@ This is the most detailed public analysis of a disinformation operation and the 
 <br>We want to save lives and help partners create systems to help online - including specialized and accurate rescue, quality custom studies, data analysis, Social Network Analysis, forensics, research, situation awareness, and rescue/public safety technologies - <i>with focus on the victim primarily and <b>her environment</b></i>. 
 
 <b>Amounts of Data Collections [Updates]:</b><br>
-- Twitter: 985,400 Tweets and 275,567 Accounts Jan 2018-April 2021, (2) Over 880,000 Tweets of Top Users, (3) ___ Retweets, Links
+- Twitter: 985,400 Tweets and 275,567 Accounts Jan 2018-April 2021, (2) Over 880,000 Tweets of Top Users, (3) 142K+ Retweets, Links
 - Reddit: 164,530 Contributions, 15,896 Submissions, 71,319 Accounts, Links
 - Instagram: 1,751,113 Comments, 193,967 Posts, 717,311 Accounts (Posts made by 36,137 accounts and 681,174 commented), Links
 - YouTube: (1) 1,693,341 Comments, 6,893 Videos (with dislike ratios), 1,152,868 Accounts, Cross-Platform Links
 - Change.org: 27,238 Comments, 181 Petitions, 18,908 Milestones, Cross-Platform Links
-- Facebook: Page Comments and Reviews, ___ Links Groups for Cross-Platforms 
+- Facebook: Page Comments and Reviews, Links in Groups for Cross-Platforms 
 - Crossplatform for Groups in Facebook, Reddit, and Channels of YouTube<br>
 
 <b>Index and Contents:<br></b>
@@ -32,6 +32,7 @@ This is the most detailed public analysis of a disinformation operation and the 
 <br>Repeated Texts with Timings, Multiple Accounts, and Community Detection
 <br>Coordination and Gamifications
 <br>Threat Analysis and Negative Texts Heat Maps
+<br>Timeline Correlations
 <br>Likes/Dislikes, UpScores/DownScores, BotScores
 <br>Links Analysis, Urls, and NLP Analysis Cross-Platforms</i>
 - <b>Anomalies and Comparisons</b>
@@ -70,16 +71,16 @@ All collaborators, researchers, and observers are required to sign, acknowledge,
 <br>
 
 <b>Data Samples [Updates]:</b><br>
-- 5K Tweets of Twitter and Listed Accounts
-- 5K Contributions of Reddit and Listed Accounts
-- 5K Comments of Instagram and Listed Accounts
-- 5K Comments of Change.org, 18908 Milestones, and 181 Petitions Data
-- YouTube Videos Data, 5K Comments of YouTube, "Adapt & Survive" 130K Comments, Listed Accounts
 - 5 Months of Data for Cross-Platform Analysis
+- 307,649 Tweets of Twitter and All Listed Accounts
+- 43,509 Contributions of Reddit and All Listed Accounts
+- 394,237 Comments of Instagram and All Listed Accounts
+- 28,952 Comments of Change.org, 18,908 Milestones, and 181 Petitions Data
+- 6893 YouTube Videos Data, 424,457 Comments of YouTube, "Adapt & Survive" 130K Comments, All Listed Accounts
 - 5.9K+ Labeled NLU Data of Support, Defense, Compliments/Offense and Training Data
 - Threat Analysis Data and NLU Test Data for Instagram, Reddit, and Twitter
 - Anomolies Data Samples
-- Links/URLs Lists of comments/postings of Instagram, YouTube, Twitter, and Reddit
+- Links/URLs Lists of comments/postings of Instagram, YouTube, Twitter, Reddit, Change.org
 - 10,168 Compliments of Amber Heard from NLG Prompts
 
 
