@@ -83,8 +83,6 @@ All collaborators, researchers, and observers are required to sign, acknowledge,
 - 10,168 Compliments of Amber Heard from NLG Prompts
 - Links/URLs Lists of comments/postings of Instagram, YouTube, Twitter, Reddit, Change.org
 
-
-
 <b>Cross-Platforms Analysis:</b><br>
 Analysis is in-progress and more will be added after published research papers for researcher privacy.
 <br><i>Data of 5 months of December 2020 to April 2021 is provided for open peer-review and research studies.</i>
@@ -126,7 +124,6 @@ Worldwide Data Scientists, Researchers in Cyber Intelligence, PhDs, and Data Ana
 Objective	Tactical (short-term):	situational assessment	- situation awareness<br>
 Strategic (long-term):	sensemaking -	understanding<br>
 Scientific (longer-term):	analysis	- prediction<br></i>
-<br>
 
 <b>Researchers:</b><br>
 <b>We welcome Researchers to work with this Data on Amber Heard to create Blueprints on how Bots and Disinformation/Influence Operations work. </b>
