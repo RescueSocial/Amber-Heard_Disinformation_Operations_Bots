@@ -29,7 +29,7 @@ This is the most detailed public analysis of a disinformation operation and the 
 <br>Timings, Graphs, Bot Networks, NLP/NLU and Sentiment Analysis
 <br>Banned, New, Unverified Account Layers
 <br>Investigations of Peaks, Accounts, Comments, Postings
-<br>Repeated Texts with Timings, Multiple Accounts, and Community Detection
+<br>Repeated Texts with Timings, Multiple Accounts, Community Detection
 <br>Coordination and Gamifications
 <br>Timeline Correlations
 <br>Threat Analysis and Negative Texts Heat Maps
@@ -76,7 +76,7 @@ All collaborators, researchers, and observers are required to sign, acknowledge,
 - 43,509 Contributions of Reddit and All Listed Accounts
 - 394,237 Comments of Instagram and All Listed Accounts
 - 28,952 Comments of Change.org, 18,908 Milestones, and 181 Petitions Data
-- 6893 YouTube Videos Data, 424,457 Comments of YouTube, "Adapt & Survive" 130K Comments, All Listed Accounts
+- 6,893 YouTube Videos Data, 424,457 Comments of YouTube, "Adapt & Survive" 130K Comments, All Listed Accounts
 - 5.9K+ Labeled NLU Data of Support, Defense, Compliments/Offense and Training Data
 - Threat Analysis Data and NLU Test Data for Instagram, Reddit, and Twitter
 - Anomolies Data Samples
@@ -88,7 +88,7 @@ All collaborators, researchers, and observers are required to sign, acknowledge,
 <b>Cross-Platforms Analysis:</b><br>
 Analysis is in-progress and more will be added after published research papers for researcher privacy.
 <br><i>Data of 5 months of December 2020 to April 2021 is provided for open peer-review and research studies.</i>
-<br>Note: Peaks, Heat Maps of threats, coordinated bot activities, repeated same texts, and more anomalies show for 2018-2022, especially February 2020 onward as seen in analysis files.
+<br>Note: Peaks, Heat Maps of threats, coordinated bot activities, repeated same texts, and more anomalies show for 2018-2022 continuing, especially February 2020 onward as seen in analysis files.
 
 <i>The Academic API was used for Retweets and <a href="https://InformationTracer.com">InformationTracer</a> for CrowdTangle API.</i><br>
 
