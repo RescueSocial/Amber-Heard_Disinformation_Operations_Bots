@@ -86,7 +86,7 @@ All collaborators, researchers, and observers are required to sign, acknowledge,
 
 <b>Cross-Platforms Analysis:</b><br>
 Analysis is in-progress and more will be added after published research papers for researcher privacy.
-<br><i>Data of 5 months of December 2020 and April 2021 is provided for open peer-review and research studies. </i>
+<br><i>Data of 5 months of December 2020 to April 2021 is provided for open peer-review and research studies.</i>
 <br>Note: Peaks, Heat Maps of threats, botnets, and more anomalies show for 2018-2022, especially Feb 2020 onward as seen in analysis files.
 
 <i>The Academic API was used for Retweets and <a href="https://InformationTracer.com">InformationTracer</a> for CrowdTangle API.</i><br>
