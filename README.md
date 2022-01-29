@@ -18,7 +18,7 @@ This is the most detailed public analysis of a disinformation operation and the 
 - Reddit: 164,530 Contributions, 15,896 Submissions, 71,319 Accounts, Links
 - Instagram: 1,751,113 Comments, 193,967 Posts, 717,311 Accounts (Posts made by 36,137 accounts and 681,174 commented), Links
 - YouTube: (1) 1,693,341 Comments, 6,893 Videos (with dislike ratios), 1,152,868 Accounts, Cross-Platform Links
-- Change.org: 27,238 Comments, 181 Petitions, 18,908 Milestones, Cross-Platform Links
+- Change.org: 28,952 Comments, 181 Petitions, 18,908 Milestones, Cross-Platform Links
 - Facebook: Page Comments and Reviews, Links in Groups for Cross-Platforms 
 - Crossplatform for Groups in Facebook, Reddit, and Channels of YouTube<br>
 
@@ -31,9 +31,9 @@ This is the most detailed public analysis of a disinformation operation and the 
 <br>Investigations of Peaks, Accounts, Comments, Postings
 <br>Repeated Texts with Timings, Multiple Accounts, and Community Detection
 <br>Coordination and Gamifications
-<br>Threat Analysis and Negative Texts Heat Maps
 <br>Timeline Correlations
-<br>Likes/Dislikes, UpScores/DownScores, BotScores
+<br>Threat Analysis and Negative Texts Heat Maps
+<br>Metrics, Likes/Dislikes, UpScores/DownScores, BotScores
 <br>Links Analysis, Urls, and NLP Analysis Cross-Platforms</i>
 - <b>Anomalies and Comparisons</b>
 - <b>Reports on Analysis and Platforms:</b>
