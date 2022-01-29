@@ -77,10 +77,10 @@ All collaborators, researchers, and observers are required to sign, acknowledge,
 - 394,237 Comments of Instagram and All Listed Accounts
 - 28,952 Comments of Change.org, 18,908 Milestones, and 181 Petitions Data
 - 6,893 YouTube Videos Data, 424,457 Comments of YouTube, "Adapt & Survive" 130K Comments, All Listed Accounts
-- 5.9K+ Labeled NLU Data of Support, Defense, Compliments/Offense and Training Data
+- 5.9K+ Labeled NLU Data of Support, Defense, Compliments, and Training Data
 - Threat Analysis Data and NLU Test Data for Instagram, Reddit, and Twitter
 - Anomolies Data Samples
-- 10,168 Compliments of Amber Heard from NLG Prompts
+- 10,168 Compliments of Amber Heard from AI NLG Prompts
 - Links/URLs Lists of comments/postings of Instagram, YouTube, Twitter, Reddit, Change.org
 
 <b>Cross-Platforms Analysis:</b><br>
