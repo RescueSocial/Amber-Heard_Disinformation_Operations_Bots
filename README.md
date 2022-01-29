@@ -31,7 +31,6 @@ This is the most detailed public analysis of a disinformation operation and the 
 <br>Investigations of Peaks, Accounts, Comments, Postings
 <br>Repeated Texts with Timings, Multiple Accounts, Community Detection
 <br>Coordination and Gamifications
-<br>Timeline Correlations
 <br>Threat Analysis and Negative Texts Heat Maps
 <br>Metrics, Likes/Dislikes, UpScores/DownScores, BotScores
 <br>Links Analysis, Urls, and NLP Analysis Cross-Platforms</i>
@@ -46,7 +45,7 @@ This is the most detailed public analysis of a disinformation operation and the 
 - <b>NLU Classifications, Monitoring, AI</b>
 - <b>Positive NLG Compliments, Prompts, AI</b>
 - <b>Analysis Guides</b>
-- <b>Background</b>
+- <b>Background</b> - Timeline Correlations
 
 <b>Positive NLG, Natural Language Generation - Compliments Prompt:</b><br>
 Compliments Generation on Amber Heard based on Jason Momoa<br>
