@@ -11,7 +11,7 @@ Data collected on Amber Heard is primarily related to the years 2018-2021, ongoi
 This is the most detailed public analysis of a disinformation operation and the most voluminous yet - showing the impact of <a href="https://www.brookings.edu/research/the-breakout-scale-measuring-the-impact-of-influence-operations"><i>Category 6</a> influence.</b></i> This work is in-progress and prepared for peer-review. 
 
 <b>Our Purpose is to create precedents and foundations to help other victims of cyberabuse, bots, domestic abuse, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a>, hostile environments, and Disinformation Operations</b>. 
-<br>We want to save lives and help partners create systems to help online - including specialized and accurate rescue, quality custom studies, data analysis, Social Network Analysis, forensics, research, situation awareness, and rescue/public safety technologies - <i>with focus on the victim primarily and <b>her environment</b></i>. 
+<br>We want to save lives and help partners create systems to help online - including with specialized and accurate rescue, quality custom studies, data analysis, Social Network Analysis, forensics, research, situation awareness, data science projects, and rescue/public safety technologies - <i>with focus on the victim primarily and <b>her environment</b></i>. 
 
 <b>Amounts of Data Collections [Updates]:</b><br>
 - Twitter: 985,400 Tweets and 275,567 Accounts Jan 2018-April 2021, (2) Over 880,000 Tweets of Top Users, (3) 142K+ Retweets, Links
