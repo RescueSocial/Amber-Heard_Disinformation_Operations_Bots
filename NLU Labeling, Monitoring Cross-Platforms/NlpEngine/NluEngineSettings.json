@@ -1,0 +1,19 @@
+{
+    "job_settings":{
+        "monitoringgaps":100
+    },
+    "job_settings_win": {
+        "monitoringgaps":100,
+        "workedPath":"",
+        "sourcePath":"\\..\\backend\\nlpengine\\nlp_channel\\input\\",
+        "resultPath":"\\..\\backend\\nlpengine\\nlp_channel\\output\\",
+        "backupPath":"\\..\\backend\\nlpengine\\nlp_channel\\backup\\"
+    },
+    "job_settings_linux": {
+        "monitoringgaps":100,
+        "workedPath":"/var/www/html/botsworldieBackend/NlpEngine/",
+        "sourcePath":"/../backend/nlpengine/nlp_channel/input/",
+        "resultPath":"/../backend/nlpengine/nlp_channel/output/",
+        "backupPath":"/../backend/nlpengine/nlp_channel/backup/"
+    }
+}
