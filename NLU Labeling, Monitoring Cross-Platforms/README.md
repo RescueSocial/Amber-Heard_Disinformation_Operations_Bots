@@ -39,7 +39,7 @@ There is an NLU dashboard tester using the api for the trained NLU.
 - 2nd Requirements file included
 
 Version NLU Trained on Data from: Twitter, Facebook, Change.org primarily with some YouTube and Reddit
-1. First example (old nlpengine) is 2 classifications only of love or hate - quickly seen as not accurate and to move to an offense, defense, support strategy
+1. First example (old nlpengine) is 2 classifications only of love or hate - quickly seen as not accurate and to move to an offense, defense, support strategy with multiclassification 
 2. Second example, more accurate for nlp engine is multiclassifier - support, defense, offense, defense_against (focused on victim - target of operations) - trained on 12.4K texts
 <br><i>Supporters both support and defend. Offenders offend and defense_against. Offense is purely harmful towards her while defense_against includes support of her adversary.</i>
 
