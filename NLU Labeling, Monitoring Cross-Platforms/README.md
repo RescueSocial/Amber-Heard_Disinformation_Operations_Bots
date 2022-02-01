@@ -11,7 +11,7 @@ Natural Language Understanding, Processing, and Sentiment Testing across social 
 <br>Dashboard files show of using program to run the monitoring bot. Monitoring js files are included.
 - In context of domestic abuse, it's important to show what is supportive and positive in relationships through support, defense, compliments, and love texts. <i>The adversiarial framework of operations or tactic strategy is further a layer. </i>
 - Papers are provided under Guides to NLU and "Studying Technologies" in Background - Preliminary Effects folder. E.g., Argumentation research and Logic.
-<br><a href="https://www.chess.com/article/view/chess-tactics">Chess-Tactics</a> - however, in dynamic context of coercive control or warfare-operations.
+<br><a href="https://www.chess.com/article/view/chess-tactics">Chess-Tactics</a> - however, in dynamic context of coercive control or warfare-operations. Our goal is to mitigate the operations.
 
 <b>Natural Language Understanding:</b>
 - A BERT File under config shows BERT for Amber Heard NLP training
