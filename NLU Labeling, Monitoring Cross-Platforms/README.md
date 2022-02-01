@@ -23,6 +23,8 @@ Natural Language Understanding, Processing, and Sentiment Testing across social 
 - There are monitoring pages, showing how the crawler monitors while classifying and storing the texts in a database
 
 There is an NLU dashboard tester using the api for the trained NLU.
+The API uses Postman.
+Processing Bot code and testing result with a video is added.
 
 <b>Requirements of NluEngine:</b>
 - pytorch-lightning >= 0.9.0
