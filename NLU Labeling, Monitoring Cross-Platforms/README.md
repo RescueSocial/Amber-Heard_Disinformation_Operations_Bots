@@ -4,12 +4,12 @@ Natural Language Understanding, Processing, and Sentiment Testing across social 
 - Twitter, Reddit. Instagram, YouTube, Change.org, Facebook
 
 <i>Data used in NLU Testing Analysis is in /Testing Data folder</i>
-Dashboard files show of using programs to run the monitoring bot. Monitoring js files are included.
+<br>Dashboard files show of using programs to run the monitoring bot. Monitoring js files are included.
 
 <b>Natural Language Understanding:</b>
 - A BERT File under config shows BERT for Amber Heard NLP training
-- There are Dashboard code files in Javascript. The requirements are Reactjs, javascript, and Django languages
-- Package examples and how to train NLU is included
+- There are Dashboard code files in Javascript. The requirements are Reactjs, Javascript, and Django languages
+- Package examples and how to train NLU is included - e.g., <a href="https://www.nltk.org/">nltk_data</a>
 - Supporters and Offenders are marked by the numbers of tweets using the NLU classifications
 
 There is an NLU dashboard tester using the api for the trained NLU.
