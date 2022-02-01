@@ -9,6 +9,7 @@ Natural Language Understanding, Processing, and Sentiment Testing across social 
 
 <i>Data used in NLU Testing Analysis is in /Testing Data folder</i>
 <br>Dashboard files show of using programs to run the monitoring bot. Monitoring js files are included.
+- In context of domestic abuse, it's important to show what is supportive and positive in relationships through support, defense, compliments, and love texts. <i>The adversiarial framework of operations or tactic strategy is further a layer. </i>
 
 <b>Natural Language Understanding:</b>
 - A BERT File under config shows BERT for Amber Heard NLP training
@@ -36,5 +37,5 @@ Version NLU Trained on Data from: Twitter, Facebook, Change.org primarily with s
 3. Second example, more accurate for nlp engine is multiclassifier - support, defense, offense, defense_against (focused on victim - target of operations) - trained on 12.4K texts
 
 <b>Monitoring is easier than responding with NLG,</b> hence, 'like-bots' are easier to create, and there are many of them. They sometimes do classification mistakes, creating preliminary precedence for gamification analysis of them and reverse engineering.
-- In context of domestic abuse, it's important to show what is supportive and positive in relationships through support, defense, compliments, and love texts. <i>The adversiarial framework of operations or tactic strategy is further a layer. </i>
+
 - This is under Natural Language Understanding, deeper than NLP and using Artificial Intelligence training on a GPU
