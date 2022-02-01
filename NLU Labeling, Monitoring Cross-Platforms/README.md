@@ -29,7 +29,7 @@ There is an NLU dashboard tester using the api for the trained NLU.
 
 Version NLU Trained on Data from: Twitter, Facebook, Change.org primarily with some YouTube and Reddit
 1. First example (old nlpengine) is 2 classifications only of love or hate - quickly seen as not accurate and to move to an offense, defense, support strategy
-3. Second example, more accurate for nlp engine is multiclassifier - support, offense, defense, defense_against (focused on victim - target of operations)
+3. Second example, more accurate for nlp engine is multiclassifier - support, offense, defense, defense_against (focused on victim - target of operations) - trained on 12.4K texts
 
 Monitoring is easier than responding with NLG, hence, 'like-bots' are easier to create, and there are many of them. They sometimes do classification mistakes, creating preliminary precedence for gamification analysis of them and reverse engineering.
 - This is under Natural Language Understanding, deeper than NLP and using artificial intelligence training on a GPU
