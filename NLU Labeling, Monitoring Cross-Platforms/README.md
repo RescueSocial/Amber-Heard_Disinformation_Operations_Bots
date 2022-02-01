@@ -2,7 +2,7 @@
 Natural Language Understanding, Processing, and Sentiment Testing across social media platforms on Amber Heard data using Scientific Methods. <br><b>NLU engines, monitoring, classifications, training.</b>
 
 - Twitter, Reddit. Instagram, YouTube, Change.org, Facebook
-- Mainy Support and Defense Data included, Compliments, Love Data for training NLU - including 5.9K of 12.4K labeled files
+- Mainy Support and Defense Data included, as well as Compliments, Love Data for training NLU - including 5.9K of 12.4K labeled files
 - Monitoring and Dashboards included
 - Instagram threat analysis includes Both Crime | Human Trafficking words analysis
 - Testing data is flooded with harms 
