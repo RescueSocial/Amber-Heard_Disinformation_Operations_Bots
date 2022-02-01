@@ -34,4 +34,4 @@ Version NLU Trained on Data from: Twitter, Facebook, Change.org primarily with s
 3. Second example, more accurate for nlp engine is multiclassifier - support, offense, defense, defense_against (focused on victim - target of operations) - trained on 12.4K texts
 
 Monitoring is easier than responding with NLG, hence, 'like-bots' are easier to create, and there are many of them. They sometimes do classification mistakes, creating preliminary precedence for gamification analysis of them and reverse engineering.
-- This is under Natural Language Understanding, deeper than NLP and using artificial intelligence training on a GPU
+- This is under Natural Language Understanding, deeper than NLP and using Artificial Intelligence training on a GPU
