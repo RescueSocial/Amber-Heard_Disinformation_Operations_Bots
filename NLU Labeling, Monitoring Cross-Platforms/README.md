@@ -11,7 +11,7 @@ Natural Language Understanding, Processing, and Sentiment Testing across social 
 - There are Dashboard code files in Javascript. The requirements are Reactjs, Javascript, and Django languages
 - Package examples and how to train NLU is included - e.g., <a href="https://www.nltk.org/">nltk_data</a>
 - Supporters and Offenders are marked by the numbers of tweets using the NLU classifications
-- There are monitoring pages, showing how the crawler monitors 
+- There are monitoring pages, showing how the crawler monitors while classifying and storing the texts in a database
 
 There is an NLU dashboard tester using the api for the trained NLU.
 
@@ -30,5 +30,6 @@ There is an NLU dashboard tester using the api for the trained NLU.
 Version NLU Trained on Data from: Twitter, Facebook, Change.org primarily with some YouTube and Reddit
 1. First example (old nlpengine) is 2 classifications only of love or hate - quickly seen as not accurate and to move to an offense, defense, support strategy
 3. Second example, more accurate for nlp engine is multiclassifier - support, offense, defense, defense_against (focused on victim - target of operations)
-<br>Monitoring is easier than responding with NLG, hence, 'like-bots' are easier to create, and there are many of them. They sometimes do classification mistakes, creating preliminary precedence for gamification analysis of them and reverse engineering.
+<br><br>
+Monitoring is easier than responding with NLG, hence, 'like-bots' are easier to create, and there are many of them. They sometimes do classification mistakes, creating preliminary precedence for gamification analysis of them and reverse engineering.
 - This is under Natural Language Understanding, deeper than NLP and using artificial intelligence training on a GPU
