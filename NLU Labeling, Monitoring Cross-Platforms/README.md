@@ -7,9 +7,6 @@ Natural Language Understanding, Processing, and Sentiment Testing across social 
 4. YouTube
 5. Change.org
 6. Facebook
-
-Version NLU Trained on data from: Twitter, Facebook, Change.org primarily with some YouTube and Reddit
-
 <b>NLU engines, monitoring, classifications, training.</b>
 
 <i>Data used in NLU Testing Analysis is in /Testing Data folder</i>
@@ -35,3 +32,5 @@ scikit-learn >= 0.23.2
 datasets >= 1.0.2
 tqdm == 4.41.0
 sentencepiece >= 0.1.94
+
+Version NLU Trained on Data from: Twitter, Facebook, Change.org primarily with some YouTube and Reddit
