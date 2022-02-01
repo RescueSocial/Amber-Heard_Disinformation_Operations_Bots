@@ -2,7 +2,7 @@
 Natural Language Understanding, Processing, and Sentiment Testing across social media platforms on AH data using Scientific Methods. <br><b>NLU engines, monitoring, classifications, training.</b>
 
 - Twitter, Reddit. Instagram, YouTube, Change.org, Facebook
-- Mainy only Support, Defense Data included
+- Mainy Support, Defense Data included, then testing data which is flooded with harms 
 
 <i>Data used in NLU Testing Analysis is in /Testing Data folder</i>
 <br>Dashboard files show of using programs to run the monitoring bot. Monitoring js files are included.
