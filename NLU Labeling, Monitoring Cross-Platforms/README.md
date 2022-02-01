@@ -3,6 +3,7 @@ Natural Language Understanding, Processing, and Sentiment Testing across social 
 
 - Twitter, Reddit. Instagram, YouTube, Change.org, Facebook
 - Mainy Support and Defense Data included, then testing data which is flooded with harms 
+- Instagram threat analysis includes: Both Crime | Human Trafficking analysis
 
 <i>Data used in NLU Testing Analysis is in /Testing Data folder</i>
 <br>Dashboard files show of using programs to run the monitoring bot. Monitoring js files are included.
