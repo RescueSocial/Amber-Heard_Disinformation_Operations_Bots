@@ -11,6 +11,7 @@ Natural Language Understanding, Processing, and Sentiment Testing across social 
 - There are Dashboard code files in Javascript. The requirements are Reactjs, Javascript, and Django languages
 - Package examples and how to train NLU is included - e.g., <a href="https://www.nltk.org/">nltk_data</a>
 - Supporters and Offenders are marked by the numbers of tweets using the NLU classifications
+- There are monitoring pages, showing how the crawler monitors 
 
 There is an NLU dashboard tester using the api for the trained NLU.
 
