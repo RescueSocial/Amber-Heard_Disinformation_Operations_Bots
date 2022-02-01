@@ -1,12 +1,7 @@
 # SNA-AH-NLU-Labeling-Cross-Platforms
 Natural Language Understanding, Processing, and Sentiment Testing across social media platforms on AH data using Scientific Methods
 
-1. Twitter
-2. Reddit
-3. Instagram
-4. YouTube
-5. Change.org
-6. Facebook
+- Twitter, Reddit. Instagram, YouTube, Change.org, Facebook
 <br><b>NLU engines, monitoring, classifications, training.</b>
 
 <i>Data used in NLU Testing Analysis is in /Testing Data folder</i>
@@ -21,15 +16,16 @@ Dashboard files show of using programs to run the monitoring bot. Monitoring js 
 There is an NLU dashboard tester using the api for the trained NLU.
 
 <b>Requirements of NluEngine:</b>
-pytorch-lightning >= 0.9.0
-torch >= 1.7.0
-transformers >= 3.2.0
-kaggle >= 1.5.8
-pandas >= 1.1.2
-scikit-learn >= 0.23.2
-datasets >= 1.0.2
-tqdm == 4.41.0
-sentencepiece >= 0.1.94
+- pytorch-lightning >= 0.9.0
+- torch >= 1.7.0
+- transformers >= 3.2.0
+- kaggle >= 1.5.8
+- pandas >= 1.1.2
+- scikit-learn >= 0.23.2
+- datasets >= 1.0.2
+- tqdm == 4.41.0
+- sentencepiece >= 0.1.94
+- 2nd Requirements file included
 
 Version NLU Trained on Data from: Twitter, Facebook, Change.org primarily with some YouTube and Reddit
 1. First example (old nlpengine) is 2 classifications only of love or hate - quickly seen as not accurate and to move to an offense, defense, support strategy
