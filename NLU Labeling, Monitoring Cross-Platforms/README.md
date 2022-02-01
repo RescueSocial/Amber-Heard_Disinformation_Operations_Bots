@@ -4,9 +4,9 @@ Natural Language Understanding, Processing, and Sentiment Testing across social 
 
 
 - Twitter, Reddit. Instagram, YouTube, Change.org, Facebook
-- Mainy Support and Defense Data included, as well as Compliments, Love Data for training NLU - including 5.9K of 12.4K labeled files
+- <b>Mainy Support and Defense Data included, as well as Compliments, Love Data for training NLU - including 5.9K of 12.4K labeled files</b>
 - Monitoring and Dashboards included
-- Instagram threat analysis includes Both <a href="https://myvocabulary.com/word-list/crime-vocabulary">Crime</a> | <a href="https://myvocabulary.com/word-list/human-trafficking-vocabulary">Human Trafficking</a> words analysis
+- Instagram threat analysis includes Both <a href="https://myvocabulary.com/word-list/crime-vocabulary">Crime</a> | <a href="https://myvocabulary.com/word-list/human-trafficking-vocabulary">Human Trafficking</a> words analysis in NLU
 - Testing data is flooded with harms 
 
 <i><b>Labels are:</b> support, defense, offense, defense_against (focused on victim - target of operations)</i>
