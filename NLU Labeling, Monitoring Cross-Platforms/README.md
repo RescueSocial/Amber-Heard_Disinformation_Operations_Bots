@@ -5,6 +5,7 @@ Natural Language Understanding, Processing, and Sentiment Testing across social 
 - Mainy Support and Defense Data included, Compliments, Love Data for training NLU - including 5.9K of 12.4K labeled files
 - Monitoring and Dashboards included
 - Instagram threat analysis includes Both Crime | Human Trafficking words analysis
+In context of domestic abuse, it's important to show what is supportive and positive in relationships through support, defense, compliments, and love texts.
 - Testing data is flooded with harms 
 
 <i>Data used in NLU Testing Analysis is in /Testing Data folder</i>
