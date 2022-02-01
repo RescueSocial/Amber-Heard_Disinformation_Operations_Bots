@@ -19,7 +19,7 @@ Natural Language Understanding, Processing, and Sentiment Testing across social 
 - A BERT File under config shows BERT for Amber Heard NLP training
 - There are Dashboard code files in Javascript. The requirements are Reactjs, Javascript, and Django languages
 - Package examples and how to train NLU is included - e.g., <a href="https://www.nltk.org/">nltk_data</a>
-- Supporters and Offenders are marked by the numbers of tweets using the NLU classifications
+- Supporters and Offenders are marked by the numbers of tweets using the NLU classifications <i>(Supporters both support and defend, Offenders offend and defense_against)</i>
 - There are monitoring pages, showing how the crawler monitors while classifying and storing the texts in a database
 
 There is an NLU dashboard tester using the api for the trained NLU.
@@ -45,4 +45,4 @@ Version NLU Trained on Data from: Twitter, Facebook, Change.org primarily with s
 <b>Monitoring is easier than responding with NLG,</b> hence, 'like-bots' are easier to create, and there are many of them. They sometimes do classification mistakes, creating preliminary precedence for gamification analysis of them and reverse engineering.
 
 <b>- This is under Natural Language Understanding, deeper than NLP and using Artificial Intelligence training on a GPU</b>
-<br>A further development would be multi-agent modeling and creating simulations with 'action-trees' of perpetrators and victim, supporters and offenders.
+<br><i>A further development would be multi-agent modeling and creating simulations with 'action-trees' of perpetrators and victim, supporters and offenders.</i>
