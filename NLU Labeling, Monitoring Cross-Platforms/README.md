@@ -45,3 +45,4 @@ Version NLU Trained on Data from: Twitter, Facebook, Change.org primarily with s
 <b>Monitoring is easier than responding with NLG,</b> hence, 'like-bots' are easier to create, and there are many of them. They sometimes do classification mistakes, creating preliminary precedence for gamification analysis of them and reverse engineering.
 
 <b>- This is under Natural Language Understanding, deeper than NLP and using Artificial Intelligence training on a GPU</b>
+<br>A further development would be multi-agent modeling and creating simulations with 'action-trees' of perpetrators and victim, supporters and offenders.
