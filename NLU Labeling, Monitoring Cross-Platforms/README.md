@@ -24,7 +24,7 @@ Natural Language Understanding, Processing, and Sentiment Testing across social 
 
 There is an NLU dashboard tester using the api for the trained NLU.
 The API uses Postman.
-Processing Bot code and testing result with a video is added.
+<b>Pre-Processing Bot code to extract text from images and testing the results with a video is added.</b>
 
 <b>Requirements of NluEngine:</b>
 - pytorch-lightning >= 0.9.0
