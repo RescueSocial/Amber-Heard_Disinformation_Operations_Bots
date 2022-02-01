@@ -1,5 +1,5 @@
 # SNA-AH-NLU-Labeling-Cross-Platforms
-Natural Language Understanding, Processing, and Sentiment Testing across social media platforms on Amber Heard data using Scientific Methods. <br><b>NLU engines, monitoring, classifications, training.</b>
+Natural Language Understanding, Processing, and Sentiment Testing across social media platforms on Amber Heard data using Scientific Methods. Analysis Testing and Data. <br><b>NLU engines, monitoring, classifications, training.</b>
 
 - Twitter, Reddit. Instagram, YouTube, Change.org, Facebook
 - Mainy Support and Defense Data included, as well as Compliments, Love Data for training NLU - including 5.9K of 12.4K labeled files
