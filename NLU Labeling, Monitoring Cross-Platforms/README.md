@@ -7,7 +7,7 @@ Natural Language Understanding, Processing, and Sentiment Testing across social 
 - Instagram threat analysis includes Both Crime | Human Trafficking words analysis
 - Testing data is flooded with harms 
 
-Labels are: support, defense, offense, defense_against (focused on victim - target of operations)
+<i><b>Labels are:</b> support, defense, offense, defense_against (focused on victim - target of operations)</i>
 
 <i>Data used in NLU Testing Analysis is in /Testing Data folder</i>
 <br>Dashboard files show of using program to run the monitoring bot. Monitoring js files are included.
