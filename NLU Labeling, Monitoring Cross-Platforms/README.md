@@ -5,7 +5,6 @@ Natural Language Understanding, Processing, and Sentiment Testing across social 
 - Mainy Support and Defense Data included, Compliments, Love Data for training NLU - including 5.9K of 12.4K labeled files
 - Monitoring and Dashboards included
 - Instagram threat analysis includes Both Crime | Human Trafficking words analysis
-In context of domestic abuse, it's important to show what is supportive and positive in relationships through support, defense, compliments, and love texts.
 - Testing data is flooded with harms 
 
 <i>Data used in NLU Testing Analysis is in /Testing Data folder</i>
@@ -37,4 +36,5 @@ Version NLU Trained on Data from: Twitter, Facebook, Change.org primarily with s
 3. Second example, more accurate for nlp engine is multiclassifier - support, defense, offense, defense_against (focused on victim - target of operations) - trained on 12.4K texts
 
 <b>Monitoring is easier than responding with NLG,</b> hence, 'like-bots' are easier to create, and there are many of them. They sometimes do classification mistakes, creating preliminary precedence for gamification analysis of them and reverse engineering.
+<br>In context of domestic abuse, it's important to show what is supportive and positive in relationships through support, defense, compliments, and love texts.
 - This is under Natural Language Understanding, deeper than NLP and using Artificial Intelligence training on a GPU
