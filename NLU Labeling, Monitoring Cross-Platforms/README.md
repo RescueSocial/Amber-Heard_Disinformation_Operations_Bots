@@ -19,7 +19,7 @@ Natural Language Understanding, Processing, and Sentiment Testing across social 
 - A BERT File under config shows BERT for Amber Heard NLP training
 - There are Dashboard code files in Javascript. The requirements are Reactjs, Javascript, and Django languages
 - Package examples and how to train NLU is included - e.g., <a href="https://www.nltk.org/">nltk_data</a>
-- Supporters and Offenders are marked by the numbers of tweets using the NLU classifications <i>(Supporters both support and defend, Offenders offend and defense_against)</i>
+- Supporters and Offenders are marked by the numbers of tweets using the NLU classifications
 - There are monitoring pages, showing how the crawler monitors while classifying and storing the texts in a database
 
 There is an NLU dashboard tester using the api for the trained NLU.
@@ -40,7 +40,8 @@ There is an NLU dashboard tester using the api for the trained NLU.
 
 Version NLU Trained on Data from: Twitter, Facebook, Change.org primarily with some YouTube and Reddit
 1. First example (old nlpengine) is 2 classifications only of love or hate - quickly seen as not accurate and to move to an offense, defense, support strategy
-3. Second example, more accurate for nlp engine is multiclassifier - support, defense, offense, defense_against (focused on victim - target of operations) - trained on 12.4K texts
+2. Second example, more accurate for nlp engine is multiclassifier - support, defense, offense, defense_against (focused on victim - target of operations) - trained on 12.4K texts
+<br><i>(Supporters both support and defend, Offenders offend and defense_against)</i>
 
 <b>Monitoring is easier than responding with NLG,</b> hence, 'like-bots' are easier to create, and there are many of them. They sometimes do classification mistakes, creating preliminary precedence for gamification analysis of them and reverse engineering.
 
