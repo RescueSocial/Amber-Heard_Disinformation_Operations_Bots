@@ -2,7 +2,7 @@
 Natural Language Understanding, Processing, and Sentiment Testing across social media platforms on AH data using Scientific Methods. <br><b>NLU engines, monitoring, classifications, training.</b>
 
 - Twitter, Reddit. Instagram, YouTube, Change.org, Facebook
-- Mainy Support and Defense Data included, Compliments, Love Data
+- Mainy Support and Defense Data included, Compliments, Love Data for training NLU
 - Instagram threat analysis includes: Both Crime | Human Trafficking words analysis
 - Testing data is flooded with harms 
 
