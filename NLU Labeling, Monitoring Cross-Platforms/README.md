@@ -1,6 +1,6 @@
 # SNA-AH-NLU-Labeling-Cross-Platforms
 <b>Natural Language Understanding, Processing, and Sentiment Testing across social media platforms on Amber Heard data using Scientific Methods - <i>NLU engines, monitoring, classifications, training.</i></b>
-<br><b><i>Classifying Texts and Accounts</b></i> - 
+<br><b><i>Classifying Texts and Accounts in Operations</b></i> - 
 <br>Automatic programs label help or harm to her using semantics/meaning/NLP of the texts for categories of support, defense, offense, defense_against and label supporters/offenders accounts around her environment.</b>
 <br>-> Threat analysis, negative texts, and specific word filtering related to the disinformation operations is applied in further analysis.
 
@@ -20,7 +20,7 @@
 <br>Dashboard files show of using program to run the monitoring bot. Monitoring js files are included.
 - Papers are provided under Guides to NLU and "Studying Technologies" in Background - Preliminary Effects folder. E.g., Argumentation research and Logic.
 <br>Similar to <a href="https://www.chess.com/article/view/chess-tactics">Chess-Tactics</a>, however, in dynamic context of coercive control or warfare-operations. Our goal is to mitigate the operations.
-<br>We've provided some data on AH's NLU to a Data Science anti-harassment start up understanding gender dynamics. Please contact us if you need more NLU data.
+- We've provided some data on AH's NLU to a Data Science anti-harassment start up understanding gender dynamics. Please contact us if you need more NLU data.
 
 <b>Natural Language Understanding:</b>
 - A BERT File under config shows <a href="https://github.com/google-research/bert">BERT</a> for Amber Heard NLP training
