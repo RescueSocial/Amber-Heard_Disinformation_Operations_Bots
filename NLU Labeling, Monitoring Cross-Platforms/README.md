@@ -8,7 +8,7 @@
 - Monitoring and Dashboards included
 - Instagram threat analysis includes Both <a href="https://myvocabulary.com/word-list/crime-vocabulary">Crime</a> | <a href="https://myvocabulary.com/word-list/human-trafficking-vocabulary">Human Trafficking</a> words analysis with NLU testing
 - Testing data is flooded with harms 
-- High volumes apply - a photo is included of 122K auto-labeled tweets from June 2021 and over tens of thousands of accounts. Increase of volume increases risks and affects wellbeing.
+- High volumes apply: There were 122K auto-labeled tweets from June 2021 and over tens of thousands of accounts. Increase of volume increases risks and affects wellbeing.
 
 <i><b>Labels are:</b> support, defense, offense, defense_against (focused on victim - target of operations)</i>
 
