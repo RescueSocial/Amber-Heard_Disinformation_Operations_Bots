@@ -1,6 +1,6 @@
 # SNA-AH-NLU-Labeling-Cross-Platforms
 <b>Natural Language Understanding, Processing, and Sentiment Testing across social media platforms on Amber Heard data using Scientific Methods - <i>NLU engines, monitoring, classifications, training.</i></b>
-<br><b><i>Classifying Texts and Accounts</b></i> - Automatic programs label help or harm to her using NLP of the texts for categories of support, defense, offense, defense_against and label supporters/offenders accounts around her environment.</b>
+<br><b><i>Classifying Texts and Accounts</b></i> - Automatic program label help or harm to her using NLP of the texts for categories of support, defense, offense, defense_against and label the supporters/offenders accounts around her environment.</b>
 <br>-> Threat analysis, negative texts, and specific word filtering related to the disinformation operations is applied in further analysis.
 
 <b>Data and Analysis of Twitter, Reddit, Instagram, YouTube, Change.org, Facebook</b>
