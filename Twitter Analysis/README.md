@@ -7,7 +7,7 @@
 <br><i><b>-> New accounts created each month and day correlate to peaks on Twitter.</b></i>
 
 Twitter is the most studied platform in the scientific world. After a cyber intelligence researcher collected data with APIs, obtaining analysis on it was relatively fast with previous models already created and high levels of anomalies. 
-- Although YouTube, one of the least studied platforms, has higher volume of accounts and tens of thousands of repeated same texts, and Reddit has 5,025 banned accounts as the most commenting accounts, the operation on Twitter is continual, risk-infused, and dense.
+- Although YouTube, one of the least studied platforms, has higher volume of accounts and tens of thousands of repeated same texts, and Reddit has 5,025 banned accounts as the most contributing accounts, the operation on Twitter is continual, risk-infused, and dense.
 - Understanding AI NLU, monitoring, and NLG with prompts is useful to understand the increased density 2019 onward and data samples.
 
 ### <b>Reports:</b>
