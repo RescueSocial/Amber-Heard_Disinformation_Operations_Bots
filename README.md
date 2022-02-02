@@ -14,7 +14,7 @@ This is the most detailed public analysis of a disinformation operation and the 
 <br>We want to save lives and help partners create systems to help online - including with specialized and accurate rescue, quality custom studies, data analysis, Social Network Analysis, forensics, research, situation awareness, data science projects, and rescue/public safety technologies - <i>with focus on the victim primarily and <b>her environment</b></i>. 
 <br><i>*If file is too large to preview, please download.</i>
 
-<b>Amounts of Data Collections [Updates]:</b><br>
+<b>Amounts of Data Collections [Updates}:</b><br>
 - Twitter: 985,400 Tweets and 275,567 Accounts Jan 2018-April 2021, (2) Over 880,000 Tweets of Top Users, (3) 142K+ Retweets, Links
 - Reddit: 164,530 Contributions, 15,896 Submissions, 71,319 Accounts, Links
 - Instagram: 1,751,113 Comments, 193,967 Posts, 717,311 Accounts (Posts made by 36,137 accounts and 681,174 commented), Links
@@ -23,7 +23,7 @@ This is the most detailed public analysis of a disinformation operation and the 
 - Facebook: Page Comments and Reviews, Links in Groups for Cross-Platforms 
 - Crossplatform for Groups in Facebook, Reddit, and Channels of YouTube<br>
 
-<b>Index and Contents:<br></b>
+### <b>Index and Contents:<br></b>
 <i>Use for Timeline Correlations to Risks and Preliminary Effects</i>
 - <b>Analysis of Social Media Platforms</b> - Complex Study with Detailed Python Notebooks
 <i><br>Twitter, Reddit, Instagram, Change.org, YouTube, Facebook, Cross-Platforms
@@ -57,7 +57,7 @@ Compliments Generation on Amber Heard based on Jason Momoa<br>
 - Code and Demos from AI Researcher at: https://github.com/mullikine/positive-nlg-compliments<br>
 - <a href="https://github.com/semiosis">Semiosis</a> is a free and open-source curation of prompts for OpenAI's GPT-3/Codex, EleutherAI's GPT-j, AlephAlpha's World Model and other language models.<br>
 
-<b>Collaboration:</b> <br>
+### <b>Collaboration:</b> <br>
 If you're a social enterprise, researcher, organization, student, or academic helping female victims of abuse, coercive control, domestic abuse, bots, harassment, or hostile environments - we welcome partnership with you. 
 <br>Our studies and data can be used for Social Network Analysis, Data Analysis, machine learning, Natural Language Processing, artificial intelligence, Data Science labeling, anti-abuse, rescue projects, anti-crime, timelines, OSINT, simulations, and monitoring systems to help other victims and their lives. 
 <br><br>Since this data is high volume about domestic abuse and gender, with an actress and film industry element, it's highly relevant for classification and data science projects on those topics.
@@ -125,9 +125,8 @@ Worldwide Data Scientists, Researchers in Cyber Intelligence, PhDs, and Data Ana
 Objective	Tactical (short-term):	situational assessment	- situation awareness<br>
 Strategic (long-term):	sensemaking -	understanding<br>
 Scientific (longer-term):	analysis	- prediction<br></i>
-<br>
 
-<b>Researchers:</b><br>
+### <b>Researchers:</b><br>
 <b>We welcome Researchers to work with this Data on Amber Heard to create Blueprints on how Bots and Disinformation/Influence Operations work. </b>
 <br>Please ask to collaborate with us for access to more Data at rescuesocial@gmail.com.<br>
 - <i><b>Research and building technologies is ongoing as the operation is Continuing over years and this is a public github example. </b>
