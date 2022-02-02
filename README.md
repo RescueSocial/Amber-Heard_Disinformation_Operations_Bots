@@ -71,7 +71,7 @@ All collaborators, researchers, and observers are required to sign, acknowledge,
 <br><br>We do not include the code or full data to protect individuals in this study and to prevent harmful operations. As a precedent, other researchers and students should use this GitHub and study as a basis for their own social network analysis projects. We draw attention to this project months before in-person appearances for safety.
 <br>
 
-<b>Data Samples [Updates]:</b><br>
+### <b>Data Samples [Updating]:</b><br>
 - 5 Months of Data for Cross-Platform Analysis
 - 307,649 Tweets of Twitter, Texts of Accounts in Coordination, and All Listed Accounts
 - 43,509 Contributions of Reddit and All Listed Accounts
