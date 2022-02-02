@@ -2,7 +2,7 @@
 <b>Natural Language Understanding, Processing, and Sentiment Testing across social media platforms on Amber Heard data using Scientific Methods - <i>NLU/NLP engines, monitoring, classifications, training.</i></b>
 
 <b><i>Classifying Texts and Accounts in Case Study</b></i> - 
-<br>Automatic programs label help or harm to her using NLP of the texts for multiclassifier categories of support, defense, offense, defense_against and label supporters/offenders accounts around her environment.</b>
+<br>Automatic programs label help or harm to her using meaning of the texts for multiclassifier categories of support, defense, offense, defense_against and label supporters/offenders accounts around her environment.</b>
 <br>-> Threat analysis, negative texts, and specific word filtering related to the disinformation operations is applied in further analysis. Wordclouds show patterns across-platforms.
 
 <b>Data and Analysis of Twitter, Reddit, Instagram, YouTube, Change.org, Facebook</b>
