@@ -1,6 +1,6 @@
 # Amber-Heard_Disinformation_Operations_Bots
-### <b><i>Social Network Analysis of Disinformation/Influence Operations and Bots</i> Cross-Platforms on <i>Amber Heard</i>. 
-### <br>Twitter, Reddit, YouTube, Instagram, Change.org, and Facebook for <i>6 Social Media Platforms</i>.</b>
+<b><i>Social Network Analysis of Disinformation/Influence Operations and Bots</i> Cross-Platforms on <i>Amber Heard</i>. 
+<br>Twitter, Reddit, YouTube, Instagram, Change.org, and Facebook for <i>6 Social Media Platforms</i>.</b>
 
 <i><b>Millions of Texts and Accounts were studied for Social Network Analysis.</b></i>
 
