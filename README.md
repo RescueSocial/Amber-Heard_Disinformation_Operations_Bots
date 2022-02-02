@@ -49,7 +49,7 @@ This is the most detailed public analysis of a disinformation operation and the 
 - <b>Analysis Guides</b>
 - <b>Background</b> 
 
-#### <b>Positive NLG - Natural Language Generation - Compliments Prompt:</b><br>
+<b>Positive NLG - Natural Language Generation - Compliments Prompt:</b><br>
 Compliments Generation on Amber Heard based on Jason Momoa<br>
  https://github.com/semiosis/prompts/blob/master/prompts/compliment-generation-based-on-a-celebrity-1.prompt<br>
 - 10,000 Compliments on Amber Heard made in 2 hours: https://asciinema.org/a/w5ayuAEGGpgsxTCKWbAGRPfvZ<br>
