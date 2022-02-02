@@ -15,7 +15,7 @@ This is the most detailed public analysis of a disinformation operation and the 
 <br><i>**If file is too large to preview on Github, please download or preview in this Google Folder.</i>
 
 #### <b>Amounts of Data Collections [Updates]:</b><br>
-- Twitter: 985,400 Tweets and 275,567 Accounts Jan 2018-April 2021, (2) Over 880,000 Tweets of Top Users, (3) 142K+ Retweets, Links
+- Twitter: 985,400 Tweets and 275,567 Accounts Jan 2018-April 2021, (2) Over 880,000 Tweets of Top Users, (3) 200K+ Retweets, Links
 - Reddit: 164,530 Contributions, 15,896 Submissions, 71,319 Accounts, Links
 - Instagram: 1,751,113 Comments, 193,967 Posts, 717,311 Accounts (Posts made by 36,137 accounts and 681,174 commented), Links
 - YouTube: (1) 1,693,341 Comments, 6,893 Videos (with dislike ratios), 1,152,868 Accounts, Cross-Platform Links
