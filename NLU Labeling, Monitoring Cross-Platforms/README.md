@@ -2,6 +2,7 @@
 <b>Natural Language Understanding, Processing, and Sentiment Testing across social media platforms on Amber Heard data using Scientific Methods - </b><i>NLU engines, monitoring, classifications, training.</i>
 <br>Automatic Programs label help or harm to her with semantics/meaning/NLP of the texts of support, defense, offense, defense_against and the supporters/offenders accounts around her environment.</b> 
 <br>- Negative texts, threat analysis, and specific keyword filtering related to the disinformation operations is applied in further analysis.
+- High volumes apply - a photo is included of 122K auto-labeled tweets from April 2021 and over tens of thousands of accounts. Increase of volume increases risks and affects wellbeing.
 
 
 - Twitter, Reddit. Instagram, YouTube, Change.org, Facebook
