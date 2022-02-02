@@ -1,19 +1,19 @@
 # SNA-AH-Case - Twitter 
-<b>Twitter - Social Network Analysis on Amber Heard's Case Example from Data Analysts, Researchers, and Technologists.</b>
+<i><b>Twitter - Social Network Analysis on Amber Heard's Case Example from Data Analysts, Researchers, and Scientists.</b></i>
 
-To get a fuller understanding of the scale of the <a href="https://twitter.com/benimmo/status/1309532354306879488">Category 6</a> operation and of quantifications of the risks, we started with Twitter then moved forward to 6 platforms. 
+<b>To get a fuller understanding of the scale of the <a href="https://twitter.com/benimmo/status/1309532354306879488">Category 6</a> operation and of quantifications of the risks, we started with Twitter then moved forward to 6 platforms. </b>
 <br><i>It's important to study multiple platforms for situation awareness and gamification. </i>
 - Analysis and data of timelines, coordination, accounts, peaks, wordclouds, hashtags, top shared urls, are included. 
-<br><i><b>New accounts created each month and day correlate to peaks on Twitter.</b></i>
+<br><i><b>-> New accounts created each month and day correlate to peaks on Twitter.</b></i>
 
 Twitter is the most studied platform in the scientific world. After a cyber intelligence researcher collected data with APIs, obtaining analysis on it was relatively fast with previous models already created and high levels of anomalies. 
-- Although YouTube, one of the least studied platforms, has higher volume of accounts and tens of thousands of repeated same texts, and Reddit has 5,025 banned accounts as the most commenting accounts, the operation on Twitter is continual, risk-infused, and dense.
+- Although YouTube, one of the least studied platforms, has higher volume of accounts and Tens of Thousands of repeated same texts, and Reddit has 5,025 banned accounts as the most contributing accounts, the operation on Twitter is continual, risk-infused, and dense. There are Tens of Thousands of New Accounts Per Year.
 - Understanding AI NLU, monitoring, and NLG with prompts is useful to understand the increased density 2019 onward and data samples.
 
 ### <b>Reports:</b>
 The first team of 3 Udacity graduates in data analysis quickly studied the years 2018-2021 for peaks, anomalies, and new account layers. NLP analysis is included, though mainly studying timelines and correlations. They used machine learning and botometer to create botscores.
 
-A 2nd team did Coordination Analysis of Top 475 accounts, including Network Graphs of following coordination. With public safety grants, they had previously studied identifying risk groups on Twitter: https://www.sciencedirect.com/science/article/abs/pii/S1751157720306386
+A 2nd team did Coordination Analysis of Top 500 accounts, including Network Graphs of following coordination. With public safety grants, they had previously studied identifying risk groups on Twitter: https://www.sciencedirect.com/science/article/abs/pii/S1751157720306386
 
 A Cyber Intelligence Researcher in Italy collected Twitter, Reddit, and Instagram Data on Amber Heard and created Twitter and Reddit Dashboards of statistics. Below analysis was preliminary and the start of our Social Network Analysis project.
 ### Topic-based account groups - Cyber Intelligence Researcher Analysis
