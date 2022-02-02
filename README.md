@@ -12,9 +12,9 @@ This is the most detailed public analysis of a disinformation operation and the 
 
 <b>Our Purpose is to create precedents and foundations to help other victims of cyberabuse, bots, domestic abuse, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a>, hostile environments, and Disinformation Operations</b>. 
 <br>We want to save lives and help partners create systems to help online - including with specialized and accurate rescue, quality custom studies, data analysis, Social Network Analysis, forensics, research, situation awareness, data science projects, and rescue/public safety technologies - <i>with focus on the victim primarily and <b>her environment</b></i>. 
-<br><i>*If file is too large to preview, please download.</i>
+<i>*If file is too large to preview on Github, please download or preview in this Google Folder.</i>
 
-#### <b>Amounts of Data Collections [Updating]:</b><br>
+#### <b>Amounts of Data Collections [Updates]:</b><br>
 - Twitter: 985,400 Tweets and 275,567 Accounts Jan 2018-April 2021, (2) Over 880,000 Tweets of Top Users, (3) 142K+ Retweets, Links
 - Reddit: 164,530 Contributions, 15,896 Submissions, 71,319 Accounts, Links
 - Instagram: 1,751,113 Comments, 193,967 Posts, 717,311 Accounts (Posts made by 36,137 accounts and 681,174 commented), Links
