@@ -15,6 +15,9 @@
 <br><i>-> Correlate meaning to quantifications</i>
 
 <i><b>Labels are:</b> support, defense, offense, defense_against (focused on victim - target of operations)</i>
+<br><b>Demo Videos:</b>
+<br><b>Pre-Processing Bot code to extract text from images and testing the results with a video is added.</b>
+
 
 <i>Data used in NLU Testing Analysis is in /Testing Data folder</i>
 <br>Dashboard files show of using program to run the monitoring bot. Monitoring js files are included.
@@ -31,7 +34,6 @@
 
 There is an NLU dashboard tester using the api for the trained NLU.
 <br>The API uses Postman.
-<br><b>Pre-Processing Bot code to extract text from images and testing the results with a video is added.</b>
 
 <b>Requirements of NluEngine:</b>
 - pytorch-lightning >= 0.9.0
