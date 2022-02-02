@@ -18,6 +18,7 @@
 <i><b>Labels are:</b> support, defense, offense, defense_against (focused on victim - target of operations)</i>
 <br><b>Demo Videos:</b>
 
+<b>Monitoring is easier than responding with NLG,</b> hence, 'like-bots' are easier to create, and there are many of them. They sometimes do classification mistakes, creating preliminary precedence for gamification analysis of them and reverse engineering.
 
 <i>Data used in NLU Testing Analysis is in /Testing Data folder</i>
 <br>Dashboard files show of using program to run the monitoring bot. Monitoring js files are included.
@@ -54,8 +55,6 @@ Version NLU Trained on Data from: Twitter, Facebook, Change.org primarily with s
 <br><i>Supporters both support and defend. Offenders offend and defense_against. 
 <br>Support is completely focused on uplifting her, while defense includes constructive words to defend and support her. Offense is purely harmful towards her while defense_against includes support of her adversary.</i> 
 <br>-> <i>Accounts are labeled by the NLP and number of texts classified for, against, or neutral. Label texts 0-1 for percentages to create training with patterns.</i>
-
-<b>Monitoring is easier than responding with NLG,</b> hence, 'like-bots' are easier to create, and there are many of them. They sometimes do classification mistakes, creating preliminary precedence for gamification analysis of them and reverse engineering.
 
 <b>- This is under Natural Language Understanding, deeper than NLP and using Artificial Intelligence training on a GPU</b>
 
