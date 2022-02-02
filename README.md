@@ -111,7 +111,7 @@ https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf<br>
 - Amber Heard, Cyrillic Spiders from Mars - https://www.thegeekbuzz.com/the-basement/cyrillic-russian-spiders-from-mars
 <br>
 
-<b>Scientific Methods:</b><br>
+### <b>Scientific Methods:</b><br>
 Worldwide Data Scientists, Researchers in Cyber Intelligence, PhDs, and Data Analysts collected and analyzed data. We used the scientific method of testing.
 <br>
 - <i>Scientific Method: Observation, Question, Hypothesis, Experiment, Results, Conclusion 
