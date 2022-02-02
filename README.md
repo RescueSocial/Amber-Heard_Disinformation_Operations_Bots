@@ -2,7 +2,7 @@
 <b><i>Social Network Analysis of Disinformation/Influence Operations and Bots</i> Cross-Platforms on <i>Amber Heard</i>. 
 <br>Twitter, Reddit, YouTube, Instagram, Change.org, and Facebook for <i>6 Social Media Platforms</i>.</b>
 
-#### <i><b>Millions of Texts and Accounts were studied for Social Network Analysis.</b></i>
+### <i><b>Millions of Texts and Accounts were studied for Social Network Analysis.</b></i>
 
 We're Worldwide Independent Researchers with over 20 data analysts, scientists, and observers analyzing this data for over a year. Research and development is ongoing, and this public operation spanning for years continues. We invite researchers and students to study this case example. 
 
@@ -14,7 +14,7 @@ This is the most detailed public analysis of a disinformation operation and the 
 <br>We want to save lives and help partners create systems to help online - including with specialized and accurate rescue, quality custom studies, data analysis, Social Network Analysis, forensics, research, situation awareness, data science projects, and rescue/public safety technologies - <i>with focus on the victim primarily and <b>her environment</b></i>. 
 <br><i>*If file is too large to preview, please download.</i>
 
-<b>Amounts of Data Collections [Updating]:</b><br>
+#### <b>Amounts of Data Collections [Updating]:</b><br>
 - Twitter: 985,400 Tweets and 275,567 Accounts Jan 2018-April 2021, (2) Over 880,000 Tweets of Top Users, (3) 142K+ Retweets, Links
 - Reddit: 164,530 Contributions, 15,896 Submissions, 71,319 Accounts, Links
 - Instagram: 1,751,113 Comments, 193,967 Posts, 717,311 Accounts (Posts made by 36,137 accounts and 681,174 commented), Links
@@ -49,7 +49,7 @@ This is the most detailed public analysis of a disinformation operation and the 
 - <b>Analysis Guides</b>
 - <b>Background</b> 
 
-<b>Positive NLG - Natural Language Generation - Compliments Prompt:</b><br>
+#### <b>Positive NLG - Natural Language Generation - Compliments Prompt:</b><br>
 Compliments Generation on Amber Heard based on Jason Momoa<br>
  https://github.com/semiosis/prompts/blob/master/prompts/compliment-generation-based-on-a-celebrity-1.prompt<br>
 - 10,000 Compliments on Amber Heard made in 2 hours: https://asciinema.org/a/w5ayuAEGGpgsxTCKWbAGRPfvZ<br>
@@ -66,7 +66,7 @@ If you're a social enterprise, researcher, organization, student, or academic he
 <b>Although it's abuse of process, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a> is becoming illegal in more countries and states/provinces worldwide.</b>
 - <i>If you're a victim needing help against cyberabuse especially in <a href="https://safeescape.org">online domestic abuse</a> and <a href="https://metta-space.com">hostile environments</a>, please contact us.</i><br>
 
-<b>Do No Harm:</b> <br>
+#### <b>Do No Harm:</b> <br>
 All collaborators, researchers, and observers are required to sign, acknowledge, agree to "Do No Harm" agreements. If you are one of the victims listed in this study and need harmful material removed or to collaborate with us, please contact us.
 <br><br>We do not include the code or full data to protect individuals in this study and to prevent harmful operations. As a precedent, other researchers and students should use this GitHub and study as a basis for their own social network analysis projects. We draw attention to this project months before in-person appearances for safety.
 <br>
@@ -84,7 +84,7 @@ All collaborators, researchers, and observers are required to sign, acknowledge,
 - 10,168 Compliments of Amber Heard from AI NLG Prompts
 - Links/URLs Lists of comments/postings of Instagram, YouTube, Twitter, Reddit, Change.org
 
-<b>Cross-Platforms Analysis:</b><br>
+#### <b>Cross-Platforms Analysis:</b><br>
 Analysis is in-progress and more will be added after published research papers for researcher privacy.
 <br><i>Data of 5 months of December 2020 to April 2021 is provided for open peer-review and research studies.</i>
 <br><i>Note:</i> Peaks, Heat Maps of Threats, coordinated bot activities, repeated same texts, and more anomalies show for 2018-2022 continuing, especially February 2020 onward as seen in analysis files.
@@ -97,7 +97,7 @@ August 2020 Counterclaims on Bots: https://www.scribd.com/document/473092071/cl-
 Influence Operation of 6,000 Twitter accounts found by BotSentinel: https://youtu.be/bb2bC04OEPw<br>
 
 
-<b>Related Articles for Understanding:</b><br> 
+#### <b>Related Articles for Understanding:</b><br> 
 <br><i>"Disinformation in the Private Sector: The Price of Influence"</i>
 - New Accounts Layers, Aged Accounts, Created News-Sites:</br>
 https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf<br>
@@ -133,7 +133,7 @@ Scientific (longer-term):	analysis	- prediction<br></i>
 <br>We are continuing analysis and data collections, including creating technologies for systems on <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control.</a></i>
 <br><i>“Since the fate of the world is non-existence, Since You Exist, Be Merry.” - Persian Mathematician <a href="https://en.wikipedia.org/wiki/Omar_Khayyam">Omar Khayyam</a></i>
 
-<b>Citing Research Project:</b><br>
+#### <b>Citing Research Project:</b><br>
 If interested in citing our research project in your studies, publication, journal, database, or article, please provide a link to this GitHub repository with its title and contact us for collaboration.
 
 
