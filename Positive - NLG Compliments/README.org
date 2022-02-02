@@ -43,19 +43,19 @@
 
 + Video demonstration (mp4) :: [[./Videos - Positive NLG Demos/conv-demo1.mp4]]
 
-+ Video demonstration (gif) :: [[.Videos - Positive NLG Demos/conv-demo1.gif]]
++ Video demonstration (gif) :: [[./Videos - Positive NLG Demos/conv-demo1.gif]]
 
 + Conversation demo 2 :: https://asciinema.org/a/aLn5lZq5yIeBxR6dyFyveDJGc
 
-+ Video demonstration (mp4) :: [[.Videos - Positive NLG Demos/conv-demo2.mp4]]
++ Video demonstration (mp4) :: [[./Videos - Positive NLG Demos/conv-demo2.mp4]]
 
-+ Video demonstration (gif) :: [[.Videos - Positive NLG Demos/conv-demo2.gif]]
++ Video demonstration (gif) :: [[./Videos - Positive NLG Demos/conv-demo2.gif]]
 
 + Conversation demo 3 :: https://asciinema.org/a/YdX4bzPownHsVT3T0UPLMcp3c
 
-+ Video demonstration (mp4) :: [[.Videos - Positive NLG Demos/conv-demo3.mp4]]
++ Video demonstration (mp4) :: [[./Videos - Positive NLG Demos/conv-demo3.mp4]]
 
-+ Video demonstration (gif) :: [[.Videos - Positive NLG Demos/conv-demo3.gif]]
++ Video demonstration (gif) :: [[./Videos - Positive NLG Demos/conv-demo3.gif]]
 
 ** Time taken to generate
 #+BEGIN_SRC bash -n :i bash :async :results verbatim code
