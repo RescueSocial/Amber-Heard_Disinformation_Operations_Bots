@@ -5,7 +5,7 @@
 <br>Automatic programs label texts for multiclassifier categories of support, defense, offense, defense_against and label supporters/offenders accounts around her environment to show help or harm to her.</b>
 <br>-> Threat analysis, negative texts, and specific word filtering related to the disinformation operations is applied in further analysis. Wordclouds show patterns across-platforms.
 
-<b>Data and Analysis of Twitter, Reddit, Instagram, YouTube, Change.org, Facebook</b>
+#### <b>Data and Analysis of Twitter, Reddit, Instagram, YouTube, Change.org, Facebook</b>
 - <b>Support and Defense Data is included, as well as Compliments, Love Data for training NLU - including 5.9K of 12.4K labeled training</b>
 <br>-> 10K NLG created Supportive Compliments of her from Semiosis is included for comparison of labeled texts vs articulate compliments from <a href="https://github.com/mullikine/positive-nlg-compliments">AI</a>. Compare density and prompt-based similarities.
 <br> -> In context of domestic abuse and coercive control, it's important to show what is supportive and positive in relationships through support, defense, compliments, and love texts. <i>The adversiarial framework of operations or tactic strategy is further a layer. </i>
@@ -26,7 +26,7 @@
 <br>Similar to <a href="https://www.chess.com/article/view/chess-tactics">Chess-Tactics</a>, however, in dynamic context of coercive control or warfare-operations. Our goal is to mitigate the operations.
 - We've provided some data on AH's NLU to a Data Science anti-harassment start up understanding gender dynamics. Please contact us if you need more data.
 
-<b>Natural Language Understanding:</b>
+### <b>Natural Language Understanding:</b>
 - A BERT File under config shows <a href="https://github.com/google-research/bert">BERT</a> for Amber Heard NLP training
 - There are Dashboard code files in Javascript. The requirements are Reactjs, Javascript, and Django languages
 - Package examples and how to train NLU is included - e.g., <a href="https://www.nltk.org/">nltk_data</a>
@@ -37,7 +37,7 @@ There is an NLU dashboard tester using the api for the trained NLU.
 <br>The API uses Postman.
 <br><b>Pre-Processing Bot code to extract text from images and testing the results with a video is added.</b>
 
-<b>Requirements of NluEngine:</b>
+#### <b>Requirements of NluEngine:</b>
 - pytorch-lightning >= 0.9.0
 - torch >= 1.7.0
 - transformers >= 3.2.0
