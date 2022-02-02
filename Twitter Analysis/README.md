@@ -4,7 +4,7 @@
 <b>To get a fuller understanding of the scale of the <a href="https://twitter.com/benimmo/status/1309532354306879488">Category 6</a> operation and of quantifications of the risks, we started with Twitter then moved forward to 6 platforms. </b>
 <br><i>It's important to study multiple platforms for situation awareness and gamification. </i>
 - Analysis and data of timelines, coordination, accounts, peaks, wordclouds, hashtags, top shared urls, are included. 
-<br><i><b>New accounts created each month and day correlate to peaks on Twitter.</b></i>
+<br><i><b>-> New accounts created each month and day correlate to peaks on Twitter.</b></i>
 
 Twitter is the most studied platform in the scientific world. After a cyber intelligence researcher collected data with APIs, obtaining analysis on it was relatively fast with previous models already created and high levels of anomalies. 
 - Although YouTube, one of the least studied platforms, has higher volume of accounts and tens of thousands of repeated same texts, and Reddit has 5,025 banned accounts as the most commenting accounts, the operation on Twitter is continual, risk-infused, and dense.
