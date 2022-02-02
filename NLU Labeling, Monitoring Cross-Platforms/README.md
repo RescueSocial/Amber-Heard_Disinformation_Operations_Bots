@@ -3,7 +3,7 @@
 <br>Automatic Programs label help or harm to her with semantics/meaning/NLP of the texts of support, defense, offense, defense_against and the supporters/offenders accounts around her environment.</b> 
 <br>-> Threat analysis, negative texts, and specific word filtering related to the disinformation operations is applied in further analysis.
 
-- Data and Analsysis of Twitter, Reddit. Instagram, YouTube, Change.org, Facebook
+- Data and Analysis of Twitter, Reddit. Instagram, YouTube, Change.org, Facebook
 - <b>Support and Defense Data included, as well as Compliments, Love Data for training NLU - including 5.9K of 12.4K labeled training</b>
 <br>-> 10K NLG created Compliments of her from Semiosis included for comparison of labeled texts vs articulate compliments from <a href="https://github.com/mullikine/positive-nlg-compliments">AI</a> to compare density and prompt-based similarities
 - Monitoring and Dashboards included
