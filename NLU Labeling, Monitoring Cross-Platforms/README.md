@@ -5,7 +5,7 @@
 <br>Automatic programs label texts for multiclassifier categories of support, defense, offense, defense_against and label supporters/offenders accounts around her environment to show help or harm to her.</b>
 <br>-> Threat analysis, negative texts, and specific word filtering related to the disinformation operations is applied in further analysis. Wordclouds show patterns across-platforms.
 
-<b>Data and Analysis of Twitter, Reddit, Instagram, YouTube, Change.org, Facebook</b>
+#### <b>Data and Analysis of Twitter, Reddit, Instagram, YouTube, Change.org, Facebook</b>
 - <b>Support and Defense Data is included, as well as Compliments, Love Data for training NLU - including 5.9K of 12.4K labeled training</b>
 <br>-> 10K NLG created Supportive Compliments of her from Semiosis is included for comparison of labeled texts vs articulate compliments from <a href="https://github.com/mullikine/positive-nlg-compliments">AI</a>. Compare density and prompt-based similarities.
 <br> -> In context of domestic abuse and coercive control, it's important to show what is supportive and positive in relationships through support, defense, compliments, and love texts. <i>The adversiarial framework of operations or tactic strategy is further a layer. </i>
