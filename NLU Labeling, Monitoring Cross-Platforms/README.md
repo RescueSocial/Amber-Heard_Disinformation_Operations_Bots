@@ -37,7 +37,7 @@ There is an NLU dashboard tester using the api for the trained NLU.
 <br>The API uses Postman.
 <br><b>Pre-Processing Bot code to extract text from images and testing the results with a video is added.</b>
 
-<b>Requirements of NluEngine:</b>
+#### <b>Requirements of NluEngine:</b>
 - pytorch-lightning >= 0.9.0
 - torch >= 1.7.0
 - transformers >= 3.2.0
