@@ -1,12 +1,12 @@
 # SNA-AH-NLU-Labeling-Cross-Platforms
 <b>Natural Language Understanding, Processing, and Sentiment Testing across social media platforms on Amber Heard data using Scientific Methods - <i>NLU engines, monitoring, classifications, training.</i></b>
-<br><b><i>Classifying Texts and Accounts in Study</b></i> - 
+<br><b><i>Classifying Texts and Accounts in Case Study</b></i> - 
 <br>Automatic programs label help or harm to her using semantics/meaning/NLP of the texts for categories of support, defense, offense, defense_against and label supporters/offenders accounts around her environment.</b>
 <br>-> Threat analysis, negative texts, and specific word filtering related to the disinformation operations is applied in further analysis. Wordclouds show patterns across-platforms.
 
 <b>Data and Analysis of Twitter, Reddit, Instagram, YouTube, Change.org, Facebook</b>
 - <b>Support and Defense Data included, as well as Compliments, Love Data for training NLU - including 5.9K of 12.4K labeled training</b>
-<br>-> 10K NLG created Supportive Compliments of her from Semiosis is included for comparison of labeled texts vs articulate compliments from <a href="https://github.com/mullikine/positive-nlg-compliments">AI</a>. Compare density and prompt-based similarities
+<br>-> 10K NLG created Supportive Compliments of her from Semiosis is included for comparison of labeled texts vs articulate compliments from <a href="https://github.com/mullikine/positive-nlg-compliments">AI</a>. Compare density and prompt-based similarities.
 <br> -> In context of domestic abuse, it's important to show what is supportive and positive in relationships through support, defense, compliments, and love texts. <i>The adversiarial framework of operations or tactic strategy is further a layer. </i>
 - Monitoring and Dashboards included
 - Instagram threat analysis includes both <a href="https://myvocabulary.com/word-list/crime-vocabulary">Crime</a> | <a href="https://myvocabulary.com/word-list/human-trafficking-vocabulary">Human Trafficking</a> words analysis with NLU testing
