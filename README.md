@@ -57,7 +57,7 @@ Compliments Generation on Amber Heard based on Jason Momoa<br>
 - Code and Demos from AI Researcher at: https://github.com/mullikine/positive-nlg-compliments<br>
 - <a href="https://github.com/semiosis">Semiosis</a> is a free and open-source curation of prompts for OpenAI's GPT-3/Codex, EleutherAI's GPT-j, AlephAlpha's World Model and other language models.<br>
 
-### <b>Collaboration:</b> <br>
+### <b>Collaboration:</b> 
 If you're a social enterprise, researcher, organization, student, or academic helping female victims of abuse, coercive control, domestic abuse, bots, harassment, or hostile environments - we welcome partnership with you. 
 <br>Our studies and data can be used for Social Network Analysis, Data Analysis, machine learning, Natural Language Processing, artificial intelligence, Data Science labeling, anti-abuse, rescue projects, anti-crime, timelines, OSINT, simulations, and monitoring systems to help other victims and their lives. 
 <br><br>Since this data is high volume about domestic abuse and gender, with an actress and film industry element, it's highly relevant for classification and data science projects on those topics.
@@ -66,7 +66,7 @@ If you're a social enterprise, researcher, organization, student, or academic he
 <b>Although it's abuse of process, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a> is becoming illegal in more countries and states/provinces worldwide.</b>
 - <i>If you're a victim needing help against cyberabuse especially in <a href="https://safeescape.org">online domestic abuse</a> and <a href="https://metta-space.com">hostile environments</a>, please contact us.</i><br>
 
-#### <b>Do No Harm:</b> <br>
+#### <b>Do No Harm:</b> 
 All collaborators, researchers, and observers are required to sign, acknowledge, agree to "Do No Harm" agreements. If you are one of the victims listed in this study and need harmful material removed or to collaborate with us, please contact us.
 <br><br>We do not include the code or full data to protect individuals in this study and to prevent harmful operations. As a precedent, other researchers and students should use this GitHub and study as a basis for their own social network analysis projects. We draw attention to this project months before in-person appearances for safety.
 <br>
