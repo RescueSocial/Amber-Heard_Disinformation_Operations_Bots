@@ -26,7 +26,7 @@
 <br>Similar to <a href="https://www.chess.com/article/view/chess-tactics">Chess-Tactics</a>, however, in dynamic context of coercive control or warfare-operations. Our goal is to mitigate the operations.
 - We've provided some data on AH's NLU to a Data Science anti-harassment start up understanding gender dynamics. Please contact us if you need more data.
 
-<b>Natural Language Understanding:</b>
+### <b>Natural Language Understanding:</b>
 - A BERT File under config shows <a href="https://github.com/google-research/bert">BERT</a> for Amber Heard NLP training
 - There are Dashboard code files in Javascript. The requirements are Reactjs, Javascript, and Django languages
 - Package examples and how to train NLU is included - e.g., <a href="https://www.nltk.org/">nltk_data</a>
