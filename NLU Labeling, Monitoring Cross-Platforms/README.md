@@ -5,6 +5,7 @@
 
 - Twitter, Reddit. Instagram, YouTube, Change.org, Facebook
 - <b>Support and Defense Data included, as well as Compliments, Love Data for training NLU - including 5.9K of 12.4K labeled training</b>
+-> 10K of NLG created compliments from Semiosis included for comparison of labeled texts vs articulate compliments from AI
 - Monitoring and Dashboards included
 - Instagram threat analysis includes Both <a href="https://myvocabulary.com/word-list/crime-vocabulary">Crime</a> | <a href="https://myvocabulary.com/word-list/human-trafficking-vocabulary">Human Trafficking</a> words analysis with NLU testing
 - Testing data is flooded with harms 
