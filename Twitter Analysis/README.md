@@ -1,7 +1,7 @@
 # SNA-AH-Case - Twitter 
 <b>Twitter - Social Network Analysis on Amber Heard's Case Example from Data Analysts, Researchers, and Technologists.</b>
 
-To get a fuller understanding of the scale of the <a href="https://twitter.com/benimmo/status/1309532354306879488">Category 6</a> operation and of quantifications of the risks, we started with Twitter then moved forward to 6 platforms. 
+<b>To get a fuller understanding of the scale of the <a href="https://twitter.com/benimmo/status/1309532354306879488">Category 6</a> operation and of quantifications of the risks, we started with Twitter then moved forward to 6 platforms. </b>
 <br><i>It's important to study multiple platforms for situation awareness and gamification. </i>
 - Analysis and data of timelines, coordination, accounts, peaks, wordclouds, hashtags, top shared urls, are included. 
 <br><i><b>New accounts created each month and day correlate to peaks on Twitter.</b></i>
