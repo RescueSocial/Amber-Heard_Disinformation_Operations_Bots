@@ -125,7 +125,7 @@ Worldwide Data Scientists, Researchers in Cyber Intelligence, PhDs, and Data Ana
 Objective	Tactical (short-term):	situational assessment	- situation awareness<br>
 Strategic (long-term):	sensemaking -	understanding<br>
 Scientific (longer-term):	analysis	- prediction<br></i>
-<br>
+
 ### <b>Researchers:</b><br>
 <b>We welcome Researchers to work with this Data on Amber Heard to create Blueprints on how Bots and Disinformation/Influence Operations work. </b>
 <br>Please ask to collaborate with us for access to more Data at rescuesocial@gmail.com.<br>
