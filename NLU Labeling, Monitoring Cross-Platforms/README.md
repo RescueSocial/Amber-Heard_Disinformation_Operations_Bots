@@ -48,12 +48,12 @@ There is an NLU dashboard tester using the api for the trained NLU.
 - sentencepiece >= 0.1.94
 - 2nd Requirements file included
 
-Version NLU Trained on Data from: Twitter, Facebook, Change.org primarily with some YouTube and Reddit. Label 0-1.
+Version NLU Trained on Data from: Twitter, Facebook, Change.org primarily with some YouTube and Reddit. 
 1. First example (old nlpengine) is 2 classifications only of love or hate - quickly seen as not accurate and to move to an offense, defense, support strategy with multiclassification 
 2. Second example, more accurate for nlp engine is <b>multiclassifier</b> - support, defense, offense, defense_against (focused on victim - target of operations) - trained on 12.4K texts 
 <br><i>Supporters both support and defend. Offenders offend and defense_against. 
 <br>Support is completely focused on uplifting her, while defense includes constructive words to defend and support her. Offense is purely harmful towards her while defense_against includes support of her adversary.</i> 
-<br>-> <i>Accounts are labeled by the NLP and number of texts classified for, against, or neutral.</i>
+<br>-> <i>Accounts are labeled by the NLP and number of texts classified for, against, or neutral. Label 0-1 for percentages.</i>
 
 <b>Monitoring is easier than responding with NLG,</b> hence, 'like-bots' are easier to create, and there are many of them. They sometimes do classification mistakes, creating preliminary precedence for gamification analysis of them and reverse engineering.
 
