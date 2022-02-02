@@ -1,11 +1,11 @@
 # SNA-AH-NLU-Labeling-Cross-Platforms
 <b>Natural Language Understanding, Processing, and Sentiment Testing across social media platforms on Amber Heard data using Scientific Methods - </b><i>NLU engines, monitoring, classifications, training.</i>
-<br>The Automatic Program labels help or harm to her with semantics/meaning/NLP of the texts of support, defense, offense, defense_against and the supporters/offenders accounts around her environment.</b> 
+<br>Automatic Programs label help or harm to her with semantics/meaning/NLP of the texts of support, defense, offense, defense_against and supporters/offenders accounts around her environment.</b> 
 <br>-> Threat analysis, negative texts, and specific word filtering related to the disinformation operations is applied in further analysis.
 
 - Data and Analysis of Twitter, Reddit, Instagram, YouTube, Change.org, Facebook
 - <b>Support and Defense Data included, as well as Compliments, Love Data for training NLU - including 5.9K of 12.4K labeled training</b>
-<br>-> 10K NLG created Supportive Compliments of her from Semiosis is included for comparison of labeled texts vs articulate compliments from <a href="https://github.com/mullikine/positive-nlg-compliments">AI</a> - Compare density and prompt-based similarities
+<br>-> 10K NLG created Supportive Compliments of her from Semiosis is included for comparison of labeled texts vs articulate compliments from <a href="https://github.com/mullikine/positive-nlg-compliments">AI</a>. Compare density and prompt-based similarities
 - Monitoring and Dashboards included
 - Instagram threat analysis includes both <a href="https://myvocabulary.com/word-list/crime-vocabulary">Crime</a> | <a href="https://myvocabulary.com/word-list/human-trafficking-vocabulary">Human Trafficking</a> words analysis with NLU testing
 - Testing data is flooded with harms 
