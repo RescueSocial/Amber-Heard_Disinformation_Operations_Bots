@@ -96,9 +96,8 @@ Multiple Research Papers on Disinformation/Influence Operations Cross-Platforms<
 August 2020 Counterclaims on Bots: https://www.scribd.com/document/473092071/cl-2019-2911-def-counterclaims-8-10-2020<br>
 Influence Operation of 6,000 Twitter accounts found by BotSentinel: https://youtu.be/bb2bC04OEPw<br>
 
-
 #### <b>Related Articles for Understanding:</b><br> 
-<br><i>"Disinformation in the Private Sector: The Price of Influence"</i>
+<i>"Disinformation in the Private Sector: The Price of Influence"</i>
 - New Accounts Layers, Aged Accounts, Created News-Sites:</br>
 https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf<br>
 - Psy-Group's Bots - https://www.newyorker.com/magazine/2019/02/18/private-mossad-for-hire<br>
