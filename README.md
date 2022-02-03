@@ -111,7 +111,7 @@ https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf<br>
 
 
 ### <b>Scientific Methods:</b>
-Worldwide Data Scientists, Researchers in Cyber Intelligence, PhDs, Data Analysts, and a former Google Research Intern collected and analyzed data. We used the scientific method of testing.
+Worldwide Data Scientists, Researchers in Cyber Intelligence, PhDs, Data Analysts, and a former Google Research Intern collected and analyzed data. We use the scientific method of testing.
 <br>
 - <i>Scientific Method: Observation, Question, Hypothesis, Experiment, Results, Conclusion 
  <br>- Limit Variables and Repeat Same Methods on all platforms. 
