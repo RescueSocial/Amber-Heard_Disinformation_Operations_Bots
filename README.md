@@ -12,7 +12,7 @@ This is the most detailed public analysis of a disinformation operation and the 
 
 <b>Our Purpose is to create precedents and foundations to help other victims of cyberabuse, bots, domestic abuse, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a>, hostile environments, and Disinformation Operations</b>. 
 <br>We want to save lives and help partners create systems to help online - including with specialized and accurate rescue, quality custom studies, data analysis, Social Network Analysis, forensics, research, situation awareness, data science projects, and rescue/public safety technologies - <i>with focus on the victim primarily and <b>her environment</b></i>. 
-<br><i>**If file is too large to preview on Github, please download or preview in this Google Folder.</i>
+- <i>If file is too large to preview on github, please download, or preview in this <a href="https://drive.google.com/drive/u/1/folders/1bMGtCanWbyGZSTFnkr-kEnLkg2dq995M">google folder</a>.</i>
 
 #### <b>Amounts of Data Collections [Updates]:</b><br>
 - Twitter: 985,400 Tweets and 275,567 Accounts Jan 2018-April 2021, (2) Over 880,000 Tweets of Top Users, (3) 200K+ Retweets, Links
@@ -127,7 +127,7 @@ Scientific (longer-term):	analysis	- prediction<br></i>
 
 ### <b>Researchers:</b>
 <b>We welcome Researchers to work with this Data on Amber Heard to create Blueprints on how Bots and Disinformation/Influence Operations work. </b>
-<br>Please ask to collaborate with us for access to more Data at rescuesocial@gmail.com.<br>
+<br>Please ask to collaborate with us for Access to more Data at rescuesocial@gmail.com.<br>
 - <i><b>Research and building technologies is Ongoing as the operation is Continuing over years and this is a Public Github Example. </b>
 <br>We are continuing analysis and data collections, including creating technologies for systems on <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control.</a></i>
 <br><i>“Since the fate of the world is non-existence, Since You Exist, Be Merry.” - Persian Mathematician <a href="https://en.wikipedia.org/wiki/Omar_Khayyam">Omar Khayyam</a></i>
