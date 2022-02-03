@@ -1,9 +1,5 @@
 # Reddit Social Network Analysis Against Influence Operation "Amber Heard"
-
-[Reports](https://cutt.us/AH_reddit)
-![alt text](https://cutt.us/qrcoder.php?size=180&qr=https://cutt.us/AH_reddit)
-
-## <b>Reddit - Social Network Analysis on Amber Heard's Case Example from Data Analysts, Researchers, and Scientists.</b>
+<b>Reddit - Social Network Analysis on Amber Heard's Case Example from Data Analysts, Researchers, and Scientists.</b>
 <b>Reddit Analysis</b> - It's important to look at Reddit in the context of cross-platform operations and comparing - e.g., ages of accounts during peaks, statistical differences or similarities, natural language processing, timelines, repeated same texts in quantifications, and amplifications.
 - <b>4 Reddit Reports for Per Year for 2018-2021 and a Users Report.
 - Data from Reddit: 164,530 Contributions, 15,896 Submissions, 71,319 Accounts, Links</b>
