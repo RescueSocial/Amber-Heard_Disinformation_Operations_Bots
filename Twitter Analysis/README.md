@@ -4,8 +4,7 @@
 <b>To get a fuller understanding of the scale of the <a href="https://twitter.com/benimmo/status/1309532354306879488">Category 6</a> operation and of quantifications of the risks, we started with Twitter then moved forward to 6 platforms. </b> 
 <br><i>It's important to study multiple platforms for situation awareness and gamification. </i>
 - <b>Analysis and data of timelines, coordination, accounts, peaks, wordclouds, hashtags, top shared urls, are included. </b>
-- Data Collected of Twitter: 985,400 Tweets and 275,567 Accounts Jan 2018-April 2021, (2) Over 880,000 Tweets of Top Users, (3) 200K+ Retweets, Links
-- Reports of 4 Years, ML/botscores, and Coordination included
+- Data Collected of Twitter: 985,400 Tweets and 275,567 Accounts Jan 2018-April 2021, (2) Over 880,000 Tweets of Top Users, (3) 200K+ Retweets, Links. Reports of 4 Years, ML/botscores, and Coordination included
 <br><i><b>-> New accounts created each month and day correlate to peaks on Twitter.</b></i>
 
 Twitter is the most studied platform in the scientific world. After a cyber intelligence researcher collected data with APIs, obtaining analysis on it was relatively fast with previous models already created and high levels of anomalies. 
