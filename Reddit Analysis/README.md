@@ -58,7 +58,7 @@ These are high volume operations, so these are merely some examples. Images and 
 <br>2020-11-28 (12) in 13 minutes.
 <br>cracksniffer666 (banned)
 <br>This user's contributions got the highest scores.
-<br>the highest score is (36.8K)
+<br>The highest score is (36.8K)
 <br>(Since this user is banned, we have no user information )
 <br>This user made 99 contributions (98 comments and only one submission).
 <br>89 contributions from 99 were made at (10 Feb 2020)!
