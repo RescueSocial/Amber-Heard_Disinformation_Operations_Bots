@@ -1,7 +1,7 @@
 # SNA-AH-Case - Twitter 
 <i><b>Twitter - Social Network Analysis on Amber Heard's Case Example from Data Analysts, Researchers, and Scientists.</b></i>
 
-<b>To get a fuller understanding of the scale of the <a href="https://twitter.com/benimmo/status/1309532354306879488">Category 6</a> operation and of quantifications of the risks, we started with Twitter then moved forward to 6 platforms. </b> Reports of 4 Years, ML/scores, and Coordination included.
+<b>To get a fuller understanding of the scale of the <a href="https://twitter.com/benimmo/status/1309532354306879488">Category 6</a> operation and of quantifications of the risks, we started with Twitter then moved forward to 6 platforms. </b>
 <br><i>It's important to study multiple platforms for situation awareness and gamification. </i>
 - <b>Analysis and data of timelines, coordination, accounts, peaks, wordclouds, hashtags, top shared urls, are included. </b>
 - Data Collected of Twitter: 985,400 Tweets and 275,567 Accounts Jan 2018 - April 2021, (2) Over 880,000 Tweets of Top Users, (3) 200K+ Retweets, Links.
@@ -12,9 +12,9 @@ Twitter is the most studied platform in the scientific world. After a cyber inte
 - Understanding AI NLU, monitoring, and NLG with prompts is useful to understand the increased density 2019 onward and data samples.
 
 ### <b>Reports:</b>
-The first team of 3 Udacity graduates in data analysis quickly studied the years 2018-2021 for peaks, anomalies, and new account layers. NLP analysis is included, though mainly studying timelines and correlations. They used machine learning and botometer to create botscores.
+The first team of 3 Udacity graduates in data analysis quickly studied the years 2018-2021 for peaks, anomalies, and new account layers. NLP analysis is included, though mainly studying timelines and correlations. They created 4 years of reports and a scores report. They used machine learning and botometer to create botscores.
 
-A 2nd team did Coordination Analysis of Top 500 accounts, including Network Graphs of following coordination. With public safety grants, they had previously studied identifying risk groups on Twitter: https://www.sciencedirect.com/science/article/abs/pii/S1751157720306386
+A 2nd team did Coordination Analysis of Top 500 accounts, including Network Graphs of following coordination. Their reports are included and most of their data for peer-review. With public safety grants, they had previously studied identifying risk groups on Twitter: https://www.sciencedirect.com/science/article/abs/pii/S1751157720306386
 
 A Cyber Intelligence Researcher in Italy collected Twitter, Reddit, and Instagram Data on Amber Heard and created Twitter and Reddit Dashboards of statistics. Below analysis was preliminary and the start of our Social Network Analysis project.
 ### Topic-based account groups - Cyber Intelligence Researcher Analysis
