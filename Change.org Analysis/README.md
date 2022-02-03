@@ -18,3 +18,4 @@ I use Python 3, you will also need Pandas and Requests installed.
 4. Run [`./jupyter.sh`](./jupyter.sh) to set up Jupyter
 5. Run `jupyter lab` in the command line and navigate to the link provided in the console.
 
+** Full Data collected on 181 petitions by a former Google Research Intern.
