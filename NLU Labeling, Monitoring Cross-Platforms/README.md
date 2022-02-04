@@ -16,7 +16,8 @@
 <br><i>-> Correlate meaning to quantifications</i>
 
 <i><b>Labels are:</b> support, defense, offense, defense_against (focused on victim - target of operations)</i>
-<br><b>Demo Videos:</b> 
+
+<b>Demo Videos:</b> 
 - <a href="https://www.youtube.com/watch?v=2_bgfNKQI_w">Demo Video Monitoring Twitter Bot 1 - 2021-05-20</a>
 - <a href="https://www.youtube.com/watch?v=HHTUsL-TR08">Demo Video Monitoring Twitter Bot 2 - 2021-05-20</a>
 - <a href="https://youtu.be/t4bBtGPF000">Video Demo Monitoring Twitter (Backend) - 2021-03-26</a>
