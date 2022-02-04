@@ -16,9 +16,15 @@
 <br><i>-> Correlate meaning to quantifications</i>
 
 <i><b>Labels are:</b> support, defense, offense, defense_against (focused on victim - target of operations)</i>
-<br><b>Demo Videos:</b>
 
-<b>Monitoring is easier than responding with NLG</b> - hence, 'liking-only-bots' are easier to create, and there are many of them in the operations against Amber Heard. They sometimes do classification mistakes, creating preliminary precedence for gamification analysis of them and reverse engineering.
+<b>Demo Videos:</b> 
+<br><a href="https://www.youtube.com/watch?v=2_bgfNKQI_w">Demo Video Monitoring Twitter Bot 1 - 2021-05-20</a>
+<br><a href="https://www.youtube.com/watch?v=HHTUsL-TR08">Demo Video Monitoring Twitter Bot 2 - 2021-05-20</a>
+<br><a href="https://www.youtube.com/watch?v=t4bBtGPF000">Video Demo Monitoring Twitter (Backend) - 2021-03-26</a>
+<br><a href="https://www.youtube.com/watch?v=xkrJbJr4TlU">NLP Engine version 1 result</a>
+
+
+<b>Monitoring is easier than responding with NLG</b> - Hence, 'liking-only-bots' are easier to create, and there are many of them in the operations against Amber Heard. They sometimes do classification mistakes, creating preliminary precedence for gamification analysis of them and reverse engineering.
 
 <i>Data used in NLU Testing Analysis is in /Testing Data folder</i>
 <br>Dashboard files show of using program to run the monitoring bot. Monitoring js files are included.
