@@ -24,7 +24,7 @@
 <br><a href="https://www.youtube.com/watch?v=xkrJbJr4TlU">NLP Engine version 1 result</a>
 
 
-<b>Monitoring is easier than responding with NLG</b> - hence, 'liking-only-bots' are easier to create, and there are many of them in the operations against Amber Heard. They sometimes do classification mistakes, creating preliminary precedence for gamification analysis of them and reverse engineering.
+<b>Monitoring is easier than responding with NLG</b> - Hence, 'liking-only-bots' are easier to create, and there are many of them in the operations against Amber Heard. They sometimes do classification mistakes, creating preliminary precedence for gamification analysis of them and reverse engineering.
 
 <i>Data used in NLU Testing Analysis is in /Testing Data folder</i>
 <br>Dashboard files show of using program to run the monitoring bot. Monitoring js files are included.
