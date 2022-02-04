@@ -18,10 +18,10 @@
 <i><b>Labels are:</b> support, defense, offense, defense_against (focused on victim - target of operations)</i>
 
 <b>Demo Videos:</b> 
-- <a href="https://www.youtube.com/watch?v=2_bgfNKQI_w">Demo Video Monitoring Twitter Bot 1 - 2021-05-20</a>
-- <a href="https://www.youtube.com/watch?v=HHTUsL-TR08">Demo Video Monitoring Twitter Bot 2 - 2021-05-20</a>
-- <a href="https://youtu.be/t4bBtGPF000">Video Demo Monitoring Twitter (Backend) - 2021-03-26</a>
-- <a href="https://www.youtube.com/watch?v=xkrJbJr4TlU">NLP Engine version 1 result</a>
+<br><a href="https://www.youtube.com/watch?v=2_bgfNKQI_w">Demo Video Monitoring Twitter Bot 1 - 2021-05-20</a>
+<br><a href="https://www.youtube.com/watch?v=HHTUsL-TR08">Demo Video Monitoring Twitter Bot 2 - 2021-05-20</a>
+<br><a href="https://youtu.be/t4bBtGPF000">Video Demo Monitoring Twitter (Backend) - 2021-03-26</a>
+<br><a href="https://www.youtube.com/watch?v=xkrJbJr4TlU">NLP Engine version 1 result</a>
 
 
 <b>Monitoring is easier than responding with NLG</b> - hence, 'liking-only-bots' are easier to create, and there are many of them in the operations against Amber Heard. They sometimes do classification mistakes, creating preliminary precedence for gamification analysis of them and reverse engineering.
