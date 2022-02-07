@@ -1,6 +1,6 @@
 # SNA-AH-Case-YouTube
 YouTube - Social Network Analysis on Amber Heard's Case Example from Data Analysts, Researchers, and Scientists on the Disinformation/Influence Operation. 
-<br>The Disinformation Operation is highly volumnious, blatant, and threatening on YouTube.  
+<br>The Disinformation Operation is highly voluminous, blatant, and threatening on YouTube.  
 
 - E.g., Videos, Accounts, Multiple Accounts with Same Comments, Timings, Like/Dislike Ratios, Coordinated Inauthentic Activity, Cluster Networks
 
@@ -50,7 +50,6 @@ they won't believe you because you are a man amber heard                        
 <br>whoa what                                                                                                                                                                                                                                                                                                                                               795
 <br>that's crazy!                                                                                                                                                                                                                                                                                                                                           763
 <br>exposed                                                                                                                                                                                                                                                                                                                                                 753
-                                                                                                                                                                          743
 <br>good                                                                                                                                                                                                                                                                                                                                                    730
 <br>Name: text, dtype: int64
 
