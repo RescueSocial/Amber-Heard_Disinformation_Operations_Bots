@@ -105,7 +105,20 @@ def pie(df, title):
     )
     fig.show("svg")
 
-
+    
+# https://plotly.com/python/discrete-color/    
+def go_pie(title, labels, values, c=px.colors.qualitative.T10):  
+    labels = labels
+    values = values
+    fig = go.Figure(data=[go.Pie(labels=labels, values=values)])
+    
+    fig.update_traces(textinfo='percent+label+value', 
+                      textfont=dict(size=12, color="white"),
+                      marker=dict(colors=c))
+    fig.update_layout(title=title, font=dict(size=18))
+    fig.show("svg")
+    
+    
 def bar(df, x, y, title, text=0, margin=np.inf):
     """
     A function to plot bar graph
