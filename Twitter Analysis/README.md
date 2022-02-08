@@ -14,7 +14,7 @@ Twitter is the most studied platform in the scientific world. After a cyber inte
 ### <b>Reports:</b>
 The first team of 3 Udacity graduates in data analysis quickly studied the years 2018-2021 for peaks, anomalies, and new account layers. NLP analysis is included, though mainly studying timelines and correlations. They created 4 years of reports and a scores report. They used machine learning and botometer to create botscores.
 
-A 2nd team at <a href="https://zaytrics.com/portfolio/">Zaytrics</a> did Coordination Analysis of Top 500 accounts, including Network Graphs of following coordination. Their reports are included and most of their data for peer-review. With public safety grants, they had previously studied identifying risk groups on Twitter: https://www.sciencedirect.com/science/article/abs/pii/S1751157720306386
+A 2nd team did Coordination Analysis of Top 500 accounts, including Network Graphs of following coordination. Their reports are included and most of their data for peer-review. With public safety grants, <a href="https://zaytrics.com/portfolio/">Zaytrics</a> had previously studied identifying risk groups on Twitter: https://www.sciencedirect.com/science/article/abs/pii/S1751157720306386
 
 A Cyber Intelligence Researcher in Italy collected Twitter, Reddit, and Instagram Data on Amber Heard and created Twitter and Reddit Dashboards of statistics. Below analysis was preliminary and the start of our Social Network Analysis project.
 ### Topic-based account groups - Cyber Intelligence Researcher Analysis
