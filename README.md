@@ -69,7 +69,7 @@ If you're a social enterprise, researcher, organization, student, or academic he
 
 #### <b>Do No Harm:</b>
 All collaborators, researchers, and observers are required to sign, acknowledge, agree to "Do No Harm" agreements. If you are one of the victims listed in this study and need harmful material removed or to collaborate with us, please contact us.
-<br><br>We make this study and data fully open to Public Research. We do not include the full code, however, we make data open on data repositories to protect the individual in this study and to prevent harmful operations. As a precedent, other researchers and students should use this GitHub and study as a basis for their own social network analysis projects. We draw attention to this project months before in-person appearances for safety.
+<br><br>We make this study and data fully open to Public Research. We do not include the full code, however, we make data open on data repositories to protect the individual in this study, to make a long-lasting impact for learning in the scientific world, and to prevent harmful operations. As a precedent, other researchers and students should use this GitHub and study as a basis for their own social network analysis projects. We draw attention to this project months before in-person appearances for safety.
 <br>
 
 ### <b>Data Samples [Updates]:</b><br>
