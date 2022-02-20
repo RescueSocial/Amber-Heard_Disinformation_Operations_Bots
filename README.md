@@ -4,18 +4,20 @@
 
 #### <i><b>Millions of Texts and Accounts were studied for Social Network Analysis.</b></i>
 
-We're Worldwide Independent Researchers with over 20 data analysts, scientists, and observers analyzing this data for over a year. Research and development is ongoing, and this public operation spanning for years continues. We invite researchers and students to study this case example. 
+We're Worldwide Independent Researchers with over 20 data analysts, scientists, and observers analyzing this data for over a year. Research and development is ongoing, and this public operation spanning for years continues. We invite researchers and students to study this public case example. 
 
-<i>Data collected on Amber Heard is primarily related to the years 2018-2021, ongoing into 2022. </i>
+#### <i><b>Data collected on Amber Heard is primarily related to the years 2018-2021, ongoing into 2022.</b></i>
 
-This is the most detailed public analysis of a disinformation operation and the most voluminous yet - showing the impact of <a href="https://www.brookings.edu/research/the-breakout-scale-measuring-the-impact-of-influence-operations"><i>Category 6</a> influence.</b></i> This work is in-progress and prepared for peer-review. 
+This is the most detailed public analysis of a disinformation operation and the most voluminous yet - showing the impact of <a href="https://www.brookings.edu/research/the-breakout-scale-measuring-the-impact-of-influence-operations"><i>Category 6</a> influence,</b></i> globally affecting the public, businesses, nonprofits, and entities beyond the victim. This work is in-progress and prepared for peer-review.  
 
-<b>Our Purpose is to create precedents and foundations to help other victims of cyberabuse, bots, domestic abuse, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a>, hostile environments, and Disinformation Operations</b>. 
-<br>We want to save lives and help partners create systems to help online - including with specialized and accurate rescue, quality custom studies, data analysis, Social Network Analysis, forensics, research, situation awareness, data science projects, and rescue/public safety technologies - <i>with focus on the victim primarily and <b>her environment</b></i>. 
+<b>Our Purpose is to create Precedents and Foundations to help other victims of cyberabuse, bots, domestic abuse, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a>, hostile environments, and Disinformation Operations to improve lives.</b> 
+<br>We want to save lives and help partners create systems to help online - e.g., specialized and accurate rescue, quality custom studies, data analysis, Social Network Analysis, forensics, research, situation awareness, data science projects, and rescue/public safety technologies - <i>with focus on the victim primarily and <b>her environment</b></i>.
 
-<i>If file is too large to preview on github, please download, or preview in this <a href="https://drive.google.com/drive/folders/18MWGm7dRX6Gi5UPo0fO9xQMtT4eHIrbn?usp=sharing">google folder</a>.</i>
+- <a href="https://www.teamscopeapp.com/blog/6-repositories-to-share-your-research-data"><i><b>Public Research</b></a> - This study and its data is fully open for scientific learning, developing solutions, saving lives, maximizing knowledge, blueprints, and archiving for long-term benefit.</i>
+<i><br>- If a file of analysis is too large to preview on github, please download, or preview in this <a href="https://drive.google.com/drive/folders/18MWGm7dRX6Gi5UPo0fO9xQMtT4eHIrbn?usp=sharing">google folder</a>.</i>
+<br><b>- Full Data</b> sharing is in-progress on <a href="https://drive.google.com/drive/folders/1GjKdNpsJSBIX9MsQgKq2FGTArDVEYFFI?usp=sharing">Google</a>, Kaggle, Archives, and public research data repositories.</i>
 
-#### <b>Amounts of Data Collections [Updates]:</b><br>
+### <b>Amounts of Data Collections [Updates]:</b><br>
 - Twitter: 985,400 Tweets and 275,567 Accounts Jan 2018-April 2021, (2) Over 880,000 Tweets of Top Users, (3) 200K+ Retweets, Links
 - Reddit: 164,530 Contributions, 15,896 Submissions, 71,319 Accounts, Links
 - Instagram: 1,751,113 Comments, 193,967 Posts, 717,311 Accounts (Posts made by 36,137 accounts and 681,174 commented), Links
@@ -68,12 +70,13 @@ If you're a social enterprise, researcher, organization, student, or academic he
 - <i>If you're a victim needing help against cyberabuse especially in <a href="https://safeescape.org">online domestic abuse</a> and <a href="https://metta-space.com">hostile environments</a>, please contact us.</i><br>
 
 #### <b>Do No Harm:</b>
-All collaborators, researchers, and observers are required to sign, acknowledge, agree to "Do No Harm" agreements. If you are one of the victims listed in this study and need to collaborate with us, please contact us.
+All collaborators, researchers, and observers are required to sign, acknowledge, agree to "Do No Harm" agreements. If you are one of the victims, businesses, nonprofits, or entities listed in this study and need to collaborate with us, please contact us.
 <br><br>We make this study and data fully open to <a href="https://www.teamscopeapp.com/blog/6-repositories-to-share-your-research-data">Public Research</a>. We do not include the full code, however, we make data open on data repositories to protect the individual in this study, to make a long-lasting impact for learning in the scientific world, and to prevent harmful operations. As a precedent, other researchers and students should use this GitHub and study as a basis for their own social network analysis projects. We draw attention to this project months before in-person appearances for safety.
 <br>
 
-### <b>Data Samples [Updates]:</b><br>
-- 5 Months of Data for Cross-Platform Analysis
+### <b>Data Samples and Full Data [Updates]:</b><br>
+On GitHub:
+- 5 Months of Data for Cross-Platform Analysis:
 - 307,649 Tweets of Twitter, Texts of Accounts in Coordination, and All Listed Accounts
 - 43,509 Contributions of Reddit and All Listed Accounts
 - 394,237 Comments of Instagram and All Listed Accounts
@@ -85,10 +88,15 @@ All collaborators, researchers, and observers are required to sign, acknowledge,
 - 10,168 Compliments of Amber Heard from AI NLG Prompts
 - Links/URLs Lists of comments/postings of Instagram, YouTube, Twitter, Reddit, Change.org
 
+<b>Public Research:</b>
+<br>This Study is open for Public Research, scientific learning, and archiving.
+<br>Full Data is on <a href="https://drive.google.com/drive/folders/1GjKdNpsJSBIX9MsQgKq2FGTArDVEYFFI?usp=sharing">Google</a>, and soon added to Kaggle, Archives, and research data repositories.
+<br><i>"Research data can save lives, help develop solutions and maximise our knowledge. Promoting collaboration and cooperation among a global research community is the first step to reduce the burden of wasted research."</i>
+
 <b>Cross-Platforms Analysis:</b><br>
 Analysis is in-progress and more will be added after published research papers for researcher privacy.
-<br><i>Data of 5 months of December 2020 to April 2021 is provided for open peer-review and research studies.</i>
-<br><i>Note:</i> Peaks, Heat Maps of Threats, coordinated bot activities, repeated same texts, and more anomalies show for 2018-2022 continuing, especially February 2020 onward as seen in analysis files.
+<br><i>Data of 5 months of December 2020 to April 2021 is provided for open peer-review and research studies on GitHub. Full Data for more independent cross-platform analysis is provided in research data repositories.</i>
+<br><i>- Note:</i> Peaks, Heat Maps of Threats, coordinated bot activities, repeated same texts, and more anomalies show for 2018-2022 continuing, especially February 2020 onward as seen in analysis files.
 
 <i>The Academic API was used for Retweets and <a href="https://InformationTracer.com">InformationTracer</a> for CrowdTangle API.</i><br>
 
@@ -125,15 +133,17 @@ Worldwide Data Scientists, Researchers in Cyber Intelligence, PhDs, Data Analyst
 Objective	Tactical (short-term):	situational assessment	- situation awareness<br>
 Strategic (long-term):	sensemaking -	understanding<br>
 Scientific (longer-term):	analysis	- prediction<br></i>
+- <i><a href="https://www.teamscopeapp.com/blog/6-repositories-to-share-your-research-data">Public Research:</a>
+<br>"When researchers make their data public, they increase transparency and trust in their work, they enable others to reproduce and validate their findings, and ultimately, contribute to the pace of scientific discovery by allowing others to reuse and build on top of their data."</i>
 
 ### <b>Researchers:</b>
 <b>We welcome Researchers to work with this Data on Amber Heard to create Blueprints on how Bots and Disinformation/Influence Operations work. </b>
-<br>Please ask to collaborate with us for Access to more Data at rescuesocial@gmail.com.<br>
+<br>Please ask to collaborate with us at rescuesocial@gmail.com.<br>
 - <i><b>Research and building technologies is Ongoing as the operation is Continuing over years and this is a Public Github Example. </b>
 <br>We are continuing analysis and data collections, including creating technologies for systems on <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control.</a></i>
 <br><i>“Since the fate of the world is non-existence, Since You Exist, Be Merry.” - Persian Mathematician <a href="https://en.wikipedia.org/wiki/Omar_Khayyam">Omar Khayyam</a></i>
 
-<b>Citing Research Project:</b><br>
+### <b>Citing Research Project:</b><br>
 If interested in citing our research project in your studies, publication, journal, database, or article, please provide a link to this GitHub repository with its title and contact us for collaboration.
 
 
