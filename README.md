@@ -18,7 +18,7 @@ This is the most detailed public analysis of a disinformation operation and the 
 <br><b>- Full Data</b> sharing is in-progress on <a href="https://drive.google.com/drive/folders/1GjKdNpsJSBIX9MsQgKq2FGTArDVEYFFI?usp=sharing">Google</a>, Kaggle, Archives, and public research data repositories.</i>
 
 ### <b>Amounts of Data Collections [Updates]:</b><br>
-- Twitter: 985,400 Tweets and 275,567 Accounts Jan 2018-April 2021, (2) Over 880,000 Tweets of Top Users, (3) 200K+ Retweets, Links
+- Twitter: 985,400 Tweets and 275,567 Accounts Jan 2018-April 2021, (2) Over 880,000 Tweets of Top Users, (3) 700K+ Retweets, Links
 - Reddit: 164,530 Contributions, 15,896 Submissions, 71,319 Accounts, Links
 - Instagram: 1,751,113 Comments, 193,967 Posts, 717,311 Accounts (Posts made by 36,137 accounts and 681,174 commented), Links
 - YouTube: (1) 2,176,926 Comments (1,693,341 Comments with 483,585 Replies), 6,893 Videos (with dislike ratios), 1,152,868 Accounts, Cross-Platform Links
@@ -77,7 +77,7 @@ All collaborators, researchers, and observers are required to sign, acknowledge,
 ### <b>Data Samples and Full Data [Updates]:</b><br>
 On GitHub:
 - 5 Months of Data for Cross-Platform Analysis:
-- 307,649 Tweets of Twitter, Texts of Accounts in Coordination, and All Listed Accounts
+- 307,649 Tweets of Twitter, Texts of Accounts in Coordination, 674,469 Retweets, and All Listed Accounts
 - 43,509 Contributions of Reddit and All Listed Accounts
 - 394,237 Comments of Instagram and All Listed Accounts
 - 28,952 Comments of Change.org, 18,908 Milestones, and 181 Petitions Data
