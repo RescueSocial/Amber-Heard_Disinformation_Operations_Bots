@@ -2,7 +2,7 @@
 <b><i>Social Network Analysis of Disinformation/Influence Operations and Bots</i> Cross-Platforms on <i>Amber Heard</i>. 
 <br>Twitter, Reddit, YouTube, Instagram, Change.org, and Facebook for <i>6 Social Media Platforms</i>.</b>
 
-### <i><b>Millions of Texts and Accounts were studied for Social Network Analysis.</b></i>
+#### <i><b>Millions of Texts and Accounts were studied for Social Network Analysis.</b></i>
 
 We're Worldwide Independent Researchers with over 20 data analysts, scientists, and observers analyzing this data for over a year. Research and development is ongoing, and this public operation spanning for years continues. We invite researchers and students to study this case example. 
 
@@ -11,7 +11,7 @@ We're Worldwide Independent Researchers with over 20 data analysts, scientists, 
 This is the most detailed public analysis of a disinformation operation and the most voluminous yet - showing the impact of <a href="https://www.brookings.edu/research/the-breakout-scale-measuring-the-impact-of-influence-operations"><i>Category 6</a> influence.</b></i> This work is in-progress and prepared for peer-review. 
 
 <b>Our Purpose is to create precedents and foundations to help other victims of cyberabuse, bots, domestic abuse, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a>, hostile environments, and Disinformation Operations</b>. 
-<br>We want to save lives and help partners create systems to help online - including with specialized and accurate rescue, quality custom studies, data analysis, Social Network Analysis, forensics, research, situation awareness, data science projects, and rescue/public safety technologies - <i>with focus on the victim primarily and <b>her environment</b></i>. 
+<br>- We want to save lives and help partners create systems to help online - including with specialized and accurate rescue, quality custom studies, data analysis, Social Network Analysis, forensics, research, situation awareness, data science projects, and rescue/public safety technologies - <i>with focus on the victim primarily and <b>her environment</b></i>. 
 
  <a href="https://www.teamscopeapp.com/blog/6-repositories-to-share-your-research-data">Public Research</a>: This study is fully open for scientific learning, analysis, and archiving.
 <i><br>If a file is too large to preview on github, please download, or preview in this <a href="https://drive.google.com/drive/folders/18MWGm7dRX6Gi5UPo0fO9xQMtT4eHIrbn?usp=sharing">google folder</a>.</i>
