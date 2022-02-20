@@ -14,8 +14,8 @@ This is the most detailed public analysis of a disinformation operation and the 
 <i><br>If a file is too large to preview on github, please download, or preview in this <a href="https://drive.google.com/drive/folders/18MWGm7dRX6Gi5UPo0fO9xQMtT4eHIrbn?usp=sharing">google folder</a>.</i>
 <br>Full Data sharing is in-progress on <a href="https://drive.google.com/drive/folders/1GjKdNpsJSBIX9MsQgKq2FGTArDVEYFFI?usp=sharing">google</a>, and soon added to Kaggle, Archives, and research data repositories.</i>
 
-<b>Our Purpose is to create precedents and foundations to help other victims of cyberabuse, bots, domestic abuse, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a>, hostile environments, and Disinformation Operations to save lives.</b> 
-<br>We want to help partners create systems to help online - including with specialized and accurate rescue, quality custom studies, data analysis, Social Network Analysis, forensics, research, situation awareness, data science projects, and rescue/public safety technologies - <i>with focus on the victim primarily and <b>her environment</b></i>.
+<b>Our Purpose is to create precedents and foundations to help other victims of cyberabuse, bots, domestic abuse, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a>, hostile environments, and Disinformation Operations to improve lives.</b> 
+<br>We want to save lives and help partners create systems to help online - including with specialized and accurate rescue, quality custom studies, data analysis, Social Network Analysis, forensics, research, situation awareness, data science projects, and rescue/public safety technologies - <i>with focus on the victim primarily and <b>her environment</b></i>.
 
 ### <b>Amounts of Data Collections [Updates]:</b><br>
 - Twitter: 985,400 Tweets and 275,567 Accounts Jan 2018-April 2021, (2) Over 880,000 Tweets of Top Users, (3) 200K+ Retweets, Links
