@@ -13,7 +13,7 @@ This is the most detailed public analysis of a disinformation operation and the 
 <b>Our Purpose is to create precedents and foundations to help other victims of cyberabuse, bots, domestic abuse, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a>, hostile environments, and Disinformation Operations to improve lives.</b> 
 <br>We want to save lives and help partners create systems to help online - including with specialized and accurate rescue, quality custom studies, data analysis, Social Network Analysis, forensics, research, situation awareness, data science projects, and rescue/public safety technologies - <i>with focus on the victim primarily and <b>her environment</b></i>.
 
-- <a href="https://www.teamscopeapp.com/blog/6-repositories-to-share-your-research-data"><i><b>Public Research</b></a>: This study and its data is fully open for scientific learning, developing solutions, analysis, maximizing knowledge, blueprints, and archiving for long-term benefit.</i>
+- <a href="https://www.teamscopeapp.com/blog/6-repositories-to-share-your-research-data"><i><b>Public Research</b></a>: This study and its data is fully open for scientific learning, developing solutions, maximizing knowledge, blueprints, and archiving for long-term benefit.</i>
 <i><br>If a file of analysis is too large to preview on github, please download, or preview in this <a href="https://drive.google.com/drive/folders/18MWGm7dRX6Gi5UPo0fO9xQMtT4eHIrbn?usp=sharing">google folder</a>.</i>
 <br><b>Full Data</b> sharing is in-progress on <a href="https://drive.google.com/drive/folders/1GjKdNpsJSBIX9MsQgKq2FGTArDVEYFFI?usp=sharing">google</a>, and soon Kaggle, Archives, and public research data repositories.</i>
 
