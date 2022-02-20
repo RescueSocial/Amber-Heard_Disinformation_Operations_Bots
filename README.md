@@ -8,7 +8,7 @@ We're Worldwide Independent Researchers with over 20 data analysts, scientists, 
 
 #### <i><b>Data collected on Amber Heard is primarily related to the years 2018-2021, ongoing into 2022.</b></i>
 
-This is the most detailed public analysis of a disinformation operation and the most voluminous yet - showing the impact of <a href="https://www.brookings.edu/research/the-breakout-scale-measuring-the-impact-of-influence-operations"><i>Category 6</a> influence.</b></i> This work is in-progress and prepared for peer-review.  
+This is the most detailed public analysis of a disinformation operation and the most voluminous yet - showing the impact of <a href="https://www.brookings.edu/research/the-breakout-scale-measuring-the-impact-of-influence-operations"><i>Category 6</a> influence,</b></i> globally affecting the public, businesses, nonprofits, and entities beyond the victim. This work is in-progress and prepared for peer-review.  
 
 <b>Our Purpose is to create Precedents and Foundations to help other victims of cyberabuse, bots, domestic abuse, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a>, hostile environments, and Disinformation Operations to improve lives.</b> 
 <br>We want to save lives and help partners create systems to help online - e.g., specialized and accurate rescue, quality custom studies, data analysis, Social Network Analysis, forensics, research, situation awareness, data science projects, and rescue/public safety technologies - <i>with focus on the victim primarily and <b>her environment</b></i>.
@@ -70,7 +70,7 @@ If you're a social enterprise, researcher, organization, student, or academic he
 - <i>If you're a victim needing help against cyberabuse especially in <a href="https://safeescape.org">online domestic abuse</a> and <a href="https://metta-space.com">hostile environments</a>, please contact us.</i><br>
 
 #### <b>Do No Harm:</b>
-All collaborators, researchers, and observers are required to sign, acknowledge, agree to "Do No Harm" agreements. If you are one of the victims listed in this study and need to collaborate with us, please contact us.
+All collaborators, researchers, and observers are required to sign, acknowledge, agree to "Do No Harm" agreements. If you are one of the victims, businesses, nonprofits, or entities listed in this study and need to collaborate with us, please contact us.
 <br><br>We make this study and data fully open to <a href="https://www.teamscopeapp.com/blog/6-repositories-to-share-your-research-data">Public Research</a>. We do not include the full code, however, we make data open on data repositories to protect the individual in this study, to make a long-lasting impact for learning in the scientific world, and to prevent harmful operations. As a precedent, other researchers and students should use this GitHub and study as a basis for their own social network analysis projects. We draw attention to this project months before in-person appearances for safety.
 <br>
 
