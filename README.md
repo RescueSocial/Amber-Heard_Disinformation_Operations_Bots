@@ -77,7 +77,7 @@ All collaborators, researchers, and observers are required to sign, acknowledge,
 ### <b>Data Samples and Full Data [Updates]:</b><br>
 On GitHub:
 - 5 Months of Data for Cross-Platform Analysis:
-- 307,649 Tweets of Twitter, Texts of Accounts in Coordination, and All Listed Accounts
+- 307,649 Tweets of Twitter, Texts of Accounts in Coordination, 674,469 Retweets, and All Listed Accounts
 - 43,509 Contributions of Reddit and All Listed Accounts
 - 394,237 Comments of Instagram and All Listed Accounts
 - 28,952 Comments of Change.org, 18,908 Milestones, and 181 Petitions Data
