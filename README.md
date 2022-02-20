@@ -70,7 +70,7 @@ If you're a social enterprise, researcher, organization, student, or academic he
 - <i>If you're a victim needing help against cyberabuse especially in <a href="https://safeescape.org">online domestic abuse</a> and <a href="https://metta-space.com">hostile environments</a>, please contact us.</i><br>
 
 #### <b>Do No Harm:</b>
-All collaborators, researchers, and observers are required to sign, acknowledge, agree to "Do No Harm" agreements. If you are one of the victims, businesses, nonprofits, or entities listed in this study and need to collaborate with us, please contact us.
+All collaborators, researchers, and observers are required to sign, acknowledge, agree to "Do No Harm" agreements. If you are one of the victims, businesses, nonprofits, or entities listed in this study and want to collaborate with us, please contact us.
 <br><br>We make this study and data fully open to <a href="https://www.teamscopeapp.com/blog/6-repositories-to-share-your-research-data">Public Research</a>. We do not include the full code, however, we make data open on data repositories to protect the individual in this study, to make a long-lasting impact for learning in the scientific world, and to prevent harmful operations. As a precedent, other researchers and students should use this GitHub and study as a basis for their own social network analysis projects. We draw attention to this project months before in-person appearances for safety.
 <br>
 
