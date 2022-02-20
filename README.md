@@ -90,13 +90,13 @@ On GitHub:
 
 <b>Public Research:</b>
 <br>This Study is open for Public Research, scientific learning, and archiving.
-<br>Full Data is on <a href="https://drive.google.com/drive/folders/1GjKdNpsJSBIX9MsQgKq2FGTArDVEYFFI?usp=sharing">Google</a>, and soon added to Kaggle, Archives, and research data repositories, which is in-progress.
+<br>Full Data is on <a href="https://drive.google.com/drive/folders/1GjKdNpsJSBIX9MsQgKq2FGTArDVEYFFI?usp=sharing">Google</a>, and soon added to Kaggle, Archives, and research data repositories.
 <br><i>"Research data can save lives, help develop solutions and maximise our knowledge. Promoting collaboration and cooperation among a global research community is the first step to reduce the burden of wasted research."</i>
 
 <b>Cross-Platforms Analysis:</b><br>
 Analysis is in-progress and more will be added after published research papers for researcher privacy.
 <br><i>Data of 5 months of December 2020 to April 2021 is provided for open peer-review and research studies on GitHub. Full Data for more independent cross-platform analysis is provided in research data repositories.</i>
-<br><i>Note:</i> Peaks, Heat Maps of Threats, coordinated bot activities, repeated same texts, and more anomalies show for 2018-2022 continuing, especially February 2020 onward as seen in analysis files.
+<br><i>- Note:</i> Peaks, Heat Maps of Threats, coordinated bot activities, repeated same texts, and more anomalies show for 2018-2022 continuing, especially February 2020 onward as seen in analysis files.
 
 <i>The Academic API was used for Retweets and <a href="https://InformationTracer.com">InformationTracer</a> for CrowdTangle API.</i><br>
 
