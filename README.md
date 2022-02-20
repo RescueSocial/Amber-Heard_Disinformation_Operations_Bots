@@ -13,7 +13,8 @@ This is the most detailed public analysis of a disinformation operation and the 
 <b>Our Purpose is to create precedents and foundations to help other victims of cyberabuse, bots, domestic abuse, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a>, hostile environments, and Disinformation Operations</b>. 
 <br>We want to save lives and help partners create systems to help online - including with specialized and accurate rescue, quality custom studies, data analysis, Social Network Analysis, forensics, research, situation awareness, data science projects, and rescue/public safety technologies - <i>with focus on the victim primarily and <b>her environment</b></i>. 
 
-<i>If file is too large to preview on github, please download, or preview in this <a href="https://drive.google.com/drive/folders/18MWGm7dRX6Gi5UPo0fO9xQMtT4eHIrbn?usp=sharing">google folder</a>.</i>
+<i>If a file is too large to preview on github, please download, or preview in this <a href="https://drive.google.com/drive/folders/18MWGm7dRX6Gi5UPo0fO9xQMtT4eHIrbn?usp=sharing">google folder</a>.</i>
+<br>The Study is open for <a href="https://www.teamscopeapp.com/blog/6-repositories-to-share-your-research-data">Public Research</a>, scientific learning, and archiving. Full Data sharing is in-progress on <a href="https://drive.google.com/drive/folders/1GjKdNpsJSBIX9MsQgKq2FGTArDVEYFFI?usp=sharing">Google</a>, and soon added to Kaggle, Archives, and research data repositories.
 
 #### <b>Amounts of Data Collections [Updates]:</b><br>
 - Twitter: 985,400 Tweets and 275,567 Accounts Jan 2018-April 2021, (2) Over 880,000 Tweets of Top Users, (3) 200K+ Retweets, Links
@@ -72,7 +73,7 @@ All collaborators, researchers, and observers are required to sign, acknowledge,
 <br><br>We make this study and data fully open to <a href="https://www.teamscopeapp.com/blog/6-repositories-to-share-your-research-data">Public Research</a>. We do not include the full code, however, we make data open on data repositories to protect the individual in this study, to make a long-lasting impact for learning in the scientific world, and to prevent harmful operations. As a precedent, other researchers and students should use this GitHub and study as a basis for their own social network analysis projects. We draw attention to this project months before in-person appearances for safety.
 <br>
 
-### <b>Data Samples [Updates]:</b><br>
+### <b>Data Samples and Full Data [Updates]:</b><br>
 - 5 Months of Data for Cross-Platform Analysis
 - 307,649 Tweets of Twitter, Texts of Accounts in Coordination, and All Listed Accounts
 - 43,509 Contributions of Reddit and All Listed Accounts
@@ -84,6 +85,10 @@ All collaborators, researchers, and observers are required to sign, acknowledge,
 - Anomolies Data Samples
 - 10,168 Compliments of Amber Heard from AI NLG Prompts
 - Links/URLs Lists of comments/postings of Instagram, YouTube, Twitter, Reddit, Change.org
+
+<b>Public Research -</b>
+<br>This Study is open for Public Research, scientific learning, and archiving. Full Data is on <a href="https://drive.google.com/drive/folders/1GjKdNpsJSBIX9MsQgKq2FGTArDVEYFFI?usp=sharing">Google</a>, and soon added to Kaggle, Archives, and research data repositories, which is in-progress.
+<br><i>"Research data can save lives, help develop solutions and maximise our knowledge. Promoting collaboration and cooperation among a global research community is the first step to reduce the burden of wasted research."</i>
 
 <b>Cross-Platforms Analysis:</b><br>
 Analysis is in-progress and more will be added after published research papers for researcher privacy.
@@ -125,6 +130,8 @@ Worldwide Data Scientists, Researchers in Cyber Intelligence, PhDs, Data Analyst
 Objective	Tactical (short-term):	situational assessment	- situation awareness<br>
 Strategic (long-term):	sensemaking -	understanding<br>
 Scientific (longer-term):	analysis	- prediction<br></i>
+<br><i>Public Research:
+<br>"When researchers make their data public, they increase transparency and trust in their work, they enable others to reproduce and validate their findings, and ultimately, contribute to the pace of scientific discovery by allowing others to reuse and build on top of their data."</i>
 
 ### <b>Researchers:</b>
 <b>We welcome Researchers to work with this Data on Amber Heard to create Blueprints on how Bots and Disinformation/Influence Operations work. </b>
