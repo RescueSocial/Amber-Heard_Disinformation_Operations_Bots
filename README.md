@@ -16,7 +16,7 @@ This is the most detailed public analysis of a disinformation operation and the 
 <i>If a file is too large to preview on github, please download, or preview in this <a href="https://drive.google.com/drive/folders/18MWGm7dRX6Gi5UPo0fO9xQMtT4eHIrbn?usp=sharing">google folder</a>.</i>
 <br>This Study is open for <a href="https://www.teamscopeapp.com/blog/6-repositories-to-share-your-research-data">Public Research</a>, scientific learning, and archiving. Full Data sharing is in-progress on <a href="https://drive.google.com/drive/folders/1GjKdNpsJSBIX9MsQgKq2FGTArDVEYFFI?usp=sharing">Google</a>, and soon added to Kaggle, Archives, and research data repositories.
 
-#### <b>Amounts of Data Collections [Updates]:</b><br>
+### <b>Amounts of Data Collections [Updates]:</b><br>
 - Twitter: 985,400 Tweets and 275,567 Accounts Jan 2018-April 2021, (2) Over 880,000 Tweets of Top Users, (3) 200K+ Retweets, Links
 - Reddit: 164,530 Contributions, 15,896 Submissions, 71,319 Accounts, Links
 - Instagram: 1,751,113 Comments, 193,967 Posts, 717,311 Accounts (Posts made by 36,137 accounts and 681,174 commented), Links
@@ -86,7 +86,7 @@ All collaborators, researchers, and observers are required to sign, acknowledge,
 - 10,168 Compliments of Amber Heard from AI NLG Prompts
 - Links/URLs Lists of comments/postings of Instagram, YouTube, Twitter, Reddit, Change.org
 
-<b>Public Research -</b>
+<b>Public Research:</b>
 <br>This Study is open for Public Research, scientific learning, and archiving. Full Data is on <a href="https://drive.google.com/drive/folders/1GjKdNpsJSBIX9MsQgKq2FGTArDVEYFFI?usp=sharing">Google</a>, and soon added to Kaggle, Archives, and research data repositories, which is in-progress.
 <br><i>"Research data can save lives, help develop solutions and maximise our knowledge. Promoting collaboration and cooperation among a global research community is the first step to reduce the burden of wasted research."</i>
 
@@ -130,7 +130,7 @@ Worldwide Data Scientists, Researchers in Cyber Intelligence, PhDs, Data Analyst
 Objective	Tactical (short-term):	situational assessment	- situation awareness<br>
 Strategic (long-term):	sensemaking -	understanding<br>
 Scientific (longer-term):	analysis	- prediction<br></i>
-<br><i><a href="https://www.teamscopeapp.com/blog/6-repositories-to-share-your-research-data">Public Research:</a>
+- <i><a href="https://www.teamscopeapp.com/blog/6-repositories-to-share-your-research-data">Public Research:</a>
 <br>"When researchers make their data public, they increase transparency and trust in their work, they enable others to reproduce and validate their findings, and ultimately, contribute to the pace of scientific discovery by allowing others to reuse and build on top of their data."</i>
 
 ### <b>Researchers:</b>
