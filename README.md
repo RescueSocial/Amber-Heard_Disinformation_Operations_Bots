@@ -143,7 +143,7 @@ Scientific (longer-term):	analysis	- prediction<br></i>
 <br>We are continuing analysis and data collections, including creating technologies for systems on <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control.</a></i>
 <br><i>“Since the fate of the world is non-existence, Since You Exist, Be Merry.” - Persian Mathematician <a href="https://en.wikipedia.org/wiki/Omar_Khayyam">Omar Khayyam</a></i>
 
-<b>Citing Research Project:</b><br>
+### <b>Citing Research Project:</b><br>
 If interested in citing our research project in your studies, publication, journal, database, or article, please provide a link to this GitHub repository with its title and contact us for collaboration.
 
 
