@@ -27,7 +27,7 @@ This is the most detailed public analysis of a disinformation operation and the 
 - Crossplatform for Groups in Facebook, Reddit, and Channels of YouTube<br>
 
 ### <b>Index and Contents:<br></b>
-<i>Use for Timeline Correlations to Risks and Preliminary Effects</i>
+<i>Use for Timeline Correlations to Risks, Origins, and Preliminary Effects</i>
 - <b>Analysis of Social Media Platforms</b> - Complex Study with Detailed Python Notebooks
 <i><br>Twitter, Reddit, Instagram, Change.org, YouTube, Facebook, Cross-Platforms
 <br>Peaks, Anomalies, Timelines, Patterns, Statistical Models
@@ -117,7 +117,7 @@ https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf<br>
 - Jessica Reisinger-Raubenolt & Lilia Operations - https://www.tampabay.com/news/crime/2021/08/05/cameron-herrin-went-to-prison-for-a-tampa-crash-were-the-tweets-that-followed-real<br>
 - Video - Rose McGowan vs BlackCube: https://www.youtube.com/watch?v=tv6ewJQ7L3k<br>
 - Amber Heard, Cyrillic Spiders from Mars - https://www.thegeekbuzz.com/the-basement/cyrillic-russian-spiders-from-mars
-
+<br>Folder "<a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/-%20Study%20Case%20-%20Effects%2C%20Risks%2C%20Origins">Study Case - Effects, Risks, Origins</a>" shows dangerous Private Sector operations.
 
 ### <b>Scientific Methods:</b>
 Worldwide Data Scientists, Researchers in Cyber Intelligence, PhDs, Data Analysts, and a former Google Research Intern collected and analyzed data. We use the scientific method of testing.
