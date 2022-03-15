@@ -106,6 +106,7 @@ August 2020 Counterclaims on Bots: https://www.scribd.com/document/473092071/cl-
 Influence Operation of 6,000 Twitter accounts found by BotSentinel: https://youtu.be/bb2bC04OEPw<br>
 
 #### <b>Related Articles for Understanding:</b><br> 
+Folder "<a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/-%20Study%20Case%20-%20Effects%2C%20Risks%2C%20Origins">Study Case - Effects, Risks, Origins</a>" shows dangerous Private Sector operations.<br>
 <i>"Disinformation in the Private Sector: The Price of Influence"</i>
 - New Accounts Layers, Aged Accounts, Created News-Sites:</br>
 https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf<br>
@@ -117,7 +118,7 @@ https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf<br>
 - Jessica Reisinger-Raubenolt & Lilia Operations - https://www.tampabay.com/news/crime/2021/08/05/cameron-herrin-went-to-prison-for-a-tampa-crash-were-the-tweets-that-followed-real<br>
 - Video - Rose McGowan vs BlackCube: https://www.youtube.com/watch?v=tv6ewJQ7L3k<br>
 - Amber Heard, Cyrillic Spiders from Mars - https://www.thegeekbuzz.com/the-basement/cyrillic-russian-spiders-from-mars
-<br>Folder "<a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/-%20Study%20Case%20-%20Effects%2C%20Risks%2C%20Origins">Study Case - Effects, Risks, Origins</a>" shows dangerous Private Sector operations.
+
 
 ### <b>Scientific Methods:</b>
 Worldwide Data Scientists, Researchers in Cyber Intelligence, PhDs, Data Analysts, and a former Google Research Intern collected and analyzed data. We use the scientific method of testing.
