@@ -2,7 +2,7 @@
 <b><i>Social Network Analysis of Disinformation/Influence Operations and Bots</i> Cross-Platforms on <i>Amber Heard</i>. 
 <br>Twitter, Reddit, YouTube, Instagram, Change.org, and Facebook for <i>6 Social Media Platforms</i>.</b>
 
-#### <i><b>Millions of Texts and Accounts were studied for Social Network Analysis.</b></i>
+#### <i><b>Millions of Texts and Millions of Accounts were studied for Social Network Analysis.</b></i>
 
 We're Worldwide Independent Researchers with over 20 data analysts, scientists, and observers analyzing this data for over a year. Research and development is ongoing, and this public operation spanning for years continues. We invite researchers and students to study this public case example. 
 
@@ -13,9 +13,10 @@ This is the most detailed public analysis of a disinformation operation and the 
 <b>Our Purpose is to create Precedents and Foundations to help other victims of cyberabuse, bots, domestic abuse, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a>, hostile environments, and Disinformation Operations to improve lives.</b> 
 <br>We want to save lives and help partners create systems to help online - e.g., specialized and accurate rescue, quality custom studies, data analysis, Social Network Analysis, forensics, research, situation awareness, data science projects, and rescue/public safety technologies - <i>with focus on the victim primarily and <b>her environment</b></i>.
 
-- <a href="https://www.teamscopeapp.com/blog/6-repositories-to-share-your-research-data"><i><b>Public Research</b></a> - This study and its data is fully open for scientific learning, developing solutions, saving lives, maximizing knowledge, blueprints, and archiving for long-term benefit.</i>
+- <a href="https://www.teamscopeapp.com/blog/6-repositories-to-share-your-research-data"><i><b>Public Research:</b></a> 
+<br>This study and its data is fully open for scientific learning, developing solutions, saving lives, maximizing knowledge, blueprints, and archiving for long-term benefit.</i>
 <br>- If a file of analysis is too large to preview on github, please download, or preview in this <a href="https://drive.google.com/drive/folders/18MWGm7dRX6Gi5UPo0fO9xQMtT4eHIrbn?usp=sharing">google folder</a>.
-<br>- <b>Full Data</b> sharing is in-progress on <a href="https://drive.google.com/drive/folders/1GjKdNpsJSBIX9MsQgKq2FGTArDVEYFFI?usp=sharing">Google</a>, <a href="https://www.kaggle.com/rescuesocialtech/datasets">Kaggle</a>, Archives, <a href="https://www.scribd.com/user/598949302/Rescue-Social-Tech/uploads">Scribd</a> and public research data repositories.</i>
+<br>- <b>Full Data</b> sharing is in-progress on <a href="https://drive.google.com/drive/folders/1GjKdNpsJSBIX9MsQgKq2FGTArDVEYFFI?usp=sharing">Google</a>, <a href="https://www.kaggle.com/amberhearddata/datasets">Kaggle</a>, Archives, <a href="https://www.scribd.com/user/598949302/Rescue-Social-Tech/uploads">Scribd</a> and public research data repositories.</i>
 
 ### <b>Amounts of Data Collections [Updates]:</b><br>
 - Twitter: 985,400 Tweets and 275,567 Accounts Jan 2018-April 2021, (2) Over 880,000 Tweets of Top Users, (3) 700K+ Retweets, Links
@@ -90,18 +91,18 @@ On GitHub:
 
 <b>Public Research:</b>
 <br>This Study is open for Public Research, scientific learning, and archiving.
-<br>Full Data is on <a href="https://drive.google.com/drive/folders/1GjKdNpsJSBIX9MsQgKq2FGTArDVEYFFI?usp=sharing">Google</a>, and soon added to Kaggle, Archives, and research data repositories.
-<br><i>"Research data can save lives, help develop solutions and maximise our knowledge. Promoting collaboration and cooperation among a global research community is the first step to reduce the burden of wasted research."</i>
+<br>Full Data is on <a href="https://drive.google.com/drive/folders/1GjKdNpsJSBIX9MsQgKq2FGTArDVEYFFI?usp=sharing">Google</a>, <a href="https://www.kaggle.com/amberhearddata/datasets">Kaggle</a>, Archives, and research data repositories.
+- <i>"Research data can save lives, help develop solutions and maximise our knowledge. Promoting collaboration and cooperation among a global research community is the first step to reduce the burden of wasted research."</i>
 
 <b>Cross-Platforms Analysis:</b><br>
 Analysis is in-progress and more will be added after published research papers for researcher privacy.
-<br><i>Data of 5 months of December 2020 to April 2021 is provided for open peer-review and research studies on GitHub. Full Data for more independent cross-platform analysis is provided in research data repositories.</i>
+<br><i>- Data of 5 months of December 2020 to April 2021 is provided for open peer-review and research studies on GitHub. Full Data for more independent cross-platform analysis is provided in research data repositories.</i>
 <br><i>- Note:</i> Peaks, Heat Maps of Threats, coordinated bot activities, repeated same texts, and more anomalies show for 2018-2022 continuing, especially February 2020 onward as seen in analysis files.
 
 <i>The Academic API was used for Retweets and <a href="https://InformationTracer.com">InformationTracer</a> for CrowdTangle API.</i><br>
 
 ### <b>Background:</b><br>
-Multiple Research Papers on Disinformation/Influence Operations Cross-Platforms<br>
+Multiple Research Papers on Disinformation/Influence Operations Cross-Platforms, Timelines, Studying Technologies<br>
 August 2020 Counterclaims on Bots: https://www.scribd.com/document/473092071/cl-2019-2911-def-counterclaims-8-10-2020<br>
 Influence Operation of 6,000 Twitter accounts found by BotSentinel: https://youtu.be/bb2bC04OEPw<br>
 
