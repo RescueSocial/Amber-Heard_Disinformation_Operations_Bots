@@ -4,10 +4,10 @@ Rescue Social Network Analysis and Cyber Intel against botnets, cyberabuse, expl
 Note: Code edited to remove local host information, logins, api tokens.
 
 
-### <b>Search Queries for Instagram, Reddit, Twitter of Amber Heard Data:</b>
+## <b>Search Queries for Instagram, Reddit, Twitter of Amber Heard Data:</b>
 
 
-#### <b>Instagram - in scraper.py file</b>
+### <b>Instagram - in scraper.py file</b>
 
 START = datetime(2021, 5, 28)
 END = datetime(2021, 5, 30)
@@ -15,7 +15,7 @@ HASHTAG = "amberheard"
 GraphQL_Hash = "9b498c08113f1e09617a1703c22b2f32"
 
 
-#### <b>Twitter - in handler.py file</b>
+### <b>Twitter - in handler.py file</b>
 
 QUERY = '"Amber Heard" OR #AmberHeardIsAnAbuser OR #JusticeForJohnnyDepp OR #AmberHeardIsALiar'
 # QUERY = 'mammamia'
@@ -29,7 +29,7 @@ HYDRATOR_DIR = 'hydrator/'
 
 
 
-#### <b>Reddit - in scraper.py file</b>
+### <b>Reddit - in scraper.py file</b>
 
 # for submission in submissions_pushshift_praw('languagelearning', 1478532000, 1478542000):
 #         print(submission.title)
