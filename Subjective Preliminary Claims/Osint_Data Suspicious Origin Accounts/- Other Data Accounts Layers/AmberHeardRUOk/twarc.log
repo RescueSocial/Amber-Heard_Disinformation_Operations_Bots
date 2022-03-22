@@ -1,0 +1,50 @@
+2022-03-15 19:22:47,397 INFO loading None profile from config C:\Users\Administrator\.twarc
+2022-03-15 19:22:47,397 INFO creating http session
+2022-03-15 19:22:47,397 INFO creating OAuth1 user authentication
+2022-03-15 19:22:47,397 INFO getting ('https://api.twitter.com/1.1/account/verify_credentials.json',) {'params': {'tweet_mode': 'extended'}}
+2022-03-15 19:22:47,537 INFO looking up users AmberHeardRUOk
+2022-03-15 19:22:47,537 INFO getting ('https://api.twitter.com/1.1/users/lookup.json',) {'params': {'screen_name': 'AmberHeardRUOk', 'tweet_mode': 'extended'}}
+2022-03-15 19:22:47,600 INFO archived 1465277283392843779
+2022-03-15 19:23:03,221 INFO loading None profile from config C:\Users\Administrator\.twarc
+2022-03-15 19:23:03,221 INFO creating http session
+2022-03-15 19:23:03,221 INFO creating OAuth1 user authentication
+2022-03-15 19:23:03,221 INFO getting ('https://api.twitter.com/1.1/account/verify_credentials.json',) {'params': {'tweet_mode': 'extended'}}
+2022-03-15 19:23:03,346 INFO starting user timeline for user AmberHeardRUOk
+2022-03-15 19:23:03,346 INFO getting ('https://api.twitter.com/1.1/statuses/user_timeline.json',) {'params': {'count': 200, 'screen_name': 'AmberHeardRUOk', 'include_ext_alt_text': 'true', 'tweet_mode': 'extended'}}
+2022-03-15 19:23:03,440 INFO archived 1499009262302875648
+2022-03-15 19:23:03,440 INFO archived 1499009140068212740
+2022-03-15 19:23:03,440 INFO archived 1499008530031931396
+2022-03-15 19:23:03,440 INFO archived 1499007512086925317
+2022-03-15 19:23:03,440 INFO archived 1497090825511051269
+2022-03-15 19:23:03,440 INFO archived 1465280254516154372
+2022-03-15 19:23:03,440 INFO archived 1465280143975337986
+2022-03-15 19:23:03,440 INFO getting ('https://api.twitter.com/1.1/statuses/user_timeline.json',) {'params': {'count': 200, 'screen_name': 'AmberHeardRUOk', 'include_ext_alt_text': 'true', 'tweet_mode': 'extended', 'max_id': '1465280143975337985'}}
+2022-03-15 19:23:03,487 INFO no new tweets matching {'count': 200, 'screen_name': 'AmberHeardRUOk', 'include_ext_alt_text': 'true', 'tweet_mode': 'extended', 'max_id': '1465280143975337985'}
+2022-03-15 19:23:23,736 INFO loading None profile from config C:\Users\Administrator\.twarc
+2022-03-15 19:23:23,736 INFO creating http session
+2022-03-15 19:23:23,736 INFO creating OAuth1 user authentication
+2022-03-15 19:23:23,736 INFO getting ('https://api.twitter.com/1.1/account/verify_credentials.json',) {'params': {'tweet_mode': 'extended'}}
+2022-03-15 19:23:23,877 INFO getting ('https://api.twitter.com/1.1/friends/ids.json',) {'params': {'screen_name': 'AmberHeardRUOk', 'cursor': -1, 'tweet_mode': 'extended'}}
+2022-03-15 19:23:23,924 INFO archived 807003567605227520
+2022-03-15 19:23:40,530 INFO loading None profile from config C:\Users\Administrator\.twarc
+2022-03-15 19:23:40,530 INFO creating http session
+2022-03-15 19:23:40,530 INFO creating OAuth1 user authentication
+2022-03-15 19:23:40,530 INFO getting ('https://api.twitter.com/1.1/account/verify_credentials.json',) {'params': {'tweet_mode': 'extended'}}
+2022-03-15 19:23:40,671 INFO getting ('https://api.twitter.com/1.1/followers/ids.json',) {'params': {'screen_name': 'AmberHeardRUOk', 'cursor': -1, 'tweet_mode': 'extended'}}
+2022-03-15 19:23:40,718 INFO archived 1153661510452961285
+2022-03-15 19:23:40,718 INFO archived 942340247374897153
+2022-03-16 06:57:07,435 INFO loading None profile from config C:\Users\Administrator\.twarc
+2022-03-16 06:57:07,435 INFO creating http session
+2022-03-16 06:57:07,435 INFO creating OAuth1 user authentication
+2022-03-16 06:57:07,435 INFO getting ('https://api.twitter.com/1.1/account/verify_credentials.json',) {'params': {'tweet_mode': 'extended'}}
+2022-03-16 06:57:07,591 INFO looking up users 1153661510452961285,942340247374897153
+2022-03-16 06:57:07,591 INFO getting ('https://api.twitter.com/1.1/users/lookup.json',) {'params': {'user_id': '1153661510452961285,942340247374897153', 'tweet_mode': 'extended'}}
+2022-03-16 06:57:07,664 INFO archived 1153661510452961285
+2022-03-16 06:57:07,664 INFO archived 942340247374897153
+2022-03-16 06:57:23,510 INFO loading None profile from config C:\Users\Administrator\.twarc
+2022-03-16 06:57:23,510 INFO creating http session
+2022-03-16 06:57:23,510 INFO creating OAuth1 user authentication
+2022-03-16 06:57:23,510 INFO getting ('https://api.twitter.com/1.1/account/verify_credentials.json',) {'params': {'tweet_mode': 'extended'}}
+2022-03-16 06:57:23,651 INFO looking up users 807003567605227520
+2022-03-16 06:57:23,651 INFO getting ('https://api.twitter.com/1.1/users/lookup.json',) {'params': {'user_id': '807003567605227520', 'tweet_mode': 'extended'}}
+2022-03-16 06:57:23,713 INFO archived 807003567605227520
