@@ -1,0 +1,151 @@
+Search Queries for Instagram, Reddit, Twitter of Amber Heard Data
+
+
+Instagram - in scraper.py file
+
+START = datetime(2021, 5, 28)
+END = datetime(2021, 5, 30)
+HASHTAG = "amberheard"
+GraphQL_Hash = "9b498c08113f1e09617a1703c22b2f32"
+
+
+Twitter - in handler.py file
+
+QUERY = '"Amber Heard" OR #AmberHeardIsAnAbuser OR #JusticeForJohnnyDepp OR #AmberHeardIsALiar'
+# QUERY = 'mammamia'
+# SINCE = 1601510400
+# UNTIL = 1604188800
+
+SINCE = 1609459200
+UNTIL = 1619395200
+TWEEPER_DIR = 'tweeper/'
+HYDRATOR_DIR = 'hydrator/'
+
+
+
+Reddit - in scraper.py file
+
+# for submission in submissions_pushshift_praw('languagelearning', 1478532000, 1478542000):
+#         print(submission.title)
+
+
+# submission = reddit.submission(url='https://www.reddit.com/r/entertainment/comments/nxv4ly/fans_once_again_call_for_amber_heard_to_be_fired/')
+# print(submission.id)
+#
+# print(submission.title)
+
+es = Elasticsearch()
+
+
+until = 1624752000
+
+
+while True:
+    since = until - (60 * 60 * 24)
+
+    for submission in submissions_pushshift_praw(since, until, 100000, 'amber%20heard'):
+        try:
+            test = submission.title
+        except (Forbidden, NotFound):
+            continue
+
+        try:
+            author_name = submission.author.name
+            author = {'name': author_name,
+                'created_at': datetime.utcfromtimestamp(submission.author.created_utc).strftime('%a %b %d %H:%M:%S +0000 %Y'),
+                'has_verified_email': submission.author.has_verified_email,
+                'is_employee': submission.author.is_employee,
+                'is_mod': submission.author.is_mod,
+                'is_gold': submission.author.is_gold}
+        except (Forbidden, NotFound,AttributeError):
+            author_name = '-banned-'
+            author = {'name': author_name,
+                'created_at': None,
+                'has_verified_email': None,
+                'is_employee': None,
+                'is_mod': None,
+                'is_gold': None}
+        if 'amber heard' not in submission.title.lower():
+            continue
+        print(datetime.utcfromtimestamp(submission.created_utc).strftime('%a %b %d %H:%M:%S +0000 %Y'))
+
+        urls = re.findall('https?://(?:[-\w.]|(?:%[\da-fA-F]{2}))+', submission.title)
+
+        urls_objects = []
+        for url in urls:
+            urls_objects.append({'display_url': url})
+
+
+        document = {
+            'id': submission.id,
+            'name': submission.name,
+            'permalink': submission.permalink,
+            'text': submission.title,
+            'parent_id': '',
+            'subreddit': submission.subreddit_name_prefixed,
+            'author': author,
+            'created_at': datetime.utcfromtimestamp(submission.created_utc).strftime('%a %b %d %H:%M:%S +0000 %Y'),
+            'entities': {
+                'urls': urls_objects
+            },
+            'sentiment_blob': text_blob_sentiment(submission.title),
+            'sentiment_nltk': nltk_sentiment(submission.title)
+        }
+        res = es.index(index='reddit', body=document)
+
+
+        success = False
+        while not success:
+            try:
+                submission.comments.replace_more(limit=None)
+                success = True
+            except:
+                success = False
+
+        for comment in submission.comments.list():
+
+            try:
+                author_name = comment.author.name
+                author = {'name': author_name,
+                          'created_at': datetime.utcfromtimestamp(submission.author.created_utc).strftime(
+                              '%a %b %d %H:%M:%S +0000 %Y'),
+                          'has_verified_email': submission.author.has_verified_email,
+                          'is_employee': submission.author.is_employee,
+                          'is_mod': submission.author.is_mod,
+                          'is_gold': submission.author.is_gold}
+            except (Forbidden, NotFound, AttributeError):
+                author_name = '-banned-'
+                author = {'name': author_name,
+                          'created_at': None,
+                          'has_verified_email': None,
+                          'is_employee': None,
+                          'is_mod': None,
+                          'is_gold': None}
+
+            urls = re.findall('https?://(?:[-\w.]|(?:%[\da-fA-F]{2}))+', comment.body)
+
+            urls_objects = []
+            for url in urls:
+                urls_objects.append({'display_url': url})
+
+            document = {
+                'id': comment.id,
+                'name': comment.name,
+                'permalink': comment.permalink,
+                'text': comment.body,
+                'parent_id': comment.parent_id,
+                'subreddit': comment.subreddit_name_prefixed,
+                'author': author,
+                'created_at': datetime.utcfromtimestamp(comment.created_utc).strftime('%a %b %d %H:%M:%S +0000 %Y'),
+                'entities': {
+                        'urls': urls_objects
+                    },
+                'sentiment_blob': text_blob_sentiment(comment.body),
+                'sentiment_nltk': nltk_sentiment(comment.body)
+            }
+            res = es.index(index='reddit', body=document)
+
+    until = since
+
+
+
