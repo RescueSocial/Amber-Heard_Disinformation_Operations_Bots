@@ -10,6 +10,7 @@ Shows the risks correlating to in-person, the motivations, and the claims behind
 Interpretation: <br>
 It is clear that multiple layers of companies are used against Amber Heard. Similar to the investigations of money-laundering, cyber criminal activities can similarly 'clean' in layers. 
 As seen in other case examples e.g., against McGowan and actresses, models, socialites, and partners of atheletes, the Natural Language of these operations are similar as are their capabilities of paying hundreds of thousands to millions for these operations against women in these conditions.
+<br>Secondly, it's extreme monitoring with coercive control and domestic abuse by partners to not allow these women to move onto others. Private services and 'fixers' specialize in harming women who are partners of these figures. It's abuse of process and intimidation to threaten with death, destruction. 
 - Sports accounts were not only seen by the cyber intelligence reseacher in April 2021 (Arsenal sports network), but also show in like-bots analysis. Clustering is a method to find similar topics, banners, and profile images.
 - Many accounts, retweets, and amplifications surround threatening Amber Heard with state-actions, which correlates to the distraction of having Adam Waldman hired by John C. Depp II. It is true that these operations are far more volumnious than e.g., against Rose McGowan (thousands of bots), Ashley Morgan Smithline, Brittany Murphy, or Meghan Markle (See folder - Other Case Examples). 
 <br> This could correlate with the accuracy known by the additional skilled influence layers. However, there are other companies including for social media community building as seen with the obvious bots and takedowns on YouTube.
@@ -17,7 +18,7 @@ As seen in other case examples e.g., against McGowan and actresses, models, soci
 <br>Similar to Kate Starbird's video on <a href="https://www.youtube.com/watch?v=498-c_SjArg">"Emerging Technology Speaker Series - Beyond Bots and Trolls - Understanding Disinformation"</a> at Mozzila, the two sides of a issue are manipulated against the victims in influence operations. 
 E.g., commonly the operations against Amber Heard will take on personas of groups that should have actually supported her. It weaponizes these personas against her. E.g., "Hunting Hound's" biography of claiming LGBTQ.
 
-- Operations, including psy-ops, are dangerous. The use of accounts and timings to invoke fear, hopelessness, and isolation are dangerous - see file "online social effects".
+- Operations, including psy-ops, are dangerous. The use of accounts and timings to invoke fear, hopelessness, and isolation are dangerous - see file "online social effects."
 <br> It's imperative the victim doesn't look at the operations, requiring 3rd parties. Think of frequency, target, source.
 
 ## <b>Questions:</b>
@@ -27,7 +28,7 @@ E.g., commonly the operations against Amber Heard will take on personas of group
 <br>4. How does the online data and motivations correlate to threats and predictable actions in previous instances from the related individuals?
 <br>5. How can we prevent similar operations to save lives and stop the distress of the victim by mitigating the harms?
 
-
+<br>
 <b>See - Study Case - Effects, Risks, Origins for more information...</b>
 <br>
 Folder: Abusive Accounts, Threats, & Images
