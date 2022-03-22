@@ -57,8 +57,8 @@ class Hydrator:
             session = Session()
 
             session.proxies = {}
-            session.proxies['http'] = 'socks5h://localhost:9050'
-            session.proxies['https'] = 'socks5h://localhost:9050'
+            session.proxies['http'] = '---://localhost:---'
+            session.proxies['https'] = '---://localhost:---'
 
             session = _update_headers(session, -1)
             retries = Retry(total=60, backoff_factor=2, status_forcelist=[500, 502, 503, 504])
@@ -82,8 +82,8 @@ class Hydrator:
 def _update_headers(session, session_id):
     session.headers.update({
         'Connection': 'keep-alive',
-        'authorization': 'Bearer AAAAAAAAAAAAAAAAAAAAANRILgAAAAAAnNwIzUejRCOuH5E6I8xnZz4puTs%3D1Zv7ttfk8LF81IUq16c'
-                         'HjhLTvJu4FA33AGWWjCpTnA',
+        'authorization': 'Bearer --------------------------------------------------------------------------'
+                         '-----------------------',
         'x-guest-token': _fetch_token(session_id),
         'x-twitter-active-user': 'yes',
         'User-Agent': generate_user_agent(device_type='desktop'),
@@ -111,8 +111,8 @@ def _fetch_token(session_id, retries=60):
         session = Session()
 
         session.proxies = {}
-        session.proxies['http'] = 'socks5h://localhost:9050'
-        session.proxies['https'] = 'socks5h://localhost:9050'
+        session.proxies['http'] = '---://localhost:---'
+        session.proxies['https'] = '---://localhost:---'
 
         session.headers.update({
             'User-Agent': generate_user_agent(device_type='desktop'),
