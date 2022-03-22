@@ -18,7 +18,7 @@ As seen in other case examples e.g., against McGowan and actresses, models, soci
 <br>Similar to Kate Starbird's video on <a href="https://www.youtube.com/watch?v=498-c_SjArg">"Emerging Technology Speaker Series - Beyond Bots and Trolls - Understanding Disinformation"</a> at Mozzila, the two sides of a issue are manipulated against the victims in influence operations. 
 E.g., commonly the operations against Amber Heard will take on personas of groups that should have actually supported her. It weaponizes these personas against her. E.g., "Hunting Hound's" biography of claiming LGBTQ.
 
-- Operations, including psy-ops, are dangerous. The use of accounts and timings to invoke fear, hopelessness, and isolation are dangerous - see file "online social effects".
+- Operations, including psy-ops, are dangerous. The use of accounts and timings to invoke fear, hopelessness, and isolation are dangerous - see file "online social effects."
 <br> It's imperative the victim doesn't look at the operations, requiring 3rd parties. Think of frequency, target, source.
 
 ## <b>Questions:</b>
