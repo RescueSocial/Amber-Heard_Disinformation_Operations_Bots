@@ -28,7 +28,7 @@ E.g., commonly the operations against Amber Heard will take on personas of group
 <br>4. How does the online data and motivations correlate to threats and predictable actions in previous instances from the related individuals?
 <br>5. How can we prevent similar operations to save lives and stop the distress of the victim by mitigating the harms?
 
-
+<br>
 <b>See - Study Case - Effects, Risks, Origins for more information...</b>
 <br>
 Folder: Abusive Accounts, Threats, & Images
