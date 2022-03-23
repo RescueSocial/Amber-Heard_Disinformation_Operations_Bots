@@ -19,7 +19,7 @@ Far more can be interpreted from these folders and files. We are still researchi
 - This case example and study can be used with its texts for other studies on bots, domestic abuse, disinformation/influence, and private sector operations against women and those around them, often including their partners, businesses, nonprofits, and aquintanaces.  
 
 ## Some Interesting points - Interpretations:
-- We see traits of private sector manipulation with sports accounts, fake detectives, fake devils/monsters, and fake agencies. 
+- We see traits of private sector manipulation with sports accounts, fake detectives, fake devils/monsters, and fake agencies. Intimidation with state is a distraction.
 - Preliminary research was conducted on the risks by asking multiple organizations in summer of 2021. <a href="http://iosi.global.com">IOSI.global</a> - a global intelligence and security agency with a network of over 40K - called it a 'high risk' case and saw money-laundering investigations of Depp's people. They said high levels cyber crime are around Amber Heard's accounts. We continued despite risks and many researchers did so knowing that it's a deadly case study to instead help life.
 - In Nov 2018, an account is against Amber Heard's "loving, sweet girl" image and attacks her, Warner Bros, others. It claims bots promote her beauty. Then it currently today is a mentions-bot. 
 <br>In Subjective Preliminary Claims, there's an ex-staff partner leaking in March/April 2019 which not only said the operations were pre-planned for years, but numerous other timeline issues showing in AH's exhibit files in 2022.
@@ -35,7 +35,9 @@ Far more can be interpreted from these folders and files. We are still researchi
 Using <b>Timeline Comparisons - Events</b>, it can be seen that the operations online do not correlate correctly to events, that the data continues despite in-person activities, with the exception that threat analysis clearly shows correlation. There is abuse of process with the courtcases and some leaks.
 <br>Try to correlate the intensity of the data and traits to how it changes in-person to be more restrictive, isolated, and difficult.
 
-In Data Science, Social Network Analysis, and Technology Compnies in general, there is a high burden of evidence. When we're trying to analyze with an in-progress influence operation at the same time, it can be highly stressful and challenging.
+In Data Science, Social Network Analysis, and Technology/Social Media Companies in general, there is a high burden of evidence. They wanted verifiable data and analysis of high volume, which we obtained. However, there are also the issues of responsibility and the lack of advoacy for Amber Heard's wellbeing online.
+When we're trying to analyze with an in-progress influence operation at the same time, it can be highly stressful and challenging.
+
 Although reporters in early 2020 were looking and interested in interviewing, there was no data analysis or investigations at that point. Secondly, reporters over then the 3-4 years of operations now do not report on Amber Heard or ask her supporters.
 
 There is a "Studying Technologies" folder explaining more about how the technology behind this works, and initial (not focused on maliciousness, disinformation) initial social network graph files that are available for anyone.
