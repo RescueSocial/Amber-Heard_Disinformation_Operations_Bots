@@ -14,9 +14,12 @@ Through this folder, a clear understanding of how multiple layers and companies 
 However, we provided articles for understanding for the researchers to see the importance of studying a real-life case example. 
 
 Far more can be interpreted from these folders and files. We are still researching, looking for reverse engineering of origins.
-  - To understand the devestating effect of disinformation/influence operations, you can see the "Amber Heard Background Study JD & Bots Story Case" file to see that she's been destroyed and threatened.
+  - To understand the devestating effect of disinformation/influence operations, you can see the "<a href="https://www.scribd.com/document/498883211/Amber-Heard-vs-Johnny-Depp-Bots-21st-Century-Story">Amber Heard Book Background Study JD & Bots Story Case</a>" file to see that she's been destroyed and threatened. 
+<br>Note - The description summary changes due to trying to confront, investigate, and interfere with the influence operation 2021+.
 
-- This case example and study can be used with its texts for other studies on bots, domestic abuse, disinformation/influence, and private sector operations against women and those around them, often including their partners, businesses, nonprofits, and aquintanaces.  
+This case example and study can be used with its texts for other studies on bots, domestic abuse, disinformation/influence, and private sector operations against women and those around them, often including their partners, businesses, nonprofits, and aquintanaces. 
+The motivations behind these operations often come from the coercive control to take down these women, their witnesses, and their support for decades, only now moved mostly online to avoid data analysis and oversight. The higher skill, natural language, and volume stems from the amounts of funds, specialties, and layers of companies used.
+At higher income levels, private security can be used. At any level, software and accounts can be used against women at any level.
 
 ## Some Interesting points - Interpretations:
 - We see traits of private sector manipulation with sports accounts, fake detectives, fake devils/monsters, and fake agencies. Intimidation with state is a distraction from the multiple layers.
