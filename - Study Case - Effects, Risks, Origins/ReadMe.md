@@ -7,12 +7,19 @@ Social effects clearly show in these files and can be correlated to the data sci
 
 Notice initial files on Private Sector Disinformation Operations from Recorded Future and Devumi bots - where public figures had millions of false followers.
 
-We circle back to this after our analysis of 6 social media platforms, of which demonstrate bot activities and high threats. We further left this out until more completion due to the issues that could have harmed the data scientists doing their work.
+We circle back to this after our analysis of 6 social media platforms, of which demonstrate bot activities and high threats. We further left this out until more completion due to the issues that could have harmed the data scientists doing their work.</b>
+
+Through this folder, a clear understanding of how multiple layers and companies are used in the private sector can be used for social media and online, escalting and originating to in-person disinformation/influence operations.
 
 However, we provided articles for understanding for the researchers to see the importance of studying a real-life case example. 
-<br>This case example and study can be used with its texts for other studies on bots, domestic abuse, disinformation/influence, and private sector operations against women and those around them, often including their partners, businesses, nonprofits, and aquintanaces.  
 
-## Interesting points - Interpretations:
+Far more can be interpreted from these folders and files. We are still researching, looking for reverse engineering of origins.
+  - To understand the devestating effect of disinformation/influence operations, you can see the "Amber Heard Background Study JD & Bots Story Case" file to see that she's been destroyed and threatened.
+
+- This case example and study can be used with its texts for other studies on bots, domestic abuse, disinformation/influence, and private sector operations against women and those around them, often including their partners, businesses, nonprofits, and aquintanaces.  
+
+## Some Interesting points - Interpretations:
+- We see traits of private sector manipulation with sports accounts, fake detectives, fake devils/monsters, and fake agencies. 
 - Preliminary research was conducted on the risks by asking multiple organizations in summer of 2021. <a href="http://iosi.global.com">IOSI.global</a> - a global intelligence and security agency with a network of over 40K - called it a 'high risk' case and saw money-laundering investigations of Depp's people. They said high levels cyber crime are around Amber Heard's accounts. We continued despite risks and many researchers did so knowing that it's a deadly case study to instead help life.
 - In Nov 2018, an account is against Amber Heard's "loving, sweet girl" image and attacks her, Warner Bros, others. It claims bots promote her beauty. Then it currently today is a mentions-bot. 
 <br>In Subjective Preliminary Claims, there's an ex-staff partner leaking in March/April 2019 which not only said the operations were pre-planned for years, but numerous other timeline issues showing in AH's exhibit files in 2022.
@@ -24,8 +31,6 @@ However, we provided articles for understanding for the researchers to see the i
 <br> In fact, our data from an ex-google research intern from the GraphQL endpoint shows nearly 5,000 comments still created on that petition up to a year after Change.org removed the comments page. When logging in, accounts can still sign which is unusual for people's lack of patience.
 <br>From this observation, Si Aguilara from the Change.org comments on the large petition and SiActually from the NLU files of deleted Twitter accounts were looked into.... then we see the same quotes from a 2015 and 2016 accounts which slight variations, similar to the "Adapt and Survive" simulation.
 
-Far more can be interpreted from these folders and files. We are still researching, looking for reverse engineering of origins.
-<br>To understand the devestating effect of disinformation/influence operations, you can see the "Amber Heard Background Study JD & Bots Story Case" file to see that she's been destroyed and threatened.
 
 Using <b>Timeline Comparisons - Events</b>, it can be seen that the operations online do not correlate correctly to events, that the data continues despite in-person activities, with the exception that threat analysis clearly shows correlation. There is abuse of process with the courtcases and some leaks.
 <br>Try to correlate the intensity of the data and traits to how it changes in-person to be more restrictive, isolated, and difficult.
