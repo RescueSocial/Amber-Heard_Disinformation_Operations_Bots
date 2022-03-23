@@ -5,7 +5,7 @@
 Social effects clearly show in these files and can be correlated to the data science. 
 <b>Not only did we do this study thinking we can try to save a life, but we can also use this study to help other victims. 
 
-Notice initial files on Private Sector Disinformation Operations from Recorded Future and Devumi bots - where public figures had millions of false followers.
+Notice initial files on <a href="https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf">Private Sector Disinformation Operations from Recorded Future</a> and <a href="https://gadgets360.com/social-networking/news/devumi-a-firm-that-sells-fake-twitter-followers-to-be-probed-by-new-york-attorney-general-1805985">Devumi</a> bots - where public figures had millions of false followers.
 
 We circle back to this after our analysis of 6 social media platforms, of which demonstrate bot activities and high threats. We further left this out until more completion due to the issues that could have harmed the data scientists doing their work.</b>
 
