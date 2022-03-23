@@ -5,7 +5,7 @@
 Social effects clearly show in these files and can be correlated to the data science. 
 <b>Not only did we do this study thinking we can try to save a life, but we can also use this study to help other victims. 
 
-Notice initial files on <a href="https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf">Private Sector Disinformation Operations from Recorded Future</a> and <a href="https://gadgets360.com/social-networking/news/devumi-a-firm-that-sells-fake-twitter-followers-to-be-probed-by-new-york-attorney-general-1805985">Devumi</a> bots - where public figures had millions of false followers.
+Notice initial files on <a href="https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf">Private Sector Disinformation Operation</a>s from Recorded Future and <a href="https://gadgets360.com/social-networking/news/devumi-a-firm-that-sells-fake-twitter-followers-to-be-probed-by-new-york-attorney-general-1805985">Devumi</a> bots - where public figures had millions of false followers.
 
 We circle back to this after our analysis of 6 social media platforms, of which demonstrate bot activities and high threats. We further left this out until more completion due to the issues that could have harmed the data scientists doing their work.</b>
 
@@ -19,8 +19,10 @@ Far more can be interpreted from these folders and files. We are still researchi
 
 This case example and study can be used with its texts for other studies on bots, domestic abuse, disinformation/influence, and private sector operations against women and those around them, often including their partners, businesses, nonprofits, and acquaintances. 
   
-The motivations behind these operations often come from the coercive control to take down these women, their witnesses, and their support for decades, only now moved mostly online to avoid data analysis and oversight. The higher skill, natural language, and volume stems from the amounts of funds, specialties, and layers of companies used.
-At higher income levels, private security can be used against women in domestic abuse. At any level, software and accounts can be used against women.
+The motivations behind these operations often come from the coercive control to take down these women, their witnesses, and their support for decades, only now moved mostly online to avoid data analysis and oversight. The higher skill, natural language, and volume stems from the amounts of funds, specialties, and layers of companies used. 
+<br>E.g., attacking the partners of these figures has been happening for decades, e.g, with 'fixers,' but not publicly researched before. It truly requires gamifying and deflecting with your own data, analysis, intelligence, and power.
+<br>At higher income levels, private security can be used against women in domestic abuse. At any level, software and accounts can be used against women.
+
 
 ## Some Interesting points - Interpretations:
 - We see traits of private sector manipulation with sports accounts, fake detectives, fake devils/monsters, and fake agencies. Intimidation with state is a decoy from the multiple layers of private services.
@@ -28,7 +30,7 @@ At higher income levels, private security can be used against women in domestic 
 - In Nov 2018, an account is against Amber Heard's "loving, sweet girl" image and attacks her, Warner Bros, others. It claims bots promote her beauty. Then it currently today is a mentions-bot. 
 <br>In Subjective Preliminary Claims, there's an ex-staff partner leaking in March/April 2019 which not only said the operations were pre-planned for years, but numerous other timeline issues showing in AH's exhibit files in 2022.
 - The Abusive, threats, and accounts folder shows graphic imagery and danger in these online operations. 
-- "<a href="https://www.youtube.com/watch?v=uretrfMA-Io">Adapt and Survive" Amber Heard on YouTube</a> - This simulation in December 2020 was too outrageous, threatening, volimnious of hundreds of thousands of accounts, and obvious. It immediately led to strong dedication to doing this study thoroughly and reporting. However, an AI Lead thought that others must be advocating for Amber Heard which was not true. The psy-op of operations online is intense.
+- "<a href="https://www.youtube.com/watch?v=uretrfMA-Io">Adapt and Survive" Amber Heard on YouTube</a> - This simulation in December 2020 was too outrageous, threatening, voluminous of Hundreds of Thousands of accounts, and obvious. It immediately led to strong dedication to doing this study thoroughly and reporting. However, an AI Lead thought that others must be advocating for Amber Heard which was not true. The psy-op of operations online is intense.
 <br> Adapt and Survive then claiming with switching texts of 'a/the' of 'not a victim' is clearly to threaten her with inability to survive, but, we had to go in and find the timings and data ourselves. 
 <br>A year after reporting the video, YouTube removed dislikes on their entire platform. The comments remain even today, and even a year later, 'dislike' was still being posted.
 - InformationTracer using CrowdTangle API and showing the share counts of the Anti-Amber Heard in Aquaman Petition did not match their interactions and share counts with the number of signatures it was obtaining.
