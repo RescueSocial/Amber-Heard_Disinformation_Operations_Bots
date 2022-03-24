@@ -7,7 +7,7 @@ Social effects clearly show in these files and can be correlated to the data sci
   
  Through this folder, there can be an understanding of how multiple layers and companies are used in the private sector for social media and online, escalating and originating to in-person disinformation/influence operations.
 
-It's our interpretation that social media companies need to be encouraged through trusted sources to remove the operations, and that the high volume of abuse, coordination, bots, and influence operations to persecute Amber Heard will never end without connecting cybersecurity, advocacy, data science, and social network analysis together. It's automated, and 2021 to present was high volume as well, effectively destroying Amber Heard. The <a href="https://datasociety.net/library/data-voids/">Data Void</a> on her was exploited, where there was low amonts of data about her until these operations, effecitvely flooding it. 
+It's our interpretation that social media companies need to be encouraged through trusted sources to remove the operations, and that the high volume of abuse, coordination, bots, and influence operations to persecute Amber Heard will never end without connecting cybersecurity, advocacy, data science, and social network analysis together. It's automated, and 2021 to present was high volume as well, effectively destroying Amber Heard. The <a href="https://datasociety.net/library/data-voids/">Data Void</a> on her was exploited, where there was low amonts of data about her until these operations, effectively flooding it. 
 
 Notice initial files on <a href="https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf">Private Sector Disinformation Operations</a> from Recorded Future and <a href="https://gadgets360.com/social-networking/news/devumi-a-firm-that-sells-fake-twitter-followers-to-be-probed-by-new-york-attorney-general-1805985">Devumi</a> bots - where public figures had millions of false followers.
 
@@ -21,8 +21,10 @@ Far more can be interpreted from these folders and files. We are still researchi
 
 This case example and study can be used with its texts for other studies on disinformation/influence, bots, domestic abuse, and private sector operations against women and those around them, often including their partners, businesses, nonprofits, and acquaintances. 
   
-The motivations behind these operations often come from the coercive control to take down these women, their witnesses, and their support for decades, only now moved mostly online to avoid data analysis and oversight. The higher skill, natural language, and volume stems from the amounts of funds, specialties, and layers of companies used.  
-- E.g., attacking the partners of these figures has been happening for decades, e.g, with 'fixers,' but not publicly researched before. It truly requires gamifying and deflecting with your own data, analysis, intelligence, and power.
+##Private Companies:
+Multiple private companies in layers are clearly being used against Amber Heard to this extreme of volume.
+<br>The motivations behind these operations often come from the coercive control to take down these women, their witnesses, and their support for decades, only now moved mostly online to avoid data analysis and oversight. The higher skill, natural language, and volume stems from the amounts of funds, specialties, and layers of companies used.  
+- E.g., attacking the partners of these figures has been happening for decades, e.g, with 'fixers,' but not publicly researched before. It truly requires gamifying and deflecting with your own data, analysis, intelligence, and power. It can ruin, destroy, and destruct.
 - At higher income levels, private security can be used against women in domestic abuse. At any level, software and accounts can be used against women. 
  - For the first time, we're confronting these issues harming these types of women/targets and establishing precedents of technologies which can be used.
 
