@@ -3,15 +3,15 @@
 <b>This folder shows effects, risks, and origins around the Amber Heard Case Study. 
 
 Social effects clearly show in these files and can be correlated to the data science. 
-<b>Not only did we do this study thinking we can try to save a life, but we can also use this study to help other victims. 
+<b>Not only did we do this study thinking we can try to save a life, but we can also use this study to help other victims.
+  
+ Through this folder, an understanding of how multiple layers and companies are used in the private sector can be used for social media and online, escalating and originating to in-person disinformation/influence operations
 
 Notice initial files on <a href="https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf">Private Sector Disinformation Operations</a> from Recorded Future and <a href="https://gadgets360.com/social-networking/news/devumi-a-firm-that-sells-fake-twitter-followers-to-be-probed-by-new-york-attorney-general-1805985">Devumi</a> bots - where public figures had millions of false followers.
 
 We circle back to this after our analysis of 6 social media platforms, of which demonstrate bot activities and high threats. We further left this out until more completion due to the issues that could have harmed the data scientists doing their work.</b>
 
 However, we provided articles for understanding for the researchers to see the importance of studying a real-life case example. 
-  
- Through this folder, an understanding of how multiple layers and companies are used in the private sector can be used for social media and online, escalating and originating to in-person disinformation/influence operations.
 
 Far more can be interpreted from these folders and files. We are still researching, looking for reverse engineering of origins.
   - To understand the devestating effect of disinformation/influence operations, you can see the "<a href="https://www.scribd.com/document/498883211/Amber-Heard-vs-Johnny-Depp-Bots-21st-Century-Story">Amber Heard Book Background Study JD & Bots Story Case</a>" file to see that she's been destroyed and threatened. 
@@ -26,7 +26,7 @@ The motivations behind these operations often come from the coercive control to 
 
 
 ## Some Interesting points - Interpretations:
-- We see traits of private sector manipulation with sports accounts, fake detectives, fake devils/monsters, and fake agencies. Intimidation with state is a decoy from the multiple layers of private services.
+- We see traits of private sector manipulation with Sports accounts, fake detectives, fake devils/monsters, and fake agencies. Intimidation with state is a decoy from the multiple layers of private services.
 - Preliminary research was conducted on the risks by asking multiple organizations in summer of 2021. <a href="http://iosi.global">IOSI.global</a> - a global intelligence and security agency with a network of over 40K - called it a 'high risk' case and saw money-laundering investigations of Depp's people. They said high levels of cyber crime are around Amber Heard's accounts. We continued despite risks and many researchers did so knowing that it's a deadly case study to instead help life.
 - In Nov 2018, an account is against Amber Heard's "sweet, loving girl" image and attacks her, Warner Bros, others. It claims bots promote her beauty. Then it currently today is a mentions-bot. 
 <br>In Subjective Preliminary Claims, there's an ex-staff partner leaking in March/April 2019 which not only said the operations were pre-planned for years, but numerous other timeline issues showing in AH's exhibit files in 2022.
