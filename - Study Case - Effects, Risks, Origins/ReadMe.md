@@ -36,7 +36,7 @@ The motivations behind these operations often come from the coercive control to 
 <br>A year after reporting the video, YouTube removed dislikes on their entire platform. The comments remain even today, and even a year later, 'dislike' was still being posted.
 - InformationTracer using CrowdTangle API and showing the share counts of the Anti-Amber Heard in Aquaman Petition did not match their interactions and share counts with the number of signatures it was obtaining.
 <br> In fact, our data from an ex-google research intern from the GraphQL endpoint shows nearly 5,000 comments still created on that petition up to a year after Change.org removed the comments page. When logging in, accounts can still sign which is unusual for people's lack of patience.
-<br>From this observation, Si Aguilara from the Change.org comments on the large petition and SiActually from the NLU files of deleted Twitter accounts were looked into.... then we see the same quotes from a 2015 and 2016 accounts which slight variations, similar to the "Adapt and Survive" simulation.
+<br>From this observation, Si Aguilara from the Change.org comments on the large petition and SiActually from the NLU files of deleted Twitter accounts were looked into.... then we see the same texts from a 2015 and 2016 accounts which slight variations, similar to the "Adapt and Survive" simulation.
 
 
 Using <b>Timeline Comparisons - Events</b>, it can be seen that the operations online do not correlate correctly to events, that the data continues despite in-person activities, with the exception that threat analysis clearly shows correlation. There is abuse of process with the courtcases and some leaks.
