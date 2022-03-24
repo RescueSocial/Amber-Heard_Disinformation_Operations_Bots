@@ -5,7 +5,7 @@
 Social effects clearly show in these files and can be correlated to the data science. 
 <b>Not only did we do this study thinking we can try to save a life, but we can also use this study to help other victims. 
 
-Notice initial files on <a href="https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf">Private Sector Disinformation Operation</a>s from Recorded Future and <a href="https://gadgets360.com/social-networking/news/devumi-a-firm-that-sells-fake-twitter-followers-to-be-probed-by-new-york-attorney-general-1805985">Devumi</a> bots - where public figures had millions of false followers.
+Notice initial files on <a href="https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf">Private Sector Disinformation Operations</a> from Recorded Future and <a href="https://gadgets360.com/social-networking/news/devumi-a-firm-that-sells-fake-twitter-followers-to-be-probed-by-new-york-attorney-general-1805985">Devumi</a> bots - where public figures had millions of false followers.
 
 We circle back to this after our analysis of 6 social media platforms, of which demonstrate bot activities and high threats. We further left this out until more completion due to the issues that could have harmed the data scientists doing their work.</b>
 
@@ -20,8 +20,9 @@ Far more can be interpreted from these folders and files. We are still researchi
 This case example and study can be used with its texts for other studies on bots, domestic abuse, disinformation/influence, and private sector operations against women and those around them, often including their partners, businesses, nonprofits, and acquaintances. 
   
 The motivations behind these operations often come from the coercive control to take down these women, their witnesses, and their support for decades, only now moved mostly online to avoid data analysis and oversight. The higher skill, natural language, and volume stems from the amounts of funds, specialties, and layers of companies used. 
-<br>E.g., attacking the partners of these figures has been happening for decades, e.g, with 'fixers,' but not publicly researched before. It truly requires gamifying and deflecting with your own data, analysis, intelligence, and power.
-<br>At higher income levels, private security can be used against women in domestic abuse. At any level, software and accounts can be used against women.
+- E.g., attacking the partners of these figures has been happening for decades, e.g, with 'fixers,' but not publicly researched before. It truly requires gamifying and deflecting with your own data, analysis, intelligence, and power.
+- At higher income levels, private security can be used against women in domestic abuse. At any level, software and accounts can be used against women. 
+- It's difficult to be the first to establish a precedence, but it's thrilling too. Can you think of any services currently that combat these types of situations?
 
 
 ## Some Interesting points - Interpretations:
