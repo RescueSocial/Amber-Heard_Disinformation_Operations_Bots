@@ -48,6 +48,6 @@ Although reporters in early 2020 were looking and interested in interviewing, th
 
 There is a "Studying Technologies" folder explaining more about how the technology behind this works, and initial (not focused on maliciousness, disinformation) initial social network graph files that are available for anyone.
 
-- It's difficult to be the first to establish a precedence, but it's thrilling too. Can you think of any services currently that combat these types of situations?
+- It's difficult to be the first to establish a precedence, but it's thrilling too. Can you think of any services currently that stop, prevent, or mitigate these types of situations for profiles similar to this?
 
 <b>We did this study independently and had to. With numerous insider threats and the difficulty of studying private sector vs the norms of research, we had to study this globally and with agility. Now, we can use this study for other examples, but we are not yet complete.</b>
