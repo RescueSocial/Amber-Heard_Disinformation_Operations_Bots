@@ -1,4 +1,4 @@
-# - Study Case - Effects, Risks, Origins
+# Study Case - Effects, Risks, Origins
 
 <b>This folder shows effects, risks, and origins around the Amber Heard Case Study. 
 
