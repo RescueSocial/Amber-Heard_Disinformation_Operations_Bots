@@ -5,7 +5,7 @@
 Social effects clearly show in these files and can be correlated to the data science. 
 <b>Not only did we do this study thinking we can try to save a life, but we can also use this study to help other victims.
   
- Through this folder, an understanding of how multiple layers and companies are used in the private sector can be used for social media and online, escalating and originating to in-person disinformation/influence operations
+ Through this folder, there can be an understanding of how multiple layers and companies are used in the private sector for social media and online, escalating and originating to in-person disinformation/influence operations
 
 Notice initial files on <a href="https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf">Private Sector Disinformation Operations</a> from Recorded Future and <a href="https://gadgets360.com/social-networking/news/devumi-a-firm-that-sells-fake-twitter-followers-to-be-probed-by-new-york-attorney-general-1805985">Devumi</a> bots - where public figures had millions of false followers.
 
