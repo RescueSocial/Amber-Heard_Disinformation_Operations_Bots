@@ -21,7 +21,8 @@ This case example and study can be used with its texts for other studies on bots
   
 The motivations behind these operations often come from the coercive control to take down these women, their witnesses, and their support for decades, only now moved mostly online to avoid data analysis and oversight. The higher skill, natural language, and volume stems from the amounts of funds, specialties, and layers of companies used. 
 - E.g., attacking the partners of these figures has been happening for decades, e.g, with 'fixers,' but not publicly researched before. It truly requires gamifying and deflecting with your own data, analysis, intelligence, and power.
-- At higher income levels, private security can be used against women in domestic abuse. At any level, software and accounts can be used against women. For the first time, we're confronting these issues harming these types of women/targets and establishing precedents of technologies which can be used.
+- At higher income levels, private security can be used against women in domestic abuse. At any level, software and accounts can be used against women. 
+ - For the first time, we're confronting these issues harming these types of women/targets and establishing precedents of technologies which can be used.
 
 
 ## Some Interesting points - Interpretations:
