@@ -12,6 +12,7 @@ Notice initial files on <a href="https://go.recordedfuture.com/hubfs/reports/cta
 We circle back to this after our analysis of 6 social media platforms, of which demonstrate bot activities and high threats. We further left this out until more completion due to the issues that could have harmed the data scientists doing their work.</b>
 
 However, we provided articles for understanding for the researchers to see the importance of studying a real-life case example. 
+  - Amber Heard showed 12/14 violent incidents in the UK case with torture, pain and suffering. It is very dangerous to continue harming the victim by making them re-live the pain they experienced over and over again through online operations that are inescapable. "Survival" becomes difficult and requires resilience. Most people and women who die from online cyberabuse do so at far less volume and time. As a content review agent hired once to Facebook's civic division on AI/ML training (see classaction lawsuit), it requires looking at it in the 3rd person and dissociating. It's very important to stop the abuse, and we can use this case example to reduce the threshold. Files here show distress signals and harms. She's been trivilized by insider threats as well.
 
 Far more can be interpreted from these folders and files. We are still researching, looking for reverse engineering of origins.
   - To understand the devestating effect of disinformation/influence operations, you can see the "<a href="https://www.scribd.com/document/498883211/Amber-Heard-vs-Johnny-Depp-Bots-21st-Century-Story">Amber Heard Book Background Study JD & Bots Story Case</a>" file to see that she's been destroyed and threatened. 
@@ -19,7 +20,7 @@ Far more can be interpreted from these folders and files. We are still researchi
 
 This case example and study can be used with its texts for other studies on disinformation/influence, bots, domestic abuse, and private sector operations against women and those around them, often including their partners, businesses, nonprofits, and acquaintances. 
   
-The motivations behind these operations often come from the coercive control to take down these women, their witnesses, and their support for decades, only now moved mostly online to avoid data analysis and oversight. The higher skill, natural language, and volume stems from the amounts of funds, specialties, and layers of companies used. 
+The motivations behind these operations often come from the coercive control to take down these women, their witnesses, and their support for decades, only now moved mostly online to avoid data analysis and oversight. The higher skill, natural language, and volume stems from the amounts of funds, specialties, and layers of companies used.  
 - E.g., attacking the partners of these figures has been happening for decades, e.g, with 'fixers,' but not publicly researched before. It truly requires gamifying and deflecting with your own data, analysis, intelligence, and power.
 - At higher income levels, private security can be used against women in domestic abuse. At any level, software and accounts can be used against women. 
  - For the first time, we're confronting these issues harming these types of women/targets and establishing precedents of technologies which can be used.
