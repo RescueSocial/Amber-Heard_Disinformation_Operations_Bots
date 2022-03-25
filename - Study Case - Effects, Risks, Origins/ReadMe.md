@@ -7,7 +7,7 @@ Social effects clearly show in these files and should be correlated to the data 
 <b>Not only did we do this study thinking we can try to save a life, but we can also use this study to help other victims.
   
  Through this folder, there can be an understanding of how multiple layers and companies are used in the private sector for social media and online, escalating and originating to in-person disinformation/influence operations.
-<br>Usually studies on bots are in the public rather than the private sector, but anyone can obtain these technologies to harm someone today. As these services and experiences of harm increase, so do the volumes and capabilities from these operations. See "Other Cases Private Sector" under OSINT Private Sector Operations to see some growing examples of other women, often actresses, models, and socialites due to the similar language and strategies, harmed on the internet.
+<br>Usually studies on bots are in the public rather than the private sector, but anyone with enough motive and resources can obtain these technologies to harm someone today. As these services and experiences of harm increase, so do the volumes and capabilities from these operations. See "Other Cases Private Sector" under OSINT Private Sector Operations to see some growing examples of other women, often actresses, models, and socialites due to the similar language and strategies, harmed on the internet.
   
   Notice initial files on <a href="https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf">Private Sector Disinformation Operations</a> from Recorded Future and <a href="https://gadgets360.com/social-networking/news/devumi-a-firm-that-sells-fake-twitter-followers-to-be-probed-by-new-york-attorney-general-1805985">Devumi</a> bots - where public figures had millions of false followers.
   
@@ -53,7 +53,7 @@ Multiple private companies in layers are clearly being used against Amber Heard 
   <br>Most people and women who die from online cyberabuse do so at far less volume and time. From the perspective of being hired once as as a content review agent to Facebook's civic division on AI/ML training (see classaction lawsuit), it requires looking at it in the 3rd person and dissociating. 
     <br>It's very important to stop the abuse, and we can use this case example to reduce the threshold. Files here show distress signals and harms. She's been trivialized by insider threats as well.
 
-Using <b>'Timeline Comparisons - Events'</b>, it can be seen that the operations online do not correlate correctly to events, that the data continues despite in-person activities, with the exception that threat analysis clearly shows correlation. There is abuse of process with the courtcases and some leaks.
+Using <b>'Timeline Comparisons - Events</b>,' it can be seen that the operations online do not correlate correctly to events, that the data continues despite in-person activities, with the exception that threat analysis clearly shows correlation. There is abuse of process with the courtcases and some leaks.
 <br>Try to correlate the intensity of the data and traits to how it changes in-person to be more restrictive, isolated, and difficult.
 
 In Data Science, Social Network Analysis, and Technology/Social Media Companies in general, there is a high burden of evidence. They wanted verifiable data and analysis of high volume, which we obtained. However, there are also the issues of responsibility and the lack of advocacy for Amber Heard's wellbeing online.
