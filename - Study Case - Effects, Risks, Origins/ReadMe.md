@@ -53,7 +53,7 @@ Multiple private companies in layers are clearly being used against Amber Heard 
   <br>Most people and women who die from online cyberabuse do so at far less volume and time. From the perspective of being hired once as as a content review agent to Facebook's civic division on AI/ML training (see classaction lawsuit), it requires looking at it in the 3rd person and dissociating. 
     <br>It's very important to stop the abuse, and we can use this case example to reduce the threshold. Files here show distress signals and harms. She's been trivialized by insider threats as well.
 
-Using <b>Timeline Comparisons - Events</b>, it can be seen that the operations online do not correlate correctly to events, that the data continues despite in-person activities, with the exception that threat analysis clearly shows correlation. There is abuse of process with the courtcases and some leaks.
+Using <b>'Timeline Comparisons - Events'</b>, it can be seen that the operations online do not correlate correctly to events, that the data continues despite in-person activities, with the exception that threat analysis clearly shows correlation. There is abuse of process with the courtcases and some leaks.
 <br>Try to correlate the intensity of the data and traits to how it changes in-person to be more restrictive, isolated, and difficult.
 
 In Data Science, Social Network Analysis, and Technology/Social Media Companies in general, there is a high burden of evidence. They wanted verifiable data and analysis of high volume, which we obtained. However, there are also the issues of responsibility and the lack of advocacy for Amber Heard's wellbeing online.
@@ -61,8 +61,9 @@ When we're trying to analyze with an in-progress influence operation at the same
 
 Although reporters in early 2020 were looking and interested in interviewing, there was no data analysis or investigations at that point. Secondly, reporters over then the 3-4 years of operations now do not report on Amber Heard or ask her supporters.
 
-There is a "Studying Technologies" folder explaining more about how the technology behind this works, and initial (not focused on maliciousness, disinformation) initial social network graph files that are available for anyone.
+There is a 'Studying Technologies' folder explaining more about how the technology behind this works, and initial (not focused on maliciousness, disinformation) initial social network graph files that are available for anyone.
 
 - It's difficult to be the first to establish a precedence, but it's thrilling too. Can you think of any services currently that stop, prevent, or mitigate these types of situations for profiles similar to this?
 
-<b>We did this study independently and had to. With numerous insider threats and the difficulty of studying private sector vs the norms of research, we had to study this globally and with agility. Now, we can use this study for other examples, but we are not yet complete.</b>
+<b>We did this study independently and had to. With numerous insider threats and the difficulty of studying private sector vs the norms of research, we had to study this globally and with agility. 
+<br>Now, we can use this study for other examples, but we are not yet complete.</b>
