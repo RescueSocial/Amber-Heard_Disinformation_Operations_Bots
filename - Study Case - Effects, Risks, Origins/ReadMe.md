@@ -1,6 +1,6 @@
 # Study Case - Effects, Risks, Origins
 
-<b>This folder shows effects, risks, and origins around the Public Research Study on the operations harming Amber Heard online. Use this "Study Background - Preliminary Effects" folder to understand how to connect social network analysis, data analysis, and the warning signs of a situation with timelines, suspicious traits, and activities to create cases.
+<b>This folder shows effects, risks, and origins around the Public Research Study on the operations harming Amber Heard online. Use this "Study Case - Effects, Risks, Origins" folder to understand how to connect social network analysis, data analysis, and the warning signs of a situation with timelines, suspicious traits, and activities to create cases.
 <br> Combined with the mathmatical and statistical anomalies, we can connect it to then the traits, origins, and signs of disinformation operations and coercive control. 
 
 Social effects clearly show in these files and should be correlated to the data science. Mitigate the effects in your own case studies. 
@@ -28,14 +28,14 @@ This case example and study can be used with its texts for other studies on disi
 ## Private Sector:
 Multiple private companies in layers are clearly being used against Amber Heard to this extreme of volume.
 <br>The motivations behind these operations often come from the coercive control to take down these women, their witnesses, and their support for decades, only now moved mostly online to avoid data analysis and oversight. The higher skill, natural language, and volume stems from the amounts of funds, specialties, and layers of companies used.  
-- E.g., attacking the partners of these figures has been happening for decades, e.g, with 'fixers,' but not publicly researched before. It truly requires gamifying and deflecting with your own data, analysis, intelligence, and power. It can ruin, destroy, and destruct.
+- E.g., attacking the partners of these figures has been happening for decades, e.g, with '<a href="https://www.adweek.com/performance-marketing/investigator-barresi-opens-up-on-hollywood/">fixers</a>,' but not publicly researched before. It truly requires gamifying and deflecting with your own data, analysis, intelligence, and power. It can ruin, destroy, and destruct.
 - At higher income levels, private security can be used against women in domestic abuse. At any level, software and accounts can be used against women. 
  - For the first time, we're confronting these issues harming these types of women/targets and establishing precedents of technologies which can be used. We can save lives by causing chain reactions of finally caring about these situations to prevent harms earlier.
 
 
 ## Some Interesting points - Interpretations:
 - We see traits of private sector manipulation with Sports accounts, fake detectives, fake devils/monsters, and fake agencies. Intimidation with state is a decoy from the multiple layers of private services.
-- Preliminary research was conducted on the risks by asking multiple organizations in summer of 2021. <a href="http://iosi.global">IOSI.global</a> - a global intelligence and security agency with a network of over 40K - called it a 'high risk' case and saw money-laundering investigations of Depp's people. They said high levels of cyber crime are around Amber Heard's accounts. We continued despite risks and many researchers did so knowing that it's a deadly case study to instead help life.
+- Preliminary research was conducted on the risks by asking multiple organizations in summer of 2021. <a href="http://iosi.global">IOSI.global</a> - a global intelligence and security agency with a network of over 40K - called it a "high risk" case and saw money-laundering investigations of Depp's people. They said high levels of cyber crime are around Amber Heard's accounts. We continued despite risks and many researchers did so knowing that it's a deadly case study to instead help life.
 <br> - The importance of Threat Analysis and connecting it to cybercrime, cybersecurity is to show the urgency to remove the operations. As shown, it's difficult for social media companies to remove operations unless they're internally notified. Our study was fragile at first. It no longer is with high data and analysis amounts, but it's still fragile to get them to know to notify to finally remove it.
 - In Nov 2018, an account is against Amber Heard's "sweet, loving girl" image and attacks her, Warner Bros, others. It claims bots promote her beauty. Then it currently today is a mentions-bot. 
 <br>- In Subjective Preliminary Claims, there's an ex-staff partner leaking in March/April 2019 which not only said the operations were pre-planned for years, but numerous other timeline issues showing in AH's exhibit files in 2022.
