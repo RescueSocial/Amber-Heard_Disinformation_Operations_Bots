@@ -1,7 +1,7 @@
 # Study Case - Effects, Risks, Origins
 
 <b>This folder shows effects, risks, and origins around the Public Research Study on the operations harming Amber Heard online. Use this "Study Background - Preliminary Effects" folder to understand how to connect social network analysis, data analysis, and the warning signs of a situation with timelines, suspicious traits, and activities to create cases.
-<br> Combined with the mathmatical and statistical anomalies, we can connect it to then the traits and signs of disinformation and coercive control. 
+<br> Combined with the mathmatical and statistical anomalies, we can connect it to then the traits, origins, and signs of disinformation operations and coercive control. 
 
 Social effects clearly show in these files and should be correlated to the data science. Mitigate the effects in your own case studies. 
 <b>Not only did we do this study thinking we can try to save a life, but we can also use this study to help other victims.
