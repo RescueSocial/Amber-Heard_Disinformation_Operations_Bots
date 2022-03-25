@@ -9,7 +9,7 @@ Social effects clearly show in these files and can be correlated to the data sci
 
 It's our interpretation that social media companies need to be encouraged through trusted sources to remove the operations, and that the high volume of abuse, coordination, bots, and influence operations to persecute Amber Heard will never end without connecting cybersecurity, advocacy, data science, 3rd parties, decision-makers, and social network analysis together.  
 <br>It's automated, and 2021 to present was high volume as well, effectively destroying Amber Heard. The <a href="https://datasociety.net/library/data-voids/">Data Void</a> on her was exploited, where there was low amonts of data about her until these operations, effectively flooding it. 
-<br>It needs to be investigated by proper parties and stopped or the crimes will continue to threaten her life, as well as the many other lives these companies ravage. 
+<br>It needs to be investigated by proper parties and stopped or the crimes will continue to threaten her life, as well as the many other lives these companie and sevices ravage. 
 
 Notice initial files on <a href="https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf">Private Sector Disinformation Operations</a> from Recorded Future and <a href="https://gadgets360.com/social-networking/news/devumi-a-firm-that-sells-fake-twitter-followers-to-be-probed-by-new-york-attorney-general-1805985">Devumi</a> bots - where public figures had millions of false followers.
 
