@@ -17,15 +17,15 @@ Usually studies on bots are in the public rather than the private sector, but an
 
 However, we provided articles for understanding for the researchers to see the importance of studying a real-life case example. 
 
+ It's automated, and 2021 to present was high volume as well, effectively destroying Amber Heard. The <a href="https://datasociety.net/library/data-voids/">Data Void</a> on her was exploited, where there were comparatively low amounts of data about her until these operations, effectively flooding it. 
 It's our interpretation that social media companies need to be encouraged through trusted sources to remove the operations, and that the high volume of abuse, coordination, bots, and influence operations to persecute Amber Heard will never end without connecting cybersecurity, advocacy, data science, 3rd parties, decision-makers, and social network analysis together.  
 
-  It's automated, and 2021 to present was high volume as well, effectively destroying Amber Heard. The <a href="https://datasociety.net/library/data-voids/">Data Void</a> on her was exploited, where there were comparatively low amounts of data about her until these operations, effectively flooding it. 
 <br>It needs to be investigated by proper parties and stopped or the crimes will continue to threaten her life, as well as the many other lives these companies and sevices ravage.
 <br>We provide this research for further benefit without needing to start from scratch.
 
 Far more can be interpreted from these folders and files. We are still researching, looking for reverse engineering of origins.
-  - To understand the devestating effect of disinformation/influence operations, you can see the "<a href="https://www.scribd.com/document/498883211/Amber-Heard-vs-Johnny-Depp-Bots-21st-Century-Story">Amber Heard Book Background Study JD & Bots Story Case</a>" file to see what she used to represent, her causes, image, humanitarianism, as well as the situation now where you cannot see that anymore, since she's been destroyed and threatened. 
-<br>Note - The description summary changes due to trying to confront, investigate, and interfere with the influence operation 2020 onward technologically.
+  - To understand the devestating effect of disinformation/influence operations, see the "<a href="https://www.scribd.com/document/498883211/Amber-Heard-vs-Johnny-Depp-Bots-21st-Century-Story">Amber Heard Book Background Study & Bots Story Case</a>" file to see what she used to represent, her causes, image, humanitarianism, as well as the situation now where you cannot see that anymore, since she's been destroyed and threatened. 
+<br>Note - The description of the summary changes due to trying to confront, investigate, and interfere with the influence operation 2020/2021 onward technologically.
 
 This case example and study can be used with its texts for other studies on disinformation/influence, bots, domestic abuse, and private sector operations against women and those around them, often including their partners, businesses, nonprofits, and acquaintances. 
   
