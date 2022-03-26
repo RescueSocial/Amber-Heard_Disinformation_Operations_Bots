@@ -5,7 +5,7 @@
 <br> Combined with the mathmatical and statistical anomalies, we can connect it to then the traits, origins, and signs of disinformation operations and coercive control. 
 
 Social effects clearly show in these files and should be correlated to the data science. Mitigate the effects in your own case studies. 
-<b>Not only did we do this study thinking we can try to save a life, but we can also use this study to help other victims.
+<br>Not only did we do this study thinking we can try to save a life, but we can also use this study to help other victims.
   
  Through this folder, there can be an understanding of how multiple layers and companies are used in the private sector for social media and online, escalating and originating to in-person disinformation/influence operations.
   
