@@ -8,13 +8,13 @@ We're Worldwide Independent Researchers with over 20 data analysts, scientists, 
 
 #### <i><b>Data collected on Amber Heard is primarily related to the years 2018-2021, ongoing into 2022.</b></i>
 
-This is the most detailed public analysis of a disinformation operation and the most voluminous yet - showing the impact of <a href="https://www.brookings.edu/research/the-breakout-scale-measuring-the-impact-of-influence-operations"><i><b>Category 6</b></a> influence,</b></i> globally affecting the public, businesses, nonprofits, and entities beyond the victim. This work is in-progress and prepared for peer-review.  
+This is the most detailed public analysis of a disinformation operation and the most voluminous yet - showing the impact of <a href="https://www.brookings.edu/research/the-breakout-scale-measuring-the-impact-of-influence-operations"><i>Category 6</a> influence,</b></i> globally affecting the public, businesses, nonprofits, and entities beyond the victim. This work is in-progress and prepared for peer-review.  
 
 <b>Our Purpose is to create Precedents and Foundations to help other victims of cyberabuse, bots, domestic abuse, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a>, hostile environments, and Disinformation Operations to improve lives.</b> 
 <br>We want to save lives and help partners create systems to help online - e.g., specialized and accurate rescue, quality custom studies, data analysis, Social Network Analysis, forensics, research, situation awareness, data science projects, and rescue/public safety technologies - <i>with focus on the victim primarily and <b>her environment</b></i>.
 
-- <a href="https://www.teamscopeapp.com/blog/6-repositories-to-share-your-research-data"><i><b>Public Research:</b></a> 
-<br>This study and its data is fully open for scientific learning, developing solutions, saving lives, maximizing knowledge, blueprints, and archiving for long-term benefit.</i>
+- <a href="https://www.teamscopeapp.com/blog/6-repositories-to-share-your-research-data"><b>Public Research:</b></a> 
+<br><i>This study and its data is fully open for scientific learning, developing solutions, saving lives, maximizing knowledge, blueprints, and archiving for long-term benefit.</i>
 <br>- If a file of analysis is too large to preview on github, please download, or preview in this <a href="https://drive.google.com/drive/folders/18MWGm7dRX6Gi5UPo0fO9xQMtT4eHIrbn?usp=sharing">google folder</a>.
 <br>- <b>Full Data</b> sharing is in-progress on <a href="https://drive.google.com/drive/folders/1GjKdNpsJSBIX9MsQgKq2FGTArDVEYFFI?usp=sharing">Google</a>, <a href="https://www.kaggle.com/amberhearddata/datasets">Kaggle</a>, Archives, <a href="https://www.scribd.com/user/598949302/Rescue-Social-Tech/uploads">Scribd</a> and public research data repositories.</i>
 
