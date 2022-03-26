@@ -13,7 +13,7 @@ Usually studies on bots are in the public rather than the private sector, but an
   
   Notice initial files on <a href="https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf">Private Sector Disinformation Operations</a> from Recorded Future and <a href="https://gadgets360.com/social-networking/news/devumi-a-firm-that-sells-fake-twitter-followers-to-be-probed-by-new-york-attorney-general-1805985">Devumi</a> bots - where public figures had millions of false followers.
   
-  We circle back to this after our analysis of 6 social media platforms, of which demonstrate bot activities and high threats. We further left this out until more completion due to the issues that could have harmed the data scientists doing their work.</b>
+  We circle back to this after our analysis of 6 social media platforms, of which demonstrate bot activities and high threats. We further left this out until more completion due to the issues that could have harmed the data scientists doing their work.
 
 However, we provided articles for understanding for the researchers to see the importance of studying a real-life case example. 
 
@@ -25,7 +25,7 @@ It's our interpretation that social media companies need to be encouraged throug
 
 Far more can be interpreted from these folders and files. We are still researching, looking for reverse engineering of origins.
   - To understand the devestating effect of disinformation/influence operations, you can see the "<a href="https://www.scribd.com/document/498883211/Amber-Heard-vs-Johnny-Depp-Bots-21st-Century-Story">Amber Heard Book Background Study JD & Bots Story Case</a>" file to see what she used to represent, her causes, image, humanitarianism, as well as the situation now where you cannot see that anymore, since she's been destroyed and threatened. 
-<br>Note - The description summary changes due to trying to confront, investigate, and interfere with the influence operation 2021+.
+<br>Note - The description summary changes due to trying to confront, investigate, and interfere with the influence operation 2020 onward technologically.
 
 This case example and study can be used with its texts for other studies on disinformation/influence, bots, domestic abuse, and private sector operations against women and those around them, often including their partners, businesses, nonprofits, and acquaintances. 
   
