@@ -2,7 +2,7 @@
 
 <b>This folder shows effects, risks, and origins around this independent Public Research Study on the operations harming Amber Heard online. Multiple private companies and services in layers are clearly being used against Amber Heard to this extreme of volume.
 
-<br>Use this "Study Case - Effects, Risks, Origins" folder to understand how to connect social network analysis, data analysis, and the warning signs of a situation with timelines, suspicious traits, and activities to create cases.
+Use this "Study Case - Effects, Risks, Origins" folder to understand how to connect social network analysis, data analysis, and the warning signs of a situation with timelines, suspicious traits, and activities to create cases.
 <br> Combined with the mathmatical and statistical anomalies, we can connect it to then the traits, origins, and signs of disinformation operations and coercive control. 
 
 Social effects clearly show in these files and should be correlated to the data science. Mitigate the effects in your own case studies. 
