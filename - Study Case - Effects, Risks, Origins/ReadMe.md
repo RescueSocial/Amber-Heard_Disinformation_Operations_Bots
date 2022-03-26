@@ -1,6 +1,7 @@
 # Study Case - Effects, Risks, Origins
 
-<b>This folder shows effects, risks, and origins around this independent Public Research Study on the operations harming Amber Heard online. 
+<b>This folder shows effects, risks, and origins around this independent Public Research Study on the operations harming Amber Heard online. Multiple private companies and services in layers are clearly being used against Amber Heard to this extreme of volume.
+
 <br>Use this "Study Case - Effects, Risks, Origins" folder to understand how to connect social network analysis, data analysis, and the warning signs of a situation with timelines, suspicious traits, and activities to create cases.
 <br> Combined with the mathmatical and statistical anomalies, we can connect it to then the traits, origins, and signs of disinformation operations and coercive control. 
 
@@ -25,12 +26,12 @@ It's our interpretation that social media companies need to be encouraged throug
 
 Far more can be interpreted from these folders and files. We are still researching, looking for reverse engineering of origins.
   - To understand the devestating effect of disinformation/influence operations, see the "<a href="https://www.scribd.com/document/498883211/Amber-Heard-vs-Johnny-Depp-Bots-21st-Century-Story">Amber Heard Book Background Study & Bots Story Case</a>" file to see what she used to represent, her causes, image, humanitarianism, as well as the situation now where you cannot see that anymore, since she's been destroyed and threatened. 
-<br>Note - The description of the summary changes due to trying to confront, investigate, and interfere with the influence operation 2020/2021 onward technologically.
+<br>Note - The description of the summary changes due to trying to confront, investigate, and interfere with the influence operation 2020/2021 onward.
 
 This case example and study can be used with its texts for other studies on disinformation/influence, bots, domestic abuse, and private sector operations against women and those around them, often including their partners, businesses, nonprofits, and acquaintances. 
   
 ## Private Sector:
-Multiple private companies in layers are clearly being used against Amber Heard to this extreme of volume.
+Multiple private companies and services in layers are clearly being used against Amber Heard to this extreme of volume.
 <br>The motivations behind these operations often come from the coercive control to take down these women, their witnesses, and their support for decades, only now moved mostly online to avoid data analysis and oversight. The higher skill, natural language, and volume stems from the amounts of funds, specialties, and layers of companies used.  
 - E.g., attacking the partners of these figures has been happening for decades, e.g, with '<a href="https://www.adweek.com/performance-marketing/investigator-barresi-opens-up-on-hollywood/">fixers</a>,' but not publicly researched before. It truly requires gamifying and deflecting with your own data, analysis, intelligence, and power. It can ruin, destroy, and destruct.
 - At higher income levels, private security can be used against women in domestic abuse. At any level, software and accounts can be used against women. 
