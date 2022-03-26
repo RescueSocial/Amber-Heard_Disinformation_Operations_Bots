@@ -1,13 +1,15 @@
 # Study Case - Effects, Risks, Origins
 
-<b>This folder shows effects, risks, and origins around this independent Public Research Study on the operations harming Amber Heard online. Use this "Study Case - Effects, Risks, Origins" folder to understand how to connect social network analysis, data analysis, and the warning signs of a situation with timelines, suspicious traits, and activities to create cases.
+<b>This folder shows effects, risks, and origins around this independent Public Research Study on the operations harming Amber Heard online. 
+<br>Use this "Study Case - Effects, Risks, Origins" folder to understand how to connect social network analysis, data analysis, and the warning signs of a situation with timelines, suspicious traits, and activities to create cases.
 <br> Combined with the mathmatical and statistical anomalies, we can connect it to then the traits, origins, and signs of disinformation operations and coercive control. 
 
 Social effects clearly show in these files and should be correlated to the data science. Mitigate the effects in your own case studies. 
 <b>Not only did we do this study thinking we can try to save a life, but we can also use this study to help other victims.
   
  Through this folder, there can be an understanding of how multiple layers and companies are used in the private sector for social media and online, escalating and originating to in-person disinformation/influence operations.
-<br>Usually studies on bots are in the public rather than the private sector, but anyone with enough motive and resources can obtain these technologies to harm someone today. As these services and experiences of harm increase, so do the volumes and capabilities from these operations. See "Other Cases Private Sector" under OSINT Private Sector Operations to see some growing examples of other women, often actresses, models, and socialites due to the similar language and strategies, harmed on the internet.
+  
+Usually studies on bots are in the public rather than the private sector, but anyone with enough motive and resources can obtain these technologies to harm someone today. As these services and experiences of harm increase, so do the volumes and capabilities from these operations. See "Other Cases Private Sector" under OSINT Private Sector Operations to see some growing examples of other women, often actresses, models, and socialites due to the similar language and strategies, harmed on the internet.
   
   Notice initial files on <a href="https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf">Private Sector Disinformation Operations</a> from Recorded Future and <a href="https://gadgets360.com/social-networking/news/devumi-a-firm-that-sells-fake-twitter-followers-to-be-probed-by-new-york-attorney-general-1805985">Devumi</a> bots - where public figures had millions of false followers.
   
@@ -16,8 +18,10 @@ Social effects clearly show in these files and should be correlated to the data 
 However, we provided articles for understanding for the researchers to see the importance of studying a real-life case example. 
 
 It's our interpretation that social media companies need to be encouraged through trusted sources to remove the operations, and that the high volume of abuse, coordination, bots, and influence operations to persecute Amber Heard will never end without connecting cybersecurity, advocacy, data science, 3rd parties, decision-makers, and social network analysis together.  
-<br>It's automated, and 2021 to present was high volume as well, effectively destroying Amber Heard. The <a href="https://datasociety.net/library/data-voids/">Data Void</a> on her was exploited, where there were comparatively low amounts of data about her until these operations, effectively flooding it. 
-<br>It needs to be investigated by proper parties and stopped or the crimes will continue to threaten her life, as well as the many other lives these companies and sevices ravage. We provide this research for further benefit without needing to start from scratch.
+
+  It's automated, and 2021 to present was high volume as well, effectively destroying Amber Heard. The <a href="https://datasociety.net/library/data-voids/">Data Void</a> on her was exploited, where there were comparatively low amounts of data about her until these operations, effectively flooding it. 
+<br>It needs to be investigated by proper parties and stopped or the crimes will continue to threaten her life, as well as the many other lives these companies and sevices ravage.
+<br>We provide this research for further benefit without needing to start from scratch.
 
 Far more can be interpreted from these folders and files. We are still researching, looking for reverse engineering of origins.
   - To understand the devestating effect of disinformation/influence operations, you can see the "<a href="https://www.scribd.com/document/498883211/Amber-Heard-vs-Johnny-Depp-Bots-21st-Century-Story">Amber Heard Book Background Study JD & Bots Story Case</a>" file to see what she used to represent, her causes, image, humanitarianism, as well as the situation now where you cannot see that anymore, since she's been destroyed and threatened. 
