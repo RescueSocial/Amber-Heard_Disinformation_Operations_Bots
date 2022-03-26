@@ -21,7 +21,7 @@ However, we provided articles for understanding for the researchers to see the i
  It's automated, and 2021 to present was high volume as well, effectively destroying Amber Heard. The <a href="https://datasociety.net/library/data-voids/">Data Void</a> on her was exploited, where there were comparatively low amounts of data about her until these operations, effectively flooding it. 
 It's our interpretation that social media companies need to be encouraged through trusted sources to remove the operations, and that the high volume of abuse, coordination, bots, and influence operations to persecute Amber Heard will never end without connecting cybersecurity, advocacy, data science, 3rd parties, decision-makers, and social network analysis together.  
 
-<br>It needs to be investigated by proper parties and stopped or the crimes will continue to threaten her life, as well as the many other lives these companies and sevices ravage.
+It needs to be investigated by proper parties and stopped or the crimes will continue to threaten her life, as well as the many other lives these companies and sevices ravage.
 <br>We provide this research for further benefit without needing to start from scratch.
 
 Far more can be interpreted from these folders and files. We are still researching, looking for reverse engineering of origins.
