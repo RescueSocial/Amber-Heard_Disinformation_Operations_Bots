@@ -65,7 +65,7 @@ Compliments Generation on Amber Heard based on Jason Momoa<br>
 If you're a researcher, social enterprise, organization, student, or academic helping female victims of abuse, coercive control, domestic abuse, bots, operations, harassment, or hostile environments - we welcome partnership with you. 
 <br>Our studies and data can be used for Social Network Analysis, Data Analysis, machine learning, Natural Language Processing, artificial intelligence, Data Science labeling, anti-abuse, rescue projects, anti-crime, timelines, OSINT, simulations, and monitoring systems to help other victims and their lives. 
 <br><br>Since this data is high volume about domestic abuse and gender, with an actress and film industry element, it's highly relevant for classification and data science projects on those topics.
-<br><i>Please contact us for data and code.</i>
+<br><i>Please contact us for collaboration, or if with questions on obtaining data and code.</i>
 <br><br>
 <b>Although it's abuse of process, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a> is becoming illegal in more countries and states/provinces worldwide.</b>
 - <i>If you're a victim needing help against cyberabuse especially in <a href="https://safeescape.org">online domestic abuse</a>, operations, and <a href="https://metta-space.com">hostile environments</a>, please contact us.</i><br>
@@ -125,14 +125,14 @@ https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf<br>
 ### <b>Scientific Methods:</b>
 Worldwide Data Scientists, Researchers in Cyber Intelligence, PhDs, Data Analysts, and a former Google Research Intern collected and analyzed data. We use the scientific method of testing.
 <br>
-- <i>Scientific Method: Observation, Question, Hypothesis, Experiment, Results, Conclusion 
- <br>- Limit Variables and Repeat Same Methods on all platforms. 
-<br>- Verifiable IDs of postings and accounts, APIs, multiple forms of documentation.
-<br>- Cross-checking multiple times with full field JSONs and CSVs with processes in data science.</i>
 - <i><b><a href="https://www.brookings.edu/research/the-breakout-scale-measuring-the-impact-of-influence-operations/">The Breakout Scale: Measuring the Impact of Influence Operations</a> by <a href="https://twitter.com/benimmo/status/1309532354306879488">Ben Nimmo</a> in Social Network Analysis Standards:</b></i><br>
 "Category One operations only spread within one community on one platform, while Category Two operations either spread in one community across multiple platforms, or spread across multiple communities on one platform. Category Three operations spread across <i>multiple social media platforms and reach multiple communities.</i> 
  <br>Category Four operations break out from social media completely and are amplified by <i>mainstream media</i>, while Category Five operations are amplified by <i>high-profile individuals</i> such as celebrities and political candidates. 
  <i><br>An IO reaches <b>Category Six</b> if it triggers a policy response or some other form of concrete action, or if it includes <b>a call for violence.</i></b>"
+ - <i>Scientific Method: Observation, Question, Hypothesis, Experiment, Results, Conclusion 
+ <br>- Limit Variables and Repeat Same Methods on all platforms. 
+<br>- Verifiable IDs of postings and accounts, APIs, multiple forms of documentation.
+<br>- Cross-checking multiple times with full field JSONs and CSVs with processes in data science.</i>
 - <i><a href="https://en.wikipedia.org/wiki/Situation_awareness">Situation Awareness:</a><br>
 Objective	Tactical (short-term):	situational assessment	- situation awareness<br>
 Strategic (long-term):	sensemaking -	understanding<br>
