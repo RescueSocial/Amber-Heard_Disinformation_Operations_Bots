@@ -1,9 +1,7 @@
-import plotly.io as pio
 from datetime import datetime
 import pandas as pd
 import os
 import pickle
-from datetime import datetime
 import numpy as np
 import warnings
 warnings.filterwarnings("ignore")
@@ -26,23 +24,31 @@ def count_keywords(keylist, df):
         my_dict[key] = df_key.shape[0]       
     return my_dict
 
+def count_trans_keywords(keylist, df):
+    my_dict = {}
+    for key in keylist:
+        df_key = df[df.translated.str.contains(key)]
+        my_dict[key] = df_key.shape[0]       
+    return my_dict
+
 os.chdir('../../Twitter_Data')
 
 
-df_tweets_others = pd.read_csv("other_languages.csv", lineterminator='\n')
+df_tweets = pd.read_csv("other_languages.csv", lineterminator='\n')
 
-df_tweets_others["created_at"] = pd.to_datetime(df_tweets_others["created_at"])
-df_tweets_others["date"] = pd.to_datetime(df_tweets_others["date"])
-df_tweets_others["user_created_at"] = pd.to_datetime(df_tweets_others["user_created_at"])
-df_tweets_others = df_tweets_others.sort_values('created_at')
+df_tweets["created_at"] = pd.to_datetime(df_tweets["created_at"])
+df_tweets["date"] = pd.to_datetime(df_tweets["date"])
+df_tweets["user_created_at"] = pd.to_datetime(df_tweets["user_created_at"])
+df_tweets = df_tweets.sort_values('created_at')
 
-# df_tweets.text.fillna('isnan', inplace=True)
+# df_tweets.translated.fillna('isnan', inplace=True)
 
 pos_text = {'love amber', 'stand with amber', 'standwithamber', 'support amber', 'supportamber', 'justiceforamber', 
             'johnnydeppisawifebeater', 'boycottwomenbeaters', 'wearewithamber', 'justice for amber', 
-            'istandwithamber','wearewithyouamber', 'amber heard is innocent', 'amber is innocent','support her'}
+            'istandwithamber','wearewithyouamber', 'amber heard is innocent', 'amber is innocent','support her', 
+            'die between the legs of amber', 'beautiful'}
 # ValueError: Cannot mask with non-boolean array containing NA / NaN values
-df_pos = df_tweets_others[df_tweets_others.translated.str.contains('|'.join(pos_text))]
+df_pos = df_tweets[df_tweets.translated.str.contains('|'.join(pos_text))]
 
 # Those users were checked and did not find negative tweets
 checked_set = {'eHacker', 'Stevie J Raw', 'DarthN3ws', "Nerdette's NewsStand", 'Sunshine', 'Binge Central',
@@ -68,10 +74,11 @@ all_threat = {'burn', 'crime', 'criminal', 'amberfbi', 'dead', 'death', 'deserve
 #               'kill all the people who disliked', 'to hell', 'tohell', 'in hell', 'inhell', "who the hell is",
 #               'burn her', 'burn turd', 'her burn', 'isacriminal', 'amberfbi', 'pay for her crime'}
 
-df_threat_others = df_tweets_others[df_tweets_others.translated.str.contains('|'.join(all_threat))]
+df_threat = df_tweets[df_tweets.translated.str.contains('|'.join(all_threat))]
 
 # exclude all the users with positive tweets
-df_threat_others = df_threat_others[~df_threat_others.username.isin(remove_users)]
+df_threat = df_threat[~df_threat.username.isin(remove_users)]
+df_tweets = df_tweets[~df_tweets.username.isin(remove_users)]
 
 
 # # KILL & DEATH
@@ -84,20 +91,20 @@ death_kill = {'death', 'muerte', 'die', '死ね', 'morire', 'morir', 'muere', 'm
 #               'kill all the people who disliked', 'deserve', 'jail', 'prison', 'death to a turd',
 #               'death to anybody not supporting johnny', 'kiss of death',}
 
-df_death = df_threat_others[df_threat_others.translated.str.contains('|'.join(death_kill))]
+df_death = df_threat[df_threat.translated.str.contains('|'.join(death_kill))]
 
 
 # BURN & HELL
 burn_hell = {'hell', 'inferno', 'infierno', 'ад', 'burn'}
 
-df_burn = df_threat_others[df_threat_others.translated.str.contains('|'.join(burn_hell))]
+df_burn = df_threat[df_threat.translated.str.contains('|'.join(burn_hell))]
 
 
 # CRIME & JAIL
 crime_jail = {'pay', 'pagar', 'punish', 'crime', 'criminal', 'jail', 'prison', 'prigione', 'prisión',
-              'deserve', 'karma', 'amberfbi'}
+              'deserve', 'karma'}
 
-df_crime = df_threat_others[df_threat_others.translated.str.contains('|'.join(crime_jail))]
+df_crime = df_threat[df_threat.translated.str.contains('|'.join(crime_jail))]
 
 
 # NEGATIVE TEXT
@@ -116,16 +123,25 @@ hate_speech = {'victim', 'fuck', 'ambich', 'abuser', 'liar', 'jail', 'prison', '
     
 neg_text = neg_text | all_threat | hate_speech       
    
-df_hate = df_tweets_others[df_tweets_others.translated.str.contains('|'.join(neg_text))]
+df_hate = df_tweets[df_tweets.translated.str.contains('|'.join(neg_text))]
 
 # exclude all the users with positive tweets
 df_hate = df_hate[~df_hate.username.isin(remove_users)]
 
 
+# PEAK DATES
+threat_dates = df_threat.groupby(['date']).agg({'text':'count'}).reset_index(
+).rename(columns={'text':'ntweets'})
+threat_dates = threat_dates.sort_values('ntweets', ascending=False)
+threat_dates_15 = threat_dates.head(15)
+threat_dates_15 = threat_dates_15.sort_values('date')
+# To parse date as string in plotly
+threat_dates_15['date'] = threat_dates_15['date'].astype(str).str.replace('-', '\\')
+
 
 # COUNTS
-n_all = df_tweets_others.shape[0]
-n_threat = df_threat_others.shape[0]
+n_all = df_tweets.shape[0]
+n_threat = df_threat.shape[0]
 # notthreat = n_all - n_threat
 n_hate = df_hate.shape[0] - n_threat
 nothate = n_all - n_hate - n_threat
@@ -134,18 +150,18 @@ n_burn = df_burn.shape[0]
 n_crime = df_crime.shape[0]
     
 
-# threat_keys = {'burn', 'crime', 'criminal', 'amberfbi', 'dead', 'death', 'deserve', 'die', 'hell', 'jail', 'karma', 'kill',
-#                'kys', 'murder', 'pay', 'prison', 'punish'}
-# threat_dict = count_keywords(threat_keys, df_tweets_others)
-# threat_counts = pd.DataFrame(threat_dict, index=['count'])
-# threat_counts = threat_counts.T.reset_index().rename(columns={'index':'keyword'})
-# threat_counts.sort_values('count', ascending=False, inplace=True)
-
-threat_others = {'pagar', 'matar', 'muerte', 'morir', 'infierno', 'muere', 'muerta', 'inferno', 'morire', 'prigione'}
-threat_dict = count_keywords(threat_others, df_threat_others)
+threat_keys = {'burn', 'crime', 'criminal', 'amberfbi', 'dead', 'death', 'deserve', 'die', 'hell', 'jail', 'karma', 'kill',
+               'kys', 'murder', 'pay', 'prison', 'punish'}
+threat_dict = count_trans_keywords(threat_keys, df_tweets)
 threat_counts = pd.DataFrame(threat_dict, index=['count'])
 threat_counts = threat_counts.T.reset_index().rename(columns={'index':'keyword'})
 threat_counts.sort_values('count', ascending=False, inplace=True)
+
+threat_others = {'pagar', 'matar', 'muerte', 'morir', 'infierno', 'muere', 'muerta', 'inferno', 'morire', 'prigione'}
+threat_others_dict = count_keywords(threat_others, df_threat)
+threat_others_counts = pd.DataFrame(threat_others_dict, index=['count'])
+threat_others_counts = threat_others_counts.T.reset_index().rename(columns={'index':'keyword'})
+threat_others_counts.sort_values('count', ascending=False, inplace=True)
 
 mycolors1=[]
 for key in threat_counts['keyword'].head(17):
@@ -167,13 +183,13 @@ for key in threat_counts['keyword'].head(17):
         
 
 df_threat_years = (
-    df_threat_others.groupby("year")["text"]
+    df_threat.groupby("year")["text"]
     .count()
     .reset_index(name="n_tweets")
 )
 
 df_threat_users = (
-    df_threat_others.groupby("year")["username"]
+    df_threat.groupby("year")["username"]
     .nunique()
     .reset_index(name="n_users")
 )
