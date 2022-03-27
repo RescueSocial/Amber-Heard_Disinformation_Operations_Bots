@@ -108,7 +108,8 @@ Influence Operation of 6,000 Twitter accounts found by BotSentinel: https://yout
 
 #### <b>Related Articles for Understanding:</b><br> 
 <i>"Disinformation in the Private Sector: The Price of Influence"</i><br>
-Folder <i>"<a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/-%20Study%20Case%20-%20Effects%2C%20Risks%2C%20Origins">Study Case - Effects, Risks, Origins</a>"</i> shows dangerous Private Sector operations.<br>
+There have been victims of disinformation/influence operations in the private sector for decades. We hope our open-source study can be used to help others without needing to start from scratch. 
+<br>Folder <i>"<a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/-%20Study%20Case%20-%20Effects%2C%20Risks%2C%20Origins">Study Case - Effects, Risks, Origins</a>"</i> shows dangerous Private Sector operations.<br>
 - New Accounts Layers, Aged Accounts, Created News-Sites:</br>
 https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf<br>
 - Psy-Group's Bots - https://www.newyorker.com/magazine/2019/02/18/private-mossad-for-hire<br>
