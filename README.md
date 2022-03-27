@@ -127,6 +127,7 @@ Worldwide Data Scientists, Researchers in Cyber Intelligence, PhDs, Data Analyst
 <br>
 - <i>Scientific Method: Observation, Question, Hypothesis, Experiment, Results, Conclusion 
  <br>- Limit Variables and Repeat Same Methods on all platforms. 
+<br>- Verifiable IDs of postings and accounts, APIs, multiple forms of documentation.
 <br>- Cross-checking multiple times with full field JSONs and CSVs with processes in data science.</i>
 - <i><b><a href="https://www.brookings.edu/research/the-breakout-scale-measuring-the-impact-of-influence-operations/">The Breakout Scale: Measuring the Impact of Influence Operations</a> by <a href="https://twitter.com/benimmo/status/1309532354306879488">Ben Nimmo</a> in Social Network Analysis Standards:</b></i><br>
 "Category One operations only spread within one community on one platform, while Category Two operations either spread in one community across multiple platforms, or spread across multiple communities on one platform. Category Three operations spread across <i>multiple social media platforms and reach multiple communities.</i> 
