@@ -11,7 +11,7 @@ We're Worldwide Independent Researchers with over 20 data analysts, scientists, 
 This is the most detailed public analysis of a disinformation operation and the most voluminous yet - showing the impact of <a href="https://www.brookings.edu/research/the-breakout-scale-measuring-the-impact-of-influence-operations"><i>Category 6</a> influence,</b></i> globally affecting the public, businesses, nonprofits, and entities beyond the victim. This work is in-progress and prepared for peer-review.  
 
 <b>Our Purpose is to create Precedents and Foundations to help other victims of cyberabuse, bots, domestic abuse, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a>, hostile environments, and Disinformation Operations to improve lives.</b> 
-<br>We want to save lives and help partners create systems to help online - e.g., specialized and accurate rescue, quality custom studies, data analysis, Social Network Analysis, forensics, research, situation awareness, data science projects, and rescue/public safety technologies - <i>with focus on the victim primarily and <b>her environment</b></i>.
+<br>We want to save lives and help partners create systems to help online - e.g., specialized and accurate rescue, quality custom studies, data analysis, Social Network Analysis, forensics, research, situation awareness, data science projects, stopping influence operations, and rescue/public safety technologies - <i>with focus on the victim primarily and <b>her environment</b></i>.
 
 - <a href="https://www.teamscopeapp.com/blog/6-repositories-to-share-your-research-data"><b>Public Research:</b></a> 
 <br><i>This study and its data is fully open for scientific learning, developing solutions, saving lives, maximizing knowledge, blueprints, and archiving for long-term benefit.</i>
@@ -110,7 +110,7 @@ Influence Operation of 6,000 Twitter accounts found by BotSentinel: https://yout
 <i>"Disinformation in the Private Sector: The Price of Influence"</i><br>
 There have been victims of disinformation/influence operations in the private sector for decades. We hope our open-source study can be used to help others without needing to start from scratch. 
 <br>Folder <i>"<a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/-%20Study%20Case%20-%20Effects%2C%20Risks%2C%20Origins">Study Case - Effects, Risks, Origins</a>"</i> shows dangerous Private Sector operations.<br>
-- New Accounts Layers, Aged Accounts, Created News-Sites:</br>
+- Hired Services - New Accounts Layers, Aged Accounts, Created News-Sites:</br>
 https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf<br>
 - Psy-Group's Bots - https://www.newyorker.com/magazine/2019/02/18/private-mossad-for-hire<br>
 - Devumi Bots - https://www.thebureauinvestigates.com/stories/2017-12-07/twitterbots<br>
