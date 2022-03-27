@@ -28,7 +28,7 @@ This is the most detailed public analysis of a disinformation operation and the 
 - Crossplatform for Groups in Facebook, Reddit, and Channels of YouTube<br>
 
 ### <b>Index and Contents:<br></b>
-<i>Use for Timeline Correlations to Risks, Origins, and Preliminary Effects</i>
+<i>Use for Timeline Correlations to Risks, Preliminary Effects, and Origins</i>
 - <b>Analysis of Social Media Platforms</b> - Complex Study with Detailed Python Notebooks
 <i><br>Twitter, Reddit, Instagram, Change.org, YouTube, Facebook, Cross-Platforms
 <br>Peaks, Anomalies, Timelines, Patterns, Statistical Models
