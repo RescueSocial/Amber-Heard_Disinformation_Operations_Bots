@@ -109,16 +109,16 @@ Influence Operation of 6,000 Twitter accounts found by BotSentinel: https://yout
 #### <b>Related Articles for Understanding:</b><br> 
 <i>"Disinformation in the Private Sector: The Price of Influence"</i><br>
 There have been victims of disinformation/influence operations in the private sector for decades. We hope our open-source study can be used to help others without needing to start from scratch. 
-<br>Folder <i>"<a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/-%20Study%20Case%20-%20Effects%2C%20Risks%2C%20Origins">Study Case - Effects, Risks, Origins</a>"</i> shows dangerous Private Sector operations.<br>
+<br>- Folder <i>"<a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/-%20Study%20Case%20-%20Effects%2C%20Risks%2C%20Origins">Study Case - Effects, Risks, Origins</a>"</i> shows dangerous Private Sector operations.<br>
 - Hired Services - New Accounts Layers, Aged Accounts, Created News-Sites:</br>
 https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf<br>
 - Psy-Group's Operations and Bots - https://www.newyorker.com/magazine/2019/02/18/private-mossad-for-hire<br>
 - Devumi Services and Bots - https://www.thebureauinvestigates.com/stories/2017-12-07/twitterbots<br>
 - BlackCube vs Actresses: https://www.newyorker.com/news/news-desk/harvey-weinsteins-army-of-spies<br>
 - Medium "Bots Created Anti-Amber Heard" Operations: https://medium.com/@aquaman-bots/how-social-bots-created-an-anti-amber-heard-aquaman-campaign-e68e16637d3a<br>
-- Actress Meghan Markle Operations: (1) https://laptrinhx.com/meghan-markle-s-twitter-bot-network-the-whole-thing-is-a-bit-insane-2560404981 (2) https://www.newsweek.com/meghan-markle-troll-accused-posing-black-woman-second-account-suspended-twitter-bot-sentinel-1652271<br>
-- Victims Jessica Reisinger-Raubenolt & Lilia Operations - https://www.tampabay.com/news/crime/2021/08/05/cameron-herrin-went-to-prison-for-a-tampa-crash-were-the-tweets-that-followed-real<br>
 - Video - Rose McGowan vs BlackCube: https://www.youtube.com/watch?v=tv6ewJQ7L3k<br>
+- Actress Meghan Markle Operations: (1) https://laptrinhx.com/meghan-markle-s-twitter-bot-network-the-whole-thing-is-a-bit-insane-2560404981 (2) https://www.newsweek.com/meghan-markle-troll-accused-posing-black-woman-second-account-suspended-twitter-bot-sentinel-1652271<br>
+- Car Accident Victims Jessica Reisinger-Raubenolt & Lilia Operations - https://www.tampabay.com/news/crime/2021/08/05/cameron-herrin-went-to-prison-for-a-tampa-crash-were-the-tweets-that-followed-real<br>
 - Amber Heard, Cyrillic Spiders from Mars - https://www.thegeekbuzz.com/the-basement/cyrillic-russian-spiders-from-mars
 
 
