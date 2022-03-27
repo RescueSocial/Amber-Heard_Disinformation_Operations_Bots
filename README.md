@@ -112,8 +112,8 @@ There have been victims of disinformation/influence operations in the private se
 <br>Folder <i>"<a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/-%20Study%20Case%20-%20Effects%2C%20Risks%2C%20Origins">Study Case - Effects, Risks, Origins</a>"</i> shows dangerous Private Sector operations.<br>
 - Hired Services - New Accounts Layers, Aged Accounts, Created News-Sites:</br>
 https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf<br>
-- Psy-Group's Bots - https://www.newyorker.com/magazine/2019/02/18/private-mossad-for-hire<br>
-- Devumi Bots - https://www.thebureauinvestigates.com/stories/2017-12-07/twitterbots<br>
+- Psy-Group's Operations and Bots - https://www.newyorker.com/magazine/2019/02/18/private-mossad-for-hire<br>
+- Devumi Services and Bots - https://www.thebureauinvestigates.com/stories/2017-12-07/twitterbots<br>
 - BlackCube vs Actresses: https://www.newyorker.com/news/news-desk/harvey-weinsteins-army-of-spies<br>
 - Medium "Bots Created Anti-Amber Heard" Operations: https://medium.com/@aquaman-bots/how-social-bots-created-an-anti-amber-heard-aquaman-campaign-e68e16637d3a<br>
 - Actress Meghan Markle Operations: (1) https://laptrinhx.com/meghan-markle-s-twitter-bot-network-the-whole-thing-is-a-bit-insane-2560404981 (2) https://www.newsweek.com/meghan-markle-troll-accused-posing-black-woman-second-account-suspended-twitter-bot-sentinel-1652271<br>
