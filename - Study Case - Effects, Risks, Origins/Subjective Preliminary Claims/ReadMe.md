@@ -7,12 +7,12 @@ Shows the risks correlating to in-person, the motivations, and the claims behind
 <br>Social Cyber Security interconnects with the online and in-person worlds of escalations and origins.
 <br>The Social connects with the Technology/Data.</b>
 
-Interpretation: <br>
+### <b>Interpretation:</b> <br>
 It is clear that multiple layers of companies are used against Amber Heard. Similar to the investigations of money-laundering, cyber criminal activities can similarly 'clean' in layers. 
 <br><br>For example, layers can be used to trivialize, to hide the cyber crime activities.
 <br>As seen in other case examples e.g., against actresses, models, socialites, and partners of atheletes, the Natural Language of these operations are similar as are their capabilities of paying hundreds of thousands to millions for these operations against women in these conditions.
 <br>Secondly, it's extreme monitoring with coercive control and domestic abuse by partners to not allow these women to move onto others. Private services and 'fixers' specialize in harming women who are partners of these figures. It's abuse of process and intimidation to threaten with death, destruction. 
-- Sports accounts were not only seen by the cyber intelligence reseacher in April 2021 (Arsenal sports network), but also show in like-bots analysis. Entertainment and Hollywood-related liking-bots show in Twitter likes-analysis too. Clustering is a method to find similar topics, banners, and profile images.
+- Sports accounts were not only seen by the cyber intelligence reseacher in April 2021 (Arsenal sports network), but also show in like-bots analysis. Aside from the "Movie DC Monsters" Network on a peak day, entertainment and Hollywood-related liking-bots - with no statuses and only 'like' - show in Twitter likes-analysis too. Clustering is a method to find similar topics, banners, and profile images.
 - Many accounts, retweets, and amplifications surround threatening Amber Heard with state-actions, which correlates to the distraction of having Adam Waldman hired by John C. Depp II. It is true that these operations are far more volumnious than e.g., against Rose McGowan (thousands of bots), Ashley Morgan Smithline, Brittany Murphy, or Meghan Markle (See folder - Other Case Examples). 
 <br> This could correlate with the accuracy known by the additional skilled influence layers. However, there are other companies including for social media community building as seen with the obvious bots and takedowns on YouTube.
 - These interpretations are largely unseen due to the influence operations of Category 6 - also going to in-person where both sides are influenced against her. 
