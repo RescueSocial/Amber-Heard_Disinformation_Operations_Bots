@@ -93,17 +93,18 @@ On GitHub:
 <b>Public Research:</b>
 <br>This Independent Study is open for Public Research, scientific learning, and archiving.
 <br>Full Data is on <a href="https://drive.google.com/drive/folders/1GjKdNpsJSBIX9MsQgKq2FGTArDVEYFFI?usp=sharing">Google</a>, <a href="https://www.kaggle.com/amberhearddata/datasets">Kaggle</a>, Archives, and research data repositories.
-- <i>"Research data can save lives, help develop solutions and maximise our knowledge. Promoting collaboration and cooperation among a global research community is the first step to reduce the burden of wasted research."</i>
+- <i><b>"Research data can save lives, help develop solutions and maximise our knowledge. Promoting collaboration and cooperation among a global research community is the first step to reduce the burden of wasted research."</b></i>
 
 <b>Cross-Platforms Analysis:</b><br>
 Analysis is in-progress across-platforms. Not all analysis is given on GitHub for researcher privacy for published research papers and review of the operations.
 <br><i>- Data of 5 months of December 2020 to April 2021 is provided for open peer-review and research studies on GitHub. Full Data for more independent cross-platform analysis is provided in research data repositories.</i>
 <br><i>- Note:</i> Peaks, Heat Maps of Threats, coordinated bot activities, repeated same texts, and more anomalies show for 2018-2022 continuing, especially February 2020 onward as seen in analysis files.
 
-<i>The Academic API was used for Retweets and <a href="https://InformationTracer.com">InformationTracer</a> for CrowdTangle API.</i><br>
-
 <b>Threat Analysis of Influence:</b><br>
 Threat analysis and our studies show the timelines to escalations of risks with keywords, phrases use. With knowledge of social dynamics, it's seen that percentages of people are incited within the automated simulations caused by the companies and services. For example, within tens of thousands of repeated texts and cryptic bot networks are people brought into them to threaten Amber Heard. We show progressions of threats and escalations. Other experts saw cyber crime needing flagging for removal.
+
+<i>The Academic API was used for Retweets and <a href="https://InformationTracer.com">InformationTracer</a> for CrowdTangle API.</i><br>
+
 
 ### <b>Background:</b><br>
 Multiple Research Papers on Disinformation/Influence Operations Cross-Platforms, Timelines, Studying Technologies<br>
