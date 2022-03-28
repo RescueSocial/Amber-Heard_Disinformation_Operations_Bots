@@ -104,7 +104,7 @@ Analysis is in-progress cross-platforms. Not all analysis is given on GitHub for
 ### <b>Background:</b><br>
 Multiple Research Papers on Disinformation/Influence Operations Cross-Platforms, Timelines, Studying Technologies<br>
 August 2020 Counterclaims on Bots: https://www.scribd.com/document/473092071/cl-2019-2911-def-counterclaims-8-10-2020<br>
-Influence Operation of 6,000 Twitter accounts found by BotSentinel: https://youtu.be/bb2bC04OEPw<br>
+Influence Operation of 6,000 Twitter accounts found by Bot Sentinel: https://youtu.be/bb2bC04OEPw<br>
 
 #### <b>Related Articles for Understanding:</b><br> 
 <i>"Disinformation in the Private Sector: The Price of Influence"</i><br>
