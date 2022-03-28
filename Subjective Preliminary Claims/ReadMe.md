@@ -9,7 +9,8 @@ Shows the risks correlating to in-person, the motivations, and the claims behind
 
 Interpretation: <br>
 It is clear that multiple layers of companies are used against Amber Heard. Similar to the investigations of money-laundering, cyber criminal activities can similarly 'clean' in layers.
-As seen in other case examples e.g., against actresses, models, socialites, and partners of atheletes, the Natural Language of these operations are similar as are their capabilities of paying hundreds of thousands to millions for these operations against women in these conditions.
+<br>For example, layers can be used to trivialize, to hide the cyber crime activities.
+<br>As seen in other case examples e.g., against actresses, models, socialites, and partners of atheletes, the Natural Language of these operations are similar as are their capabilities of paying hundreds of thousands to millions for these operations against women in these conditions.
 <br>Secondly, it's extreme monitoring with coercive control and domestic abuse by partners to not allow these women to move onto others. Private services and 'fixers' specialize in harming women who are partners of these figures. It's abuse of process and intimidation to threaten with death, destruction. 
 - Sports accounts were not only seen by the cyber intelligence reseacher in April 2021 (Arsenal sports network), but also show in like-bots analysis. Clustering is a method to find similar topics, banners, and profile images.
 - Many accounts, retweets, and amplifications surround threatening Amber Heard with state-actions, which correlates to the distraction of having Adam Waldman hired by John C. Depp II. It is true that these operations are far more volumnious than e.g., against Rose McGowan (thousands of bots), Ashley Morgan Smithline, Brittany Murphy, or Meghan Markle (See folder - Other Case Examples). 
@@ -22,7 +23,7 @@ E.g., commonly the operations against Amber Heard will take on personas of group
 <br> It's imperative the victim doesn't look at the operations, requiring 3rd parties. Think of frequency, target, source.
 
 Along with the case's circumstances of intimidation, violence, missing people, high wealth of opposition, <a href="https://abcnews.go.com/Primetime/LegalCenter/story?id=1625097&page=1">Hollywood fixers</a>, and suspicious activities, the online world similarly has been made threatening to exploit the <a href="https://datasociety.net/library/data-voids/">Data Void</a>.
-"Data voids are not unique to search engines; they occur on social media platforms, too."
+<br>"Data voids are not unique to search engines; they occur on social media platforms, too."
 
 ## <b>Questions:</b>
 <br>1. What other case studies can you think of similar to this one?
