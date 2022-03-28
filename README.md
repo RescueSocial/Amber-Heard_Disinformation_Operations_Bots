@@ -93,7 +93,7 @@ On GitHub:
 <b>Public Research:</b>
 <br>This Independent Study is open for Public Research, scientific learning, and archiving.
 <br>Full Data is on <a href="https://drive.google.com/drive/folders/1GjKdNpsJSBIX9MsQgKq2FGTArDVEYFFI?usp=sharing">Google</a>, <a href="https://www.kaggle.com/amberhearddata/datasets">Kaggle</a>, Archives, and research data repositories.
-- <i><b>"Research data can save lives, help develop solutions and maximise our knowledge. Promoting collaboration and cooperation among a global research community is the first step to reduce the burden of wasted research."</b></i>
+- <i>"Research data can save lives, help develop solutions and maximise our knowledge. Promoting collaboration and cooperation among a global research community is the first step to reduce the burden of wasted research."</i>
 
 <b>Cross-Platforms Analysis:</b><br>
 Analysis is in-progress across-platforms. 
@@ -104,6 +104,7 @@ Analysis is in-progress across-platforms.
 
 <b>Threat Analysis of "High Risk" Influence:</b><br>
 - Threat analysis and our studies show the timelines to escalations of risks with keywords, phrases use. With knowledge of social dynamics, it's seen that percentages of people are incited within the automated simulations caused by the companies and services. For example, within tens of thousands of repeated texts and cryptic bot networks are people brought into them to threaten Amber Heard. We show progressions of threats and escalations. Other experts saw cyber crime needing flagging for removal.
+<br>Clustering analysis with cyber intelligence reveals scientifically operations to cause distress beyond manual searches.
 
 <i>The Academic API was used for Retweets and <a href="https://InformationTracer.com">InformationTracer</a> for CrowdTangle API.</i><br>
 
