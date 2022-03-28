@@ -102,7 +102,7 @@ Analysis is in-progress across-platforms. Not all analysis is given on GitHub fo
 
 <i>The Academic API was used for Retweets and <a href="https://InformationTracer.com">InformationTracer</a> for CrowdTangle API.</i><br>
 
-<b>Threat Analysis:</b><br>
+<b>Threat Analysis of Influence:</b><br>
 Threat analysis and our studies show the timelines to escalations of risks with keywords, phrases use. With knowledge of social dynamics, it's seen that percentages of people are incited within the automated simulations caused by the companies and services. For example, within tens of thousands of repeated texts and cryptic bot networks are people brought into them to threaten Amber Heard. We show progressions of threats and escalations. 
 
 ### <b>Background:</b><br>
@@ -154,4 +154,4 @@ Scientific (longer-term):	analysis	- prediction<br></i>
 ### <b>Citing Research Project:</b><br>
 If interested in citing our research project in your studies, publication, journal, database, or article, please provide a link to this GitHub repository with its title and contact us for collaboration.
 
-We ethically did this study independently with hopes to save a life and to create knowledge that can help others who need protections from operations, abuse, violence, and bots. We encourage you to build upon our studies and analysis for your own projects.
+Researchers ethically did this study independently with hopes to save a life and to create knowledge that can help others who need protections from operations, abuse, violence, and bots. We encourage you to build upon our studies and analysis for your own projects.
