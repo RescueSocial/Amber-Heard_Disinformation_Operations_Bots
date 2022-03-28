@@ -4,17 +4,17 @@
 
 #### <i><b>Millions of Texts and Millions of Accounts were studied for Social Network Analysis.</b></i>
 
-We're Worldwide Independent Researchers with over 20 data analysts, scientists, and observers analyzing this data for over a year. Research and development is ongoing, and this public operation spanning for years continues. We invite researchers and students to study this public case example. 
+We're Worldwide Independent Researchers with over 20 data analysts, scientists, and observers analyzing this data for over a year. Research and development is ongoing, and this public operation spanning for years continues. We invite researchers, an ethical public, and students to study this public case example. 
 
 #### <i><b>Data collected on Amber Heard is primarily related to the years 2018-2021, ongoing into 2022.</b></i>
 
-This is the most detailed public analysis of a disinformation operation and the most voluminous yet - showing the impact of <a href="https://www.brookings.edu/research/the-breakout-scale-measuring-the-impact-of-influence-operations"><i>Category 6</a> influence,</b></i> globally affecting the public, businesses, nonprofits, and entities beyond the victim. This work is in-progress and prepared for peer-review.  
+This is the most detailed public analysis of a disinformation operation and the most voluminous yet - showing the impact of <a href="https://www.brookings.edu/research/the-breakout-scale-measuring-the-impact-of-influence-operations"><i>Category 6</a> influence,</b></i> globally affecting the public, businesses, nonprofits, reporters, social connections, and entities beyond the victim. This project is in-progress, dynamic, and prepared for peer-review.  
 
 <b>Our Purpose is to create Precedents and Foundations to help other victims of cyberabuse, bots, domestic abuse, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a>, hostile environments, and Disinformation Operations to improve lives.</b> 
-<br>We want to save lives and help partners create systems to help online - e.g., specialized and accurate rescue, quality custom studies, data analysis, Social Network Analysis, forensics, research, situation awareness, data science projects, services mitigating operations, and rescue/public safety technologies - <i>with focus on the victim primarily and <b>her environment</b></i>.
+<br>We want to save lives and help partners create systems to help online - e.g., specialized and accurate rescue, quality custom studies, data analysis, Social Network Analysis, forensics, research, situation awareness, data science projects, ethical services, and rescue/public safety technologies - <i>with focus on the victim primarily and <b>her environment</b></i>.
 
 - <a href="https://www.teamscopeapp.com/blog/6-repositories-to-share-your-research-data"><b>Public Research:</b></a> 
-<br><i>This study and its data is fully open for scientific learning, developing solutions, saving lives, maximizing knowledge, blueprints, and archiving for long-term benefit.</i>
+<br><i>This study and its data is fully open for innovative scientific advancement, developing solutions, saving lives, maximizing knowledge, blueprints, and archiving for long-term benefit.</i>
 <br>- If a file of analysis is too large to preview on github, please download, or preview in this <a href="https://drive.google.com/drive/folders/18MWGm7dRX6Gi5UPo0fO9xQMtT4eHIrbn?usp=sharing">google folder</a>.
 <br>- <b>Full Data</b> sharing is in-progress on <a href="https://drive.google.com/drive/folders/1GjKdNpsJSBIX9MsQgKq2FGTArDVEYFFI?usp=sharing">Google</a>, <a href="https://www.kaggle.com/amberhearddata/datasets">Kaggle</a>, Archives, <a href="https://www.scribd.com/user/598949302/Rescue-Social-Tech/uploads">Scribd</a> and public research data repositories.</i>
 
@@ -57,15 +57,15 @@ This is the most detailed public analysis of a disinformation operation and the 
 Compliments Generation on Amber Heard based on Jason Momoa<br>
  https://github.com/semiosis/prompts/blob/master/prompts/compliment-generation-based-on-a-celebrity-1.prompt<br>
 - 10,000 Compliments on Amber Heard made in 2 hours: https://asciinema.org/a/w5ayuAEGGpgsxTCKWbAGRPfvZ<br>
-- 3-Way Bots chat with Actress Amber Heard, Actor Tom Cruise, and Director Christopher Nolan demonstrated at: https://semiosis.github.io/apostrophe <br>
-- Code and Demos from AI Researcher at: https://github.com/mullikine/positive-nlg-compliments<br>
+- Funny 3-Way Bots chat with Actress Amber Heard, Actor Tom Cruise, and Director Christopher Nolan demonstrated at: https://semiosis.github.io/apostrophe <br>
+- Code, Demos, and Videos from AI Researcher at: https://github.com/mullikine/positive-nlg-compliments<br>
 - <a href="https://github.com/semiosis">Semiosis</a> is a free and open-source curation of prompts for OpenAI's GPT-3/Codex, EleutherAI's GPT-j, AlephAlpha's World Model and other language models.<br>
 
 ### <b>Collaboration:</b> 
 If you're a researcher, social enterprise, organization, student, or academic helping female victims of abuse, coercive control, domestic abuse, bots, operations, harassment, or hostile environments - we welcome partnership with you. 
 <br>Our studies and data can be used for Social Network Analysis, Data Analysis, machine learning, Natural Language Processing, artificial intelligence, Data Science labeling, anti-abuse, rescue projects, anti-crime, timelines, OSINT, simulations, and monitoring systems to help other victims and their lives. 
 <br><br>Since this data is high volume about domestic abuse and gender, with an actress and film industry element, it's highly relevant for classification and data science projects on those topics.
-<br><i>Please contact us for collaboration, or if with questions on obtaining data and code.</i>
+<br><i>Please contact us for collaboration or if with questions on obtaining data and code.</i>
 <br><br>
 <b>Although it's abuse of process, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a> is becoming illegal in more countries and states/provinces worldwide.</b>
 - <i>If you're a victim needing help against cyberabuse especially in <a href="https://safeescape.org">online domestic abuse</a>, operations, and <a href="https://metta-space.com">hostile environments</a>, please contact us.</i><br>
@@ -96,17 +96,20 @@ On GitHub:
 - <i>"Research data can save lives, help develop solutions and maximise our knowledge. Promoting collaboration and cooperation among a global research community is the first step to reduce the burden of wasted research."</i>
 
 <b>Cross-Platforms Analysis:</b><br>
-Analysis is in-progress across-platforms. 
+Scientific Analysis is in-progress across-platforms. 
 
-- <i>Data of 5 months of December 2020 to April 2021 is provided for open peer-review and research studies on GitHub. Full Data for more independent cross-platform analysis is provided in research data repositories.</i>
+- <i>Data of 5 months of December 2020 to April 2021 is provided on GitHub for open peer-review and research studies. Full Data for more independent cross-platform analysis is provided in research data repositories.</i>
 - <i>Note:</i> Peaks, Heat Maps of Threats, coordinated bot activities, repeated same texts, and more anomalies show for 2018-2022 continuing, especially February 2020 onward as seen in analysis files.
 <br>Not all analysis is given for researcher privacy for published research papers and review of the operations.
 
 <i>The Academic API was used for Retweets and <a href="https://InformationTracer.com">InformationTracer</a> for CrowdTangle API.</i><br>
 
 <b>Threat Analysis of "High Risk" Influence:</b><br>
-- Threat analysis and our studies show the timelines to escalations of risks with keywords, phrases use. With knowledge of social dynamics, it's seen that percentages of people are incited within the automated simulations caused by the companies and services. For example, within tens of thousands of repeated texts and cryptic bot networks are people brought into them to threaten Amber Heard. We show progressions of threats and escalations. Other experts saw cyber crime needing flagging for removal by cybersecurity.
+- Threat analysis and our studies shows the timelines to escalations of risks with keywords, phrases use. With knowledge of social dynamics, it's seen that within the automated simulations caused by the companies and services are percentages of incited people. In examples, within tens of thousands of repeated same texts on YouTube, false interactions on all platforms, and cryptic bot networks are people brought into them to threaten Amber Heard. We show increases of threats and escalations. <a href="https://youtu.be/kTTqIqqqRjA?t=89">(Video by Coded Bias: Voting Experiment on Facebook)</a>
+<br>- Other experts saw cyber crime needing flagging for removal by cybersecurity.
 <br>- Clustering analysis with cyber intelligence reveals scientifically operations to cause distress beyond manual searches.
+<br> Along with the case's circumstances of intimidation, violence, missing people, high wealth of opposition, and suspicious activities, the online world similarly has been made threatening to exploit the <a href="https://datasociety.net/library/data-voids">Data Void</a>.
+<br><i>"Data voids are not unique to search engines; they occur on social media platforms, too."</i>
 
 
 ### <b>Background:</b><br>
@@ -116,7 +119,7 @@ Influence Operation of 6,000 Twitter accounts found by BotSentinel: https://yout
 
 ### <b>Related Articles for Understanding:</b><br> 
 <i>"Disinformation in the Private Sector: The Price of Influence"</i><br>
-There have been victims of disinformation/influence operations in the private sector for decades. Operations can mirror coercive control strategies. Our open-source study can be used to help others, save lives, and to create services with science to rescue without needing to start from scratch.
+There have been victims of disinformation/influence operations in the private sector for decades. Operations can mirror coercive control strategies. Our open-source study can be used to help others by creating guides without needing to start from scratch.
 <br>- Folder <i>"<a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/-%20Study%20Case%20-%20Effects%2C%20Risks%2C%20Origins">Study Case - Effects, Risks, Origins</a>"</i> shows dangerous Private Sector operations.<br>
 - Hired Services - New Accounts Layers, Aged Accounts, Created News-Sites:</br>
 https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf<br>
@@ -154,7 +157,7 @@ Scientific (longer-term):	analysis	- prediction<br></i>
 - <i><b>Research and building technologies is Ongoing as the operation is Continuing over years and this is a Public Github Example. </b>
 
  We are continuing analysis and data collections, including creating technologies for systems on <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control.</a></i>
-<br><i>“Since the fate of the world is non-existence, Since You Exist, Be Merry.” - Persian Mathematician <a href="https://en.wikipedia.org/wiki/Omar_Khayyam">Omar Khayyam</a></i>
+<br><i>“Since the fate of the world is non-existence, <a href="https://youtu.be/HNwoRxZzbjM?t=35">Since You Exist, Be Merry</a>.” - Persian Mathematician <a href="https://en.wikipedia.org/wiki/Omar_Khayyam">Omar Khayyam</a></i>
 
 ### <b>Citing Research Project:</b><br>
 If interested in citing our research project in your studies, publication, journal, database, or article, please provide a link to this GitHub repository with its title and contact us for collaboration.
