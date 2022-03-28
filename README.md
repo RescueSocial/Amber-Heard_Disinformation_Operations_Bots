@@ -103,14 +103,14 @@ Analysis is in-progress across-platforms. Not all analysis is given on GitHub fo
 <i>The Academic API was used for Retweets and <a href="https://InformationTracer.com">InformationTracer</a> for CrowdTangle API.</i><br>
 
 <b>Threat Analysis:</b><br>
-Threat analysis and our studies show the timelines to escalations of risks with keywords, phrases use. With knowledge of social dynamics, it's seen that percentages of people are incited within the automated simulations caused by the companies and services. For exaample, within tens of thousands of repeated texts and cryptic bot networks are people brought into them to threaten Amber Heard. We show progressions of threats and escalations. 
+Threat analysis and our studies show the timelines to escalations of risks with keywords, phrases use. With knowledge of social dynamics, it's seen that percentages of people are incited within the automated simulations caused by the companies and services. For example, within tens of thousands of repeated texts and cryptic bot networks are people brought into them to threaten Amber Heard. We show progressions of threats and escalations. 
 
 ### <b>Background:</b><br>
 Multiple Research Papers on Disinformation/Influence Operations Cross-Platforms, Timelines, Studying Technologies<br>
 August 2020 Counterclaims on Bots: https://www.scribd.com/document/473092071/cl-2019-2911-def-counterclaims-8-10-2020<br>
 Influence Operation of 6,000 Twitter accounts found by BotSentinel: https://youtu.be/bb2bC04OEPw<br>
 
-#### <b>Related Articles for Understanding:</b><br> 
+### <b>Related Articles for Understanding:</b><br> 
 <i>"Disinformation in the Private Sector: The Price of Influence"</i><br>
 There have been victims of disinformation/influence operations in the private sector for decades. Operations can mirror coercive control strategies. Our open-source study can be used to help others, save lives, and to create services with science to rescue without needing to start from scratch.
 <br>- Folder <i>"<a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/-%20Study%20Case%20-%20Effects%2C%20Risks%2C%20Origins">Study Case - Effects, Risks, Origins</a>"</i> shows dangerous Private Sector operations.<br>
