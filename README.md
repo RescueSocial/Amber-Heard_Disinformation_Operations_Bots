@@ -119,7 +119,7 @@ https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf<br>
 - Medium "Bots Created Anti-Amber Heard" Operations - https://medium.com/@aquaman-bots/how-social-bots-created-an-anti-amber-heard-aquaman-campaign-e68e16637d3a<br>
 - Video - Rose McGowan vs BlackCube - https://www.youtube.com/watch?v=tv6ewJQ7L3k<br>
 - Actress Meghan Markle Operations - (1) https://laptrinhx.com/meghan-markle-s-twitter-bot-network-the-whole-thing-is-a-bit-insane-2560404981 (2) https://www.newsweek.com/meghan-markle-troll-accused-posing-black-woman-second-account-suspended-twitter-bot-sentinel-1652271<br>
-- Car Accident Victims Jessica Reisinger-Raubenolt & Lilia Operations - https://www.tampabay.com/news/crime/2021/08/05/cameron-herrin-went-to-prison-for-a-tampa-crash-were-the-tweets-that-followed-real<br>
+- Jessica Reisinger-Raubenolt & Lilia Operations - https://www.tampabay.com/news/crime/2021/08/05/cameron-herrin-went-to-prison-for-a-tampa-crash-were-the-tweets-that-followed-real<br>
 - Amber Heard, Cyrillic Spiders from Mars - https://www.thegeekbuzz.com/the-basement/cyrillic-russian-spiders-from-mars
 
 
@@ -150,5 +150,7 @@ Scientific (longer-term):	analysis	- prediction<br></i>
 
 ### <b>Citing Research Project:</b><br>
 If interested in citing our research project in your studies, publication, journal, database, or article, please provide a link to this GitHub repository with its title and contact us for collaboration.
+
+We ethically did this study independently with hopes of saving a life and creating foundations to help other victims. Our studies create expertise. 
 
 
