@@ -72,7 +72,8 @@ If you're a researcher, social enterprise, organization, student, or academic he
 
 #### <b>Do No Harm:</b>
 All collaborators, researchers, and observers are required to sign, acknowledge, agree to "Do No Harm" agreements. If you are one of the victims, businesses, nonprofits, or entities listed in this study and want to collaborate with us, please contact us.
-<br><br>We make this study and data fully open to <a href="https://www.teamscopeapp.com/blog/6-repositories-to-share-your-research-data">Public Research</a>. We do not include the full code, however, we make data open on data repositories to protect the individual in this study, to make a long-lasting impact for learning in the scientific world, and to prevent harmful operations. As a precedent, other researchers and students should use this GitHub and study as a basis for their own social network analysis projects. We draw attention to this project months before in-person appearances for safety.
+<br><br>We make this study and data fully open to <a href="https://www.teamscopeapp.com/blog/6-repositories-to-share-your-research-data">Public Research</a>. We do not include the full code, however, we make data open on data repositories to protect the individual in this study, to make a long-lasting impact for learning in the scientific world, and to prevent harmful operations. As a precedent, other researchers and students should use this GitHub and study as a basis for their own social network analysis projects. 
+<br>We draw attention to this project months before in-person appearances for safety.
 <br>
 
 ### <b>Data Samples and Full Data [Updates]:</b><br>
@@ -108,7 +109,7 @@ Influence Operation of 6,000 Twitter accounts found by BotSentinel: https://yout
 
 #### <b>Related Articles for Understanding:</b><br> 
 <i>"Disinformation in the Private Sector: The Price of Influence"</i><br>
-There have been victims of disinformation/influence operations in the private sector for decades. Operations can mirror coercive control strategies. Our open-source study can be used to help others without needing to start from scratch.
+There have been victims of disinformation/influence operations in the private sector for decades. Operations can mirror coercive control strategies. Our open-source study can be used to help others and to create services to rescue without needing to start from scratch.
 <br>- Folder <i>"<a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/-%20Study%20Case%20-%20Effects%2C%20Risks%2C%20Origins">Study Case - Effects, Risks, Origins</a>"</i> shows dangerous Private Sector operations.<br>
 - Hired Services - New Accounts Layers, Aged Accounts, Created News-Sites:</br>
 https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf<br>
