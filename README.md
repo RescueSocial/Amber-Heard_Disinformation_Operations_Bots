@@ -102,11 +102,11 @@ Analysis is in-progress across-platforms.
 - <i>Note:</i> Peaks, Heat Maps of Threats, coordinated bot activities, repeated same texts, and more anomalies show for 2018-2022 continuing, especially February 2020 onward as seen in analysis files.
 <br>Not all analysis is given for researcher privacy for published research papers and review of the operations.
 
+<i>The Academic API was used for Retweets and <a href="https://InformationTracer.com">InformationTracer</a> for CrowdTangle API.</i><br>
+
 <b>Threat Analysis of "High Risk" Influence:</b><br>
 - Threat analysis and our studies show the timelines to escalations of risks with keywords, phrases use. With knowledge of social dynamics, it's seen that percentages of people are incited within the automated simulations caused by the companies and services. For example, within tens of thousands of repeated texts and cryptic bot networks are people brought into them to threaten Amber Heard. We show progressions of threats and escalations. Other experts saw cyber crime needing flagging for removal.
 <br>Clustering analysis with cyber intelligence reveals scientifically operations to cause distress beyond manual searches.
-
-<i>The Academic API was used for Retweets and <a href="https://InformationTracer.com">InformationTracer</a> for CrowdTangle API.</i><br>
 
 
 ### <b>Background:</b><br>
