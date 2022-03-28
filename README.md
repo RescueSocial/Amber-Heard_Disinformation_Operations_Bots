@@ -107,7 +107,7 @@ Analysis is in-progress across-platforms.
 <b>Threat Analysis of "High Risk" Influence:</b><br>
 - Threat analysis and our studies shows the timelines to escalations of risks with keywords, phrases use. With knowledge of social dynamics, it's seen that within the automated simulations caused by the companies and services are percentages of incited people. For examples, within tens of thousands of repeated texts on YouTube, false interactions on all platforms, and cryptic bot networks are people brought into them to threaten Amber Heard. We show progressions of threats and escalations. <a href="https://youtu.be/kTTqIqqqRjA?t=89">(See Video by Coded Bias: Voting Experiment on Facebook)</a>
 <br>- Other experts saw cyber crime needing flagging for removal by cybersecurity.
-<br>- Clustering analysis with cyber intelligence reveals scientifically operations that cause distress beyond manual searches.
+<br>- Clustering analysis with cyber intelligence reveals scientifically operations to cause distress beyond manual searches.
 <br> Along with the case's circumstances of intimidation, violence, missing people, high wealth of opposition, and suspicious activities, the online world similarly has been made threatening to exploit the <a href="https://datasociety.net/library/data-voids">Data Void</a>.
 <br><i>"Data voids are not unique to search engines; they occur on social media platforms, too."</i>
 
