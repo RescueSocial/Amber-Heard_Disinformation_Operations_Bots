@@ -23,7 +23,7 @@ E.g., commonly the operations against Amber Heard will take on personas of group
 <br> It's imperative the victim doesn't look at the operations, requiring 3rd parties. Think of frequency, target, source.
 
 Along with the case's circumstances of intimidation, violence, missing people, high wealth of opposition, <a href="https://abcnews.go.com/Primetime/LegalCenter/story?id=1625097&page=1">Hollywood fixers</a>, and suspicious activities, the online world similarly has been made threatening to exploit the <a href="https://datasociety.net/library/data-voids/">Data Void</a>.
-<br>"Data voids are not unique to search engines; they occur on social media platforms, too."
+<br><i>"Data voids are not unique to search engines; they occur on social media platforms, too."</i>
 
 ## <b>Questions:</b>
 <br>1. What other case studies can you think of similar to this one?
