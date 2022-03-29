@@ -187,7 +187,7 @@ abuser.dates()
 
 The commentes were made between 2018-08-01 and  2021-08-27
     <br>  n_comments
-<br>year            
+year            
 2018           4
 <br>2019          39
 <br>2020         469
