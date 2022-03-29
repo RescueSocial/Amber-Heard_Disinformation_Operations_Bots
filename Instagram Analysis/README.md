@@ -166,6 +166,8 @@ message	repeated_times	avg_likes	n_replies
 <br>2804	justice for johnny	141	8.985816	29.0
 <br>1464	@johnnydepp #wearewithyoujohnnydepp #amberhear...	124	0.185484	0.0
 
+"The Amplifications in the counts and number of likes on #justiceforjohnnydepp is quite obvious!!"
+
 The text 'abuser' and other negative texts follow the other peaks more.
 <br>abuser              346
 
@@ -226,7 +228,7 @@ Top Users Commented with "Fire Amber"
 <br>df_fire.username.nunique()
 <br>3588
 
-<b>Comments Created in Each Year on Instagram in AH Dataset:</b>
+<b>Comments Created in Each Year on Instagram in AH Dataset - Data Investigations file:</b>
 <br>year	n_comments
 <br>0	2014	4
 <br>1	2015	1
@@ -237,3 +239,33 @@ Top Users Commented with "Fire Amber"
 <br>6	2020	711339
 <br>7	2021	478594
 
+<b>Most Repeated Comments</b> (with emojis)
+<br>Same Text Same Date
+<br>Deeper Investigations
+<br>df_comments.message.value_counts().head(25)
+<br>❤️                       16024
+<br>😍                        11011
+<br>❤️❤️❤️                   10774
+<br>😍😍😍                       8664
+<br>❤️❤️                      5566
+<br>❤️❤️❤️❤️                  5500
+<br>🔥🔥🔥                       5298
+<br>beautiful                 5187
+<br>😍😍😍😍                      5084
+<br>😍😍                        5042
+<br>❤️❤️❤️❤️❤️                4942
+<br>#justiceforjohnnydepp     4862
+<br>🔥                         4761
+<br>😍😍😍😍😍                     3625
+<br>🔥🔥                        2861
+<br>🔥🔥🔥🔥                      2798
+<br>❤️❤️❤️❤️❤️❤️              2723
+<br>🔥🔥🔥🔥🔥                     2111
+<br>nice                      2106
+<br>2                         2099
+<br>😍😍😍😍😍😍                    2075
+<br>1                         2043
+<br>👍                         1949
+<br>😂😂😂                       1874
+<br>❤️❤️❤️❤️❤️❤️❤️            1826
+<br>Name: message, dtype: int64
