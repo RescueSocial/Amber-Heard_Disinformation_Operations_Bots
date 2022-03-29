@@ -22,13 +22,12 @@ It is clear that multiple layers of companies and services are used against Ambe
 The main articles we based our studies on were on <a href="https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf">"Disinformation in the Private Sector: The Price of Influence"</a> and Devumi bots - where public figures had millions of false followers and made copies of other people's biographies and personas. 
 
 As seen in other case examples e.g., against actresses, models, socialites, and partners of atheletes, the Natural Language of these operations are similar as are their capabilities of paying hundreds of thousands to millions for these operations against women in these conditions.
-<br>Secondly, it's extreme monitoring with coercive control and domestic abuse by partners to not allow these women to move onto others. Private services and 'fixers' specialize in harming women who are partners of these figures. It's abuse of process and intimidation to threaten with death, destruction.
+<br>Secondly, it's extreme monitoring with coercive control and domestic abuse by partners to not allow these women to move onto others. Private services and <a href="https://abcnews.go.com/Primetime/LegalCenter/story?id=1625097&page=1">'fixers'</a> specialize in harming women who are partners of these figures. It's abuse of process and intimidation to threaten with death, destruction.
 
 In Amber Heard's counterclaim in August 2020, she points out how her ex-partner joined Instagram and accumulated followers in only 15 minutes which was during his influence operations against her online. At the same time, Adam Waldman, his agent, himself points out "the fastest to 1 million followers in the history of Instagram" in an email to Twitter staff after his suspension. Speed correlates to signaling for bots to be released.
 
 - Sports accounts were not only seen by the cyber intelligence reseacher in April 2021 (Arsenal sports network), but also show in like-bots analysis.  
-- Aside from the "Movie DC Monsters" Network shown on a peak day, entertainment and Hollywood-related liking-bots - with no statuses and only 'likes' - show in Twitter likes-analysis too. 
-- Clustering is a method to find similar topics, banners, and profile images.
+- Aside from the "Movie DC Monsters" Network shown on a peak day, entertainment and Hollywood-related liking-bots - with no statuses and only 'likes' - show in Twitter likes-analysis too. Clustering is a method to find similar topics, banners, and profile images.
 
 Along with the case's circumstances of intimidation, violence, missing people, high wealth of opposition, Hollywood fixers, and suspicious activities, the online world similarly has been made threatening to exploit the <a href="https://datasociety.net/library/data-voids/">Data Void</a>.
 <br><i>"Data voids are not unique to search engines; they occur on social media platforms, too."</i>
