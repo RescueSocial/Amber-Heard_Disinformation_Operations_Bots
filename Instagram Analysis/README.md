@@ -41,7 +41,7 @@ in those dates
 <br>2019-05-16 1
 <br>2019-05-25 1
 
-<b>Hashtag	Count</b>
+<b>Hashtags	Count</b>
 <br>#justiceforjohnnydepp	10244
 <br>#amberheardisanabuser	2032
 <br>#wearewithyoujohnnydepp	805
@@ -138,7 +138,7 @@ message	repeated_times	avg_likes	n_replies
 <b>The comments related to justiceforjohnnydepp mostly only show in 2020 and 2021.</b>
 <br>The commentes were made between 2018-08-03 and  2021-08-19
     <br>  n_comments
-<br>year            
+year            
 <br>2018           2
 <br>2019           7
 <br>2020        4219
@@ -188,7 +188,7 @@ abuser.dates()
 The commentes were made between 2018-08-01 and  2021-08-27
     <br>  n_comments
 <br>year            
-<br>2018           4
+2018           4
 <br>2019          39
 <br>2020         469
 <br>2021         179
