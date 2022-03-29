@@ -98,7 +98,7 @@ in those dates
 <br>48	{'sweet'}	899
 <br>49	{'restorethesnyderverse'}	880
 
-<b>Interestingly, the top hashtag against Amber Heard on Instagram shows Peaks in December 2020, close to the time when YouTube was having extreme peaks from the bots on the "Adapt and Survive" video against her as well as other repeated same texts. Yet, the hashtags pro her ex-partner peaked in November 2020. That shows a strange near month-long delay from the announcement via media of the NGN case against AH, further supporting false interactions.</b>
+<b>Interestingly, the top hashtag against Amber Heard on Instagram shows Peaks in December 2020, close to the time when YouTube was having extreme peaks from the bots on the "Adapt and Survive" video against her as well as other repeated same texts. Yet, the hashtags pro her ex-partner peaked in November 2020. That shows a strange near month-long delay from the announcement via media of the NGN case to post against AH, further supporting false interactions.</b>
 
 #amberheardisanabuser                          432
 
@@ -187,7 +187,6 @@ The commentes were made between 2018-08-01 and  2021-08-27
 
 
 <b>Most Repeated Comments Containing "Fire Amber"</b>
-<br>df = df_fire.groupby(['message']).agg({'id':'count', 'n_likes': 'mean', 'n_replies': 'sum'}).reset_index().rename(columns={'id':'repeated_times', 'n_likes': 'avg_likes'})
 
 df.sort_values('repeated_times', ascending=False).head(25)
 <br>message	repeated_times	avg_likes	n_replies
