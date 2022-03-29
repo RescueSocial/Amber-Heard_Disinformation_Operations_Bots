@@ -126,7 +126,7 @@ Name: message, dtype: int64
 amberheardisanabuser.date_info()
 <br>The commentes were made between 2019-03-13 and  2021-08-18
     <br>  n_comments
-<br>year            
+year            
 <br>2019          10
 <br>2020         354
 <br>2021         127
@@ -139,7 +139,7 @@ message	repeated_times	avg_likes	n_replies
 <br>The commentes were made between 2018-08-03 and  2021-08-19
     <br>  n_comments
 year            
-<br>2018           2
+2018           2
 <br>2019           7
 <br>2020        4219
 <br>2021        1435
