@@ -3,7 +3,7 @@ Instagram - Social Network Analysis on Amber Heard's Case Example from Data Anal
 <br>Instagram: 1,751,113 Comments, 193,967 Posts, 717,311 Accounts (Posts made by 36,137 accounts and 681,174 commented)
 <br>Analyzing Same Texts, Comments, Posts, Accounts Analysis, Timings, Threat Analysis.
 
-<b>We obtained over 1 million comments and over 100,000 posts from Instagram from the #AmberHeard hashtag for mostly 2018-2021.</b>
+<b>We obtained over 1.7 million comments and over 190,000 posts from Instagram from the #AmberHeard hashtag for mostly 2018-2021.</b>
 <br>Overall the texts appeared to be more positive towards Amber Heard, requiring threat/negative texts analysis as on other platforms. We analyze for same texts and delays in peaks against Amber showing lack of correlation with announcements.
 
 <b>Comments on Instagram per year:</b>
