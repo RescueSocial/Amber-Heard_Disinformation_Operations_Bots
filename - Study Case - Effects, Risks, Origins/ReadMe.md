@@ -5,9 +5,9 @@
   Social effects clearly show in these files and should be correlated to the data science. Mitigate the effects in your own case studies. 
 <br>Not only did we do this study thinking we can try to save a life, but we can also use this study to help other victims.
 
-Use this "Study Case - Effects, Risks, Origins" folder to understand how to connect social network analysis, data analysis, and the warning signs of a situation with timelines, suspicious traits, and activities to create cases.
-- Combined with the mathmatical and statistical anomalies, we can connect it to then the traits, origins, and signs of disinformation operations and coercive control.
-- Through this folder, there can be an understanding of how multiple layers and companies are used in the private sector for social media and online, escalating and originating to in-person disinformation/influence operations. Athough online operations are difficult to catch, leads can be found to the predictable human sources.
+Use this "Study Case - Effects, Risks, Origins" folder to understand how to connect social network analysis, data analysis, and the warning signs of a situation with timelines, suspicious traits, and activities to create cases. 
+- Combined with the mathmatical and statistical anomalies, we can connect it to then the traits, origins, and signs of disinformation operations and coercive control. Athough online operations can be difficult to catch, leads can be found to the predictable human sources.
+- Through this folder, there can be an understanding of how multiple layers and companies are used in the private sector for social media and online, escalating and originating to in-person disinformation/influence operations. 
 - We provide this research for further benefit without needing to start from scratch.
 
 Though usually studies on operations with bots are in the public rather than private sector, anyone with enough motive and resources can obtain these technologies to harm someone today. As these services and experiences of harm increase, so do the volumes and capabilities from these operations. 
