@@ -3,8 +3,14 @@ Instagram - Social Network Analysis on Amber Heard's Case Example from Data Anal
 <br>Instagram: 1,751,113 Comments, 193,967 Posts, 717,311 Accounts (Posts made by 36,137 accounts and 681,174 commented)
 <br>Analyzing Same Texts, Comments, Posts, Accounts Analysis, Timings, Threat Analysis.
 
-<b>We obtained over 1 million comments and over 100,000 posts from Instagram from the #AmberHeard hashtag for 2018-2021.</b>
+<b>We obtained over 1 million comments and over 100,000 posts from Instagram from the #AmberHeard hashtag for mostly 2018-2021.</b>
 <br>Overall the texts appeared to be more positive towards Amber Heard, requiring threat/negative texts analysis as on other platforms. We analyze for same texts and delays in peaks against Amber showing lack of correlation with announcements.
+
+<b>Comments on Instagram per year:</b>
+2020 - 711,339 40.6%
+<br>2021 - 478,594 27.3%
+<br>2019 - 333,197 19%
+<br>2018 227,847 13%
 
 ### <b>From Data Investigations File:</b>
 
@@ -219,3 +225,15 @@ df.sort_values('repeated_times', ascending=False).head(25)
 Top Users Commented with "Fire Amber"
 <br>df_fire.username.nunique()
 <br>3588
+
+<b>Comments Created in Each Year on Instagram in AH Dataset:</b>
+year	n_comments
+<br>0	2014	4
+<br>1	2015	1
+<br>2	2016	15
+<br>3	2017	116
+<br>4	2018	227847
+<br>5	2019	333197
+<br>6	2020	711339
+<br>7	2021	478594
+
