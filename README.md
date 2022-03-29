@@ -106,8 +106,8 @@ Scientific Analysis is in-progress across-platforms.
 
 <b>Threat Analysis of "High Risk" Influence:</b><br>
 - Threat analysis and our studies shows the timelines to escalations of risks with keywords, phrases use. With knowledge of social dynamics, it's seen that within the automated simulations caused by the companies and services are percentages of incited people. In examples, within tens of thousands of repeated same texts on YouTube, false interactions on all platforms, and cryptic bot networks are people brought into them to threaten Amber Heard. We show increases of threats and escalations. <a href="https://youtu.be/kTTqIqqqRjA?t=89">(Video Coded Bias: Voting Experiment on Facebook)</a>
-<br>- Other experts saw cyber crime needing flagging for removal by cybersecurity.
-<br>- Clustering analysis with cyber intelligence reveals scientifically operations to cause distress beyond manual searches.
+- Other experts saw cyber crime needing flagging for removal by cybersecurity.
+- Clustering analysis with cyber intelligence reveals scientifically operations to cause distress beyond manual searches.
 <br><i>"Data voids are not unique to search engines; they occur on social media platforms, too."</i>
 <br> Multiple layers of companies, services, are likely. Along with the case's circumstances of intimidation, violence, missing people, high wealth of opposition, <a href="https://abcnews.go.com/Primetime/LegalCenter/story?id=1625097&page=1">Hollywood fixers</a>, and suspicious activities, the online world similarly has been made threatening to exploit the <a href="https://datasociety.net/library/data-voids">Data Void</a>.
 
@@ -122,7 +122,7 @@ Influence Operation of 6,000 Twitter accounts found by BotSentinel: https://yout
 There have been victims of disinformation/influence operations in the Private Sector for decades. Operations can mirror coercive control strategies. This open-source study can be used to help others by creating guides without needing to start from scratch.
 <br>- Folder <i>"<a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/-%20Study%20Case%20-%20Effects%2C%20Risks%2C%20Origins">Study Case - Effects, Risks, Origins</a>"</i> shows dangerous Private Sector operations.<br>
 - Hired Services - New Accounts Layers, Aged Accounts, Created News-Sites:</br>
-go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf<br>
+<a href="https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf">go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf</a><br>
 - Psy-Group's Operations and Bots - www.newyorker.com/magazine/2019/02/18/private-mossad-for-hire<br>
 - Devumi Services and Bots - www.thebureauinvestigates.com/stories/2017-12-07/twitterbots<br>
 - BlackCube vs Actresses - www.newyorker.com/news/news-desk/harvey-weinsteins-army-of-spies<br>
