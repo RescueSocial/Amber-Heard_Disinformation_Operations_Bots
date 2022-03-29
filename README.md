@@ -96,7 +96,7 @@ On GitHub:
 - <i>"Research data can save lives, help develop solutions and maximise our knowledge. Promoting collaboration and cooperation among a global research community is the first step to reduce the burden of wasted research."</i>
 
 <b>Cross-Platforms Analysis:</b><br>
-Scientific Analysis is in-progress across-platforms. 
+Analysis is in-progress across-platforms. 
 
 - <i>Data of 5 months of December 2020 to April 2021 is provided on GitHub for open peer-review and research studies. Full Data for more independent cross-platform analysis is provided in research data repositories.</i>
 - <i>Note:</i> Peaks, Heat Maps of Threats, coordinated bot activities, repeated same texts, and more anomalies show for 2018-2022 continuing, especially February 2020 onward as seen in analysis files.
