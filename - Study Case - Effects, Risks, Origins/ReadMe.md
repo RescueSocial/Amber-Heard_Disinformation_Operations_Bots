@@ -62,7 +62,7 @@ Using <b>'Timeline Comparisons - Events</b>,' it can be seen that the operations
 <br>Try to correlate the intensity of the data and traits to how it changes in-person to be more restrictive, isolated, and difficult.
 
 In Data Science, Social Network Analysis, and Technology/Social Media Companies in general, there is a high burden of evidence. They wanted verifiable data and analysis of high volume, which we obtained. However, there are also the issues of responsibility and the lack of advocacy for Amber Heard's wellbeing online.
-When we're trying to analyze with an in-progress influence operation at the same time, it can be highly stressful and challenging.
+<br>When we're trying to analyze with an in-progress influence operation at the same time, it can be highly stressful and challenging.
   
   
 ### Influence to Stop Reporting, Investigations
