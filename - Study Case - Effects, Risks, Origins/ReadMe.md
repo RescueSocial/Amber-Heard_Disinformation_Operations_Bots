@@ -8,6 +8,7 @@
 Use this "Study Case - Effects, Risks, Origins" folder to understand how to connect social network analysis, data analysis, and the warning signs of a situation with timelines, suspicious traits, and activities to create cases.
 - Combined with the mathmatical and statistical anomalies, we can connect it to then the traits, origins, and signs of disinformation operations and coercive control.
 - Through this folder, there can be an understanding of how multiple layers and companies are used in the private sector for social media and online, escalating and originating to in-person disinformation/influence operations.
+- We provide this research for further benefit without needing to start from scratch.
 
 Though usually studies on bots are in the public rather than private sector, anyone with enough motive and resources can obtain these technologies to harm someone today. As these services and experiences of harm increase, so do the volumes and capabilities from these operations. 
   - See "<a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/-%20Study%20Case%20-%20Effects%2C%20Risks%2C%20Origins/OSINT%20Private%20Sector%20Operation-Origins/-%20Other%20Cases%20Private%20Sector">Other Cases Private Sector</a>" under OSINT Private Sector Operations to see some growing examples of other women, often actresses, models, partners of figures, and socialites due to the similar language and strategies, harmed from online and in-person operations.
@@ -20,7 +21,6 @@ Though usually studies on bots are in the public rather than private sector, any
 <br><i>- It's our interpretation that social media companies need to be encouraged through trusted sources to remove the operations, and that the high volume of abuse, coordination, bots, and influence operations to destroy Amber Heard will never end without connecting cybersecurity, advocacy, data science, 3rd parties, decision-makers, and social network analysis together.  </i>
 
 It needs to be investigated by proper parties and stopped or the crimes will continue to threaten her life, as well as the many other lives these companies and sevices ravage.
-<br>- We provide this research for further benefit without needing to start from scratch.
 
 Far more can be interpreted from these folders and files. We are still researching, looking for reverse engineering of origins.
   - To understand the devestating effect of disinformation/influence operations, see the "<a href="https://www.scribd.com/document/498883211/Amber-Heard-vs-Johnny-Depp-Bots-21st-Century-Story">Amber Heard Book Background Study & Bots Story Case</a>" file to see what she used to represent, her causes, image, humanitarianism, as well as the situation now where you cannot see that anymore, since she's been destroyed and threatened. 
