@@ -20,7 +20,7 @@ Though usually studies on bots are in the public rather than private sector, any
 <br><i>- It's our interpretation that social media companies need to be encouraged through trusted sources to remove the operations, and that the high volume of abuse, coordination, bots, and influence operations to destroy Amber Heard will never end without connecting cybersecurity, advocacy, data science, 3rd parties, decision-makers, and social network analysis together.  </i>
 
 It needs to be investigated by proper parties and stopped or the crimes will continue to threaten her life, as well as the many other lives these companies and sevices ravage.
-<br>We provide this research for further benefit without needing to start from scratch.
+<br>- We provide this research for further benefit without needing to start from scratch.
 
 Far more can be interpreted from these folders and files. We are still researching, looking for reverse engineering of origins.
   - To understand the devestating effect of disinformation/influence operations, see the "<a href="https://www.scribd.com/document/498883211/Amber-Heard-vs-Johnny-Depp-Bots-21st-Century-Story">Amber Heard Book Background Study & Bots Story Case</a>" file to see what she used to represent, her causes, image, humanitarianism, as well as the situation now where you cannot see that anymore, since she's been destroyed and threatened. 
