@@ -122,7 +122,7 @@ Influence Operation of 6,000 Twitter accounts found by BotSentinel: https://yout
 There have been victims of disinformation/influence operations in the Private Sector for decades. Operations can mirror coercive control strategies. This open-source study can be used to help others by creating guides without needing to start from scratch.
 <br>- Folder <i>"<a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/-%20Study%20Case%20-%20Effects%2C%20Risks%2C%20Origins">Study Case - Effects, Risks, Origins</a>"</i> shows dangerous Private Sector operations.<br>
 - Hired Services - New Accounts Layers, Aged Accounts, Created News-Sites:</br>
-<a href="https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf">Study by Recorded Future - go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf</a><br>
+<a href="https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf">go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf</a><br>
 - Psy-Group's Operations and Bots - www.newyorker.com/magazine/2019/02/18/private-mossad-for-hire<br>
 - Devumi Services and Bots - www.thebureauinvestigates.com/stories/2017-12-07/twitterbots<br>
 - BlackCube vs Actresses - www.newyorker.com/news/news-desk/harvey-weinsteins-army-of-spies<br>
