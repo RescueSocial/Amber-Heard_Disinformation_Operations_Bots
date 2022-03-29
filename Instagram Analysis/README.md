@@ -227,7 +227,7 @@ Top Users Commented with "Fire Amber"
 <br>3588
 
 <b>Comments Created in Each Year on Instagram in AH Dataset:</b>
-year	n_comments
+<br>year	n_comments
 <br>0	2014	4
 <br>1	2015	1
 <br>2	2016	15
