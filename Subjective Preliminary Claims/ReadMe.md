@@ -26,7 +26,9 @@ As seen in other case examples e.g., against actresses, models, socialites, and 
 
 In Amber Heard's counterclaim in August 2020, she points out how her ex-partner joined Instagram and accumulated followers in only 15 minutes which was during his influence operations against her online. At the same time, Adam Waldman, his agent, himself points out "the fastest to 1 million followers in the history of Instagram" in an email to Twitter staff after his suspension. Speed correlates to signaling for bots to be released.
 
-- Sports accounts were not only seen by the cyber intelligence reseacher in April 2021 (Arsenal sports network), but also show in like-bots analysis.  Aside from the "Movie DC Monsters" Network shown on a peak day, entertainment and Hollywood-related liking-bots - with no statuses and only 'likes' - show in Twitter likes-analysis too. Clustering is a method to find similar topics, banners, and profile images.
+- Sports accounts were not only seen by the cyber intelligence reseacher in April 2021 (Arsenal sports network), but also show in like-bots analysis.  
+- Aside from the "Movie DC Monsters" Network shown on a peak day, entertainment and Hollywood-related liking-bots - with no statuses and only 'likes' - show in Twitter likes-analysis too. 
+- Clustering is a method to find similar topics, banners, and profile images.
 
 Along with the case's circumstances of intimidation, violence, missing people, high wealth of opposition, Hollywood fixers, and suspicious activities, the online world similarly has been made threatening to exploit the <a href="https://datasociety.net/library/data-voids/">Data Void</a>.
 <br><i>"Data voids are not unique to search engines; they occur on social media platforms, too."</i>
