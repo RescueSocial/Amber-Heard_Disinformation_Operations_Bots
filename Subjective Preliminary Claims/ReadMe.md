@@ -1,14 +1,14 @@
 # Subjective Preliminary Claims
-Shows the risks correlating to in-person, the motivations, and the claims behind the private sector disinformation/influence operations.
-<br>The bigger the challenge, the greater the opportunity.
+Here are claims behind the private sector disinformation/influence operations related to risks online correlating to in-person, the motivations, the high-volume, and the devestation towards Amber Heard. To save a life, and other lives these services can ravage at far lower volume due to less resilience, see attachments, leads, and read the below to understand the modus operendi.
+<br>- The bigger the challenge, the greater the opportunity.
 
 ## Evolving Subjective Interpretations - 
-<b>Connect the <b>Data Science/Social Network Analysis</b> with verifiable accounts, postings and analysis with <b>cybersecurity</b> (wayback machine, domain checking, etc), and cyber intelligence research.
+<b>Connect the <b>Data Science/Social Network Analysis</b> with verifiable accounts, postings and analysis with <b>cybersecurity</b> (wayback machine, domain checking, etc), and cyber intelligence research. Have multiple experts cross-check.
 <br>Social Cyber Security interconnects with the online and in-person worlds of escalations and origins.
-<br>The Social connects with the Technology/Data.</b>
+<br>The Social connects with the Technology and Data.</b>
 
 ### <b>Interpretation:</b> <br>
-It is clear that multiple layers of companies and services are used against Amber Heard. 
+It is clear that multiple layers of companies and services are used against Amber Heard. The modus operendi is clearly presented to us as ethical independent parties.
 
 The main articles we based our studies on were on <a href="https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf">"Disinformation in the Private Sector: The Price of Influence"</a> and Devumi bots - where public figures had millions of false followers and made copies of other people's biographies and personas. 
 <br>In Amber Heard's counterclaim in August 2020, she points out how her ex-partner joined Instagram and accumulated followers in only 15 minutes which was during his influence operations against her online. At the same time, Adam Waldman, his agent, himself points out "the fastest to 1 million followers in the history of Instagram" in an email to Twitter staff after his suspension. Speed correlates to signaling for bots to be released.
@@ -22,14 +22,28 @@ As seen in other case examples e.g., against actresses, models, socialites, and 
 
 These interpretations are largely unseen due to the influence operations of Category 6 - also going to in-person where both sides are influenced against her. 
 <br>Similar to Kate Starbird's video on <a href="https://www.youtube.com/watch?v=498-c_SjArg">"Emerging Technology Speaker Series - Beyond Bots and Trolls - Understanding Disinformation"</a> at Mozzila, the two sides of a issue are manipulated against the victims in influence operations. 
-E.g., commonly the operations against Amber Heard will take on personas of groups that should have actually supported her. It weaponizes these personas against her. E.g., "Hunting Hound's" biography of claiming LGBTQ. Notice that insider threats may claim to be be politically on the left, yet euthanize Amber by stopping the abuse from being stopped through bypassing the 'fixers.'
+<br>Commonly the operations against Amber Heard will take on personas of groups that should have actually supported her. It weaponizes these personas against her. E.g., "Hunting Hound's" biography of claiming LGBTQ. Notice that insider threats may claim to be be politically on the left, yet euthanize Amber by stopping the abuse from being stopped through not letting her leave the 'fixers' or obtain expertise. The political name signing was on the right. 
+<br>Interestingly, an insider threat recommended Ronan Farrow early on. This actually helped our studies significantly to realize about private security firms of ex-agents, what happened to Rose McGowan and other actresses with evidential reporting, but we never talked to him and multiple leads to that person to have technological analysis or investigations was taken, read, and ignored. 
+- Using political ploys is actually to scare and to intimidate, as well as to lock into a space without a solution. There are no political views to our scientists and analysts. We leave this out because it's a trap. In targeting situations, so-called 'movements' created are actually done to mask targeting individuals. Their ultimate goal is to prevent interference to help the victims.
+<br>Amber Heard shows distress on her Facebook page to change the photos around Waldman's actions. Everyone focuses on him, but the data analysis is required to see the layers of services. It's why when writing a preiminary <a href"https://medium.com/@aquaman-bots/how-social-bots-created-an-anti-amber-heard-aquaman-campaign-e68e16637d3a">Medium article</a> comparing the numbers acoss-platforms and basic background in Febuary 2021, a quote is twisted about Winston Churchill to attack Amber instead of to help her. Poptopic au similerly posts about Churchill and claims to be an Australian media-focused site created in 2019. 
+<br>- Moreover, "IntelligenceUK" claims private services to get money and attacks UK Judges. It is bought in 2018, then starts posting in 2020 and its fake site has activity in 2021 after Amber Heard is a successful witness in the NGN UK Case where 12/14 incidents proven mainly through documentation. This matches Recorded Future's study of creating false sites, including to intimidate.
+
+Moreover, to attack anything related to her can be authorized through not only through jealousy to have her never be with other men, but the plan to destroy her humanitarian work - as if anything positive about her related to her ex-partner - as warned through the ex-partner staff leaker (shown here), can be similar to companies and services hired to destroy rivals. 
+<br>Usually operations are not this long, volumnious, or deadly without ever being mitigated or acknowledged. However, we can seee the obsession to destroy victims to force them to recant through coevice control and <a href="https://www.adweek.com/performance-marketing/investigator-barresi-opens-up-on-hollywood/">fixers</a>.
 
 - Operations, including psy-ops, are dangerous. The use of accounts and timings to invoke fear, hopelessness, and isolation are dangerous - see file "online social effects."
 <br> It's imperative the victim doesn't look at the operations, requiring 3rd parties. Think of frequency, target, source.
 
+On top of the operations trying to end her life by sending her into a warp spiral through perspectives, the files here show gender violence which itself is painful to relive over and over. Anything she appears to have represented, or supported, has been destroyed and held against her. E.g., when she was an ambassador for Cyber Civil Rights - page now removed - she stated it was painful to have her images manipulated and exploited, yet everyday, she has to relive that through these operations. 
+<br>We could see early there are bots on Twitter using botscores such as a petshop and Reddit sexualized accounts like 90police posting in seconds. However, imagine this instead further to threatening a life, attacking with mentions any social connection or business to her, and twisting continually. We move further...
+
+It's important to see that this influence is due to her ex-partner targetting her and it's not because of her coming forward. The volume, analysis, skill, and our data is enough to show this.
+
+<br>The <a href-"https://www.newyorker.com/magazine/2019/02/18/private-mossad-for-hire">Psy-Group</a> like operation focuses on usernames for 'likes/upvotes' which are related to her Natural Language/NLP. E.g., Reddit's 3rdPrizeIsYourFired, TruthBeThePrejudice, the-speed-of-pain, correlates to sudden 'likes' on Twitter like to b--respector, badcrippie, among others. The language on multiple platforms is similar. However, groups like a Psy-Group go further to manipulate what people perceive.
+
 
 ## <b>Questions:</b>
-<br>1. What other case studies can you think of similar to this one?
+1. What other case studies can you think of similar to this one?
 <br>2. How can the different layers be analyzed, and unarguably presented? Can you correlate the data, timings of the NLP to multiple types of evidence?
 <br>3. How can the Data Science, Cybersecurity, Private and Public interests remove gaps in stopping these types of operations?
 <br>4. How does the online data and motivations correlate to threats and predictable actions in previous instances from the related individuals?
