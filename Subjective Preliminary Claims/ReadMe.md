@@ -1,6 +1,7 @@
 # Subjective Preliminary Claims
-Here are claims behind the private sector disinformation/influence operations related to risks online correlating to in-person, the motivations, the high-volume, and the devestation towards Amber Heard. To save a life, and other lives these services can ravage at far lower volume due to less resilience, see attachments, leads, and read the below to understand the modus operendi.
-<br>- The bigger the challenge, the greater the opportunity.
+Here are claims behind the private sector disinformation/influence operations related to risks online correlating to in-person, the motivations, the high-volume, and the devestation towards Amber Heard. 
+<br>To save a life, and other lives these services can ravage at far lower volume due to less resilience, see attachments, leads, and read the below to understand the modus operendi.
+<br><i>- The bigger the challenge, the greater the opportunity.</i>
 
 ## Evolving Subjective Interpretations - 
 <b>Connect the <b>Data Science/Social Network Analysis</b> with verifiable accounts, postings and analysis with <b>cybersecurity</b> (wayback machine, domain checking, etc), and cyber intelligence research. Have multiple experts cross-check.
@@ -11,7 +12,8 @@ Here are claims behind the private sector disinformation/influence operations re
 It is clear that multiple layers of companies and services are used against Amber Heard. The modus operendi is clearly presented to us as ethical independent parties.
 
 The main articles we based our studies on were on <a href="https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf">"Disinformation in the Private Sector: The Price of Influence"</a> and Devumi bots - where public figures had millions of false followers and made copies of other people's biographies and personas. 
-<br>In Amber Heard's counterclaim in August 2020, she points out how her ex-partner joined Instagram and accumulated followers in only 15 minutes which was during his influence operations against her online. At the same time, Adam Waldman, his agent, himself points out "the fastest to 1 million followers in the history of Instagram" in an email to Twitter staff after his suspension. Speed correlates to signaling for bots to be released.
+
+In Amber Heard's counterclaim in August 2020, she points out how her ex-partner joined Instagram and accumulated followers in only 15 minutes which was during his influence operations against her online. At the same time, Adam Waldman, his agent, himself points out "the fastest to 1 million followers in the history of Instagram" in an email to Twitter staff after his suspension. Speed correlates to signaling for bots to be released.
 
 Similar to the investigations of money-laundering, seen by <a href="https://iosi.global">IOSI</a>, cyber criminal activities can similarly 'clean' in layers. For example, layers can be used to trivialize, to hide the cyber crime activities. E.g., the use of "Peter Pan" or "Monty Python." These accounts point this out within their chats, and Bot Sentinel also saw "Peter Pan" as well as a political name signing. This correlates with the accuracy known by the additional skilled influence layers. However, there are other companies including for social media community building as seen with the obvious bots and takedowns on YouTube.
 
