@@ -1,6 +1,6 @@
 # Study Case - Effects, Risks, Origins
 
-<b>This folder shows effects, risks, and origins around this independent Public Research Study on the operations harming Amber Heard online. Multiple private companies and services in layers are clearly being used against Amber Heard to this extreme of volume.
+<b>This folder shows effects, risks, and origins around this independent Public Research Study on the operations harming Amber Heard online. Multiple private companies and services in layers are clearly being used against Amber Heard to this extreme of volume.</b>
   
   Social effects clearly show in these files and should be correlated to the data science. Mitigate the effects in your own case studies. 
 <br>Not only did we do this study thinking we can try to save a life, but we can also use this study to help other victims.
