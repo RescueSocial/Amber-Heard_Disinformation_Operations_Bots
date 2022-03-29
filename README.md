@@ -108,8 +108,8 @@ Scientific Analysis is in-progress across-platforms.
 - Threat analysis and our studies shows the timelines to escalations of risks with keywords, phrases use. With knowledge of social dynamics, it's seen that within the automated simulations caused by the companies and services are percentages of incited people. In examples, within tens of thousands of repeated same texts on YouTube, false interactions on all platforms, and cryptic bot networks are people brought into them to threaten Amber Heard. We show increases of threats and escalations. <a href="https://youtu.be/kTTqIqqqRjA?t=89">(Video Coded Bias: Voting Experiment on Facebook)</a>
 <br>- Other experts saw cyber crime needing flagging for removal by cybersecurity.
 <br>- Clustering analysis with cyber intelligence reveals scientifically operations to cause distress beyond manual searches.
-<br> Multiple layers of companies, services, are likely. Along with the case's circumstances of intimidation, violence, missing people, high wealth of opposition, <a href="https://abcnews.go.com/Primetime/LegalCenter/story?id=1625097&page=1">Hollywood fixers</a>, and suspicious activities, the online world similarly has been made threatening to exploit the <a href="https://datasociety.net/library/data-voids">Data Void</a>.
 <br><i>"Data voids are not unique to search engines; they occur on social media platforms, too."</i>
+<br> Multiple layers of companies, services, are likely. Along with the case's circumstances of intimidation, violence, missing people, high wealth of opposition, <a href="https://abcnews.go.com/Primetime/LegalCenter/story?id=1625097&page=1">Hollywood fixers</a>, and suspicious activities, the online world similarly has been made threatening to exploit the <a href="https://datasociety.net/library/data-voids">Data Void</a>.
 
 
 ### <b>Background:</b><br>
@@ -119,18 +119,18 @@ Influence Operation of 6,000 Twitter accounts found by BotSentinel: https://yout
 
 ### <b>Related Articles for Understanding:</b><br> 
 <i>"Disinformation in the Private Sector: The Price of Influence"</i><br>
-There have been victims of disinformation/influence operations in the private sector for decades. Operations can mirror coercive control strategies. Our open-source study can be used to help others by creating guides without needing to start from scratch.
+There have been victims of disinformation/influence operations in the Private Sector for decades. Operations can mirror coercive control strategies. This open-source study can be used to help others by creating guides without needing to start from scratch.
 <br>- Folder <i>"<a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/-%20Study%20Case%20-%20Effects%2C%20Risks%2C%20Origins">Study Case - Effects, Risks, Origins</a>"</i> shows dangerous Private Sector operations.<br>
 - Hired Services - New Accounts Layers, Aged Accounts, Created News-Sites:</br>
-https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf<br>
-- Psy-Group's Operations and Bots - https://www.newyorker.com/magazine/2019/02/18/private-mossad-for-hire<br>
-- Devumi Services and Bots - https://www.thebureauinvestigates.com/stories/2017-12-07/twitterbots<br>
-- BlackCube vs Actresses - https://www.newyorker.com/news/news-desk/harvey-weinsteins-army-of-spies<br>
-- Medium "Bots Created Anti-Amber Heard" Operations - https://medium.com/@aquaman-bots/how-social-bots-created-an-anti-amber-heard-aquaman-campaign-e68e16637d3a<br>
-- Video - Rose McGowan vs BlackCube - https://www.youtube.com/watch?v=tv6ewJQ7L3k<br>
-- Actress Meghan Markle Operations - (1) https://laptrinhx.com/meghan-markle-s-twitter-bot-network-the-whole-thing-is-a-bit-insane-2560404981 (2) https://www.newsweek.com/meghan-markle-troll-accused-posing-black-woman-second-account-suspended-twitter-bot-sentinel-1652271<br>
-- Jessica Reisinger-Raubenolt & Lilia Operations - https://www.tampabay.com/news/crime/2021/08/05/cameron-herrin-went-to-prison-for-a-tampa-crash-were-the-tweets-that-followed-real<br>
-- Amber Heard, Cyrillic Spiders from Mars - https://www.thegeekbuzz.com/the-basement/cyrillic-russian-spiders-from-mars
+go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf<br>
+- Psy-Group's Operations and Bots - www.newyorker.com/magazine/2019/02/18/private-mossad-for-hire<br>
+- Devumi Services and Bots - www.thebureauinvestigates.com/stories/2017-12-07/twitterbots<br>
+- BlackCube vs Actresses - www.newyorker.com/news/news-desk/harvey-weinsteins-army-of-spies<br>
+- Medium "Bots Created Anti-Amber Heard" Operations - medium.com/@aquaman-bots/how-social-bots-created-an-anti-amber-heard-aquaman-campaign-e68e16637d3a<br>
+- Video - Rose McGowan vs BlackCube - www.youtube.com/watch?v=tv6ewJQ7L3k<br>
+- Actress Meghan Markle Operations - (1) laptrinhx.com/meghan-markle-s-twitter-bot-network-the-whole-thing-is-a-bit-insane-2560404981 (2) www.newsweek.com/meghan-markle-troll-accused-posing-black-woman-second-account-suspended-twitter-bot-sentinel-1652271<br>
+- Jessica Reisinger-Raubenolt & Lilia Operations - www.tampabay.com/news/crime/2021/08/05/cameron-herrin-went-to-prison-for-a-tampa-crash-were-the-tweets-that-followed-real<br>
+- Amber Heard, Cyrillic Spiders from Mars - www.thegeekbuzz.com/the-basement/cyrillic-russian-spiders-from-mars
 
 
 ### <b>Scientific Methods:</b>
