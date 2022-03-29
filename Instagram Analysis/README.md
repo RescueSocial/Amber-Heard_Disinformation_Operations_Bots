@@ -7,7 +7,7 @@ Instagram - Social Network Analysis on Amber Heard's Case Example from Data Anal
 <br>Overall the texts appeared to be more positive towards Amber Heard, requiring threat/negative texts analysis as on other platforms. We analyze for same texts and delays in peaks against Amber showing lack of correlation with announcements.
 
 <b>Comments on Instagram per year:</b>
-2020 - 711,339 40.6%
+<br>2020 - 711,339 40.6%
 <br>2021 - 478,594 27.3%
 <br>2019 - 333,197 19%
 <br>2018 227,847 13%
