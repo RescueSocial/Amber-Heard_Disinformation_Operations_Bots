@@ -8,22 +8,25 @@ Shows the risks correlating to in-person, the motivations, and the claims behind
 <br>The Social connects with the Technology/Data.</b>
 
 ### <b>Interpretation:</b> <br>
-It is clear that multiple layers of companies are used against Amber Heard. Similar to the investigations of money-laundering, cyber criminal activities can similarly 'clean' in layers.
-<br>For example, layers can be used to trivialize, to hide the cyber crime activities.
-<br>As seen in other case examples e.g., against actresses, models, socialites, and partners of atheletes, the Natural Language of these operations are similar as are their capabilities of paying hundreds of thousands to millions for these operations against women in these conditions.
+It is clear that multiple layers of companies and services are used against Amber Heard. 
+
+The main articles we based our studies on were on <a href="https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf">"Disinformation in the Private Sector: The Price of Influence"</a> and Devumi bots - where public figures had millions of false followers and made copies of other people's biographies and personas. 
+<br>In Amber Heard's counterclaim in August 2020, she points out how her ex-partner joined Instagram and accumulated followers in only 15 minutes which was during his influence operations against her online. At the same time, Adam Waldman, his agent, himself points out "the fastest to 1 million followers in the history of Instagram" in an email to Twitter staff after his suspension. Speed correlates to signaling for bots to be released.
+
+Similar to the investigations of money-laundering, seen by <a href="https://iosi.global">IOSI</a>, cyber criminal activities can similarly 'clean' in layers. For example, layers can be used to trivialize, to hide the cyber crime activities. E.g., the use of "Peter Pan" or "Monty Python." These accounts point this out within their chats, and Bot Sentinel also saw "Peter Pan" as well as a political name signing. This correlates with the accuracy known by the additional skilled influence layers. However, there are other companies including for social media community building as seen with the obvious bots and takedowns on YouTube.
+
+As seen in other case examples e.g., against actresses, models, socialites, and partners of atheletes, the Natural Language of these operations are similar as are their capabilities of paying hundreds of thousands to millions for these operations against women in these conditions.
 <br>Secondly, it's extreme monitoring with coercive control and domestic abuse by partners to not allow these women to move onto others. Private services and 'fixers' specialize in harming women who are partners of these figures. It's abuse of process and intimidation to threaten with death, destruction. 
 - Sports accounts were not only seen by the cyber intelligence reseacher in April 2021 (Arsenal sports network), but also show in like-bots analysis.  Aside from the "Movie DC Monsters" Network shown on a peak day, entertainment and Hollywood-related liking-bots - with no statuses and only 'likes' - show in Twitter likes-analysis too. Clustering is a method to find similar topics, banners, and profile images.
-- Many accounts, retweets, and amplifications surround threatening Amber Heard with state-actions, which correlates to the distraction of having Adam Waldman hired by John C. Depp II. It is true that these operations are far more volumnious than e.g., against Rose McGowan (thousands of bots), Ashley Morgan Smithline, Brittany Murphy, or Meghan Markle (See folder - Other Case Examples). 
-<br> This could correlate with the accuracy known by the additional skilled influence layers. However, there are other companies including for social media community building as seen with the obvious bots and takedowns on YouTube.
-- These interpretations are largely unseen due to the influence operations of Category 6 - also going to in-person where both sides are influenced against her. 
+- Many accounts, retweets, and amplifications surround threatening Amber Heard with state-actions, which correlates to the distraction of having Adam Waldman hired by John C. Depp II. It is true that these operations are far more volumnious than e.g., against Rose McGowan (thousands of bots), Ashley Morgan Smithline, Brittany Murphy, or Meghan Markle (See folder - Other Case Examples). There are also examples of using other softwares and tampering strategies from Hollywood fixers, e.g, against Nicole Kidman during her separation. 
+
+These interpretations are largely unseen due to the influence operations of Category 6 - also going to in-person where both sides are influenced against her. 
 <br>Similar to Kate Starbird's video on <a href="https://www.youtube.com/watch?v=498-c_SjArg">"Emerging Technology Speaker Series - Beyond Bots and Trolls - Understanding Disinformation"</a> at Mozzila, the two sides of a issue are manipulated against the victims in influence operations. 
-E.g., commonly the operations against Amber Heard will take on personas of groups that should have actually supported her. It weaponizes these personas against her. E.g., "Hunting Hound's" biography of claiming LGBTQ.
+E.g., commonly the operations against Amber Heard will take on personas of groups that should have actually supported her. It weaponizes these personas against her. E.g., "Hunting Hound's" biography of claiming LGBTQ. Notice that insider threats may claim to be be politically on the left, yet euthanize Amber by stopping the abuse from being stopped through bypassing the 'fixers.'
 
 - Operations, including psy-ops, are dangerous. The use of accounts and timings to invoke fear, hopelessness, and isolation are dangerous - see file "online social effects."
 <br> It's imperative the victim doesn't look at the operations, requiring 3rd parties. Think of frequency, target, source.
 
-Along with the case's circumstances of intimidation, violence, missing people, high wealth of opposition, <a href="https://abcnews.go.com/Primetime/LegalCenter/story?id=1625097&page=1">Hollywood fixers</a>, and suspicious activities, the online world similarly has been made threatening to exploit the <a href="https://datasociety.net/library/data-voids/">Data Void</a>.
-<br><i>"Data voids are not unique to search engines; they occur on social media platforms, too."</i>
 
 ## <b>Questions:</b>
 <br>1. What other case studies can you think of similar to this one?
