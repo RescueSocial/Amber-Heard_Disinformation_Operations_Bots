@@ -65,7 +65,7 @@ In Data Science, Social Network Analysis, and Technology/Social Media Companies 
 <br>When we're trying to analyze with an in-progress influence operation at the same time, it can be highly stressful and challenging.
   
   
-### Influence to Stop Reporting, Investigations
+## Influence to Stop Reporting and Investigations:
 Although reporters in early 2020 were looking and interested in interviewing, there was no data analysis or investigations at that point. Secondly, reporters over then the 3-4 years of operations now do not report on Amber Heard or ask her supporters.
 - By moving it online, stopping investigative reporters and forensic new research, using insider threats, and only escalating to send 'fixers' to be interviewed when sensing reporters or media contacts - <a href="https://thegeekbuzz.com/the-basement/johnny-depp-should-walk-away-a-conversation-with-hollywood-fixer-paul-barresi/">which we tested</a> - it moves previously reported operations into a harder space, requiring adaptation. 
   <br>One of our <a href="https://www.newyorker.com/news/news-desk/harvey-weinsteins-army-of-spies">articles</a> shows mainly reporting on in-person agents sent - <i>"The film executive hired private investigators, including ex-Mossad agents, to track actresses and journalists" </i> - without going into the technology thoroughly. 
@@ -75,7 +75,8 @@ Although reporters in early 2020 were looking and interested in interviewing, th
 
 There is a 'Studying Technologies' folder explaining more about how the technology behind this works, and initial (not focused on maliciousness, disinformation) initial social network graph files that are available for anyone.
 
-- It's difficult to be the first to establish a precedence, but it's thrilling too. Can you think of any services currently that stop, prevent, or mitigate these types of situations for profiles similar to this?
+- It's difficult to be the first to establish a precedence, but it's thrilling too. 
+<br>Can you think of any services currently that stop, prevent, or mitigate these types of situations for profiles similar to this?
 
 <b>We did this study independently and had to. With numerous insider threats and the difficulty of studying private sector vs the norms of research, we had to study this globally and with agility. 
 
