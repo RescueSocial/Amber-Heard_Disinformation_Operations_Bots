@@ -1,9 +1,8 @@
 ## SNA-AH-Case-Instagram
-Instagram - Social Network Analysis on Amber Heard's Case Example from Data Analysts, Researchers, and Scientists.
+Instagram - Social Network Analysis on Amber Heard's Case Example from Data Analysts, Researchers, and Scientists. Instagram: 1,751,113 Comments, 193,967 Posts, 717,311 Accounts (Posts made by 36,137 accounts and 681,174 commented)
+<br>Analyzing Same Texts, Comments, Posts, Accounts Analysis, Timings, Threat Analysis.
 
-Same Texts, Comments, Posts, Accounts Analysis, Timings, Threat Analysis.
-
-<b>We obtained over 1 million comments and over 100,000 posts from Instagram from the #AmberHeard hashtag.</b>
+<b>We obtained over 1 million comments and over 100,000 posts from Instagram from the #AmberHeard hashtag for 2018-2021.</b>
 
 ### <b>From Data Investigations File:</b>
 
