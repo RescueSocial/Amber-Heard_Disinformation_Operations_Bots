@@ -10,7 +10,8 @@ Social effects clearly show in these files and should be correlated to the data 
   
  Through this folder, there can be an understanding of how multiple layers and companies are used in the private sector for social media and online, escalating and originating to in-person disinformation/influence operations.
   
-Usually studies on bots are in the public rather than the private sector, but anyone with enough motive and resources can obtain these technologies to harm someone today. As these services and experiences of harm increase, so do the volumes and capabilities from these operations. See "Other Cases Private Sector" under OSINT Private Sector Operations to see some growing examples of other women, often actresses, models, and socialites due to the similar language and strategies, harmed on the internet.
+Usually studies on bots are in the public rather than the private sector, but anyone with enough motive and resources can obtain these technologies to harm someone today. As these services and experiences of harm increase, so do the volumes and capabilities from these operations. 
+  <br>See "Other Cases Private Sector" under OSINT Private Sector Operations to see some growing examples of other women, often actresses, models, and socialites due to the similar language and strategies, harmed on the internet.
   
   Notice initial files on <a href="https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf">Private Sector Disinformation Operations</a> from Recorded Future and <a href="https://gadgets360.com/social-networking/news/devumi-a-firm-that-sells-fake-twitter-followers-to-be-probed-by-new-york-attorney-general-1805985">Devumi</a> bots - where public figures had millions of false followers.
   
