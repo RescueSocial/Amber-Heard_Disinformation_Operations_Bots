@@ -26,7 +26,7 @@ It needs to be investigated by proper parties and stopped or the crimes will con
 
 Far more can be interpreted from these folders and files. We are still researching, looking for reverse engineering of origins.
   - To understand the devestating effect of disinformation/influence operations, see the "<a href="https://www.scribd.com/document/498883211/Amber-Heard-vs-Johnny-Depp-Bots-21st-Century-Story">Amber Heard Book Background Study & Bots Story Case</a>" file to see what she used to represent, her causes, image, humanitarianism, as well as the situation now where you cannot see that anymore, since she's been destroyed and threatened. 
-<br>Note - The description of the summary changes due to trying to confront, investigate, and interfere with the influence operation 2020/2021 onward.
+<br>- <i>Note - The description of the summary changes due to trying to confront, investigate, and interfere with the influence operation 2020/2021 onward.</i>
 
 This case example and study can be used with its texts for other studies on disinformation/influence, bots, domestic abuse, and private sector operations against women and those around them, often including their partners, businesses, nonprofits, and acquaintances. 
   
