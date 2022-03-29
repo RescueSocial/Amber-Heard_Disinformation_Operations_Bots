@@ -43,7 +43,7 @@ On top of the operations trying to end her life by sending her into a warp spira
 
 It's important to see that this influence is due to her ex-partner targetting her and it's not because of her coming forward. The volume, analysis, skill, and our data is enough to show this.
 
-<br>The <a href-"https://www.newyorker.com/magazine/2019/02/18/private-mossad-for-hire">Psy-Group</a> like operation focuses on usernames for 'likes/upvotes' which are related to her Natural Language/NLP. E.g., Reddit's 3rdPrizeIsYourFired, TruthBeThePrejudice, the-speed-of-pain, correlates to sudden 'likes' on Twitter like to b--respector, badcrippie, among others. The language on multiple platforms is similar. However, groups like a Psy-Group go further to manipulate what people perceive.
+<br>The <a href="https://www.newyorker.com/magazine/2019/02/18/private-mossad-for-hire">Psy-Group</a> like operation focuses on usernames for 'likes/upvotes' which are related to her Natural Language/NLP. E.g., Reddit's 3rdPrizeIsYourFired, TruthBeThePrejudice, the-speed-of-pain, correlates to sudden 'likes' on Twitter like to b--respector, badcrippie, among others. The language on multiple platforms is similar. However, groups like a Psy-Group go further to manipulate what people perceive.
 
 
 ## <b>Questions:</b>
