@@ -4,7 +4,7 @@ Here are claims behind the private sector disinformation/influence operations re
 <br>These interpretations are largely unseen due to the influence operations of Category 6 - also going to in-person where both sides are influenced against her. 
 <br><i>- The bigger the challenge, the greater the opportunity.</i>
 
-### Private Sector:
+## Private Sector:
 Multiple private companies and services in layers are clearly being used against Amber Heard to this extreme of volume.
 The motivations behind these operations often come from the coercive control to take down these women, their witnesses, and their support for decades, only now moved mostly online to avoid data analysis and oversight. The higher skill, natural language, and volume stems from the amounts of funds, specialties, and layers of companies used.
 - E.g., attacking the partners of these figures has been happening for decades, e.g, with 'fixers,' but not publicly researched before. It truly requires gamifying and deflecting with your own data, analysis, intelligence, and power. It can ruin, destroy, and destruct.
@@ -16,7 +16,7 @@ The motivations behind these operations often come from the coercive control to 
 - Social Cyber Security interconnects with the online and in-person worlds of escalations and origins.
 - Social connects with the Technology and Data.</b>
 
-### <b>Interpretation:</b> <br>
+#### <b>Interpretation:</b> <br>
 It is clear that multiple layers of companies and services are used against Amber Heard. The modus operendi is clearly presented to us as ethical independent parties.
 
 The main articles we based our studies on were on <a href="https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf">"Disinformation in the Private Sector: The Price of Influence"</a> and Devumi bots - where public figures had millions of false followers and made copies of other people's biographies and personas. 
@@ -27,30 +27,29 @@ As seen in other case examples e.g., against actresses, models, socialites, and 
 In Amber Heard's counterclaim in August 2020, she points out how her ex-partner joined Instagram and accumulated followers in only 15 minutes which was during his influence operations against her online. At the same time, Adam Waldman, his agent, himself points out "the fastest to 1 million followers in the history of Instagram" in an email to Twitter staff after his suspension. Speed correlates to signaling for bots to be released.
 
 - Sports accounts were not only seen by the cyber intelligence reseacher in April 2021 (Arsenal sports network), but also show in like-bots analysis.  Aside from the "Movie DC Monsters" Network shown on a peak day, entertainment and Hollywood-related liking-bots - with no statuses and only 'likes' - show in Twitter likes-analysis too. Clustering is a method to find similar topics, banners, and profile images.
-- Using 'Timeline Comparisons - Events,' it can be seen that the operations online do not correlate correctly to events, that the data continues despite in-person activities, with the exception that threat analysis clearly shows correlation. There is abuse of process with the courtcases and some leaks.
-Try to correlate the intensity of the data and traits to how it changes in-person to be more restrictive, isolated, and difficult.
 
 Along with the case's circumstances of intimidation, violence, missing people, high wealth of opposition, Hollywood fixers, and suspicious activities, the online world similarly has been made threatening to exploit the <a href="https://datasociety.net/library/data-voids/">Data Void</a>.
 <br><i>"Data voids are not unique to search engines; they occur on social media platforms, too."</i>
 
 Moreover, to attack anything related to her can be authorized through not only through jealousy to have her never be with other men, but the plan to destroy her humanitarian work - as if anything positive about her is related to her ex-partner - as warned through the ex-partner staff leaker (shown in files here), can be similar to companies and services hired to destroy rivals. 
 - Usually operations are not this long, volumnious, or deadly without ever being mitigated or acknowledged. However, we can seee the obsession to destroy victims to force them to recant through coevice control and <a href="https://www.adweek.com/performance-marketing/investigator-barresi-opens-up-on-hollywood/">fixers</a>.
+- Using 'Timeline Comparisons - Events,' it can be seen that the operations online do not correlate correctly to events, that the data continues despite in-person activities, with the exception that threat analysis clearly shows correlation. There is abuse of process with the courtcases and some leaks.
+Try to correlate the intensity of the data and traits to how it changes in-person to be more restrictive, isolated, and difficult.
 
 
-### Hiding Cyber Crime:
+### Hiding Cyber Crime in Private Sector:
 Similar to the investigations of money-laundering, seen by <a href="https://iosi.global">IOSI</a>, cyber criminal activities can similarly 'clean' in layers. For example, layers can be used to trivialize, to hide the cyber crime activities. E.g., the use of "Peter Pan" or "Monty Python." These accounts point this out within their chats, and Bot Sentinel also saw "Peter Pan" as well as a political name signing. This correlates with the accuracy known by the additional skilled influence layers. However, there are other companies including for social media community building as seen with the obvious bots and takedowns on YouTube.
  
 - Many accounts, retweets, and amplifications surround threatening Amber Heard with state-actions, which correlates to the distraction of having Adam Waldman hired by John C. Depp II. It is true that these operations are far more volumnious than e.g., against Rose McGowan (thousands of bots), Ashley Morgan Smithline, Brittany Murphy, or Meghan Markle (See folder - Other Case Examples). There are also examples of using other softwares and tampering strategies from Hollywood fixers, e.g, against Nicole Kidman during her separation. 
 
 In Data Science, Social Network Analysis, and Technology/Social Media Companies in general, there is a high burden of evidence. They wanted verifiable data and analysis of high volume, which we obtained. However, there are also the issues of responsibility and the lack of advocacy for Amber Heard's wellbeing online. When we're trying to analyze with an in-progress influence operation at the same time, it can be highly stressful and challenging.
 
-### Disinformation/Influence Operations weaponize multiple sides:
+#### Disinformation/Influence Operations weaponize sides - Tracking suspicious traits, intimidation, effects:
 Similar to Kate Starbird's video on <a href="https://www.youtube.com/watch?v=498-c_SjArg">"Emerging Technology Speaker Series - Beyond Bots and Trolls - Understanding Disinformation"</a> at Mozzila, the two sides of a issue are manipulated against the victims in influence operations. 
 <br>Commonly the operations against Amber Heard will take on personas of groups that should have actually supported her. It weaponizes these personas against her. E.g., "Hunting Hound's" biography of claiming LGBTQ. Notice that insider threats may claim to be be politically on the left, yet euthanize Amber by stopping the abuse from being stopped through not letting her leave the 'fixers' or obtain expertise. The political name signing was on the right. 
 - Using political ploys is actually to scare and to intimidate, as well as to lock into a space without a solution. There are no political views to our scientists and analysts. We leave this out because it's a trap. In targeting situations, so-called 'movements' created are actually done to mask targeting individuals. Their ultimate goal is to prevent interference to help the victims.
 - Interestingly, an insider threat recommended Ronan Farrow early on. This actually helped our studies significantly to realize about private security firms of ex-agents, what happened to Rose McGowan and other actresses with evidential reporting, but we never talked to him and multiple leads to that person to have technological analysis or investigations was taken, read, and ignored. 
 
-### Tracking suspicious traits, intimidation, effects:
 Amber Heard shows distress on her Facebook page to change the photos around Waldman's actions. Everyone focuses on him, but the data analysis is required to see the layers of services. It's why when writing a preiminary <a href="https://medium.com/@aquaman-bots/how-social-bots-created-an-anti-amber-heard-aquaman-campaign-e68e16637d3a">Medium article</a> comparing the numbers acoss-platforms and basic background in Febuary 2021, a quote is twisted about Winston Churchill to attack Amber instead of to help her. Poptopic au similerly posts about Churchill and claims to be an Australian media-focused site created in 2019. 
 - Moreover, "IntelligenceUK" claims private services to get money and attacks UK Judges. It is bought in 2018, then starts posting in 2020 and its fake site has activity in 2021 after Amber Heard is a successful witness in the NGN UK Case where 12/14 incidents proven mainly through documentation. This matches Recorded Future's study of creating false sites, including to intimidate.
 
