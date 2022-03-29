@@ -30,8 +30,6 @@ In Amber Heard's counterclaim in August 2020, she points out how her ex-partner 
 - Using 'Timeline Comparisons - Events,' it can be seen that the operations online do not correlate correctly to events, that the data continues despite in-person activities, with the exception that threat analysis clearly shows correlation. There is abuse of process with the courtcases and some leaks.
 Try to correlate the intensity of the data and traits to how it changes in-person to be more restrictive, isolated, and difficult.
 
-In Data Science, Social Network Analysis, and Technology/Social Media Companies in general, there is a high burden of evidence. They wanted verifiable data and analysis of high volume, which we obtained. However, there are also the issues of responsibility and the lack of advocacy for Amber Heard's wellbeing online. When we're trying to analyze with an in-progress influence operation at the same time, it can be highly stressful and challenging.
-
 Along with the case's circumstances of intimidation, violence, missing people, high wealth of opposition, Hollywood fixers, and suspicious activities, the online world similarly has been made threatening to exploit the <a href="https://datasociety.net/library/data-voids/">Data Void</a>.
 <br><i>"Data voids are not unique to search engines; they occur on social media platforms, too."</i>
 
@@ -43,6 +41,8 @@ Moreover, to attack anything related to her can be authorized through not only t
 Similar to the investigations of money-laundering, seen by <a href="https://iosi.global">IOSI</a>, cyber criminal activities can similarly 'clean' in layers. For example, layers can be used to trivialize, to hide the cyber crime activities. E.g., the use of "Peter Pan" or "Monty Python." These accounts point this out within their chats, and Bot Sentinel also saw "Peter Pan" as well as a political name signing. This correlates with the accuracy known by the additional skilled influence layers. However, there are other companies including for social media community building as seen with the obvious bots and takedowns on YouTube.
  
 - Many accounts, retweets, and amplifications surround threatening Amber Heard with state-actions, which correlates to the distraction of having Adam Waldman hired by John C. Depp II. It is true that these operations are far more volumnious than e.g., against Rose McGowan (thousands of bots), Ashley Morgan Smithline, Brittany Murphy, or Meghan Markle (See folder - Other Case Examples). There are also examples of using other softwares and tampering strategies from Hollywood fixers, e.g, against Nicole Kidman during her separation. 
+
+In Data Science, Social Network Analysis, and Technology/Social Media Companies in general, there is a high burden of evidence. They wanted verifiable data and analysis of high volume, which we obtained. However, there are also the issues of responsibility and the lack of advocacy for Amber Heard's wellbeing online. When we're trying to analyze with an in-progress influence operation at the same time, it can be highly stressful and challenging.
 
 ### Disinformation/Influence Operations weaponize multiple sides:
 Similar to Kate Starbird's video on <a href="https://www.youtube.com/watch?v=498-c_SjArg">"Emerging Technology Speaker Series - Beyond Bots and Trolls - Understanding Disinformation"</a> at Mozzila, the two sides of a issue are manipulated against the victims in influence operations. 
