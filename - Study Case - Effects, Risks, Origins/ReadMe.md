@@ -63,7 +63,9 @@ Using <b>'Timeline Comparisons - Events</b>,' it can be seen that the operations
 
 In Data Science, Social Network Analysis, and Technology/Social Media Companies in general, there is a high burden of evidence. They wanted verifiable data and analysis of high volume, which we obtained. However, there are also the issues of responsibility and the lack of advocacy for Amber Heard's wellbeing online.
 When we're trying to analyze with an in-progress influence operation at the same time, it can be highly stressful and challenging.
-
+  
+  
+### Influence to Stop Reporting, Investigations
 Although reporters in early 2020 were looking and interested in interviewing, there was no data analysis or investigations at that point. Secondly, reporters over then the 3-4 years of operations now do not report on Amber Heard or ask her supporters.
 - By moving it online, stopping investigative reporters and forensic new research, using insider threats, and only escalating to send 'fixers' to be interviewed when sensing reporters or media contacts - <a href="https://thegeekbuzz.com/the-basement/johnny-depp-should-walk-away-a-conversation-with-hollywood-fixer-paul-barresi/">which we tested</a> - it moves previously reported operations into a harder space, requiring adaptation. 
   <br>One of our <a href="https://www.newyorker.com/news/news-desk/harvey-weinsteins-army-of-spies">articles</a> shows mainly reporting on in-person agents sent - <i>"The film executive hired private investigators, including ex-Mossad agents, to track actresses and journalists" </i> - without going into the technology thoroughly. 
