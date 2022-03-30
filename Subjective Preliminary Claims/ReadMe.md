@@ -1,6 +1,6 @@
 # Subjective Preliminary Claims
 <b>Here are claims behind the private sector disinformation/influence operations related to risks online correlating to in-person, the motivations, the high-volume, and the devestation towards Amber Heard. 
-<br>To save a life, and other lives these services can ravage at far lower volume due to less resilience, see attachments, leads, and read the below to understand the modus operendi. 
+- To save a life, and other lives these services can ravage at far lower volume due to less resilience, see attachments, leads, and read the below to understand the modus operendi. 
 <br>These interpretations are largely unseen due to the influence operations of Category 6 - also going to in-person where both sides are influenced against her. </b>
 <br><i>- The bigger the challenge, the greater the opportunity.</i>
 
