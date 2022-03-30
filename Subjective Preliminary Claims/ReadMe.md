@@ -16,7 +16,7 @@ The motivations behind these operations often come from the coercive control to 
 - Social Cyber Security interconnects with the online and in-person worlds of escalations and origins.
 - Social connects with the Technology and Data.</b>
 
-#### <b>Interpretation:</b> <br>
+### <b>Interpretations:</b> <br>
 It is clear that multiple layers of companies and services are used against Amber Heard. The modus operendi is clearly presented to us as ethical independent parties.
 
 The main articles we based our studies on were on <a href="https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf">"Disinformation in the Private Sector: The Price of Influence"</a> and Devumi bots - where public figures had millions of false followers and made copies of other people's biographies and personas. 
