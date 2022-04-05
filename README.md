@@ -94,6 +94,7 @@ On GitHub:
 <br>This Independent Study is open for Public Research, scientific learning, and archiving.
 <br>Full Data is on <a href="https://drive.google.com/drive/folders/1GjKdNpsJSBIX9MsQgKq2FGTArDVEYFFI?usp=sharing">Google</a>, <a href="https://www.kaggle.com/amberhearddata/datasets">Kaggle</a>, Archives, and research data repositories.
 - <i>"Research data can save lives, help develop solutions and maximise our knowledge. Promoting collaboration and cooperation among a global research community is the first step to reduce the burden of wasted research."</i>
+- <br>"When researchers make their data public, they increase transparency and trust in their work, they enable others to reproduce and validate their findings, and ultimately, contribute to the pace of scientific discovery by allowing others to reuse and build on top of their data."</i>
 
 <b>Cross-Platforms Analysis:</b><br>
 Analysis is in-progress across-platforms. 
@@ -109,7 +110,7 @@ Analysis is in-progress across-platforms.
 - Other experts saw cyber crime needing flagging for removal by cybersecurity.
 - Clustering analysis with cyber intelligence reveals scientifically operations to cause distress beyond manual searches.
 <br><i>"Data voids are not unique to search engines; they occur on social media platforms, too."</i>
-<br> Multiple layers of companies, services, are likely. Along with the case's circumstances of intimidation, violence, missing people, high wealth of opposition, <a href="https://abcnews.go.com/Primetime/LegalCenter/story?id=1625097&page=1">Hollywood fixers</a>, and suspicious activities, the online world similarly has been made threatening to exploit the <a href="https://datasociety.net/library/data-voids">Data Void</a>.
+<br> Multiple layers of companies, services, are likely. Along with the case's circumstances of intimidation, domestic violence, missing people, high wealth of opposition, <a href="https://abcnews.go.com/Primetime/LegalCenter/story?id=1625097&page=1">Hollywood fixers</a>, and suspicious activities, the online world similarly has been made threatening to exploit the <a href="https://datasociety.net/library/data-voids">Data Void</a>.
 
 
 ### <b>Background:</b><br>
@@ -148,8 +149,6 @@ Worldwide Data Scientists, Researchers in Cyber Intelligence, PhDs, Data Analyst
 Objective	Tactical (short-term):	situational assessment	- situation awareness<br>
 Strategic (long-term):	sensemaking -	understanding<br>
 Scientific (longer-term):	analysis	- prediction<br></i>
-- <i><a href="https://www.teamscopeapp.com/blog/6-repositories-to-share-your-research-data">Public Research:</a>
-<br>"When researchers make their data public, they increase transparency and trust in their work, they enable others to reproduce and validate their findings, and ultimately, contribute to the pace of scientific discovery by allowing others to reuse and build on top of their data."</i>
 
 ### <b>Researchers:</b>
 <b>We welcome Researchers to work with this Data on Amber Heard to create Blueprints on how Bots and Disinformation/Influence Operations work. </b>
