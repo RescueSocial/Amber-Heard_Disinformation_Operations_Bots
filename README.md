@@ -160,6 +160,6 @@ Scientific (longer-term):	analysis	- prediction<br></i>
 
 ### <b>Citing Research Project:</b><br>
 If interested in citing our research project in your studies, publication, journal, database, or article, please provide a link to this GitHub repository with its title and contact us for collaboration.
-<br>Please ask to collaborate with us or ask us questions on our Q&A, rescuesocial@gmail.com, <a href="https://www.linkedin.com/company/rescuesocial/">LinkedIn</a>, or contacting us individually.<br>
+<br>- Please ask to collaborate with us or ask us questions on our Q&A, rescuesocial@gmail.com, <a href="https://www.linkedin.com/company/rescuesocial/">LinkedIn</a>, or contacting us individually.<br>
 
 <i>Researchers ethically did this study independently with hopes to save a life and to create knowledge that can help others who need protections from operations, abuse, violence, and bots. We encourage you to build upon our studies and analysis for your own projects.</i>
