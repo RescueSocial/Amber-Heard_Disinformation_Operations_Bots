@@ -62,7 +62,7 @@ Compliments Generation on Amber Heard based on Jason Momoa<br>
 - <a href="https://github.com/semiosis">Semiosis</a> is a free and open-source curation of prompts for OpenAI's GPT-3/Codex, EleutherAI's GPT-j, AlephAlpha's World Model and other language models.<br>
 
 ### <b>Collaboration:</b> 
-If you're a researcher, social enterprise, organization, student, or academic helping female victims of abuse, coercive control, domestic abuse, bots, operations, violence, harassment, or hostile environments - we welcome partnership with you. 
+If you're a researcher, social enterprise, organization, student, or academic helping female victims of abuse, coercive control, domestic abuse, bots, operations, violence, harassment, or hostile environments - we welcome collaboration. 
 <br>Our studies and data can be used for Social Network Analysis, Data Analysis, machine learning, Natural Language Processing, artificial intelligence, Data Science labeling, anti-abuse, rescue projects, anti-crime, timelines, OSINT, simulations, and monitoring systems to help other victims and their lives. 
 <br><br>Since this data is high volume about domestic abuse and gender, with an actress and film industry element, it's highly relevant for classification and data science projects on those topics.
 <br><i>Please contact us for collaboration or if with questions on obtaining more data and code.</i>
