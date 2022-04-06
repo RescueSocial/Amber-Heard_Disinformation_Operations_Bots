@@ -86,10 +86,12 @@ The article on <a href="https://www.newyorker.com/magazine/2019/02/18/private-mo
 - Second, political ploys are used to scare and to intimidate, as well as to lock into a space without a solution. There are no political views to our scientists and analysts. We leave this out because it's a trap. In targeting situations, so-called 'movements' created are actually done to mask targeting individuals. Their ultimate goal is to prevent interference to help the victims. 
 <br><i>However, in August 2021 at the early stages there were risks explained by Project Vigilant working on the backend about the Select Committte and Adam Waldman was flagged by them. Months after we see strange activities that possiby pointed to backend federal investigations. The previous year, it's possible about a lawyer of Dan Scavino's ex wife and L'Oreal meeting a team member in New York. Regardless, this is a Private Sector issue. Overall, it was a very unsafe channel, but worth the risk to find evidence.</i>
 
+### <b>Technology/AI is Easier on Public Figures</b>
+
 Bots can be used without APIs, but with layers of companies and services, it's likely both, similar to Devumi e.g. Since Amber Heard is a public figure, it's <a href="https://semiosis.github.io/apostrophe/">shown by a top Artificial Intelligence Researcher</a> that it's easier to create language on her than less-known people. What's webscraped online for the language models is stored. This would make it easier along with the decades of history already to attack her with skill and precision. There is a higher volume, and essentially, personas of figures can be chosen for the botchats. E.g., through Davinci codex, GPT-3, etc. 
 - A Cambridge Analytica reporter was tipped early on, but from the perspective of the tech industry after 6 years of learning especially from this project, the social media companies actually should be very eager to stop this cyber crime and remove it from their systems if properly channeled. Notice - Cambridge emphasized APIs which aren't required.
 
-As technology researchers interested in ethics and social effects of tech, we do want this to be an example for positive change instead of destruction. It needs to be investigated and mitigated.
+<b>As technology researchers interested in ethics and social effects of tech, we do want this to be an example for positive change instead of destruction. It needs to be investigated and mitigated.</b>
 
 
 ## <b>Questions:</b>
