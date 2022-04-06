@@ -13,12 +13,12 @@ Use this "Study Case - Effects, Risks, Origins" folder to understand how to conn
 Anyone with enough motive and resources can obtain these technologies to harm someone today, even though usually studies on operations with bots are in the public rather than private sector. As these services and experiences of harm increase, so do the volumes and capabilities from these operations. 
   - See "<a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/-%20Study%20Case%20-%20Effects%2C%20Risks%2C%20Origins/OSINT%20Private%20Sector%20Operation-Origins/-%20Other%20Cases%20Private%20Sector">Other Cases Private Sector</a>" under OSINT Private Sector Operations to see some growing examples of other women, often actresses, models, partners of figures, and socialites due to the similar language, high motives, and strategies, harmed from online and in-person operations.
   - Notice initial files on <a href="https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf">Private Sector Disinformation Operations</a> from Recorded Future and <a href="https://gadgets360.com/social-networking/news/devumi-a-firm-that-sells-fake-twitter-followers-to-be-probed-by-new-york-attorney-general-1805985">Devumi</a> bots - where public figures had millions of false followers.
-  
-  We circle back to this after our analysis of 6 social media platforms, of which demonstrate bot activities and high threats. We further left this out until more completion due to the issues that could have harmed the data scientists doing their work.
-<br>- However, we provided <a href="https://www.newyorker.com/news/news-desk/harvey-weinsteins-army-of-spies">articles</a> for understanding for the researchers to see the importance of studying a real-life case example. 
 
  It's automated, and 2021 to present was high volume as well, effectively destroying Amber Heard. The <a href="https://datasociety.net/library/data-voids/">Data Void</a> on her was exploited, where there were comparatively low amounts of data about her until these operations, effectively flooding it. 
 <br><i>- It's our interpretation that social media companies need to be encouraged through trusted sources to remove the operations, and that the high volume of abuse, coordination, bots, and influence operations to destroy Amber Heard will never end without connecting cybersecurity, advocacy, data science, 3rd parties, decision-makers, and social network analysis together.  </i>
+  
+    We circle back to this after our analysis of 6 social media platforms, of which demonstrate bot activities and high threats. We further left this out until more completion due to the issues that could have harmed the data scientists doing their work.
+<br>- However, we provided <a href="https://www.newyorker.com/news/news-desk/harvey-weinsteins-army-of-spies">articles</a> for understanding for the researchers to see the importance of studying a real-life case example. 
 
 It needs to be investigated by proper parties and stopped or the crimes will continue to threaten her life, as well as the many other lives these companies and sevices ravage.
 
@@ -77,6 +77,7 @@ There is a 'Studying Technologies' folder explaining more about how the technolo
 
 - It's difficult to be the first to establish a precedence, but it's thrilling too. 
 <br>Can you think of any services currently that stop, prevent, or mitigate these types of situations for profiles similar to this?
+  
 
 <b>We did this study independently and had to. With numerous insider threats and the difficulty of studying private sector vs the norms of research, we had to study this globally and with agility. 
 
