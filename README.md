@@ -106,11 +106,12 @@ Analysis is in-progress across-platforms.
 <i>The Academic API was used for Retweets and <a href="https://InformationTracer.com">InformationTracer</a> for CrowdTangle API.</i><br>
 
 <b>Threat Analysis of "High Risk" Influence:</b><br>
-- Threat analysis and our studies shows the timelines to escalations of risks with keywords, phrases use. Hundreds of thousands of threatening texts exist against Amber Heard on the 6 platforms. With knowledge of social dynamics, within automated simulations caused by companies and services are percentages of incited people. In examples, within tens of thousands of repeated same texts on YouTube, false interactions on all platforms, and cryptic bot networks are people brought into them to threaten Amber Heard. We show increases of threats and escalations.  <a href="https://youtu.be/kTTqIqqqRjA?t=89">(Video Coded Bias: Voting Experiment on Social Media)</a>
+- Threat analysis and our studies shows the timelines to escalations of risks with keywords, phrases use. Hundreds of thousands of threatening texts exist against Amber Heard on the 6 platforms. With knowledge of social dynamics, within automated simulations caused by companies and services are percentages of incited people. In examples, within tens of thousands of repeated same texts on YouTube, false interactions on all platforms, and cryptic bot networks are people brought into them to threaten Amber Heard. We show increases of threats and escalations. 
 - Experts saw cyber crime needing flagging for removal by cybersecurity.
 - Clustering analysis with cyber intelligence reveals scientifically operations to cause distress beyond searching manually.
 <br><i>"Data voids are not unique to search engines; they occur on social media platforms, too."</i>
 <br> Multiple layers of companies, services, are likely. Along with the case's circumstances of intimidation, violence, missing people, high wealth of opposition, <a href="https://abcnews.go.com/Primetime/LegalCenter/story?id=1625097&page=1">Hollywood fixers</a>, and suspicious activities, the online world similarly has been made threatening to exploit the <a href="https://datasociety.net/library/data-voids">Data Void</a>.
+<br><a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/Subjective%20Preliminary%20Claims">Subjective Preliminary Claims</a> tries to source explanations.
 
 
 ### <b>Background:</b><br>
