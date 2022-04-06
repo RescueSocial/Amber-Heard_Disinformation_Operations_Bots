@@ -5,6 +5,7 @@
 <br><i>- The bigger the challenge, the greater the opportunity.</i>
 
 These are other risks, origins, and requires cross-confirmations. By researching and providing community aid when there's an operation or abuse of coercive control in-progress, you could save a life. Here are the layers underneath where an operation comes from...
+<br>There are more Subjective Claims from our study going beyond in-person violence to the online operations.
 
 ## Private Sector:
 Multiple private companies and services in layers are clearly being used against Amber Heard to this extreme of volume.
