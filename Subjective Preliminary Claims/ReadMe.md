@@ -5,7 +5,7 @@
 <br><i>- The bigger the challenge, the greater the opportunity.</i>
 
 These are other risks, origins, and requires cross-confirmations. By researching and providing community aid when there's an operation or abuse of coercive control in-progress, you could save a life. Here are the layers underneath where an operation comes from...
-- Here are backend Claims from our study going beyond in-person violence to the online operations - including the motive of a license to kill her with them. When reporters fail to investigate for the victim (as in this high-profile operation) which fails to escalate operations to in-person, here's the coercive control of why...
+- Here are backend Claims from our study going beyond in-person violence to the online operations - including the motive to kill her with them. When reporters fail to investigate for the victim (as in this high-profile operation) which fails to escalate operations to in-person, here's the coercive control of why...
 - <i>Often finding the sources and origins is looking for where the suspicious activities and parties 'slip up' in their predictability. A main issue is lacking experts to collect obvious and public data without extortion.</i>
 
 ## Private Sector:
@@ -26,7 +26,7 @@ It is clear that multiple layers of companies and services are used against Ambe
 The main articles we based our studies on were on <a href="https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf">"Disinformation in the Private Sector: The Price of Influence"</a> and Devumi bots - where public figures had millions of false followers and made copies of other people's biographies and personas. 
 
 As seen in other case examples e.g., against actresses, models, socialites, and partners of atheletes, the Natural Language of these operations are similar as are their capabilities of paying hundreds of thousands to millions for these operations against women in these conditions.
-<br>Secondly, it's extreme monitoring with coercive control and domestic abuse by partners to not allow these women to move onto others. Private services and <a href="https://abcnews.go.com/Primetime/LegalCenter/story?id=1625097&page=1">'fixers'</a> specialize in harming women who are partners of these figures. It's abuse of process and intimidation to threaten with death, destruction.
+<br>- Secondly, it's extreme monitoring with coercive control and domestic abuse by partners to not allow these women to move onto others. Private services and <a href="https://abcnews.go.com/Primetime/LegalCenter/story?id=1625097&page=1">'fixers'</a> specialize in harming women who are partners of these figures. It's abuse of process and intimidation to threaten with death, destruction.
 
 In Amber Heard's counterclaim in August 2020, she points out how her ex-partner joined Instagram and accumulated followers in only 15 minutes which was during his influence operations against her online. At the same time, Adam Waldman, one of his workers, himself points out <b>"the fastest to 1 million followers in the history of Instagram"</b> in an email to Twitter staff after his suspension. Speed correlates to signaling for bots to be released.
 
