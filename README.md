@@ -82,7 +82,7 @@ On GitHub:
 - 307,649 Tweets of Twitter, Texts of Accounts in Coordination, 674,469 Retweets, and All Listed Accounts
 - 43,509 Contributions of Reddit and All Listed Accounts
 - 394,237 Comments of Instagram and All Listed Accounts
-- 28,952 Comments of Change.org, 18,908 Milestones, and 181 Petitions Data
+- 28,952 Comments of Change.org, 2,117 Milestones, and 181 Petitions Data
 - 6,893 YouTube Videos Data, 424,457 Comments of YouTube, "Adapt & Survive" 130K Comments, All Listed Accounts
 - 5.9K+ Labeled NLU Data of Support, Defense, Compliments and Training Data
 - Threat Analysis Data and NLU Test Data for Instagram, Reddit, and Twitter
