@@ -60,7 +60,7 @@ Amber Heard shows distress on her Facebook page to change the photos around Wald
 <br> It's imperative the victim doesn't look at the operations, requiring 3rd parties. Think of frequency, target, source.
 
 
-<b>Perspectives and Destroying a Life</b><br>
+#### <b>Perspectives and Destroying a Life</b><br>
 On top of the operations trying to end her life by sending her into a warp spiral through perspectives, the files here show gender violence which itself is painful to relive over and over. Anything she appears to have represented, or supported, has been destroyed and held against her. 
 <br>E.g., when she was an ambassador for Cyber Civil Rights - <a href="https://web.archive.org/web/2021*/https://www.cybercivilrights.org/welcome/amber-heard-ccri-ambassador">page now removed</a> - she stated it was painful to have her images manipulated and exploited, yet everyday, she has to relive that through these operations. 
 <br>We could see early there are bots on Twitter using botscores such as a petshop and Reddit sexualized accounts like 90police posting in seconds. However, imagine this instead further to threatening a life, attacking with mentions any social connection or business to her, and twisting continually. We move further...
@@ -70,16 +70,16 @@ On top of the operations trying to end her life by sending her into a warp spira
 The <a href="https://www.newyorker.com/magazine/2019/02/18/private-mossad-for-hire">Psy-Group</a> like operation focuses on usernames for 'likes/upvotes' which are related to her Natural Language/NLP. E.g., Reddit's 3rdPrizeIsYourFired, TruthBeThePrejudice, the-speed-of-pain, correlates to sudden 'likes' on Twitter like to b--respector, badcrippie, among others. The language on multiple platforms is similar. 
 <br>However, groups like a Psy-Group go further to manipulate what people perceive.
 
-<b>A Psy-Group-like explanation, insider threats, and vulnerabilities</b><br>
+#### <b>A Psy-Group-like explanation, insider threats, and vulnerabilities</b><br>
 The article on <a href="https://www.newyorker.com/magazine/2019/02/18/private-mossad-for-hire">Psy-Group</a> mentions understanding the vulnerabilities and exploitations of the social media companies. Perspectives has to do with emotions, angles, colors, verocity, amounts, timings, symbolism, etc. 
 - It's interesting that in 2019 when hired to content review, a male comedian and JD were case examples for using the Bing API to remove accounts if fake, and it was in my interview about studying the cyber abuse, yet the abuse against AH was not removed. The companies have differing cultures themselves - e.g., ex-Google and ex-Twitter interns or workers can be more helpful to us while Facebook was more challenging, not removing anything unlike Reddit, Twitter, YouTube/Giphy. Never the less, cybersecurity would have responded. 
 - Early on apparently, a 'hacker' with a computer in a DC museum uses JD's face as a profile photo, too, and kept communicating with BotSentinel. 
 - When McGowan's credit history was removed, it was stated it could likely be an insider in FinTech. It also felt like chats could be synced to cause fear of commmunications with her. 
 - Anthony Pellicano's - related to a predictable Paul Barresi who is attacking Amber Heard by exploiting generational ignorance - history mentions <a href="https://en.wikipedia.org/wiki/Anthony_Pellicano#cite_note-Resentence-20">software</a> early on. The point is, since Nov 2019, it's been suspicious of infiltration.
 
-<b>"High Risk" preventing stopping the Private Sector operations through political confusion:</b>
-- The use of Waldman is a decoy from finding the layers of companies, services, and it's used to terrorfy Amber Heard. The organizations, nonprofits she was with don't know how to combat operations.
-- A large issue is knowlege of how to exploit and intimidate. <b>To ruin a person like Amber Heard who had recently gained ambassador positions of organizations, United Nations Human Rights Champion position, required significant volume, time, and skill. </b>
+#### <b>"High Risk" preventing stopping the Private Sector operations through political confusion:</b>
+- The use of Waldman is a decoy from finding the layers of companies, services, and it's used to terrorfy Amber Heard. The organizations, nonprofits she was with don't know how to combat operations. <b>To ruin a person like Amber Heard who had recently gained ambassador positions of organizations, United Nations Human Rights Champion position, required significant volume, time, and skill. </b>
+- A large issue is knowlege of how to exploit and intimidate. 
 - A majority of Social Network Analysis is around elections instead of abuse and crime.
 - Again, remember the needs to get people to help who otherwise wouldn't be notified. The issues around Amber Heard were flagged with High Risk twice in preliminary inquiries. For example, Adam Waldman was actually <a href="https://www.judiciary.senate.gov/imo/media/doc/2018-02-26%20CEG%20to%20Waldman%20%28Mr.%20Steele,%20Mr.%20Deripaska,%20and%20Mr.%20Jones%29.pdf">a registered</a> foreign-agent which draws attention. Similarly, McGowan and Brittany Murphy with Monjack were threatened by state-intimidation after whistleblowing.
 - Threat analysis and our studies shows the timelines to escalations of risks with keywords, phrases use. Hundreds of thousands of threatening texts exist against Amber Heard on the 6 platforms. With knowledge of social dynamics, within automated simulations caused by companies and services are percentages of incited people. In examples, within tens of thousands of repeated same texts on YouTube, false interactions on all platforms, and cryptic bot networks are people brought into them to threaten Amber Heard. We show increases of threats and escalations.  <i><a href="https://youtu.be/kTTqIqqqRjA?t=89">(Video Coded Bias: Voting Experiment on Social Media)</a></i>
