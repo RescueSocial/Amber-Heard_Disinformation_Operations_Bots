@@ -1,10 +1,10 @@
 # Subjective Preliminary Claims
-<b>Here are claims behind the private sector disinformation/influence operations related to risks online correlating to in-person, the motivations, the high-volume, and the devastation towards Amber Heard. 
-- To save a life, and other lives these services can ravage at far lower volume due to less resilience - see attachments, leads, and read the below to understand the modus operendi, traits and signs. 
+<b>Here are claims behind the Private Sector Disinformation/Influence Operations related to risks online correlating to in-person, the motivations, the high-volume, and the devastation towards Amber Heard. 
+- To save a life and other lives these services can ravage at far lower volume due to less resilience - see attachments, leads, and read the below to understand the modus operendi, traits and signs. 
 <br>These interpretations are largely unseen due to the influence operations of Category 6 - also going to in-person where both sides are influenced against her. </b> <br>Connect to Folder <a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/-%20Study%20Case%20-%20Effects%2C%20Risks%2C%20Origins">"Study Case - Effects, Risks, Origins."</a> View this after the data/quantifications to reverse engineer why/origins, and collect suspicious activities throughout for experts. 
 <br><i>- The bigger the challenge, the greater the opportunity.</i>
 
-These are other risks, origins, and requires cross-confirmations. By researching and providing community aid when there's an operation or abuse of coercive control in-progress, you could save a life. Here are the layers underneath where an operation comes from...
+These are other risks, origins, and requires cross-confirmations. By researching and providing community aid when there's an operation or abuse of coercive control in-progress, you could save a life. Here are the layers underneath where an operation comes from, how it harms others and stems from decades building up.
 - When reporters fail to investigate for the victim (as in this high-profile operation) and insider threats ruin investigations, which fails to escalate operations to in-person, here's the 'coercive control' of why...
 - This goes beyond the data to look for origins of in-person violence to the online operations - including the motive to kill her with them. 
 <br><i>- Often finding the sources and origins is looking for where the suspicious activities and parties 'slip up' in their predictability. A main issue is lacking experts to collect obvious and public data without extortion.</i>
