@@ -6,7 +6,7 @@
 
 These are other risks, origins, and requires cross-confirmations. By researching and providing community aid when there's an operation or abuse of coercive control in-progress, you could save a life. Here are the layers underneath where an operation comes from...
 - Here are backend Claims from our study going beyond in-person violence to the online operations - including the motive to kill her with them. 
-- When reporters fail to investigate for the victim (as in this high-profile operation) and insider threats ruin investigations, which fails to escalate operations to in-person, here's the coercive control of why...
+- When reporters fail to investigate for the victim (as in this high-profile operation) and insider threats ruin investigations, which fails to escalate operations to in-person, here's the 'coercive control' of why...
 <br><i>- Often finding the sources and origins is looking for where the suspicious activities and parties 'slip up' in their predictability. A main issue is lacking experts to collect obvious and public data without extortion.</i>
 
 ## Private Sector: 
@@ -47,7 +47,7 @@ Moreover, to attack anything related to her can be authorized through not only t
 
 
 ### Hiding Cyber Crime in Private Sector:
-Similar to the investigations of money-laundering - seen by <a href="https://iosi.global">IOSI</a> - cyber criminal activities can similarly 'clean' in layers. For example, layers can be used to trivialize, to hide the cyber crime activities. E.g., the use of "Peter Pan" or "Monty Python." These accounts point this out within their chats, and Bot Sentinel also saw "Peter Pan" as well as a political name signing. This correlates with the accuracy known by the additional skilled influence layers. However, there are other companies including for social media community building as seen with the obvious bots and takedowns on YouTube.
+Similar to the investigations of money-laundering - seen by <a href="https://iosi.global">IOSI</a> of parties related to her ex-partner - cyber criminal activities can similarly 'clean' in layers. For example, layers can be used to trivialize, to hide the cyber crime activities. E.g., the use of "Peter Pan" or "Monty Python." These accounts point this out within their chats, and Bot Sentinel also saw "Peter Pan" as well as a political name signing. This correlates with the accuracy known by the additional skilled influence layers. However, there are other companies including for social media community building as seen with the obvious bots and takedowns on YouTube.
  
 - Many accounts, retweets, and amplifications surround threatening Amber Heard with state-actions, which correlates to the distraction of having Adam Waldman hired by John C. Depp II. It is true that these operations are far more volumnious than e.g., against Rose McGowan (thousands of bots), Ashley Morgan Smithline, Brittany Murphy, or Meghan Markle (See folder - Other Case Examples). There are also examples of using other softwares and <a href="https://youtu.be/nojknljfvME">tampering strategies</a> from Hollywood fixers, e.g, against Nicole Kidman during her separation. 
 - Using 'Timeline Comparisons - Events,' it can be seen that the operations online do not correlate correctly to events, that the data continues despite in-person activities, with the exception that threat analysis clearly shows correlation. There is abuse of process with the courtcases and some leaks.
