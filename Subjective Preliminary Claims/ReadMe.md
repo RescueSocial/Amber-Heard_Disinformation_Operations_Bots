@@ -5,8 +5,8 @@
 <br><i>- The bigger the challenge, the greater the opportunity.</i>
 
 These are other risks, origins, and requires cross-confirmations. By researching and providing community aid when there's an operation or abuse of coercive control in-progress, you could save a life. Here are the layers underneath where an operation comes from...
-- Here are backend Claims from our study going beyond in-person violence to the online operations - including the motive to kill her with them. 
 - When reporters fail to investigate for the victim (as in this high-profile operation) and insider threats ruin investigations, which fails to escalate operations to in-person, here's the 'coercive control' of why...
+- This goes beyond the data to look for origins of in-person violence to the online operations - including the motive to kill her with them. 
 <br><i>- Often finding the sources and origins is looking for where the suspicious activities and parties 'slip up' in their predictability. A main issue is lacking experts to collect obvious and public data without extortion.</i>
 
 ## Private Sector: 
