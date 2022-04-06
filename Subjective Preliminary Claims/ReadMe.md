@@ -79,7 +79,7 @@ The article on <a href="https://www.newyorker.com/magazine/2019/02/18/private-mo
 - When McGowan's credit history was removed, it was stated it could likely be an insider in FinTech. It also felt like chats could be synced to cause fear of commmunications with her. 
 - Hollywood Fixer Anthony Pellicano's - related to a predictable Paul Barresi who is attacking Amber Heard by exploiting generational ignorance - history mentions <a href="https://en.wikipedia.org/wiki/Anthony_Pellicano#cite_note-Resentence-20">software</a> early on.
 
-### <b>"High Risk" preventing stopping the Private Sector operations through political confusion:</b>
+#### <b>"High Risk" preventing stopping the Private Sector operations through political confusion:</b>
 - The use of Waldman is a decoy from finding the layers of companies, services, and it's used to terrorfy Amber Heard. The organizations, nonprofits she was with don't know how to combat operations. 
 - <b>To ruin a person like Amber Heard who had recently gained ambassador positions of organizations, United Nations Human Rights Champion position, required significant volume, time, and skill. </b>A large issue is knowlege of how to exploit and intimidate. 
 - A majority of Social Network Analysis is around elections instead of abuse and crime.
