@@ -13,12 +13,12 @@ The motivations behind these operations often come from the coercive control to 
 - E.g., attacking the partners of these figures has been happening for decades, e.g, with 'fixers,' but not publicly researched before. It truly requires gamifying and deflecting with your own data, analysis, intelligence, and power. It can ruin, destroy, and destruct.
 - At higher income levels, private security can be used against women in domestic abuse. At any level, software and accounts can be used against women.
 - For the first time, we're confronting these issues harming these types of women/targets and establishing precedents of technologies which can be used. We can save lives by causing chain reactions of finally caring about these situations to prevent harms earlier.
-- <i>Often finding the sources and origins is looking for where the suspicious activities and parties 'slip up' in their predictability. A main issue is lacking experts to collect obvious and public data without extortion.</i>
 
 ## Evolving Subjective Interpretations - 
 - <b>Connect the <b>Data Science/Social Network Analysis</b> with verifiable accounts, postings and analysis with <b>cybersecurity</b> (wayback machine, domain checking, etc), and cyber intelligence research. Have multiple experts cross-check.
 - Social Cyber Security interconnects with the online and in-person worlds of escalations and origins.
 - Social connects with the Technology and Data.</b>
+- <i>Often finding the sources and origins is looking for where the suspicious activities and parties 'slip up' in their predictability. A main issue is lacking experts to collect obvious and public data without extortion.</i>
 
 ### <b>Interpretations:</b> <br>
 It is clear that multiple layers of companies and services are used against Amber Heard. The modus operendi is clearly presented to us as ethical independent parties.
