@@ -4,7 +4,7 @@
 <br>These interpretations are largely unseen due to the influence operations of Category 6 - also going to in-person where both sides are influenced against her. </b>
 <br><i>- The bigger the challenge, the greater the opportunity.</i>
 
-These are other risks, origins, and requires cross-confirmations. 
+These are other risks, origins, and requires cross-confirmations. By researching and providing community aid when there's an operation in-progress, you could save a life. Here are the layers underneath where a operation comes from...
 
 ## Private Sector:
 Multiple private companies and services in layers are clearly being used against Amber Heard to this extreme of volume.
