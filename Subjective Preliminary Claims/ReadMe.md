@@ -1,6 +1,6 @@
 # Subjective Preliminary Claims
 <b>Here are claims behind the Private Sector Disinformation/Influence Operations related to risks online correlating to in-person, the motivations, the high-volume, and the devastation towards Amber Heard. 
- <br>View this after the data/quantifications evidence to reverse engineer why/origins, and collect suspicious activities throughout for experts. 
+ <br>View this after the data/quantifications evidence to reverse engineer why/origins, and collect suspicious activities throughout for ethical experts. 
 - To save a life and other lives these services can ravage at far lower volume due to less resilience - see attachments, leads, and read the below to understand the modus operendi, traits and signs. 
 <br>These interpretations are largely unseen due to the influence operations of Category 6 - also going to in-person where both sides are influenced against her. </b> <br>Connect to Folder <a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/-%20Study%20Case%20-%20Effects%2C%20Risks%2C%20Origins">"Study Case - Effects, Risks, Origins."</a> 
 <br><i>- The bigger the challenge, the greater the opportunity.</i>
@@ -12,8 +12,8 @@ These are other risks, origins, and requires cross-confirmations. By researching
 
 ## Private Sector: 
 Multiple private companies and services in layers are clearly being used against Amber Heard to this extreme of volume.
-The motivations behind these operations often come from the coercive control to take down these women, their witnesses, and their support for decades, only now moved mostly online to avoid data analysis and oversight. The higher skill, natural language, and volume stems from the amounts of funds, specialties, and layers of companies used.
-- E.g., attacking the partners of these figures has been happening for decades, e.g, with <a href="https://www.adweek.com/performance-marketing/investigator-barresi-opens-up-on-hollywood/">'fixers,</a>' but not publicly researched before. It truly requires gamifying and deflecting with your own data, analysis, intelligence, and power. It can ruin, destroy, and destruct.
+<br>The motivations behind these operations often come from the coercive control to take down these women, their witnesses, and their support for decades, only now moved mostly online to avoid data analysis and oversight. The higher skill, natural language, and volume stems from the amounts of funds, specialties, and layers of companies used.
+- E.g., attacking the partners of these figures has been happening for decades, e.g, with <a href="https://www.adweek.com/performance-marketing/investigator-barresi-opens-up-on-hollywood/">'Fixers,</a>' but not publicly researched before. It truly requires gamifying and deflecting with your own data, analysis, intelligence, and power. It can ruin, destroy, and destruct.
 - At higher income levels, private security can be used against women in domestic abuse. At any level, software and accounts can be used against women.
 - For the first time, we're confronting these issues harming these types of women/targets and establishing precedents of technologies which can be used. We can save lives by causing chain reactions of finally caring about these situations to prevent harms earlier.
 
