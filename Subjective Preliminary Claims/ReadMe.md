@@ -1,7 +1,7 @@
 # Subjective Preliminary Claims
 <b>Here are claims behind the private sector disinformation/influence operations related to risks online correlating to in-person, the motivations, the high-volume, and the devastation towards Amber Heard. 
 - To save a life, and other lives these services can ravage at far lower volume due to less resilience, see attachments, leads, and read the below to understand the modus operendi. 
-<br>These interpretations are largely unseen due to the influence operations of Category 6 - also going to in-person where both sides are influenced against her. </b> Connect to Folder <a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/-%20Study%20Case%20-%20Effects%2C%20Risks%2C%20Origins">"Study Case - Effects, Risks, Origins"</a> showing Private Sector operations.
+<br>These interpretations are largely unseen due to the influence operations of Category 6 - also going to in-person where both sides are influenced against her. </b> Connect to Folder <a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/-%20Study%20Case%20-%20Effects%2C%20Risks%2C%20Origins">"Study Case - Effects, Risks, Origins"</a>.
 <br><i>- The bigger the challenge, the greater the opportunity.</i>
 
 These are other risks, origins, and requires cross-confirmations. By researching and providing community aid when there's an operation or abuse of coercive control in-progress, you could save a life. Here are the layers underneath where an operation comes from...
@@ -38,6 +38,7 @@ Along with the case's circumstances of intimidation, violence, missing people, h
 
 Moreover, to attack anything related to her can be authorized through not only through jealousy to have her never be with other men, but the plan to destroy her humanitarian work - as if anything positive about her is related to her ex-partner - as warned through the ex-partner staff leaker (shown in files here), can be similar to companies and services hired to destroy rivals. 
 - Usually operations are not this long, volumnious, or deadly without ever being mitigated or acknowledged. However, we can seee the obsession to destroy victims to force them to recant through coevice control and <a href="https://www.adweek.com/performance-marketing/investigator-barresi-opens-up-on-hollywood/">fixers</a>.
+- The determination early on to understand this is through being first alerted to the issues facing Amber Heard through that leaker claiming to be a partner of an ex-staffer checking on her in March/April 2019. Very similarly to the intimidation of death of Amber Heard either before a trial, during a trial, or afterwards through this abuse of process, is the circumstances of missing Anthony Vivian Fox, which the leaker said staff are threatened about daily. Moreover, the other warnings of violence done towards her. Years later, there's the "AmerHeardRUOK" account which says, "Average person that takes time out to check on others, no matter who they are" created November 2021.
 
 
 ### Hiding Cyber Crime in Private Sector:
