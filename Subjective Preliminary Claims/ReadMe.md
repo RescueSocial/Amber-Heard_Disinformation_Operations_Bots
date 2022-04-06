@@ -63,7 +63,7 @@ Similar to Kate Starbird's video on <a href="https://www.youtube.com/watch?v=498
 
 #### Intimidation and Traits of Targeting:
 Amber Heard shows distress on her Facebook page to change the photos around Waldman's actions. Everyone focuses on him, but the data analysis is required to see the layers of services. It's why when writing a preliminary <a href="https://medium.com/@aquaman-bots/how-social-bots-created-an-anti-amber-heard-aquaman-campaign-e68e16637d3a">Medium article</a> comparing the numbers acoss-platforms and basic background in Febuary 2021, a quote is twisted about Winston Churchill by Waldman to attack Amber instead of to help her. Poptopic au similarly posts about Churchill and claims to be an Australian media-focused site created in 2019. 
-- Moreover, "IntelligenceUK" claims private services to get money and attacks UK Judges. The website intelligenceuk.com is bought in 2018, then starts posting in 2020 and its fake site has activity in 2021 after Amber Heard is a successful witness in the NGN UK Case where 12/14 incidents proven mainly through documentation. This matches Recorded Future's study of creating false sites, including to intimidate.
+- Moreover, "IntelligenceUK" claims private services to get money and attacks UK Judges. The website intelligenceuk.com is <a href="https://web.archive.org/web/20210515000000*/https://intelligenceuk.com/">bought in 2018</a>, then starts posting in 2020 and its fake site has activity in 2021 after Amber Heard is a successful witness in the NGN UK Case where 12/14 incidents proven mainly through documentation. This matches Recorded Future's study of creating false sites, including to intimidate.
 
 - It was imperative to look to sources that weren't helping her at the time - related to cybersecurity, AI/ML, social network analysis, DARPA can further study operations cross-platforms, notifying organizations that are working to make the digital world safer. The operations were/are trending and posting constantly to persecute Amber. Moreover, we have great Australia contacts. If you look at other actresses, they were made to believe the government was against them and all of these sources couldn't be used.
 
@@ -103,6 +103,7 @@ Bots can be used without APIs, but with layers of companies and services, it's l
 - A Cambridge Analytica reporter was tipped early on, but from the perspective of the tech industry after 6 years of learning especially from this project, the social media companies actually should be very eager to stop this cyber crime and remove it from their systems if properly channeled. Notice - Cambridge emphasized APIs which aren't required.
 
 <b>As technology researchers interested in ethics and social effects of tech, we do want this to be an example for positive change instead of destruction. It needs to be investigated and mitigated.</b>
+<br>Often finding the sources and origins is looking for where the suspicious activities and parties 'slip up' in their predictability. A main issue is lacking experts to collect obvious and public data without extortion.
 
 
 ## <b>Questions:</b>
