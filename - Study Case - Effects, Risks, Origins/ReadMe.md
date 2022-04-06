@@ -17,7 +17,7 @@ Anyone with enough motive and resources can obtain these technologies to harm so
  It's automated, and 2021 to present was high volume as well, effectively destroying Amber Heard. The <a href="https://datasociety.net/library/data-voids/">Data Void</a> on her was exploited, where there were comparatively low amounts of data about her until these operations, effectively flooding it. 
 <br><i>- It's our interpretation that social media companies need to be encouraged through trusted sources to remove the operations, and that the high volume of abuse, coordination, bots, and influence operations to destroy Amber Heard will never end without connecting cybersecurity, advocacy, data science, 3rd parties, decision-makers, and social network analysis together.  </i>
   
-    We circle back to this after our analysis of 6 social media platforms, of which demonstrate bot activities and high threats. We further left this out until more completion due to the issues that could have harmed the data scientists doing their work.
+ We circle back to this after our analysis of 6 social media platforms, of which demonstrate bot activities and high threats. We further left this out until more completion due to the issues that could have harmed the data scientists doing their work.
 <br>- However, we provided <a href="https://www.newyorker.com/news/news-desk/harvey-weinsteins-army-of-spies">articles</a> for understanding for the researchers to see the importance of studying a real-life case example. 
 
 It needs to be investigated by proper parties and stopped or the crimes will continue to threaten her life, as well as the many other lives these companies and sevices ravage.
