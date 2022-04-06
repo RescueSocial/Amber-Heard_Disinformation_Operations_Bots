@@ -6,6 +6,7 @@
 
 These are other risks, origins, and requires cross-confirmations. By researching and providing community aid when there's an operation or abuse of coercive control in-progress, you could save a life. Here are the layers underneath where an operation comes from...
 - Here are backend Claims from our study going beyond in-person violence to the online operations - including the motive of a license to kill her with them. When reporters fail to investigate for the victim (as in this high-profile operation) which fails to escalate operations to in-person, here's the coercive control of why...
+- <i>Often finding the sources and origins is looking for where the suspicious activities and parties 'slip up' in their predictability. A main issue is lacking experts to collect obvious and public data without extortion.</i>
 
 ## Private Sector:
 Multiple private companies and services in layers are clearly being used against Amber Heard to this extreme of volume.
@@ -18,7 +19,6 @@ The motivations behind these operations often come from the coercive control to 
 - <b>Connect the <b>Data Science/Social Network Analysis</b> with verifiable accounts, postings and analysis with <b>cybersecurity</b> (wayback machine, domain checking, etc), and cyber intelligence research. Have multiple experts cross-check.
 - Social Cyber Security interconnects with the online and in-person worlds of escalations and origins.
 - Social connects with the Technology and Data.</b>
-- <i>Often finding the sources and origins is looking for where the suspicious activities and parties 'slip up' in their predictability. A main issue is lacking experts to collect obvious and public data without extortion.</i>
 
 ### <b>Interpretations:</b> <br>
 It is clear that multiple layers of companies and services are used against Amber Heard. The modus operendi is clearly presented to us as ethical independent parties.
