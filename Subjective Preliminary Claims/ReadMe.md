@@ -3,7 +3,6 @@
 - To save a life - and other lives these services can ravage at far lower volume due to less resilience - see attachments, leads, and read the below to understand the modus operendi, traits, risks, origins, and signs.
  <br>These interpretations are largely unseen due to the influence operations of <a href="https://www.brookings.edu/research/the-breakout-scale-measuring-the-impact-of-influence-operations/">Category 6</a> - also going to in-person where both sides are influenced against her. </b>
 - We're creating precedents to have this public research study. Connect to Folder <a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/-%20Study%20Case%20-%20Effects%2C%20Risks%2C%20Origins">"Study Case - Effects, Risks, Origins."</a>
-- Collect data and quantifications evidence, then reverse engineer why/origins, and collect suspicious activities throughout for ethical experts, including in other studies.
 <br><i>- The bigger the challenge, the greater the opportunity -</i> <i>Be an ethical "person that takes time out to check on others, no matter who they are"</i>
 
 By researching and providing community aid when there's an operation or abuse of coercive control in-progress, you could save a life. Here are the layers underneath where an operation comes from, how it harms others and stems from decades building up.
@@ -11,6 +10,7 @@ By researching and providing community aid when there's an operation or abuse of
 - <i><b>Usually operations are not this long, volumnious, or deadly without ever being mitigated or acknowledged.</b></i> However, we can see the obsession to destroy victims to force them to recant through coevice control and <a href="https://www.adweek.com/performance-marketing/investigator-barresi-opens-up-on-hollywood/">fixers</a>.
 - This goes beyond the data to look for origins of in-person violence to the online operations - including the motive to kill her with them.
 <br><i>- Often finding the sources and origins is looking for where the suspicious activities and parties 'slip up' in their predictability. A main issue is lacking experts to collect obvious and public data without extortion.</i>
+- Collect data and quantifications evidence, then reverse engineer why/origins, and collect suspicious activities throughout for ethical experts, including in other studies.
 
 ## Private Sector: 
 Multiple private companies and services in layers are clearly being used against Amber Heard to this extreme of volume.
