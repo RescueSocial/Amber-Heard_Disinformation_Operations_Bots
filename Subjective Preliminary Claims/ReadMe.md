@@ -10,7 +10,7 @@ By researching and providing community aid when there's an operation or abuse of
 - <i><b>Usually operations are not this long, volumnious, or deadly without ever being mitigated or acknowledged.</b></i> However, we can see the obsession to destroy victims to force them to recant through coevice control and <a href="https://www.adweek.com/performance-marketing/investigator-barresi-opens-up-on-hollywood/">fixers</a>.
 - This goes beyond the data to look for origins of in-person violence to the online operations - including the motive to kill her with them.
 <br><i>- Often finding the sources and origins is looking for where the suspicious activities and parties 'slip up' in their predictability. A main issue is lacking experts to collect obvious and public data without extortion.</i>
-- Collect data and quantifications evidence, then reverse engineer why/origins, and collect suspicious activities throughout for ethical experts, including in other studies.
+
 
 ## Private Sector: 
 Multiple private companies and services in layers are clearly being used against Amber Heard to this extreme of volume.
@@ -119,6 +119,7 @@ Bots can be used without APIs, but with layers of companies and services, it's l
 <br>4. How does the online data and motivations correlate to threats and predictable actions in previous instances from the related individuals?
 <br>5. How can we prevent similar operations to save lives and stop the distress of the victim by mitigating the harms?
 
+- Collect data and quantifications evidence, then reverse engineer why/origins, and collect suspicious activities throughout for ethical experts, including in other studies.
 
 <br>
 <b>See - Study Case - Effects, Risks, Origins for more information...</b>
