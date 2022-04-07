@@ -1,6 +1,7 @@
 # Subjective Preliminary Claims
-<b>Here are claims behind the Private Sector Disinformation/Influence Operations related to risks online correlating to in-person, the motivations, the high-volume, crimes, and the devastation towards Amber Heard. 
+<b>Here are claims behind the Private Sector Disinformation/Influence Operations related to risks online correlating to in-person, the motivations, the high-volume, and the devastation towards Amber Heard. 
 - To save a life - and other lives these services can ravage at far lower volume due to less resilience - see attachments, leads, and read the below to understand the modus operendi, traits, risks, origins, and signs.
+<br>We're creating precedents to have this public research study... View data and quantifications evidence, then reverse engineer why/origins, and collect suspicious activities throughout for ethical experts. 
  <br>These interpretations are largely unseen due to the influence operations of <a href="https://www.brookings.edu/research/the-breakout-scale-measuring-the-impact-of-influence-operations/">Category 6</a> - also going to in-person where both sides are influenced against her. </b> Connect to Folder <a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/-%20Study%20Case%20-%20Effects%2C%20Risks%2C%20Origins">"Study Case - Effects, Risks, Origins."</a>
 <br><i>- The bigger the challenge, the greater the opportunity -</i> <i>Be an ethical "person that takes time out to check on others, no matter who they are"</i>
 
@@ -117,7 +118,6 @@ Bots can be used without APIs, but with layers of companies and services, it's l
 <br>4. How does the online data and motivations correlate to threats and predictable actions in previous instances from the related individuals?
 <br>5. How can we prevent similar operations to save lives and stop the distress of the victim by mitigating the harms?
 
-- We're creating precedents to have this public research study... Have data and quantifications evidence, then reverse engineer why/origins, and collect suspicious activities throughout for ethical experts. 
 
 <br>
 <b>See - Study Case - Effects, Risks, Origins for more information...</b>
