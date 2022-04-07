@@ -1,7 +1,7 @@
 # Subjective Preliminary Claims
 <b>Here are claims behind the Private Sector Disinformation/Influence Operations related to risks online correlating to in-person, the motivations, the high-volume, and the devastation towards Amber Heard. 
-<br>We're creating precedents to have this public research study. View data/quantifications evidence to reverse engineer why/origins, and collect suspicious activities throughout for ethical experts. 
 - To save a life, and other lives these services can ravage at far lower volume due to less resilience, see attachments, leads, and read the below to understand the modus operendi, traits, and signs.
+<br>We're creating precedents to have this public research study. Have data and quantifications evidence, then reverse engineer why/origins, and collect suspicious activities throughout for ethical experts. 
  <br>These interpretations are largely unseen due to the influence operations of Category 6 - also going to in-person where both sides are influenced against her. </b> <br>- Connect to Folder <a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/-%20Study%20Case%20-%20Effects%2C%20Risks%2C%20Origins">"Study Case - Effects, Risks, Origins."</a> 
 <br><i>- The bigger the challenge, the greater the opportunity....</i> <i>Be an ethical "person that takes time out to check on others, no matter who they are"</i>
 
