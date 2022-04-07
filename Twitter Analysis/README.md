@@ -35,7 +35,9 @@ These are probably mentions to accounts, which anyway have very unusual screen_n
 - Mentions network (part 2) (November)<br>
 Similar to the previous group, this group of 50 accounts also shared meaningless keywords.
 
-<b>Accounts used on Twitter included semi-automated and automated examples in layers, e.g., the accounts can pin tweets, yet respond with AI as did "unnatural selection" and "hunting hound." An AI Auditor recognized the initial catch when studying NLU/NLP.
-<br> However, DeppSoldier_22 is automated since it never responds and is the highest followed in coordination and highest posting top account... This layered approach is described by the Cybersecurity and Infrastructure Agency: https://www.cisa.gov/sites/default/files/publications/social_media_bots_infographic_set_508.pdf
+<b>Semi-Automated and Automated Accounts Layers:</b>
+Accounts used on Twitter included semi-automated and automated examples in layers, e.g., the accounts can pin tweets, yet respond with AI as did "unnatural selection" and "hunting hound." An AI Auditor recognized the initial catch when studying NLU/NLP.
+- However, DeppSoldier_22 is automated since it never responds and is the highest followed in coordination and highest posting top account... This layered approach is described by the Cybersecurity and Infrastructure Agency: https://www.cisa.gov/sites/default/files/publications/social_media_bots_infographic_set_508.pdf
+- The OSINT section shows suspicious layers of fully used accounts, e.g., the devil, fake detectives/hats, etc accounts.
 
 #### <i><b>Data analysis of Coordination, Retweets, and Knowledge Graphs is continuing.</b></i>
