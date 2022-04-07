@@ -1,5 +1,5 @@
 # Subjective Preliminary Claims
-<b>Here are claims behind the Private Sector Disinformation/Influence Operations related to risks online correlating to in-person, the motivations, the high-volume, and the devastation towards Amber Heard. 
+<b>Here are claims behind the Private Sector Disinformation/Influence Operations related to risks online correlating to in-person, the motivations, the high-volume, the crimes, and the devastation towards Amber Heard. 
 - To save a life - and other lives these services can ravage at far lower volume due to less resilience - see attachments, leads, and read the below to understand the modus operendi, traits, risks, origins, and signs.
  <br>These interpretations are largely unseen due to the influence operations of <a href="https://www.brookings.edu/research/the-breakout-scale-measuring-the-impact-of-influence-operations/">Category 6</a> - also going to in-person where both sides are influenced against her. </b>
 - We're creating precedents to have this public research study. Connect to Folder <a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/-%20Study%20Case%20-%20Effects%2C%20Risks%2C%20Origins">"Study Case - Effects, Risks, Origins."</a>
