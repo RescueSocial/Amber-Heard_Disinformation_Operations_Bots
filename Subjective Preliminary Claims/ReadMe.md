@@ -99,7 +99,7 @@ The article on <a href="https://www.newyorker.com/magazine/2019/02/18/private-mo
 <br> We show increases of threats and escalations - even in spite of her winning in cases or gaps of announcements. <i><a href="https://youtu.be/kTTqIqqqRjA?t=89">(Video Coded Bias: Voting Experiment on Social Media)</a></i>
 
 #### <b>"High Risk" preventing stopping the Private Sector operations through political confusion:</b>
-- The use of Waldman is a decoy from finding the layers of companies, services, and it's used to terrirfy Amber Heard. The organizations, nonprofits she was with don't know how to combat operations. 
+- The use of Waldman is a decoy from finding the layers of companies, services, and it's used to terrify Amber Heard. The organizations, nonprofits she was with don't know how to combat operations. 
 - <b>To ruin a person like Amber Heard who had recently gained ambassador positions of organizations, United Nations Human Rights Champion position, required significant volume, time, and skill. </b>A large issue is knowlege of how to exploit and intimidate. 
 - A majority of Social Network Analysis - e.g., <a href="https://www.insna.org/socnet">SOCNET</a> - is around elections or general broad issues instead of abuse and crime.
 - Second, political ploys are used to scare and to intimidate, as well as to lock into a space without a solution. There are no political views to our scientists and analysts. We leave this out because it's a trap. In targeting situations, so-called 'movements' created are actually done to mask targeting individuals. Their ultimate goal is to prevent interference from helping the victims. 
