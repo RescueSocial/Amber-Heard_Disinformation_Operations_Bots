@@ -46,7 +46,7 @@ Along with the case's circumstances of intimidation, violence, missing people, h
 
 
 Moreover, to attack anything related to her can be authorized through not only through jealousy to have her never be with other men, including in movies, but the plan to destroy her humanitarian work - as if anything positive about her is related to her ex-partner - as warned through the ex-partner staff leaker (shown in files here), can be similar to companies and services hired to destroy rivals. 
-<i><br>- Motive to attack Amber Heard with high levels of technology is further suspicious since Amber Heard tried to move onto Elon Musk who is a co-founder of OpenAI. Coercive control relates to jealousy of other partners, and provides a strong motive for her ex-partner to do this to her. </i>
+<i><br>- Motive to attack Amber Heard with high levels of technology is further suspicious since she tried to move onto Elon Musk who is a co-founder of OpenAI. Coercive control relates to jealousy of other partners, and provides a strong motive for her ex-partner to do this to her. </i>
 
 <b>Many Other Victims Seen from Understanding this Case</b> - E.g., Services like USA Forensics are used against other women in the fashion/music industries in Los Angeles. There are other services that other partners use which actors used. Imagine the audio editing leak in Feb 2020 - correlating with use of bots to amplify the <a href="https://www.youtube.com/channel/UCjKNc-woAlnxt0H-yJ8RXJg/videos">edited/split audio</a> and a created channel - affecting many other women. We point to decades of skills. Where are the services helping these women and the understanding to the digital world?
 
