@@ -1,6 +1,6 @@
 # Subjective Preliminary Claims
 Shows the risks correlating to in-person, the motivations, and the claims behind the private sector disinformation/influence operations.
-<br>The bigger the challenge, the greater the opportunity. --- <a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/Subjective%20Preliminary%20Claims">See Larger Explanations in Other Folder</a> ---
+<br>The bigger the challenge, the greater the opportunity. --- <a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/Subjective%20Preliminary%20Claims">See Longer Explanations in Other Folder</a> ---
 
 ## Evolving Subjective Interpretations - 
 <b>Connect the <b>Data Science/Social Network Analysis</b> with verifiable accounts, postings and analysis with <b>cybersecurity</b> (wayback machine, domain checking, etc), and cyber intelligence research.
