@@ -5,7 +5,7 @@
 <br><i>- The bigger the challenge, the greater the opportunity -</i> <i>Be an ethical "person that takes time out to check on others, no matter who they are"</i>
 
 These are other risks, origins, and needs cross-confirmations. By researching and providing community aid when there's an operation or abuse of coercive control in-progress, you could save a life. Here are the layers underneath where an operation comes from, how it harms others and stems from decades building up.
-- <b>When reporters fail to investigate for the victim (as in this high-profile operation) and insider threats ruin investigations, it can then fail to escalate operations to in-person to be validated,</a> here's the 'coercive control' of why...
+- <b>When reporters fail to investigate for the victim (as in this high-profile operation) and insider threats ruin investigations, it can then fail to escalate operations to in-person to be validated,</a> here's the 'coercive control' of why...</b>
 - <i>Usually operations are not this long, volumnious, or deadly without ever being mitigated or acknowledged.</i> However, we can see the obsession to destroy victims to force them to recant through coevice control and <a href="https://www.adweek.com/performance-marketing/investigator-barresi-opens-up-on-hollywood/">fixers</a>.
 - This goes beyond the data to look for origins of in-person violence to the online operations - including the motive to kill her with them.
 <br><i>- Often finding the sources and origins is looking for where the suspicious activities and parties 'slip up' in their predictability. A main issue is lacking experts to collect obvious and public data without extortion.</i>
