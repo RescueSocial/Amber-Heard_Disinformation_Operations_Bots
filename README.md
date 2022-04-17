@@ -115,7 +115,7 @@ Analysis is in-progress across-platforms.
 <br> Multiple layers of companies, services, are likely. Along with the case's circumstances of intimidation, violence, missing people, high wealth of opposition, <a href="https://abcnews.go.com/Primetime/LegalCenter/story?id=1625097&page=1">Hollywood fixers</a>, and suspicious activities, the online world similarly has been made threatening to exploit the <a href="https://datasociety.net/library/data-voids">Data Void</a>. 
 
 ### <b>Background:</b>
-<br>1. Multiple Research Papers on Disinformation/Influence Operations Cross-Platforms, Timelines, Studying Technologies
+1. Multiple Research Papers on Disinformation/Influence Operations Cross-Platforms, Timelines, Studying Technologies
 <br>2. Amber Heard's August 2020 Counterclaims on Bots: https://www.scribd.com/document/473092071/cl-2019-2911-def-counterclaims-8-10-2020
 <br>3. Influence Operation of 6,000 Twitter accounts found by BotSentinel: https://youtu.be/bb2bC04OEPw<br>
 
