@@ -143,7 +143,7 @@ There have been victims of disinformation and influence operations in the Privat
 ### <b>Scientific Methods:</b>
 Worldwide Data Scientists, Researchers in Cyber Intelligence, PhDs, Data Analysts, and a former Google Research Intern collected and analyzed data. We use the scientific method of testing.
 <br>
-- <i><b><a href="https://www.brookings.edu/research/the-breakout-scale-measuring-the-impact-of-influence-operations/">The Breakout Scale: Measuring the Impact of Influence Operations</a> by <a href="https://twitter.com/benimmo/status/1309532354306879488">Ben Nimmo</a> in Social Network Analysis Standards:</b></i><br>
+- <i><b>Category 6: <a href="https://www.brookings.edu/research/the-breakout-scale-measuring-the-impact-of-influence-operations/">The Breakout Scale: Measuring the Impact of Influence Operations</a> by <a href="https://twitter.com/benimmo/status/1309532354306879488">Ben Nimmo</a> in Social Network Analysis Standards:</b></i><br>
 "Category One operations only spread within one community on one platform, while Category Two operations either spread in one community across multiple platforms, or spread across multiple communities on one platform. Category Three operations spread across <i>multiple social media platforms and reach multiple communities.</i> 
  <br>Category Four operations break out from social media completely and are amplified by <i>mainstream media</i>, while Category Five operations are amplified by <i>high-profile individuals</i> such as celebrities and political candidates. 
  <i><br>An IO reaches <b>Category Six</b> if it triggers a policy response or some other form of concrete action, or if it includes <b>a call for violence.</i></b>"
