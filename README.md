@@ -68,7 +68,7 @@ If you're a humanitarian, researcher, social enterprise, organization, student, 
 <br><br>Since this data is high volume about domestic abuse and gender, with an actress and film industry element, it's highly relevant for classification and data science projects on those topics.
 <br><i>Please contact us for collaboration or if with questions on obtaining more data and code.</i>
 <br><br>
-<b>Although it's abuse of process, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a> is becoming illegal in more countries and states/provinces worldwide.</b>
+<b>Although it's abuse of process, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a> is becoming illegal in more countries and states/provinces worldwide.</b> To this degree and volume of intimidation, extortion is already illegal.
 - <i>If you're a victim needing help against cyberabuse especially in <a href="https://safeescape.org">online domestic abuse</a>, operations, and <a href="https://metta-space.com">hostile environments</a>, please contact us.</i><br>
 
 #### <b>Do No Harm:</b>
@@ -115,9 +115,9 @@ Analysis is in-progress across-platforms.
 <br> Multiple layers of companies, services, are likely. Along with the case's circumstances of intimidation, violence, missing people, high wealth of opposition, <a href="https://abcnews.go.com/Primetime/LegalCenter/story?id=1625097&page=1">Hollywood fixers</a>, and suspicious activities, the online world similarly has been made threatening to exploit the <a href="https://datasociety.net/library/data-voids">Data Void</a>.
 
 ### <b>Background:</b>
-Amber Heard's August 2020 Counterclaims on Bots: https://www.scribd.com/document/473092071/cl-2019-2911-def-counterclaims-8-10-2020
-Multiple Research Papers on Disinformation/Influence Operations Cross-Platforms, Timelines, Studying Technologies
-Influence Operation of 6,000 Twitter accounts found by BotSentinel: https://youtu.be/bb2bC04OEPw<br>
+<br>Amber Heard's August 2020 Counterclaims on Bots: https://www.scribd.com/document/473092071/cl-2019-2911-def-counterclaims-8-10-2020
+<br>Multiple Research Papers on Disinformation/Influence Operations Cross-Platforms, Timelines, Studying Technologies
+<br>Influence Operation of 6,000 Twitter accounts found by BotSentinel: https://youtu.be/bb2bC04OEPw<br>
 
 <b>Origins, Risks, and Private Sector Operations:</b>
 - After reviewing analysis and data quanitifications, explanations of origins and motive can be discovered. 
