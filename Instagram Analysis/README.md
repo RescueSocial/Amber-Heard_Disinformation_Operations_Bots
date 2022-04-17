@@ -5,9 +5,9 @@ Instagram - Social Network Analysis on Amber Heard's Case Example from Data Anal
 
 <b>We obtained over 1.7 million comments and over 190,000 posts from Instagram from the #AmberHeard hashtag for mostly 2018-2021.</b>
 
-Overall the texts appear to be more positive towards Amber Heard, requiring threat/negative texts analysis as on other platforms. We analyze for same texts and delays in peaks against Amber showing lack of correlation with announcements.
+<b>Overall the texts appear to be more positive towards Amber Heard on Instagram,</b> requiring threat/negative texts analysis as on other platforms. We analyze for same texts and delays in peaks against Amber showing lack of correlation with announcements.
 - Instagram has features which make using bot accounts very difficult, which explains the far less volume of data against Amber Heard under her hashtag, and explains more of why on Instagram they focused more on her ex-partner. E.g., our researcher had to use 10 proxies with 10 different accounts which would frequently be blocked, unlike Twitter with 1 proxy, 1 IP (never discovered our monitoring bot either), Google, Reddit, and other platforms with far higher volume of bots and API access.
-- The higher positivity towards Amber Heard under her name on Instagram reflects more of the real-world. 
+<i>- The higher positivity towards Amber Heard under her name on Instagram reflects more of the real-world. </i>
 
 <b>Comments on Instagram per year:</b>
 <br>2020 - 711,339 40.6%
