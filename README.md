@@ -54,7 +54,7 @@ This is the most detailed public analysis of a disinformation operation and the 
 - <b>Analysis Guides</b>
 - <b>Background</b> 
 
-#### <b>Positive NLG - Natural Language Generation - Compliments Prompt:</b><br>
+### <b>Positive NLG - Natural Language Generation - Compliments Prompt:</b><br>
 Compliments Generation on Amber Heard based on Jason Momoa<br>
  https://github.com/semiosis/prompts/blob/master/prompts/compliment-generation-based-on-a-celebrity-1.prompt<br>
 - 10,000 Compliments on Amber Heard made in 2 hours: https://asciinema.org/a/w5ayuAEGGpgsxTCKWbAGRPfvZ<br>
@@ -107,7 +107,7 @@ Analysis is in-progress across-platforms.
 <i>The Academic API was used for Retweets and <a href="https://InformationTracer.com">InformationTracer</a> for CrowdTangle API.</i><br>
 
 <b>Threat Analysis of "High Risk" Influence:</b><br>
-- Threat analysis and our studies shows the timelines to escalations of risks with keywords, phrases use. Hundreds of thousands of threatening texts exist against Amber Heard on the 6 platforms. With knowledge of social dynamics, within automated simulations caused by companies and services are percentages of incited people. In examples, within tens of thousands of repeated same texts on YouTube, false interactions on all platforms, and cryptic bot networks are people brought into them to threaten Amber Heard. 
+- Threat analysis and our studies shows the timelines to escalations of risks with keywords, phrases use. Hundreds of thousands of threatening texts exist against Amber Heard on the 6 platforms. In social dynamics, within automated simulations caused by companies and services are percentages of incited people. In examples, within tens of thousands of repeated same texts on YouTube, false interactions on all platforms, and cryptic bot networks are people brought into them to threaten Amber Heard. 
 <br><b><i>We show increases of threats and escalations - even in spite of her winning in cases or gaps of announcements.</b></i> 
 - Experts saw cyber crime needing flagging for removal by cybersecurity. 
 - Clustering analysis with cyber intelligence reveals scientifically operations to cause distress beyond searching manually.
