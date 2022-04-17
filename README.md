@@ -102,12 +102,12 @@ Analysis is in-progress across-platforms.
 
 - <i>Data of 5 months of December 2020 to April 2021 is provided on GitHub for open peer-review and research studies. Full Data for more independent cross-platform analysis is provided in research data repositories.</i>
 <i><br>- Note:</i> Peaks, Heat Maps of Threats, coordinated bot activities, repeated same texts, and more anomalies show for 2018-2022 continuing, especially February 2020 onward as seen in analysis files.
-<br><i>Not all analysis is given for researcher privacy for published research papers and review of the operations.</i>
+<br>Not all analysis is given for researcher privacy for published research papers and review of the operations.
 
 <i>The Academic API was used for Retweets and <a href="https://InformationTracer.com">InformationTracer</a> for CrowdTangle API.</i><br>
 
 <b>Threat Analysis of "High Risk" Influence:</b><br>
-- Threat analysis and our studies shows the timelines to escalations of risks with keywords, phrases use. Hundreds of thousands of threatening texts exist against Amber Heard on the 6 platforms. In social dynamics, within automated simulations caused by companies and services are percentages of incited people. In examples, within tens of thousands of repeated same texts on YouTube, false interactions on all platforms, and cryptic bot networks are people brought into them to threaten Amber Heard. 
+- Threat analysis and our studies shows the timelines to escalations of risks with keywords, phrases use. Hundreds of thousands of threatening texts exist against Amber Heard on the 6 platforms. With knowledge of social dynamics, within automated simulations caused by companies and services are percentages of incited people. In examples, within tens of thousands of repeated same texts on YouTube, false interactions on all platforms, and cryptic bot networks are people brought into them to threaten Amber Heard. 
 <br><b><i>We show increases of threats and escalations - even in spite of her winning in cases or gaps of announcements.</b></i>
 - Experts saw cyber crime and suspicious cyber activities needing flagging for removal by cybersecurity. 
 - Clustering analysis with cyber intelligence reveals scientifically operations to cause distress beyond searching manually.
