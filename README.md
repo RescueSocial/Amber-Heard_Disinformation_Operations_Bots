@@ -65,7 +65,7 @@ Compliments Generation on Amber Heard based on Jason Momoa<br>
 ### <b>Collaboration:</b> 
 If you're a humanitarian, researcher, social enterprise, organization, student, or academic helping female victims of abuse, coercive control, domestic abuse, bots, operations, violence, harassment, or hostile environments - we welcome collaboration with you.
 <br>Our studies and data can be used for Social Network Analysis, Data Analysis, machine learning, Natural Language Processing, artificial intelligence, Data Science labeling, anti-abuse, rescue projects, anti-crime, timelines, OSINT, simulations, and monitoring systems to help other victims and their lives. 
-<br><br>Since this data is high volume about domestic abuse and gender, with an actress and film industry element, it's highly relevant for classification and data science projects on those topics.
+<br><br>Since this data is high volume about domestic abuse and gender, with an actress/model and film industry element, it's highly relevant for classification and data science projects on those topics.
 <br><i>Please contact us for collaboration or if with questions on obtaining more data and code.</i>
 <br><br>
 <b>Although it's abuse of process, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a> is becoming illegal in more countries and states/provinces worldwide.</b> To this degree and volume of intimidation, <a href="https://en.wikipedia.org/wiki/Extortion">extortion</a> is already illegal.
