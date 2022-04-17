@@ -15,7 +15,7 @@ This is the most detailed public analysis of a disinformation operation and the 
 <br>We want to save lives and help partners create systems to help online - e.g., specialized and accurate rescue, quality custom studies, data analysis, Social Network Analysis, forensics, research, situation awareness, data science projects, and rescue/public safety technologies - <i>with focus on the victim primarily and <b>her environment</b></i>.
 
 - <a href="https://www.teamscopeapp.com/blog/6-repositories-to-share-your-research-data"><b>Public Research:</b></a> 
-<br><i>This study and its data is fully open for innovative scientific advancement, developing solutions, saving lives, maximizing knowledge, blueprints, and archiving for long-term benefit.</i>
+<br><i>This study and its data is open for innovation, scientific advancement, developing solutions, saving lives, maximizing knowledge, blueprints, and archiving for long-term benefit.</i>
 <br>- If a file of analysis is too large to preview on github, please download, or preview in this <a href="https://drive.google.com/drive/folders/18MWGm7dRX6Gi5UPo0fO9xQMtT4eHIrbn?usp=sharing">google folder</a>.
 <br>- <b>Full Data</b> sharing is in-progress on <a href="https://drive.google.com/drive/folders/1GjKdNpsJSBIX9MsQgKq2FGTArDVEYFFI?usp=sharing">Google</a>, <a href="https://www.kaggle.com/amberhearddata/datasets">Kaggle</a>, Archives, <a href="https://www.scribd.com/user/598949302/Rescue-Social-Tech/uploads">Scribd</a> and public research data repositories.</i>
 
@@ -113,6 +113,8 @@ Analysis is in-progress across-platforms.
 - Clustering analysis with cyber intelligence reveals scientifically operations to cause distress beyond searching manually.
 <br><i>"Data voids are not unique to search engines; they occur on social media platforms, too."</i>
 <br> Multiple layers of companies, services, are likely. Along with the case's circumstances of intimidation, violence, missing people, high wealth of opposition, <a href="https://abcnews.go.com/Primetime/LegalCenter/story?id=1625097&page=1">Hollywood fixers</a>, and suspicious activities, the online world similarly has been made threatening to exploit the <a href="https://datasociety.net/library/data-voids">Data Void</a>.
+
+<br>Origins, Risks, and Private Sector Operations:</b>
 - After reviewing analysis and data quanitifications, explanations of motive exists. Folder <i>"<a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/-%20Study%20Case%20-%20Effects%2C%20Risks%2C%20Origins">Study Case - Effects, Risks, Origins</a>"</i> shows dangerous Private Sector operations. <a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/Subjective%20Preliminary%20Claims">'Subjective Preliminary Claims'</a> sources explanations.
 
 ### <b>Background:</b><br>
