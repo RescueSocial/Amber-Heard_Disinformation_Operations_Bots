@@ -4,6 +4,7 @@ Instagram - Social Network Analysis on Amber Heard's Case Example from Data Anal
 <br>Analyzing Same Texts, Comments, Posts, Accounts Analysis, Timings, Threat Analysis.
 
 <b>We obtained over 1.7 million comments and over 190,000 posts from Instagram from the #AmberHeard hashtag for mostly 2018-2021.</b>
+- The most interesting and obvious bot simulation is 'i am inevitable' from May 2019, which can be perceived as a threat.
 
 <b>Overall the texts appear to be more positive towards Amber Heard on Instagram,</b> requiring threat/negative texts analysis as on other platforms. We analyze for same texts and delays in peaks against Amber showing lack of correlation with announcements.
 - Instagram has features which make using bot accounts very difficult, which explains the far less volume of data against Amber Heard under her hashtag, and explains more of why on Instagram they focused more on her ex-partner. E.g., our researcher had to use 10 proxies with 10 different accounts which would frequently be blocked, unlike Twitter with 1 proxy, 1 IP (never discovered our monitoring bot either), Google, Reddit, and other platforms with far higher volume of bots and API access.
