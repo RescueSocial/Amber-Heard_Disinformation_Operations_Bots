@@ -1,4 +1,4 @@
-Twitter Like-Bots Analysis
+<b>Twitter Like-Bots Analysis</b>
 
 Ratio analysis will continue to be done to show ratios of likes to statuses.
 
