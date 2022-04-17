@@ -122,7 +122,7 @@ Influence Operation of 6,000 Twitter accounts found by BotSentinel: https://yout
 <b>Origins, Risks, and Private Sector Operations:</b>
 - After reviewing analysis and data quanitifications, explanations of origins and motive can be discovered. 
 <br>Folder <i>"<a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/-%20Study%20Case%20-%20Effects%2C%20Risks%2C%20Origins">Study Case - Effects, Risks, Origins</a>"</i> shows dangerous Private Sector operations. 
-<br><a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/Subjective%20Preliminary%20Claims">'Subjective Preliminary Claims'</a> sources explanations to layers of services, companies, decades of fixers, social media building, and malice where extortion using cyber activities comes from.
+<br><a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/Subjective%20Preliminary%20Claims">'Subjective Preliminary Claims'</a> sources explanations to layers of services, companies, decades of fixers, coercive control, social media building, and malice where extortion using cyber activities comes from.
 
 ### <b>Related Articles for Understanding:</b><br> 
 <i>"Disinformation in the Private Sector: The Price of Influence"</i><br>
@@ -161,8 +161,9 @@ Scientific (longer-term):	analysis	- prediction<br></i>
 
 - <i><b>Research and building technologies is Ongoing as the operation is Continuing over years and this is a Public Github Example. </b>
 
- We are continuing analysis and data collections, including creating technologies for systems on <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control.</a></i>
-<br><i>“Since the fate of the world is non-existence, <a href="https://youtu.be/HNwoRxZzbjM?t=35">Since You Exist, Be Merry</a>.” - Persian Mathematician <a href="https://en.wikipedia.org/wiki/Omar_Khayyam">Omar Khayyam</a></i>
+ We are continuing analysis and data collections, including creating technologies for systems on <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control.</a></i> E.g., simulations with multi-agent modeling of patterns of coercive control from victim's experiences shown in media - examples are <a href="https://www.abc.net.au/news/2022-03-23/qld-hannah-clarke-inquest-murder-domestic-violence-rowan-baxter/100932096">Hannah Clarke</a> and <a href="https://theredheartcampaign.org/database/">others</a>.
+ 
+<br><i>“Since the fate of the world is non-existence, <a href="https://youtu.be/HNwoRxZzbjM?t=35">Since You Exist, Be Merry</a>.” - Persian Mathematician <a href="https://en.wikipedia.org/wiki/Omar_Khayyam">Omar Khayyam</a></i> - explained by Amber Heard.
 
 ### <b>Citing Research Project:</b><br>
 If interested in citing our research project in your studies, publication, journal, database, or article, please provide a link to this GitHub repository with its title and contact us for collaboration.
