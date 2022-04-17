@@ -161,7 +161,7 @@ Scientific (longer-term):	analysis	- prediction<br></i>
 
 - <i><b>Research and building technologies is Ongoing as the operation is Continuing over years and this is a Public Github Example. </b>
 
- We are continuing analysis and data collections, including creating technologies for systems on <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control.</a></i> E.g., simulations with multi-agent modeling of patterns of coercive control from victim's experiences shown in media - examples are <a href="https://www.abc.net.au/news/2022-03-23/qld-hannah-clarke-inquest-murder-domestic-violence-rowan-baxter/100932096">Hannah Clarke</a> and <a href="https://theredheartcampaign.org/database/">others</a>.
+ We are continuing analysis and data collections, including creating technologies for systems on <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control.</a></i> E.g., simulations with multi-agent modeling of patterns of coercive control from victims' experiences shown in media - examples are <a href="https://www.abc.net.au/news/2022-03-23/qld-hannah-clarke-inquest-murder-domestic-violence-rowan-baxter/100932096">Hannah Clarke</a> and <a href="https://theredheartcampaign.org/database/">others</a>.
  
 <i>“Since the fate of the world is non-existence, <a href="https://youtu.be/HNwoRxZzbjM?t=35">Since You Exist, Be Merry</a>.” - Persian Mathematician <a href="https://en.wikipedia.org/wiki/Omar_Khayyam">Omar Khayyam</a></i> - explained by Amber Heard.
 
