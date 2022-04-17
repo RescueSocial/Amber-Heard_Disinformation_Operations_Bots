@@ -116,7 +116,7 @@ Analysis is in-progress across-platforms.
 
 ### <b>Background:</b><br>
 Multiple Research Papers on Disinformation/Influence Operations Cross-Platforms, Timelines, Studying Technologies<br>
-August 2020 Counterclaims on Bots: https://www.scribd.com/document/473092071/cl-2019-2911-def-counterclaims-8-10-2020<br>
+Amber Heard's August 2020 Counterclaims on Bots: https://www.scribd.com/document/473092071/cl-2019-2911-def-counterclaims-8-10-2020<br>
 Influence Operation of 6,000 Twitter accounts found by BotSentinel: https://youtu.be/bb2bC04OEPw<br>
 
 <b>Origins, Risks, and Private Sector Operations:</b>
