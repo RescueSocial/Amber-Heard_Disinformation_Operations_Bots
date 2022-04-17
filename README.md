@@ -68,7 +68,7 @@ If you're a humanitarian, researcher, social enterprise, organization, student, 
 <br><br>Since this data is high volume about domestic abuse and gender, with an actress and film industry element, it's highly relevant for classification and data science projects on those topics.
 <br><i>Please contact us for collaboration or if with questions on obtaining more data and code.</i>
 <br><br>
-<b>Although it's abuse of process, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a> is becoming illegal in more countries and states/provinces worldwide.</b> To this degree and volume of intimidation, extortion is already illegal.
+<b>Although it's abuse of process, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a> is becoming illegal in more countries and states/provinces worldwide.</b> To this degree and volume of intimidation, <a href="https://en.wikipedia.org/wiki/Extortion">extortion</a> is already illegal.
 - <i>If you're a victim needing help against cyberabuse especially in <a href="https://safeescape.org">online domestic abuse</a>, operations, and <a href="https://metta-space.com">hostile environments</a>, please contact us.</i><br>
 
 #### <b>Do No Harm:</b>
@@ -101,8 +101,8 @@ This Independent Study is open for Public Research, scientific learning, and arc
 Analysis is in-progress across-platforms. 
 
 - <i>Data of 5 months of December 2020 to April 2021 is provided on GitHub for open peer-review and research studies. Full Data for more independent cross-platform analysis is provided in research data repositories.</i>
-<br><i>- Note:</i> Peaks, Heat Maps of Threats, coordinated bot activities, repeated same texts, and more anomalies show for 2018-2022 continuing, especially February 2020 onward as seen in analysis files.
-<br>Not all analysis is given for researcher privacy for published research papers and review of the operations.
+<i>- Note:</i> Peaks, Heat Maps of Threats, coordinated bot activities, repeated same texts, and more anomalies show for 2018-2022 continuing, especially February 2020 onward as seen in analysis files.
+<br><i>Not all analysis is given for researcher privacy for published research papers and review of the operations.</i>
 
 <i>The Academic API was used for Retweets and <a href="https://InformationTracer.com">InformationTracer</a> for CrowdTangle API.</i><br>
 
