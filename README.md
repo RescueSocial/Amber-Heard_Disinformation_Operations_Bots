@@ -54,7 +54,7 @@ This is the most detailed public analysis of a disinformation operation and the 
 - <b>Analysis Guides</b>
 - <b>Background</b> 
 
-### <b>Positive NLG - Natural Language Generation - Compliments Prompt:</b><br>
+#### <b>Positive NLG - Natural Language Generation - Compliments Prompt:</b><br>
 Compliments Generation on Amber Heard based on Jason Momoa<br>
  https://github.com/semiosis/prompts/blob/master/prompts/compliment-generation-based-on-a-celebrity-1.prompt<br>
 - 10,000 Compliments on Amber Heard made in 2 hours: https://asciinema.org/a/w5ayuAEGGpgsxTCKWbAGRPfvZ<br>
@@ -97,22 +97,22 @@ This Independent Study is open for Public Research, scientific learning, and arc
 - <i>"Research data can save lives, help develop solutions and maximise our knowledge. Promoting collaboration and cooperation among a global research community is the first step to reduce the burden of wasted research."</i>
 - <i>"When researchers make their data public, they increase transparency and trust in their work, they enable others to reproduce and validate their findings, and ultimately, contribute to the pace of scientific discovery by allowing others to reuse and build on top of their data."</i>
 
-<b>Cross-Platforms Analysis:</b><br>
+<b>Across-Platforms Analysis:</b><br>
 Analysis is in-progress across-platforms. 
 
 - <i>Data of 5 months of December 2020 to April 2021 is provided on GitHub for open peer-review and research studies. Full Data for more independent cross-platform analysis is provided in research data repositories.</i>
-<i>- Note:</i> Peaks, Heat Maps of Threats, coordinated bot activities, repeated same texts, and more anomalies show for 2018-2022 continuing, especially February 2020 onward as seen in analysis files.
+<i><br>- Note:</i> Peaks, Heat Maps of Threats, coordinated bot activities, repeated same texts, and more anomalies show for 2018-2022 continuing, especially February 2020 onward as seen in analysis files.
 <br><i>Not all analysis is given for researcher privacy for published research papers and review of the operations.</i>
 
 <i>The Academic API was used for Retweets and <a href="https://InformationTracer.com">InformationTracer</a> for CrowdTangle API.</i><br>
 
 <b>Threat Analysis of "High Risk" Influence:</b><br>
 - Threat analysis and our studies shows the timelines to escalations of risks with keywords, phrases use. Hundreds of thousands of threatening texts exist against Amber Heard on the 6 platforms. In social dynamics, within automated simulations caused by companies and services are percentages of incited people. In examples, within tens of thousands of repeated same texts on YouTube, false interactions on all platforms, and cryptic bot networks are people brought into them to threaten Amber Heard. 
-<br><b><i>We show increases of threats and escalations - even in spite of her winning in cases or gaps of announcements.</b></i> 
 - Experts saw cyber crime needing flagging for removal by cybersecurity. 
 - Clustering analysis with cyber intelligence reveals scientifically operations to cause distress beyond searching manually.
 - <i>"Data voids are not unique to search engines; they occur on social media platforms, too."</i>
 <br> Multiple layers of companies, services, are likely. Along with the case's circumstances of intimidation, violence, missing people, high wealth of opposition, <a href="https://abcnews.go.com/Primetime/LegalCenter/story?id=1625097&page=1">Hollywood fixers</a>, and suspicious activities, the online world similarly has been made threatening to exploit the <a href="https://datasociety.net/library/data-voids">Data Void</a>.
+<br><b><i>We show increases of threats and escalations - even in spite of her winning in cases or gaps of announcements.</b></i> 
 
 ### <b>Background:</b>
 - Amber Heard's August 2020 Counterclaims on Bots: https://www.scribd.com/document/473092071/cl-2019-2911-def-counterclaims-8-10-2020
