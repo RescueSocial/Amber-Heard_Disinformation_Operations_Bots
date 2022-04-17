@@ -57,7 +57,8 @@ This is the most detailed public analysis of a disinformation operation and the 
 #### <b>Positive NLG - Natural Language Generation - Compliments Prompt:</b><br>
 Compliments Generation on Amber Heard based on Jason Momoa<br>
  https://github.com/semiosis/prompts/blob/master/prompts/compliment-generation-based-on-a-celebrity-1.prompt<br>
-- 10,000 Compliments on Amber Heard made in 2 hours: https://asciinema.org/a/w5ayuAEGGpgsxTCKWbAGRPfvZ<br>
+- 10,000 Compliments on Amber Heard made in 2 hours: https://asciinema.org/a/w5ayuAEGGpgsxTCKWbAGRPfvZ
+<br>This shows articulate positive language towards Amber Heard using artificial intelligence language models and helpful relationships.
 - Funny 3-Way Bots chat with Actress Amber Heard, Actor Tom Cruise, and Director Christopher Nolan demonstrated at: https://semiosis.github.io/apostrophe <br>
 - Code, Demos, and Videos from AI Researcher at: https://github.com/mullikine/positive-nlg-compliments<br>
 - <a href="https://github.com/semiosis">Semiosis</a> is a free and open-source curation of prompts for OpenAI's GPT-3/Codex, EleutherAI's GPT-j, AlephAlpha's World Model and other language models.<br>
