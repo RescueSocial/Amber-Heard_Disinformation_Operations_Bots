@@ -107,7 +107,7 @@ Analysis is in-progress across-platforms.
 <i>The Academic API was used for Retweets and <a href="https://InformationTracer.com">InformationTracer</a> for CrowdTangle API.</i><br>
 
 <b>Threat Analysis of "High Risk" Influence:</b><br>
-- Threat analysis and our studies shows the timelines to escalations of risks with keywords, phrases use. Hundreds of thousands of threatening texts exist against Amber Heard on the 6 platforms. With knowledge of social dynamics, within automated simulations caused by services are percentages of incited people. In examples, within tens of thousands of repeated same texts on YouTube, false interactions on all platforms, and cryptic bot networks are people brought into them to threaten Amber Heard. 
+- Threat analysis and our studies shows the timelines to escalations of risks with keywords, phrases use. Hundreds of thousands of threatening texts exist against Amber Heard on 6 platforms. With knowledge of social dynamics, within automated simulations caused by services are percentages of incited people. In examples, within tens of thousands of repeated same texts on YouTube, false interactions on all platforms, and cryptic bot networks are people brought into them to threaten Amber Heard. 
 <br><b><i>We show increases of threats and escalations - even in spite of her winning in cases or gaps of announcements.</b></i>
 - Experts saw cyber crime and suspicious cyber activities needing flagging for removal by cybersecurity. 
 - Clustering analysis with cyber intelligence reveals scientifically operations to cause distress beyond searching manually.
@@ -166,7 +166,7 @@ Scientific (longer-term):	analysis	- prediction<br></i>
 <i>“Since the fate of the world is non-existence, <a href="https://youtu.be/HNwoRxZzbjM?t=35">Since You Exist, Be Merry</a>.” - Persian Mathematician <a href="https://en.wikipedia.org/wiki/Omar_Khayyam">Omar Khayyam</a></i> - explained by Amber Heard.
 
 ### <b>Citing Research Project:</b><br>
-If interested in citing our research project in your studies, publication, journal, database, or article, please provide a link to this GitHub repository with its title and contact us for collaboration.
+If interested in citing our research project in your studies, publication, journal, database, media outlet, or article, please provide a link to this GitHub repository with its title and contact us for collaboration.
 
 - Please ask to collaborate with us, ask us questions, or provide suggestions on our Q&A, rescuesocial@gmail.com, <a href="https://www.linkedin.com/company/rescuesocial/">LinkedIn</a>, or contacting us individually.<br>
 
