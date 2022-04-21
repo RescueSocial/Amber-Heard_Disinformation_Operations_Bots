@@ -92,7 +92,7 @@ def df_more_than_link(df):
 
 def more_than_one_link_with_count(df, column_user, column_urls):
     user_link_m = []
-    for user_links in df[[column_user, column_urls]].values:
+    for user_links in df[[column_user, column_urls,]].values:
         for link in user_links[1]:
             user_link_m.append((user_links[0], link))
     temp = pd.DataFrame(
@@ -108,3 +108,74 @@ def more_than_one_link_with_count(df, column_user, column_urls):
         last_links.append(link)
 
     return pd.DataFrame({"link": last_links, "count": last_c, "n_users": last_u})
+
+
+def one_link_urls_with_count_(one_link_df, user_column, url_column="url"):
+    users = []
+    u = []
+    for url in one_link_df[url_column].values:
+        nn = tuple(set(one_link_df[one_link_df.url == url][user_column]))
+        n = one_link_df[one_link_df.url == url][user_column].nunique()
+        if n != 0:
+            users.append(n)
+            u.append(nn)
+
+    one_link_df["n_users"] = users
+    one_link_df["users"] = u
+    temp_urls = []
+    for i in one_link_df[["url", "n_users", "users"]].values:
+        temp_urls.append((i[0], i[1], i[2]))
+    data_last = dict(Counter(temp_urls))
+    links_last = []
+    nusers_last = []
+    count_last = []
+    users_last = []
+    for url_users, count in data_last.items():
+        links_last.append(url_users[0])
+        count_last.append(count)
+        nusers_last.append(url_users[1])
+        users_last.append(url_users[2])
+
+    return (
+        pd.DataFrame({"link": links_last, "count": count_last, "n_users": nusers_last, "users": users_last})
+        .sort_values("n_users", ascending=False)
+        .reset_index()
+        .drop(columns="index")
+    )
+
+def more_than_one_link_with_count_(df, column_user, column_urls):
+    user_link_m = []
+    n_urls = []
+    for user_links in df[[column_user, column_urls]].values:
+
+        for link in user_links[1]:
+            user_link_m.append((user_links[0], link, len(user_links[1])))
+    temp = pd.DataFrame(
+        {
+            "link": [i[1] for i in user_link_m],
+            "user": [i[0] for i in user_link_m],
+            "n_urls": [i[2] for i in user_link_m],
+        }
+    )
+    links = temp["link"].unique()
+    last_links = []
+    last_u = []
+    last_c = []
+    last_n = []
+    last_nu = []
+    for link in links:
+        last_c.append(temp[temp["link"] == link].shape[0])
+        last_u.append(temp[temp["link"] == link]["user"].nunique())
+        last_nu.append(set((temp[temp["link"] == link]["user"].unique())))
+        last_n.append(set(temp[temp["link"] == link]["n_urls"].values))
+        last_links.append(link)
+
+    return pd.DataFrame(
+        {
+            "link": last_links,
+            "count": last_c,
+            "n_users": last_u,
+            "users": last_nu,
+            "n_urls": last_n,
+        }
+    )
