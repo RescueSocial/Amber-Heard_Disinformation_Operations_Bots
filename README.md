@@ -112,7 +112,7 @@ Analysis is in-progress across-platforms, going beyond any previous public studi
 - Threat analysis and our studies shows the timelines to escalations of risks with keywords, phrases use. Hundreds of thousands of threatening texts exist against Amber Heard on 6 platforms. In social dynamics, within automated simulations caused by services are percentages of incited people to harm. In examples, within tens of thousands of repeated same texts on YouTube (e.g., <a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/Adapt%20and%20Survive%20Amber%20Heard%20-%20YouTube%20Video">"Adapt and Survive"</a>), false interactions on all platforms, and cryptic bot networks are people brought into them to threaten Amber Heard. 
 <br><b><i>We show increases of threats and escalations - even in spite of her winning in cases or gaps of announcements.</b></i>
 - Experts saw cyber crime and <a href="https://www.iosi.global">suspicious activities needing flagging for removal</a> by cybersecurity. See more in Study Case. 
-- Clustering analysis with cyber intelligence research reveals scientifically operations to cause distress beyond searching manually. Clustering further shows sports bots networks, movie networks, and 506 other clusters around the Aquaman petition, nonsense mentions, and astroturfing Reddit NLP.
+- Clustering analysis with cyber intelligence research reveals scientifically operations to cause distress beyond searching manually. Clustering further shows sports bots networks, movie networks, and 506 other clusters around the Aquaman petition, nonsense mentions, and astroturfing.
 - Multiple layers of companies, services, are likely. Along with the case's circumstances of intimidation, violence, missing people, high wealth of opposition, <a href="https://abcnews.go.com/Primetime/LegalCenter/story?id=1625097&page=1">Hollywood Fixers</a>, and suspicious activities, the online world similarly has been made threatening to exploit the <a href="https://datasociety.net/library/data-voids">Data Void</a>. 
 <br><i>"Data voids are not unique to search engines; they occur on social media platforms, too."</i>
 
@@ -122,8 +122,9 @@ Analysis is in-progress across-platforms, going beyond any previous public studi
 - <a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/Subjective%20Preliminary%20Claims">'Subjective Preliminary Claims'</a> sources explanations to layers of services, companies, decades of fixers, coercive control, social media building, insider threats, and malice where extortion using cyber activities can come from.
 
 ### <b>Background:</b>
-- Amber Heard's August 2020 Counterclaims on Bots: https://www.scribd.com/document/473092071/cl-2019-2911-def-counterclaims-8-10-2020
-- Multiple Research Papers on Disinformation/Influence Operations Cross-Platforms, Timelines, Studying Technologies
+- Amber Heard's August 2020 Counterclaims on Bots focused on Top Posting Twitter Accounts Layer only: https://www.scribd.com/document/473092071/cl-2019-2911-def-counterclaims-8-10-2020
+- Multiple Research Papers on Disinformation/Influence Operations Cross-Platforms
+- Timelines of Situations with Data and Studying Technologies (e.g., data analysis, data science, AI/ML, NLU/NLG, content review systems).
 - Influence Operation of 6,000 Twitter accounts found by BotSentinel: https://youtu.be/bb2bC04OEPw<br>
 
 ### <b>Related Articles for Understanding:</b><br> 
