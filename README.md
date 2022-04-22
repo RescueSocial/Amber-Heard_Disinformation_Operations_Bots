@@ -68,7 +68,7 @@ Compliments Generation on Amber Heard based on Jason Momoa<br>
 - <a href="https://github.com/semiosis">Semiosis</a> is a free and open-source curation of prompts for OpenAI's GPT-3/Codex, EleutherAI's GPT-j, AlephAlpha's World Model and other language models.<br>
 <br>
  
-<div style="width:300px ; height:50px">
+ <div>
 <img src="1 Cover Summary Social Network Analysis Amber Heard 2.jpeg" alt="Cover" title="Cover Summary Social Network Analysis Amber Heard 2.jpeg"><div>
 
 ### <b>Collaboration:</b> 
