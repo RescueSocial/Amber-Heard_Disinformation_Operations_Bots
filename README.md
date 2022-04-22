@@ -108,16 +108,11 @@ Analysis is in-progress across-platforms.
 
 <i>The Academic API was used for Retweets and <a href="https://InformationTracer.com">InformationTracer</a> for CrowdTangle API.</i><br>
 
-### <b>Background:</b>
-- Amber Heard's August 2020 Counterclaims on Bots: https://www.scribd.com/document/473092071/cl-2019-2911-def-counterclaims-8-10-2020
-- Multiple Research Papers on Disinformation/Influence Operations Cross-Platforms, Timelines, Studying Technologies
-- Influence Operation of 6,000 Twitter accounts found by BotSentinel: https://youtu.be/bb2bC04OEPw<br>
-
-<b>Threat Analysis of "High Risk" Influence:</b><br>
+### <b>Threat Analysis of "High Risk" Influence:</b><br>
 - Threat analysis and our studies shows the timelines to escalations of risks with keywords, phrases use. Hundreds of thousands of threatening texts exist against Amber Heard on 6 platforms. With knowledge of social dynamics, within automated simulations caused by services are percentages of incited people to harm her. In examples, within tens of thousands of repeated same texts on YouTube, false interactions on all platforms, and cryptic bot networks are people brought into them to threaten Amber Heard. 
 <br><b><i>We show increases of threats and escalations - even in spite of her winning in cases or gaps of announcements.</b></i>
 - Experts saw cyber crime and <a href="https://www.iosi.global">suspicious activities needing flagging for removal</a> by cybersecurity. See more in Study Case. 
-- Clustering analysis with cyber intelligence research reveals scientifically operations to cause distress beyond searching manually. Clustering further shows sports bots networks, movie networks, and 506 other clusters around the Aquaman petition and Reddit NLP.
+- Clustering analysis with cyber intelligence research reveals scientifically operations to cause distress beyond searching manually. Clustering further shows sports bots networks, movie networks, and 506 other clusters around the Aquaman petition, mentions, and Reddit NLP.
 - Multiple layers of companies, services, can be used. Along with the case's circumstances of intimidation, violence, missing people, high wealth of opposition, <a href="https://abcnews.go.com/Primetime/LegalCenter/story?id=1625097&page=1">hollywood fixers</a>, and suspicious activities, the online world similarly has been made threatening to exploit the <a href="https://datasociety.net/library/data-voids">Data Void</a>. 
 <br><i>"Data voids are not unique to search engines; they occur on social media platforms, too."</i>
 
@@ -125,6 +120,11 @@ Analysis is in-progress across-platforms.
 - After reviewing analysis and data quantifications, explanations of origins and motive can be discovered. 
 <br>Folder <i>"<a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/-%20Study%20Case%20-%20Effects%2C%20Risks%2C%20Origins">Study Case - Effects, Risks, Origins</a>"</i> shows dangerous Private Sector operations. 
 - <a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/Subjective%20Preliminary%20Claims">'Subjective Preliminary Claims'</a> sources explanations to layers of services, companies, decades of fixers, coercive control, social media building, insider threats, and malice where extortion using cyber activities can come from.
+
+### <b>Background:</b>
+- Amber Heard's August 2020 Counterclaims on Bots: https://www.scribd.com/document/473092071/cl-2019-2911-def-counterclaims-8-10-2020
+- Multiple Research Papers on Disinformation/Influence Operations Cross-Platforms, Timelines, Studying Technologies
+- Influence Operation of 6,000 Twitter accounts found by BotSentinel: https://youtu.be/bb2bC04OEPw<br>
 
 ### <b>Related Articles for Understanding:</b><br> 
 <i>"Disinformation in the Private Sector: The Price of Influence"</i><br>
