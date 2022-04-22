@@ -8,7 +8,7 @@ We're Worldwide Independent Researchers with over 20 data analysts, scientists, 
 
 #### <i><b>Data collected on Amber Heard is primarily related to the years 2018-2021, ongoing into 2022.</b></i>
 
-This is the most detailed public analysis of a disinformation operation and the most voluminous yet - showing the impact of <a href="https://www.brookings.edu/research/the-breakout-scale-measuring-the-impact-of-influence-operations"><i>Category 6</a> influence,</b></i> globally affecting the public, businesses, nonprofits, reporters, social connections, well-being, and entities beyond the victim, Amber Heard. 
+This is the most detailed public analysis of a disinformation operation and the most voluminous yet - showing the impact of <a href="https://www.brookings.edu/research/the-breakout-scale-measuring-the-impact-of-influence-operations"><i>Category 6</a> influence,</b></i> globally affecting the public, businesses, nonprofits, reporters, social connections, well-being and entities beyond the victim, Amber Heard. 
 <br>This dynamic project is in-progress, prepared for review, and ready to be built upon.  
 
 <b>Our Study creates Precedents and Foundations to help victims of cyberabuse, bots, domestic abuse, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a>, hostile environments, and Disinformation Operations to Improve Lives.</b> 
@@ -118,7 +118,7 @@ Analysis is in-progress across-platforms, <b>going beyond any previous public st
 
 <b>Origins, Risks, and Private Sector Operations:</b>
 - After reviewing analysis and data quantifications, explanations of origins and motive can be discovered. 
-<br>Folder <i>"<a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/-%20Study%20Case%20-%20Effects%2C%20Risks%2C%20Origins">Study Case - Effects, Risks, Origins</a>"</i> shows dangerous Private Sector operations. 
+<br>Folder <i><a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/-%20Study%20Case%20-%20Effects%2C%20Risks%2C%20Origins">'Study Case - Effects, Risks, Origins'</a></i> shows dangerous Private Sector operations. 
 - <a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/Subjective%20Preliminary%20Claims">'Subjective Preliminary Claims'</a> sources explanations to layers of services, companies, decades of fixers, coercive control, social media building, insider threats, and malice where extortion using cyber activities can come from.
 
 ### <b>Background:</b>
