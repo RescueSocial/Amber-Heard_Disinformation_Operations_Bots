@@ -133,7 +133,7 @@ There have been victims of disinformation and influence operations in the <b>Pri
 - <b>Hired Services - New Accounts Layers, Aged Accounts, Created News-Sites:</b></br>
 <a href="https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf">go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf</a><br>
 - Psy-Group's Operations and Bots - www.newyorker.com/magazine/2019/02/18/private-mossad-for-hire<br>
-- Devumi Services and Bots - www.thebureauinvestigates.com/stories/2017-12-07/twitterbots<br>
+- Devumi Services and Bots for Public Figures - www.thebureauinvestigates.com/stories/2017-12-07/twitterbots<br>
 - BlackCube vs Actresses - www.newyorker.com/news/news-desk/harvey-weinsteins-army-of-spies<br>
 - Medium "Bots Created Anti-Amber Heard" Operations - <a href="medium.com/@aquaman-bots/how-social-bots-created-an-anti-amber-heard-aquaman-campaign-e68e16637d3a">medium.com/@aquaman-bots/how-social-bots-created-an-anti-amber-heard-aquaman-campaign-e68e16637d3a</a><br>
 - Video - Rose McGowan vs BlackCube - www.youtube.com/watch?v=tv6ewJQ7L3k<br>
