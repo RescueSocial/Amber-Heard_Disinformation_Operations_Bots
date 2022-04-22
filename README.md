@@ -113,7 +113,7 @@ Analysis is in-progress across-platforms, going beyond any previous public studi
 <br><b><i>We show increases of threats and escalations - even in spite of her winning in cases or gaps of announcements.</b></i>
 - Experts saw cyber crime and <a href="https://www.iosi.global">suspicious activities needing flagging for removal</a> by cybersecurity. See more in Study Case. 
 - Clustering analysis with cyber intelligence research reveals scientifically operations to cause distress beyond searching manually. Clustering further shows sports bots networks, movie networks, and 506 other clusters around the Aquaman petition, nonsense mentions, and astroturfing Reddit NLP.
-- Multiple layers of companies, services, are likely. Along with the case's circumstances of intimidation, violence, missing people, high wealth of opposition, <a href="https://abcnews.go.com/Primetime/LegalCenter/story?id=1625097&page=1">hollywood fixers</a>, and suspicious activities, the online world similarly has been made threatening to exploit the <a href="https://datasociety.net/library/data-voids">Data Void</a>. 
+- Multiple layers of companies, services, are likely. Along with the case's circumstances of intimidation, violence, missing people, high wealth of opposition, <a href="https://abcnews.go.com/Primetime/LegalCenter/story?id=1625097&page=1">Hollywood Fixers</a>, and suspicious activities, the online world similarly has been made threatening to exploit the <a href="https://datasociety.net/library/data-voids">Data Void</a>. 
 <br><i>"Data voids are not unique to search engines; they occur on social media platforms, too."</i>
 
 <b>Origins, Risks, and Private Sector Operations:</b>
@@ -131,15 +131,15 @@ Analysis is in-progress across-platforms, going beyond any previous public studi
 There have been victims of disinformation and influence operations in the <b>Private Sector</b> for decades. Operations can mirror coercive control strategies. This open-source study can be used to help others by creating guides without needing to start from scratch.
 
 - <b>Hired Services - New Accounts Layers, Aged Accounts, Created News-Sites:</b></br>
-<a href="https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf">go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf</a><br>
-- Psy-Group's Operations and Bots - www.newyorker.com/magazine/2019/02/18/private-mossad-for-hire<br>
-- Devumi Services and Bots for Public Figures - www.thebureauinvestigates.com/stories/2017-12-07/twitterbots<br>
-- BlackCube vs Actresses - www.newyorker.com/news/news-desk/harvey-weinsteins-army-of-spies<br>
-- Medium "Bots Created Anti-Amber Heard" Operations - <a href="medium.com/@aquaman-bots/how-social-bots-created-an-anti-amber-heard-aquaman-campaign-e68e16637d3a">medium.com/@aquaman-bots/how-social-bots-created-an-anti-amber-heard-aquaman-campaign-e68e16637d3a</a><br>
-- Video - Rose McGowan vs BlackCube - www.youtube.com/watch?v=tv6ewJQ7L3k<br>
-- Actress Meghan Markle Operations - (1) <a href="https://laptrinhx.com/meghan-markle-s-twitter-bot-network-the-whole-thing-is-a-bit-insane-2560404981">laptrinhx.com/meghan-markle-s-twitter-bot-network-the-whole-thing-is-a-bit-insane-2560404981</a> (2) www.newsweek.com/meghan-markle-troll-accused-posing-black-woman-second-account-suspended-twitter-bot-sentinel-1652271<br>
-- Jessica Reisinger-Raubenolt & Lilia Operations - www.tampabay.com/news/crime/2021/08/05/cameron-herrin-went-to-prison-for-a-tampa-crash-were-the-tweets-that-followed-real<br>
-- Amber Heard, Cyrillic Spiders from Mars - www.thegeekbuzz.com/the-basement/cyrillic-russian-spiders-from-mars
+<a href="https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf">https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf</a><br>
+- Psy-Group's Operations and Bots - https://www.newyorker.com/magazine/2019/02/18/private-mossad-for-hire<br>
+- Devumi Services and Bots for Public Figures - https://www.thebureauinvestigates.com/stories/2017-12-07/twitterbots<br>
+- BlackCube vs Actresses - https://www.newyorker.com/news/news-desk/harvey-weinsteins-army-of-spies<br>
+- Medium "Bots Created Anti-Amber Heard" Operations - <a href="https://medium.com/@aquaman-bots/how-social-bots-created-an-anti-amber-heard-aquaman-campaign-e68e16637d3a">https://medium.com/@aquaman-bots/how-social-bots-created-an-anti-amber-heard-aquaman-campaign-e68e16637d3a</a><br>
+- Video - Rose McGowan vs BlackCube - https://www.youtube.com/watch?v=tv6ewJQ7L3k<br>
+- Actress Meghan Markle Operations - (1) <a href="https://laptrinhx.com/meghan-markle-s-twitter-bot-network-the-whole-thing-is-a-bit-insane-2560404981">https://laptrinhx.com/meghan-markle-s-twitter-bot-network-the-whole-thing-is-a-bit-insane-2560404981</a> (2) https://www.newsweek.com/meghan-markle-troll-accused-posing-black-woman-second-account-suspended-twitter-bot-sentinel-1652271<br>
+- Jessica Reisinger-Raubenolt & Lilia Operations - https://www.tampabay.com/news/crime/2021/08/05/cameron-herrin-went-to-prison-for-a-tampa-crash-were-the-tweets-that-followed-real<br>
+- Amber Heard, Cyrillic Spiders from Mars - https://www.thegeekbuzz.com/the-basement/cyrillic-russian-spiders-from-mars
 
 
 ### <b>Scientific Methods:</b>
