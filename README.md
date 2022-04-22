@@ -20,7 +20,7 @@ This is the most detailed public analysis of a disinformation operation and the 
 <br>- <b>Full Data</b> sharing is in-progress on <a href="https://www.kaggle.com/amberhearddata/datasets">Kaggle</a>, <a href="https://drive.google.com/drive/folders/1GjKdNpsJSBIX9MsQgKq2FGTArDVEYFFI?usp=sharing">Google</a>, Archives, <a href="https://www.scribd.com/user/598949302/Rescue-Social-Tech/uploads">Scribd</a> and public research data repositories.</i>
 
 <div style="width:500px ; height:100px">
-![Summary data](/Summary Amber Heard Social Network Analysis 1 Cover.jpeg?raw=true "Summary Amber Heard Social Network Analysis 1 Cover")
+![Summary data](/repository/Summary Amber Heard Social Network Analysis 1 Cover.jpeg?raw=true "Summary Amber Heard Social Network Analysis 1 Cover")
 <div>
 
 ### <b>Amounts of Data Collections [Updates]:</b><br>
