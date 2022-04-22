@@ -69,7 +69,8 @@ If you're a humanitarian, researcher, social enterprise, organization, student, 
 <br><br>Since this data is high volume about domestic abuse and gender, with an actress/model and film industry element, it's highly relevant for classification and data science projects on those topics.
 <br><i>Please contact us for collaboration or if with questions on obtaining more data and code.</i>
 <br><br>
-<b>Although it's abuse of process, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a> is becoming illegal in more countries and states/provinces worldwide.</b> To this degree and volume of intimidation, <a href="https://en.wikipedia.org/wiki/Extortion">extortion</a> is already illegal.
+<b>Although it's abuse of process, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a> is becoming illegal in more countries and states/provinces worldwide.</b> 
+<br>To this degree, severity, and volume of intimidation, <a href="https://en.wikipedia.org/wiki/Extortion">extortion</a> is already illegal.
 - <i>If you're a victim needing help against cyberabuse especially in <a href="https://safeescape.org">online domestic abuse</a>, operations, and <a href="https://metta-space.com">hostile environments</a>, please contact us.</i><br>
 
 #### <b>Do No Harm:</b>
@@ -108,12 +109,12 @@ Analysis is in-progress across-platforms.
 <i>The Academic API was used for Retweets and <a href="https://InformationTracer.com">InformationTracer</a> for CrowdTangle API.</i><br>
 
 <b>Threat Analysis of "High Risk" Influence:</b><br>
-- Threat analysis and our studies shows the timelines to escalations of risks with keywords, phrases use. Hundreds of thousands of threatening texts exist against Amber Heard on 6 platforms. With knowledge of social dynamics, within automated simulations caused by services are percentages of incited people. In examples, within tens of thousands of repeated same texts on YouTube, false interactions on all platforms, and cryptic bot networks are people brought into them to threaten Amber Heard. 
+- Threat analysis and our studies shows the timelines to escalations of risks with keywords, phrases use. Hundreds of thousands of threatening texts exist against Amber Heard on 6 platforms. With knowledge of social dynamics, within automated simulations caused by services are percentages of incited people to harm her. In examples, within tens of thousands of repeated same texts on YouTube, false interactions on all platforms, and cryptic bot networks are people brought into them to threaten Amber Heard. 
 <br><b><i>We show increases of threats and escalations - even in spite of her winning in cases or gaps of announcements.</b></i>
-- Experts saw cyber crime and suspicious cyber activities needing flagging for removal by cybersecurity. 
-- Clustering analysis with cyber intelligence reveals scientifically operations to cause distress beyond searching manually.
-- <i>"Data voids are not unique to search engines; they occur on social media platforms, too."</i>
+- Experts saw cyber crime and <a href="https://www.iosi.global">suspicious activities needing flagging for removal</a> by cybersecurity. See more in Study Case. 
+- Clustering analysis with cyber intelligence - from Italy - reveals scientifically operations to cause distress beyond searching manually. Clustering further shows sports bots networks, movie networks, and 506 other clusters around the Aquaman petition and Reddit NLP.
 <br> Multiple layers of companies, services, are likely. Along with the case's circumstances of intimidation, violence, missing people, high wealth of opposition, <a href="https://abcnews.go.com/Primetime/LegalCenter/story?id=1625097&page=1">Hollywood fixers</a>, and suspicious activities, the online world similarly has been made threatening to exploit the <a href="https://datasociety.net/library/data-voids">Data Void</a>. 
+- <i>"Data voids are not unique to search engines; they occur on social media platforms, too."</i>
 
 ### <b>Background:</b>
 - Multiple Research Papers on Disinformation/Influence Operations Cross-Platforms, Timelines, Studying Technologies
@@ -127,9 +128,9 @@ Analysis is in-progress across-platforms.
 
 ### <b>Related Articles for Understanding:</b><br> 
 <i>"Disinformation in the Private Sector: The Price of Influence"</i><br>
-There have been victims of disinformation and influence operations in the Private Sector for decades. Operations can mirror coercive control strategies. This open-source study can be used to help others by creating guides without needing to start from scratch.
+There have been victims of disinformation and influence operations in the <b>Private Sector</b> for decades. Operations can mirror coercive control strategies. This open-source study can be used to help others by creating guides without needing to start from scratch.
 
-- Hired Services - New Accounts Layers, Aged Accounts, Created News-Sites:</br>
+- <b>Hired Services - New Accounts Layers, Aged Accounts, Created News-Sites:</a></br>
 <a href="https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf">go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf</a><br>
 - Psy-Group's Operations and Bots - www.newyorker.com/magazine/2019/02/18/private-mossad-for-hire<br>
 - Devumi Services and Bots - www.thebureauinvestigates.com/stories/2017-12-07/twitterbots<br>
