@@ -100,7 +100,7 @@ This Independent Study is open for Public Research, scientific learning, and arc
 - "When researchers make their data public, they increase transparency and trust in their work, they enable others to reproduce and validate their findings, and ultimately, contribute to the pace of scientific discovery by allowing others to reuse and build on top of their data."
 
 <b>Across-Platforms Analysis:</b><br>
-Analysis is in-progress across-platforms, going beyond any previous public studies. 
+Analysis is in-progress across-platforms, <b>going beyond any previous public studies</b>. 
 
 - <i>Data of 5 months of December 2020 to April 2021 is provided on GitHub for open peer-review and research studies. Full Data for more independent cross-platform analysis is provided in research data repositories.</i>
 - <i> Note:</i> Peaks, Heat Maps of Threats, coordinated bot activities, repeated same texts, and more anomalies show for 2018-2022 continuing, especially February 2020 onward as seen in analysis files.
@@ -162,7 +162,7 @@ Scientific (longer-term):	analysis	- prediction<br></i>
 ### <b>Researchers:</b>
 <b>We welcome Researchers to work with this Data on Amber Heard to create Blueprints on how Bots and Disinformation/Influence Operations work. </b>
 
-- <i><b>Research and building technologies is Ongoing as the operation is Continuing over years and this is a Public Github Example. </b>
+- <i><b>Continuation: Research and building technologies is Ongoing as the operation is Continuing over years and this is a Public Github Example. </b>
 
  We are continuing analysis and data collections, including creating technologies for systems on <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control.</a></i> 
 <br>E.g., simulations/monte carlos with multi-agent modeling of patterns of coercive control from victims' experiences shown in media - examples are <a href="https://www.abc.net.au/news/2022-03-23/qld-hannah-clarke-inquest-murder-domestic-violence-rowan-baxter/100932096">Hannah Clarke</a> and <a href="https://theredheartcampaign.org/database/">others</a>. Data analysis connecting timelines of documentation is encouraged for new systems.
