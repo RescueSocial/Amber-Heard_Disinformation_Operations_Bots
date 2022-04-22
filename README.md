@@ -151,7 +151,7 @@ There have been victims of disinformation and influence operations in the <b>Pri
 - Jessica Reisinger-Raubenolt & Lilia Operations - https://www.tampabay.com/news/crime/2021/08/05/cameron-herrin-went-to-prison-for-a-tampa-crash-were-the-tweets-that-followed-real<br>
 - Amber Heard, Cyrillic Spiders from Mars - https://www.thegeekbuzz.com/the-basement/cyrillic-russian-spiders-from-mars
 
-<img src="3 Cover Summary Social Network Analysis Amber Heard 3.jpeg" height="300" width="500" alt="Cover" title="Cover Summary Social Network Analysis Amber Heard 3.jpeg.jpeg"><div>
+<center><img src="3 Cover Summary Social Network Analysis Amber Heard 3.jpeg" height="300" width="400" alt="Cover" title="Cover Summary Social Network Analysis Amber Heard 3.jpeg.jpeg"><div>
 
 ### <b>Scientific Methods:</b>
 Worldwide Data Scientists, Researchers in Cyber Intelligence, PhDs, Data Analysts, and a former Google Research Intern collected and analyzed data. We use the scientific method of testing.
