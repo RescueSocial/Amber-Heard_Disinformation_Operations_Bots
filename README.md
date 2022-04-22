@@ -116,7 +116,7 @@ Analysis is in-progress across-platforms, <b>going beyond any previous public st
 - Multiple layers of companies, services, are likely. Along with the case's circumstances of intimidation, violence, missing people, high wealth of opposition, <a href="https://abcnews.go.com/Primetime/LegalCenter/story?id=1625097&page=1">Hollywood Fixers</a>, and suspicious activities, the online world similarly has been made threatening to exploit the <a href="https://datasociety.net/library/data-voids">Data Void</a>. 
 <br><i>"Data voids are not unique to search engines; they occur on social media platforms, too."</i>
 
-<b>Origins, Risks, Situation. and Private Sector Operations:</b>
+<b>Origins, Risks, Situation, and Private Sector Operations:</b>
 - After reviewing analysis and data quantifications, explanations of origins and motive can be discovered. 
 <br>Folder <i><a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/-%20Study%20Case%20-%20Effects%2C%20Risks%2C%20Origins">'Study Case - Effects, Risks, Origins'</a></i> shows dangerous Private Sector operations. 
 - <a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/Subjective%20Preliminary%20Claims">'Subjective Preliminary Claims'</a> sources explanations to layers of services, companies, decades of fixers, coercive control, social media building, insider threats, and malice where extortion using cyber activities can come from.
