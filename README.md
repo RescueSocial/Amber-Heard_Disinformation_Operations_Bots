@@ -114,7 +114,7 @@ Analysis is in-progress across-platforms.
 - Experts saw cyber crime and <a href="https://www.iosi.global">suspicious activities needing flagging for removal</a> by cybersecurity. See more in Study Case. 
 - Clustering analysis with cyber intelligence - from Italy - reveals scientifically operations to cause distress beyond searching manually. Clustering further shows sports bots networks, movie networks, and 506 other clusters around the Aquaman petition and Reddit NLP.
 <br> Multiple layers of companies, services, are likely. Along with the case's circumstances of intimidation, violence, missing people, high wealth of opposition, <a href="https://abcnews.go.com/Primetime/LegalCenter/story?id=1625097&page=1">Hollywood fixers</a>, and suspicious activities, the online world similarly has been made threatening to exploit the <a href="https://datasociety.net/library/data-voids">Data Void</a>. 
-- <i>"Data voids are not unique to search engines; they occur on social media platforms, too."</i>
+<br><i>"Data voids are not unique to search engines; they occur on social media platforms, too."</i>
 
 ### <b>Background:</b>
 - Multiple Research Papers on Disinformation/Influence Operations Cross-Platforms, Timelines, Studying Technologies
@@ -130,7 +130,7 @@ Analysis is in-progress across-platforms.
 <i>"Disinformation in the Private Sector: The Price of Influence"</i><br>
 There have been victims of disinformation and influence operations in the <b>Private Sector</b> for decades. Operations can mirror coercive control strategies. This open-source study can be used to help others by creating guides without needing to start from scratch.
 
-- <b>Hired Services - New Accounts Layers, Aged Accounts, Created News-Sites:</a></br>
+- <b>Hired Services - New Accounts Layers, Aged Accounts, Created News-Sites:</b></br>
 <a href="https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf">go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf</a><br>
 - Psy-Group's Operations and Bots - www.newyorker.com/magazine/2019/02/18/private-mossad-for-hire<br>
 - Devumi Services and Bots - www.thebureauinvestigates.com/stories/2017-12-07/twitterbots<br>
