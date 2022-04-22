@@ -108,7 +108,7 @@ Analysis is in-progress across-platforms, going beyond any previous public studi
 
 <i>The Academic API was used for Retweets and <a href="https://InformationTracer.com">InformationTracer</a> for CrowdTangle API.</i><br>
 
-#### <b>Threat Analysis of "High Risk" Influence:</b><br>
+### <b>Threat Analysis of "High Risk" Influence:</b><br>
 - <b><i>We show increases of threats and escalations - even in spite of her winning in cases or gaps of announcements.</b></i>
 - Threat analysis and our studies shows the timelines to escalations of risks with keywords, phrases use. Hundreds of thousands of threatening texts exist against Amber Heard on 6 platforms. In social dynamics, within automated simulations caused by services are percentages of incited people to harm. In examples, within tens of thousands of repeated same texts on YouTube (e.g., <a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/Adapt%20and%20Survive%20Amber%20Heard%20-%20YouTube%20Video">"Adapt and Survive"</a>), false interactions on all platforms, and cryptic bot networks are people brought into them to threaten Amber Heard.  
 - Clustering analysis with cyber intelligence research reveals scientifically operations to cause distress beyond searching manually. Clustering further shows sports bots networks, movie networks, and 506 other clusters around the Aquaman petition, nonsense mentions, and astroturfing e.g., Reddit NLP sandbox.
