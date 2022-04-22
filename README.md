@@ -67,6 +67,9 @@ Compliments Generation on Amber Heard based on Jason Momoa<br>
 - Code, Demos, and Videos from AI Researcher at: https://github.com/mullikine/positive-nlg-compliments<br>
 - <a href="https://github.com/semiosis">Semiosis</a> is a free and open-source curation of prompts for OpenAI's GPT-3/Codex, EleutherAI's GPT-j, AlephAlpha's World Model and other language models.<br>
 
+<div style="width:500px ; height:100px">
+<img src="1 Cover Summary Social Network Analysis Amber Heard 2.jpeg" alt="Cover" title="Cover Summary Social Network Analysis Amber Heard 2.jpeg"><div>
+
 ### <b>Collaboration:</b> 
 If you're a humanitarian, researcher, social enterprise, organization, student, or academic helping female victims of abuse, coercive control, domestic abuse, bots, operations, violence, harassment, or hostile environments - we welcome collaboration with you.
 <br>Our studies and data can be used for Social Network Analysis, Data Analysis, machine learning, Natural Language Processing, artificial intelligence, Data Science labeling, anti-abuse, rescue projects, anti-crime, timelines, OSINT, simulations, and monitoring systems to help other victims and their lives. 
