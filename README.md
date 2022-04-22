@@ -123,8 +123,8 @@ Analysis is in-progress across-platforms, going beyond any previous public studi
 
 ### <b>Background:</b>
 - Amber Heard's August 2020 Counterclaims on Bots focused on Correlating Edited Media Leaks and Top Posting Twitter Accounts Layer only: https://www.scribd.com/document/473092071/cl-2019-2911-def-counterclaims-8-10-2020
-- Multiple Research Papers on Disinformation/Influence Operations Cross-Platforms
-- Timelines of Situations with Data and Studying Technologies (e.g., data analysis, data science, AI/ML, NLU/NLG, content review systems).
+- Multiple <a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/Research%20Papers%20-%20Background">Research Papers</a> on Disinformation/Influence Operations Cross-Platforms
+- <a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/Timeline%20Comparisons%20-%20Events">Timelines</a> of Situations of distress to Data and <a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/-%20Study%20Case%20-%20Effects%2C%20Risks%2C%20Origins/Studying%20Technologies">Studying Technologies</a> (e.g., data analysis, data science, AI/ML, NLU/NLG, content review systems).
 - Influence Operation of 6,000 Twitter accounts found by BotSentinel: https://youtu.be/bb2bC04OEPw<br>
 
 ### <b>Related Articles for Understanding:</b><br> 
