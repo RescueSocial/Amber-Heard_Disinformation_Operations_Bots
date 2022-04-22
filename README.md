@@ -133,7 +133,7 @@ There have been victims of disinformation and influence operations in the <b>Pri
 - <b>Hired Services - New Accounts Layers, Aged Accounts, Created News-Sites:</b></br>
 <a href="https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf">https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf</a><br>
 - Psy-Group's Operations and Bots - https://www.newyorker.com/magazine/2019/02/18/private-mossad-for-hire<br>
-- Devumi Services and Bots for Public Figures - (1) https://www.thebureauinvestigates.com/stories/2017-12-07/twitterbots<br> (2) https://gadgets360.com/social-networking/news/devumi-a-firm-that-sells-fake-twitter-followers-to-be-probed-by-new-york-attorney-general-1805985
+- Devumi Services and Bots for Public Figures - (1) https://www.thebureauinvestigates.com/stories/2017-12-07/twitterbots<br> (2) <a href="https://gadgets360.com/social-networking/news/devumi-a-firm-that-sells-fake-twitter-followers-to-be-probed-by-new-york-attorney-general-1805985">devumi-a-firm-that-sells-fake-twitter-followers-to-be-probed-by-new-york-attorney-general</a>
 - BlackCube vs Actresses - https://www.newyorker.com/news/news-desk/harvey-weinsteins-army-of-spies<br>
 - Medium "Bots Created Anti-Amber Heard" Operations - <a href="https://medium.com/@aquaman-bots/how-social-bots-created-an-anti-amber-heard-aquaman-campaign-e68e16637d3a">https://medium.com/@aquaman-bots/how-social-bots-created-an-anti-amber-heard-aquaman-campaign-e68e16637d3a</a><br>
 - Video - Rose McGowan vs BlackCube - https://www.youtube.com/watch?v=tv6ewJQ7L3k<br>
