@@ -135,8 +135,6 @@ Analysis is in-progress across-platforms, <b>going beyond any previous public st
 - <a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/Timeline%20Comparisons%20-%20Events">Timelines</a> of Situations of distress to Data and <a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/-%20Study%20Case%20-%20Effects%2C%20Risks%2C%20Origins/Studying%20Technologies">Studying Technologies</a> (e.g., data analysis, data science, AI/ML, NLU/NLG, content review systems).
 - Influence Operation of 6,000 Twitter accounts found by BotSentinel: https://youtu.be/bb2bC04OEPw<br>
  
- <div style="width:300px ; height:50px">
-<img src="3 Cover Summary Social Network Analysis Amber Heard 3.jpeg" alt="Cover" title="Cover Summary Social Network Analysis Amber Heard 3.jpeg.jpeg"><div>
 
 ### <b>Related Articles for Understanding:</b><br> 
 <i>"Disinformation in the Private Sector: The Price of Influence"</i><br>
@@ -153,6 +151,7 @@ There have been victims of disinformation and influence operations in the <b>Pri
 - Jessica Reisinger-Raubenolt & Lilia Operations - https://www.tampabay.com/news/crime/2021/08/05/cameron-herrin-went-to-prison-for-a-tampa-crash-were-the-tweets-that-followed-real<br>
 - Amber Heard, Cyrillic Spiders from Mars - https://www.thegeekbuzz.com/the-basement/cyrillic-russian-spiders-from-mars
 
+<img src="3 Cover Summary Social Network Analysis Amber Heard 3.jpeg" height="300" width="100" alt="Cover" title="Cover Summary Social Network Analysis Amber Heard 3.jpeg.jpeg"><div>
 
 ### <b>Scientific Methods:</b>
 Worldwide Data Scientists, Researchers in Cyber Intelligence, PhDs, Data Analysts, and a former Google Research Intern collected and analyzed data. We use the scientific method of testing.
