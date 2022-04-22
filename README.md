@@ -66,7 +66,8 @@ Compliments Generation on Amber Heard based on Jason Momoa<br>
 - Funny 3-Way Bots chat with Actress Amber Heard, Actor Tom Cruise, and Director Christopher Nolan demonstrated at: https://semiosis.github.io/apostrophe <br>
 - Code, Demos, and Videos from AI Researcher at: https://github.com/mullikine/positive-nlg-compliments<br>
 - <a href="https://github.com/semiosis">Semiosis</a> is a free and open-source curation of prompts for OpenAI's GPT-3/Codex, EleutherAI's GPT-j, AlephAlpha's World Model and other language models.<br>
-
+<br>
+ 
 <div style="width:300px ; height:50px">
 <img src="1 Cover Summary Social Network Analysis Amber Heard 2.jpeg" alt="Cover" title="Cover Summary Social Network Analysis Amber Heard 2.jpeg"><div>
 
@@ -133,6 +134,9 @@ Analysis is in-progress across-platforms, <b>going beyond any previous public st
 - Multiple <a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/Research%20Papers%20-%20Background">Research Papers</a> on Disinformation/Influence Operations Cross-Platforms
 - <a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/Timeline%20Comparisons%20-%20Events">Timelines</a> of Situations of distress to Data and <a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/-%20Study%20Case%20-%20Effects%2C%20Risks%2C%20Origins/Studying%20Technologies">Studying Technologies</a> (e.g., data analysis, data science, AI/ML, NLU/NLG, content review systems).
 - Influence Operation of 6,000 Twitter accounts found by BotSentinel: https://youtu.be/bb2bC04OEPw<br>
+ 
+ <div style="width:300px ; height:50px">
+<img src="3 Cover Summary Social Network Analysis Amber Heard 3.jpeg" alt="Cover" title="Cover Summary Social Network Analysis Amber Heard 3.jpeg.jpeg"><div>
 
 ### <b>Related Articles for Understanding:</b><br> 
 <i>"Disinformation in the Private Sector: The Price of Influence"</i><br>
