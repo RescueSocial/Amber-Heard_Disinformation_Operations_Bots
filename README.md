@@ -19,6 +19,10 @@ This is the most detailed public analysis of a disinformation operation and the 
 <br>- If a file of analysis is too large to preview on github, please download, or preview in this <a href="https://drive.google.com/drive/folders/18MWGm7dRX6Gi5UPo0fO9xQMtT4eHIrbn?usp=sharing">google folder</a>.
 <br>- <b>Full Data</b> sharing is in-progress on <a href="https://www.kaggle.com/amberhearddata/datasets">Kaggle</a>, <a href="https://drive.google.com/drive/folders/1GjKdNpsJSBIX9MsQgKq2FGTArDVEYFFI?usp=sharing">Google</a>, Archives, <a href="https://www.scribd.com/user/598949302/Rescue-Social-Tech/uploads">Scribd</a> and public research data repositories.</i>
 
+<div style="width:500px ; height:100px">
+![Summary data](/Summary Amber Heard Social Network Analysis 1 Cover.jpeg?raw=true "Summary Amber Heard Social Network Analysis 1 Cover")
+<div>
+
 ### <b>Amounts of Data Collections [Updates]:</b><br>
 - Twitter: 985,400 Tweets and 275,567 Accounts Jan 2018-April 2021, (2) Over 880,000 Tweets of Top Users, (3) 700K+ Retweets, Links, (4) 56K Liking Accounts 2021, (5) 104K Quote Retweets, 57K Accounts of AH Timeline 2017-2022
 - Reddit: 164,530 Contributions, 15,896 Submissions, 71,319 Accounts, Links
