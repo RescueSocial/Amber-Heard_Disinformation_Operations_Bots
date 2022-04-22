@@ -8,7 +8,7 @@ We're Worldwide Independent Researchers with over 20 data analysts, scientists, 
 
 #### <i><b>Data collected on Amber Heard is primarily related to the years 2018-2021, ongoing into 2022.</b></i>
 
-This is the most detailed public analysis of a disinformation operation and the most voluminous yet - showing the impact of <a href="https://www.brookings.edu/research/the-breakout-scale-measuring-the-impact-of-influence-operations"><i>Category 6</a> influence,</b></i> globally affecting the public, businesses, nonprofits, reporters, social connections, and entities beyond the victim, Amber Heard. 
+This is the most detailed public analysis of a disinformation operation and the most voluminous yet - showing the impact of <a href="https://www.brookings.edu/research/the-breakout-scale-measuring-the-impact-of-influence-operations"><i>Category 6</a> influence,</b></i> globally affecting the public, businesses, nonprofits, reporters, social connections, well-being and entities beyond the victim, Amber Heard. 
 <br>This dynamic project is in-progress, prepared for review, and ready to be built upon.  
 
 <b>Our Study creates Precedents and Foundations to help victims of cyberabuse, bots, domestic abuse, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a>, hostile environments, and Disinformation Operations to Improve Lives.</b> 
@@ -100,7 +100,7 @@ This Independent Study is open for Public Research, scientific learning, and arc
 - "When researchers make their data public, they increase transparency and trust in their work, they enable others to reproduce and validate their findings, and ultimately, contribute to the pace of scientific discovery by allowing others to reuse and build on top of their data."
 
 <b>Across-Platforms Analysis:</b><br>
-Analysis is in-progress across-platforms. 
+Analysis is in-progress across-platforms, going beyond any previous public studies. 
 
 - <i>Data of 5 months of December 2020 to April 2021 is provided on GitHub for open peer-review and research studies. Full Data for more independent cross-platform analysis is provided in research data repositories.</i>
 <i><br>- Note:</i> Peaks, Heat Maps of Threats, coordinated bot activities, repeated same texts, and more anomalies show for 2018-2022 continuing, especially February 2020 onward as seen in analysis files.
@@ -109,11 +109,11 @@ Analysis is in-progress across-platforms.
 <i>The Academic API was used for Retweets and <a href="https://InformationTracer.com">InformationTracer</a> for CrowdTangle API.</i><br>
 
 #### <b>Threat Analysis of "High Risk" Influence:</b><br>
-- Threat analysis and our studies shows the timelines to escalations of risks with keywords, phrases use. Hundreds of thousands of threatening texts exist against Amber Heard on 6 platforms. In social dynamics, within automated simulations caused by services are percentages of incited people to harm. In examples, within tens of thousands of repeated same texts on YouTube (e.g., "Adapt and Survive"), false interactions on all platforms, and cryptic bot networks are people brought into them to threaten Amber Heard. 
+- Threat analysis and our studies shows the timelines to escalations of risks with keywords, phrases use. Hundreds of thousands of threatening texts exist against Amber Heard on 6 platforms. In social dynamics, within automated simulations caused by services are percentages of incited people to harm. In examples, within tens of thousands of repeated same texts on YouTube (e.g., <a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/Adapt%20and%20Survive%20Amber%20Heard%20-%20YouTube%20Video">"Adapt and Survive"</a>), false interactions on all platforms, and cryptic bot networks are people brought into them to threaten Amber Heard. 
 <br><b><i>We show increases of threats and escalations - even in spite of her winning in cases or gaps of announcements.</b></i>
 - Experts saw cyber crime and <a href="https://www.iosi.global">suspicious activities needing flagging for removal</a> by cybersecurity. See more in Study Case. 
 - Clustering analysis with cyber intelligence research reveals scientifically operations to cause distress beyond searching manually. Clustering further shows sports bots networks, movie networks, and 506 other clusters around the Aquaman petition, mentions, and Reddit NLP.
-- Multiple layers of companies, services, can be used. Along with the case's circumstances of intimidation, violence, missing people, high wealth of opposition, <a href="https://abcnews.go.com/Primetime/LegalCenter/story?id=1625097&page=1">hollywood fixers</a>, and suspicious activities, the online world similarly has been made threatening to exploit the <a href="https://datasociety.net/library/data-voids">Data Void</a>. 
+- Multiple layers of companies, services, are likely. Along with the case's circumstances of intimidation, violence, missing people, high wealth of opposition, <a href="https://abcnews.go.com/Primetime/LegalCenter/story?id=1625097&page=1">hollywood fixers</a>, and suspicious activities, the online world similarly has been made threatening to exploit the <a href="https://datasociety.net/library/data-voids">Data Void</a>. 
 <br><i>"Data voids are not unique to search engines; they occur on social media platforms, too."</i>
 
 <b>Origins, Risks, and Private Sector Operations:</b>
@@ -163,7 +163,8 @@ Scientific (longer-term):	analysis	- prediction<br></i>
 
 - <i><b>Research and building technologies is Ongoing as the operation is Continuing over years and this is a Public Github Example. </b>
 
- We are continuing analysis and data collections, including creating technologies for systems on <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control.</a></i> E.g., simulations with multi-agent modeling of patterns of coercive control from victims' experiences shown in media - examples are <a href="https://www.abc.net.au/news/2022-03-23/qld-hannah-clarke-inquest-murder-domestic-violence-rowan-baxter/100932096">Hannah Clarke</a> and <a href="https://theredheartcampaign.org/database/">others</a>.
+ We are continuing analysis and data collections, including creating technologies for systems on <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control.</a></i> 
+<br>E.g., simulations/monte carlos with multi-agent modeling of patterns of coercive control from victims' experiences shown in media - examples are <a href="https://www.abc.net.au/news/2022-03-23/qld-hannah-clarke-inquest-murder-domestic-violence-rowan-baxter/100932096">Hannah Clarke</a> and <a href="https://theredheartcampaign.org/database/">others</a>. Data analysis connecting timelines of documentation is encouraged for new systems.
  
 <i>“Since the fate of the world is non-existence, <a href="https://youtu.be/HNwoRxZzbjM?t=35">Since You Exist, Be Merry</a>.” - Persian Mathematician <a href="https://en.wikipedia.org/wiki/Omar_Khayyam">Omar Khayyam</a></i> - explained by Amber Heard.
 
