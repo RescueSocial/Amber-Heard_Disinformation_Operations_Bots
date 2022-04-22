@@ -122,7 +122,7 @@ Analysis is in-progress across-platforms, going beyond any previous public studi
 - <a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/Subjective%20Preliminary%20Claims">'Subjective Preliminary Claims'</a> sources explanations to layers of services, companies, decades of fixers, coercive control, social media building, insider threats, and malice where extortion using cyber activities can come from.
 
 ### <b>Background:</b>
-- Amber Heard's August 2020 Counterclaims on Bots focused on Top Posting Twitter Accounts Layer only: https://www.scribd.com/document/473092071/cl-2019-2911-def-counterclaims-8-10-2020
+- Amber Heard's August 2020 Counterclaims on Bots focused on Correlating Edited Media Leaks and Top Posting Twitter Accounts Layer only: https://www.scribd.com/document/473092071/cl-2019-2911-def-counterclaims-8-10-2020
 - Multiple Research Papers on Disinformation/Influence Operations Cross-Platforms
 - Timelines of Situations with Data and Studying Technologies (e.g., data analysis, data science, AI/ML, NLU/NLG, content review systems).
 - Influence Operation of 6,000 Twitter accounts found by BotSentinel: https://youtu.be/bb2bC04OEPw<br>
