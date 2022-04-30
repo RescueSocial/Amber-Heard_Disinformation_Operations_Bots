@@ -1,0 +1,81 @@
+2022-03-15 19:36:56,941 INFO loading None profile from config C:\Users\Administrator\.twarc
+2022-03-15 19:36:56,941 INFO creating http session
+2022-03-15 19:36:56,941 INFO creating OAuth1 user authentication
+2022-03-15 19:36:56,941 INFO getting ('https://api.twitter.com/1.1/account/verify_credentials.json',) {'params': {'tweet_mode': 'extended'}}
+2022-03-15 19:36:57,066 INFO looking up users emsterson
+2022-03-15 19:36:57,066 INFO getting ('https://api.twitter.com/1.1/users/lookup.json',) {'params': {'screen_name': 'emsterson', 'tweet_mode': 'extended'}}
+2022-03-15 19:36:57,128 INFO archived 1450403636358569984
+2022-03-15 19:37:23,121 INFO loading None profile from config C:\Users\Administrator\.twarc
+2022-03-15 19:37:23,121 INFO creating http session
+2022-03-15 19:37:23,121 INFO creating OAuth1 user authentication
+2022-03-15 19:37:23,121 INFO getting ('https://api.twitter.com/1.1/account/verify_credentials.json',) {'params': {'tweet_mode': 'extended'}}
+2022-03-15 19:37:23,262 INFO getting ('https://api.twitter.com/1.1/followers/ids.json',) {'params': {'screen_name': 'emsterson', 'cursor': -1, 'tweet_mode': 'extended'}}
+2022-03-15 19:37:38,603 INFO loading None profile from config C:\Users\Administrator\.twarc
+2022-03-15 19:37:38,603 INFO creating http session
+2022-03-15 19:37:38,603 INFO creating OAuth1 user authentication
+2022-03-15 19:37:38,603 INFO getting ('https://api.twitter.com/1.1/account/verify_credentials.json',) {'params': {'tweet_mode': 'extended'}}
+2022-03-15 19:37:38,744 INFO getting ('https://api.twitter.com/1.1/friends/ids.json',) {'params': {'screen_name': 'emsterson', 'cursor': -1, 'tweet_mode': 'extended'}}
+2022-03-15 19:37:51,592 INFO loading None profile from config C:\Users\Administrator\.twarc
+2022-03-15 19:37:51,592 INFO creating http session
+2022-03-15 19:37:51,592 INFO creating OAuth1 user authentication
+2022-03-15 19:37:51,592 INFO getting ('https://api.twitter.com/1.1/account/verify_credentials.json',) {'params': {'tweet_mode': 'extended'}}
+2022-03-15 19:37:51,749 INFO starting user timeline for user emsterson
+2022-03-15 19:37:51,749 INFO getting ('https://api.twitter.com/1.1/statuses/user_timeline.json',) {'params': {'count': 200, 'screen_name': 'emsterson', 'include_ext_alt_text': 'true', 'tweet_mode': 'extended'}}
+2022-03-15 19:37:51,952 INFO archived 1502330783587000333
+2022-03-15 19:37:51,952 INFO archived 1497316731957792775
+2022-03-15 19:37:51,952 INFO archived 1497304231522574341
+2022-03-15 19:37:51,952 INFO archived 1497303608546807819
+2022-03-15 19:37:51,952 INFO archived 1495144140929179650
+2022-03-15 19:37:51,952 INFO archived 1494803881125203970
+2022-03-15 19:37:51,952 INFO archived 1494803048853643267
+2022-03-15 19:37:51,952 INFO archived 1490997288826978311
+2022-03-15 19:37:51,952 INFO archived 1489372717312847877
+2022-03-15 19:37:51,952 INFO archived 1488969695113924608
+2022-03-15 19:37:51,952 INFO archived 1486494584033230848
+2022-03-15 19:37:51,952 INFO archived 1485745546937749506
+2022-03-15 19:37:51,952 INFO archived 1484295673507889152
+2022-03-15 19:37:51,952 INFO archived 1483480821390528512
+2022-03-15 19:37:51,952 INFO archived 1483479436771172356
+2022-03-15 19:37:51,952 INFO archived 1481010906863648776
+2022-03-15 19:37:51,952 INFO archived 1481010042216325126
+2022-03-15 19:37:51,967 INFO archived 1480590981347135493
+2022-03-15 19:37:51,967 INFO archived 1480589698917621762
+2022-03-15 19:37:51,967 INFO archived 1479406816211750915
+2022-03-15 19:37:51,967 INFO archived 1478107760986398722
+2022-03-15 19:37:51,967 INFO archived 1475192987923595264
+2022-03-15 19:37:51,967 INFO archived 1466519840726913035
+2022-03-15 19:37:51,967 INFO archived 1466509939418054664
+2022-03-15 19:37:51,967 INFO archived 1466146070522703877
+2022-03-15 19:37:51,967 INFO archived 1466105505923964929
+2022-03-15 19:37:51,967 INFO archived 1465997162358132736
+2022-03-15 19:37:51,967 INFO archived 1465637586278494209
+2022-03-15 19:37:51,967 INFO archived 1465630554896875520
+2022-03-15 19:37:51,967 INFO archived 1465293356544712706
+2022-03-15 19:37:51,967 INFO archived 1465213970718109696
+2022-03-15 19:37:51,967 INFO archived 1464633437592207362
+2022-03-15 19:37:51,967 INFO archived 1464631510804439044
+2022-03-15 19:37:51,967 INFO archived 1464223421567578113
+2022-03-15 19:37:51,967 INFO archived 1464190429902127118
+2022-03-15 19:37:51,967 INFO archived 1464190049151594496
+2022-03-15 19:37:51,967 INFO archived 1463829153745100801
+2022-03-15 19:37:51,967 INFO archived 1463368611171647489
+2022-03-15 19:37:51,967 INFO archived 1463368253674344448
+2022-03-15 19:37:51,967 INFO archived 1462280414341521408
+2022-03-15 19:37:51,967 INFO archived 1462130711163555852
+2022-03-15 19:37:51,967 INFO archived 1461637104753119233
+2022-03-15 19:37:51,967 INFO archived 1461544698607247362
+2022-03-15 19:37:51,967 INFO archived 1461457268373921795
+2022-03-15 19:37:51,967 INFO getting ('https://api.twitter.com/1.1/statuses/user_timeline.json',) {'params': {'count': 200, 'screen_name': 'emsterson', 'include_ext_alt_text': 'true', 'tweet_mode': 'extended', 'max_id': '1461457268373921794'}}
+2022-03-15 19:37:52,014 INFO no new tweets matching {'count': 200, 'screen_name': 'emsterson', 'include_ext_alt_text': 'true', 'tweet_mode': 'extended', 'max_id': '1461457268373921794'}
+2022-03-16 09:42:23,260 INFO loading None profile from config C:\Users\Administrator\.twarc
+2022-03-16 09:42:23,260 INFO creating http session
+2022-03-16 09:42:23,260 INFO creating OAuth1 user authentication
+2022-03-16 09:42:23,260 INFO getting ('https://api.twitter.com/1.1/account/verify_credentials.json',) {'params': {'tweet_mode': 'extended'}}
+2022-03-16 09:42:46,354 INFO loading None profile from config C:\Users\Administrator\.twarc
+2022-03-16 09:42:46,354 INFO creating http session
+2022-03-16 09:42:46,354 INFO creating OAuth1 user authentication
+2022-03-16 09:42:46,354 INFO getting ('https://api.twitter.com/1.1/account/verify_credentials.json',) {'params': {'tweet_mode': 'extended'}}
+2022-03-16 09:43:17,621 INFO loading None profile from config C:\Users\Administrator\.twarc
+2022-03-16 09:43:17,621 INFO creating http session
+2022-03-16 09:43:17,621 INFO creating OAuth1 user authentication
+2022-03-16 09:43:17,621 INFO getting ('https://api.twitter.com/1.1/account/verify_credentials.json',) {'params': {'tweet_mode': 'extended'}}

@@ -1,0 +1,20 @@
+{
+    "job_settings":{
+        "monitoringgaps":100,
+        "counts":10
+    },
+    "job_settings_win": {
+        "monitoringgaps":1,
+        "workedPath":"",
+        "sourcePath":"\\..\\assets\\preprocessorFiles\\input\\",
+        "resultPath":"\\..\\assets\\preprocessorFiles\\output\\",
+        "backupPath":"\\..\\assets\\preprocessorFiles\\backup\\"
+    },
+    "job_settings_linux": {
+        "monitoringgaps":1,
+        "workedPath":"/var/www/html/bots.worldie.com/PreProcessorBot/",
+        "sourcePath":"/../public/assets/preprocessorFiles/input/",
+        "resultPath":"/../public/assets/preprocessorFiles/output/",
+        "backupPath":"/../public/assets/preprocessorFiles/backup/"
+    }
+}

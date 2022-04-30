@@ -1,0 +1,524 @@
+<img src="wordcloud_6.png" style="display: block;width: 350px;margin-left: auto;margin-right: auto;" /><br><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>user.id_str</th>
+      <th>user.screen_name</th>
+      <th>user.name</th>
+      <th>user.created_at</th>
+      <th>user.location</th>
+      <th>user.followers_count</th>
+      <th>user.friends_count</th>
+      <th>user.statuses_count</th>
+      <th>profile_image_url</th>
+      <th>profile_banner_url</th>
+      <th>user.lang</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>170</th>
+      <td>947980200058458112</td>
+      <td>thecelebdiary2</td>
+      <td>thecelebdiary</td>
+      <td>2018-01-01 23:57:47+00:00</td>
+      <td></td>
+      <td>98</td>
+      <td>2</td>
+      <td>35722</td>
+      <td><img src="http://pbs.twimg.com/profile_images/947980758639153152/UmYN_c16_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/947980200058458112/1514890856" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>173</th>
+      <td>21751545</td>
+      <td>all4women</td>
+      <td>All4Women.co.za</td>
+      <td>2009-02-24 13:00:41+00:00</td>
+      <td>South Africa</td>
+      <td>9217</td>
+      <td>1558</td>
+      <td>63274</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1276459483561168896/-oqtaLkK_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/21751545/1573812833" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>277</th>
+      <td>14791162</td>
+      <td>wmag</td>
+      <td>W Magazine</td>
+      <td>2008-05-15 20:16:39+00:00</td>
+      <td>New York City</td>
+      <td>1480108</td>
+      <td>338</td>
+      <td>134176</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1178618362798252033/pCjHkV_d_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/14791162/1618339833" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>334</th>
+      <td>3919121484</td>
+      <td>TheCelebrityTlk</td>
+      <td>TheCelebrityTalk</td>
+      <td>2015-10-17 00:20:56+00:00</td>
+      <td></td>
+      <td>398</td>
+      <td>999</td>
+      <td>39006</td>
+      <td><img src="http://pbs.twimg.com/profile_images/661662552800104448/ThMUCwos_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/3919121484/1446587658" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>355</th>
+      <td>80387352</td>
+      <td>BryanBeckford</td>
+      <td>Bryan Beckford</td>
+      <td>2009-10-06 19:54:35+00:00</td>
+      <td>New York / Georgia / LA</td>
+      <td>869</td>
+      <td>786</td>
+      <td>65409</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1186724714888101888/tlhStMwl_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/80387352/1569009389" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>374</th>
+      <td>877362237605892096</td>
+      <td>nowlifestyle3</td>
+      <td>Now Lifestyle</td>
+      <td>2017-06-21 03:07:12+00:00</td>
+      <td></td>
+      <td>117</td>
+      <td>667</td>
+      <td>46375</td>
+      <td><img src="http://pbs.twimg.com/profile_images/877364312351924225/vEdsjLkO_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/877362237605892096/1498016032" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>375</th>
+      <td>4616279895</td>
+      <td>ardadecounty1</td>
+      <td>Anthony Rose</td>
+      <td>2015-12-27 01:04:56+00:00</td>
+      <td></td>
+      <td>18</td>
+      <td>74</td>
+      <td>23359</td>
+      <td><img src="http://pbs.twimg.com/profile_images/680917466340528128/IdTxTkE4_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/4616279895/1451178443" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>378</th>
+      <td>3428990109</td>
+      <td>omnigist</td>
+      <td>OmniGist</td>
+      <td>2015-08-17 22:45:47+00:00</td>
+      <td>Nigeria</td>
+      <td>2945</td>
+      <td>2799</td>
+      <td>314084</td>
+      <td><img src="http://pbs.twimg.com/profile_images/862771627758628866/9nB8DKFR_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/3428990109/1442443139" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>380</th>
+      <td>87268508</td>
+      <td>707egroup</td>
+      <td>707 EGroup</td>
+      <td>2009-11-03 19:56:52+00:00</td>
+      <td>Global</td>
+      <td>10113</td>
+      <td>2227</td>
+      <td>35829</td>
+      <td><img src="http://pbs.twimg.com/profile_images/829488073/707_logo_normal.jpg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>381</th>
+      <td>860404394705268736</td>
+      <td>Wazupnaija</td>
+      <td>Whazupnaija</td>
+      <td>2017-05-05 08:02:48+00:00</td>
+      <td>Lagos, Nigeria</td>
+      <td>773</td>
+      <td>40</td>
+      <td>291546</td>
+      <td><img src="http://pbs.twimg.com/profile_images/860405138195918848/mICKdW5w_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/860404394705268736/1503680391" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>388</th>
+      <td>805989137304158209</td>
+      <td>conparadox</td>
+      <td>trending 2day</td>
+      <td>2016-12-06 04:15:59+00:00</td>
+      <td></td>
+      <td>90</td>
+      <td>68</td>
+      <td>11918</td>
+      <td><img src="http://pbs.twimg.com/profile_images/820842616568905729/RvHyGhcD_normal.jpg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>400</th>
+      <td>115517851</td>
+      <td>cromosoma7</td>
+      <td>Sushi Loreto</td>
+      <td>2010-02-18 22:59:45+00:00</td>
+      <td></td>
+      <td>189</td>
+      <td>684</td>
+      <td>59680</td>
+      <td><img src="http://pbs.twimg.com/profile_images/849370602410565634/aYnFzGK-_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/115517851/1554670106" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>401</th>
+      <td>301361803</td>
+      <td>luvthehangover</td>
+      <td>lovethehangover</td>
+      <td>2011-05-19 10:24:31+00:00</td>
+      <td></td>
+      <td>106</td>
+      <td>12</td>
+      <td>31807</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1360705127/The_Hangover_normal.jpg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>402</th>
+      <td>3064008995</td>
+      <td>Daisy_Dickson</td>
+      <td>Daisy Dickson</td>
+      <td>2015-02-26 18:20:49+00:00</td>
+      <td></td>
+      <td>2722</td>
+      <td>468</td>
+      <td>2027</td>
+      <td><img src="http://pbs.twimg.com/profile_images/812366693339172864/cBI-cQ3h_normal.jpg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>403</th>
+      <td>1964982955</td>
+      <td>BentleyKoup</td>
+      <td>Bentley Koup</td>
+      <td>2013-10-16 15:00:57+00:00</td>
+      <td>Charlotte</td>
+      <td>445</td>
+      <td>82</td>
+      <td>83114</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1331408014843260934/jEKalfHn_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/1964982955/1606267382" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>427</th>
+      <td>3357235499</td>
+      <td>idigmovies1</td>
+      <td>I Dig Movies</td>
+      <td>2015-07-03 18:31:14+00:00</td>
+      <td></td>
+      <td>39</td>
+      <td>130</td>
+      <td>10905</td>
+      <td><img src="http://pbs.twimg.com/profile_images/617046978380341249/uimVN7vx_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/3357235499/1435950607" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>439</th>
+      <td>10433782</td>
+      <td>mercnews</td>
+      <td>Mercury News</td>
+      <td>2007-11-21 05:53:00+00:00</td>
+      <td>Silicon Valley, CA</td>
+      <td>253400</td>
+      <td>1785</td>
+      <td>358469</td>
+      <td><img src="http://pbs.twimg.com/profile_images/716045617311522816/I0BYs-DH_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/10433782/1532537595" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>476</th>
+      <td>1289321</td>
+      <td>EastBayTimes</td>
+      <td>East Bay Times</td>
+      <td>2007-03-16 14:25:08+00:00</td>
+      <td>East Bay</td>
+      <td>71502</td>
+      <td>1095</td>
+      <td>206785</td>
+      <td><img src="http://pbs.twimg.com/profile_images/717382488440459265/5LXYwJTY_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/1289321/1462848458" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>687</th>
+      <td>3888053773</td>
+      <td>terencekoger</td>
+      <td>Terence L. Koger</td>
+      <td>2015-10-14 04:39:16+00:00</td>
+      <td>Houston, TX</td>
+      <td>26</td>
+      <td>6</td>
+      <td>53120</td>
+      <td><img src="http://pbs.twimg.com/profile_images/654155566831431681/2DaeFcEz_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/3888053773/1444797835" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>1025</th>
+      <td>791752212267532288</td>
+      <td>NzuchiTimesUSA</td>
+      <td>NzuchiTimes USA</td>
+      <td>2016-10-27 21:23:32+00:00</td>
+      <td>USA</td>
+      <td>530</td>
+      <td>9</td>
+      <td>166179</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1366192880650453018/VjdRx5qC_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/791752212267532288/1614560744" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>1087</th>
+      <td>890879708342218752</td>
+      <td>amberheardteam</td>
+      <td>Amber Heard Team</td>
+      <td>2017-07-28 10:20:49+00:00</td>
+      <td></td>
+      <td>683</td>
+      <td>51</td>
+      <td>297</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1286069894228905985/me5XV4U2_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/890879708342218752/1595457932" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>1103</th>
+      <td>18684572</td>
+      <td>charlestrotter</td>
+      <td>James Chasney</td>
+      <td>2009-01-06 17:13:28+00:00</td>
+      <td>Chicago</td>
+      <td>1603</td>
+      <td>1309</td>
+      <td>165805</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1385676345200594944/wkZYPRIF_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/18684572/1619205976" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>1128</th>
+      <td>328860741</td>
+      <td>AmIOnTheAir</td>
+      <td>Am I On The Air</td>
+      <td>2011-07-04 04:46:33+00:00</td>
+      <td>Parts Unknown</td>
+      <td>7058</td>
+      <td>4948</td>
+      <td>84827</td>
+      <td><img src="http://pbs.twimg.com/profile_images/466435193113309184/jNxSX0pl_normal.jpeg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/328860741/1399958088" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>1220</th>
+      <td>15595930</td>
+      <td>Syko</td>
+      <td>°$¥|{0 Jüggå|∅™</td>
+      <td>2008-07-25 08:56:48+00:00</td>
+      <td>420 Dark Carnival Way</td>
+      <td>259</td>
+      <td>321</td>
+      <td>38029</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1364479988993585152/4SZufs49_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/15595930/1614152354" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>1224</th>
+      <td>119198487</td>
+      <td>BroadwayWorldTV</td>
+      <td>BroadwayWorld TV & Film</td>
+      <td>2010-03-02 23:31:42+00:00</td>
+      <td>New York, NY</td>
+      <td>1578</td>
+      <td>97</td>
+      <td>168898</td>
+      <td><img src="http://pbs.twimg.com/profile_images/494507810143490048/7P5FAf-s_normal.jpeg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/119198487/1406734777" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>1227</th>
+      <td>926600953</td>
+      <td>getupradiomedia</td>
+      <td>News Media Central</td>
+      <td>2012-11-05 01:36:26+00:00</td>
+      <td>Dallas, TX</td>
+      <td>752</td>
+      <td>2318</td>
+      <td>137673</td>
+      <td><img src="http://pbs.twimg.com/profile_images/424695394522509312/fkwUsoCW_normal.jpeg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/926600953/1390090244" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>1233</th>
+      <td>2277874868</td>
+      <td>Indilens</td>
+      <td>Indilens</td>
+      <td>2014-01-05 17:23:19+00:00</td>
+      <td>India</td>
+      <td>8740</td>
+      <td>19</td>
+      <td>158290</td>
+      <td><img src="http://pbs.twimg.com/profile_images/423169136890347520/TPGf0Ehj_normal.jpeg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/2277874868/1398251528" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>1239</th>
+      <td>62454048</td>
+      <td>comingsoonnet</td>
+      <td>ComingSoon.net</td>
+      <td>2009-08-03 06:27:43+00:00</td>
+      <td></td>
+      <td>91507</td>
+      <td>506</td>
+      <td>84567</td>
+      <td><img src="http://pbs.twimg.com/profile_images/534824847767900161/tGYQQgUB_normal.jpeg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/62454048/1416347135" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>1252</th>
+      <td>46962230</td>
+      <td>HollywoodSBlog</td>
+      <td>HollywoodSouth</td>
+      <td>2009-06-13 20:58:13+00:00</td>
+      <td>Hollywood South</td>
+      <td>10122</td>
+      <td>9479</td>
+      <td>626719</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1753134141/THSB_-_New_Logo_Design_v1_150x150_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/46962230/1520018818" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>1388</th>
+      <td>2992451738</td>
+      <td>offyards</td>
+      <td>Offyards.com</td>
+      <td>2015-01-22 17:17:20+00:00</td>
+      <td></td>
+      <td>29</td>
+      <td>52</td>
+      <td>55401</td>
+      <td><img src="http://pbs.twimg.com/profile_images/569591397372542976/SdTW_QDx_normal.jpeg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>1393</th>
+      <td>711893813917159424</td>
+      <td>moses_faris</td>
+      <td>Moses faris</td>
+      <td>2016-03-21 12:34:46+00:00</td>
+      <td>Indonesia</td>
+      <td>51</td>
+      <td>160</td>
+      <td>193051</td>
+      <td><img src="http://pbs.twimg.com/profile_images/722451976395427840/Wpnf08Pp_normal.jpg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>1395</th>
+      <td>932993431986728960</td>
+      <td>jhonwickworld</td>
+      <td>johnwick</td>
+      <td>2017-11-21 15:25:43+00:00</td>
+      <td></td>
+      <td>59</td>
+      <td>36</td>
+      <td>3313</td>
+      <td><img src="http://pbs.twimg.com/profile_images/932998471698796545/j39y-rrY_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/932993431986728960/1511279021" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>1398</th>
+      <td>777704226826887168</td>
+      <td>justtoosilly</td>
+      <td>Just Too Silly</td>
+      <td>2016-09-19 03:01:51+00:00</td>
+      <td>Worldwide</td>
+      <td>44</td>
+      <td>125</td>
+      <td>31456</td>
+      <td><img src="http://pbs.twimg.com/profile_images/777704874926563328/UxN6lf07_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/777704226826887168/1474254371" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>1400</th>
+      <td>4704167419</td>
+      <td>ImZexyr</td>
+      <td>Zexyr</td>
+      <td>2016-01-03 17:40:52+00:00</td>
+      <td>International</td>
+      <td>15263</td>
+      <td>15107</td>
+      <td>85182</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1107888556100337664/9095wd-8_normal.png" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/4704167419/1614321763" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>1404</th>
+      <td>828631190227779584</td>
+      <td>Ijoba_xpensive</td>
+      <td>ExpensiveGist Media</td>
+      <td>2017-02-06 15:47:25+00:00</td>
+      <td>Lagos, Nigeria</td>
+      <td>625</td>
+      <td>2208</td>
+      <td>25992</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1035287566755475456/9mMvO9_6_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/828631190227779584/1535666838" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>1410</th>
+      <td>15501305</td>
+      <td>The_News_DIVA</td>
+      <td>📰The_News_DIVA📰</td>
+      <td>2008-07-20 13:30:12+00:00</td>
+      <td>Croton-on-Hudson, NY</td>
+      <td>71140</td>
+      <td>93833</td>
+      <td>2017331</td>
+      <td><img src="http://pbs.twimg.com/profile_images/2339424243/yi6x1e8o318u40z0gp3w_normal.png" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/15501305/1401597465" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+  </tbody>
+</table>
