@@ -24,12 +24,13 @@ This is the most detailed public analysis of a disinformation operation and the 
 <img src="Summary Amber Heard Social Network Analysis 1 Cover.jpeg" alt="Cover" title="Summary Amber Heard Social Network Analysis 1 Cover"><div>
 
  ### <b>Amounts of <a href="https://www.kaggle.com/amberhearddata/datasets">Data Collections</a> [Updates]:</b><br>
-- Twitter: 985,400 Tweets and 275,567 Accounts Jan 2018-April 2021, 497K Tweets with 182K accounts Jan-April 2022, (2) Over 880,000 Tweets of Top Users, (3) 700K+ Retweets, Links, (4) 56K Liking Accounts 2021, (5) 104K Quote Retweets, 57K Accounts of AH Timeline 2017-2022 (6) 134K Comments on Amber Heard Profile 2017-2022
-- Reddit: 164,530 Contributions, 15,896 Submissions, 71,319 Accounts, Links
-- Instagram: 1,751,113 Comments, 193,967 Posts, 717,311 Accounts (Posts made by 36,137 accounts and 681,174 commented), Links
-- YouTube: (1) 2,176,926 Comments (1,693,341 Comments with 483,585 Replies), 6,893 Videos (with dislike ratios), 1,152,868 Accounts, Cross-Platform Links, (2) 11,152 videos, 324,029 comments
-- Change.org: 28,952 Comments, 181 Petitions, 2,117 Milestones, Cross-Platform Links
-- Facebook: Page Comments and Reviews, Links in Groups for Cross-Platforms 
+ - <b>Twitter:</b> 1,732,916 Tweets and 459,228 Accounts Jan 2018-April 2022.
+ <br>985,400 Tweets and 275,567 Accounts Jan 2018-April 2021. 497K Tweets with 182K accounts Jan-April 2022, (2) Over 880,000 Tweets of Top Users, (3) 700K+ Retweets, Links, (4) 56K Liking Accounts 2021, (5) 104K Quote Retweets, 57K Accounts of AH Timeline 2017-2022 (6) 134K Comments on Amber Heard Profile 2017-2022
+- <b>Reddit:</> 164,530 Contributions, 15,896 Submissions, 71,319 Accounts, Links
+ - <b>Instagram:</b> 1,751,113 Comments, 193,967 Posts, 717,311 Accounts (Posts made by 36,137 accounts and 681,174 commented), Links
+ - <b>YouTube:</b> (1) 2,176,926 Comments (1,693,341 Comments with 483,585 Replies), 6,893 Videos (with dislike ratios), 1,152,868 Accounts, Cross-Platform Links, (2) 11,152 videos, 324,029 comments
+- <b>Change.org:</b> 28,952 Comments, 181 Petitions, 2,117 Milestones, Cross-Platform Links
+- <b>Facebook:</b> Page Comments and Reviews, Links in Groups for Cross-Platforms 
 - Crossplatform for Groups in Facebook, Reddit, and Channels of YouTube<br>
 
 ### <b>Index and Contents:<br></b>
@@ -44,7 +45,8 @@ This is the most detailed public analysis of a disinformation operation and the 
 <br>Coordination and Gamifications
 <br>Threat Analysis and Negative Texts Heat Maps
 <br>Metrics, Likes/Dislikes, UpScores/DownScores, BotScores
-<br>Links Analysis, Urls, and NLP Analysis Cross-Platforms</i>
+<br>Links Analysis, Urls, and NLP Analysis Cross-Platforms
+<br>Clusters Analysis, Relational Dataframes, OSINT, Wordclouds</i>
 - <b>Anomalies and Comparisons</b>
 - <b>Reports on Analysis and Platforms:</b>
 <br><i>Summaries of Analysis, Years, Timelines, Accounts, Timings, NLP, Peaks</i>
