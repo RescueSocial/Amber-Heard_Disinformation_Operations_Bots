@@ -46,7 +46,7 @@ This is the most detailed public analysis of a disinformation operation and the 
 <br>Threat Analysis and Negative Texts Heat Maps
 <br>Metrics, Likes/Dislikes, UpScores/DownScores, BotScores
 <br>Links Analysis, Urls, and NLP Analysis Cross-Platforms
-<br>Clusters Analysis, Relational Dataframes, OSINT, Wordclouds</i>
+<br>Clusters Analysis, Relational Dataframes, Wordclouds, OSINT</i>
 - <b>Anomalies and Comparisons</b>
 - <b>Reports on Analysis and Platforms:</b>
 <br><i>Summaries of Analysis, Years, Timelines, Accounts, Timings, NLP, Peaks</i>
