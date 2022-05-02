@@ -26,7 +26,7 @@ This is the most detailed public analysis of a disinformation operation and the 
  ### <b>Amounts of <a href="https://www.kaggle.com/amberhearddata/datasets">Data Collections</a> [Updates]:</b><br>
  - <b>Twitter:</b> 1,732,916 Tweets and 459,228 Accounts Jan 2018-April 2022.
  <br>985,400 Tweets and 275,567 Accounts Jan 2018-April 2021. 497K Tweets with 182K accounts Jan-April 2022, (2) Over 880,000 Tweets of Top Users, (3) 700K+ Retweets, Links, (4) 56K Liking Accounts 2021, (5) 104K Quote Retweets, 57K Accounts of AH Timeline 2017-2022 (6) 134K Comments on Amber Heard Profile 2017-2022
-- <b>Reddit:</> 164,530 Contributions, 15,896 Submissions, 71,319 Accounts, Links
+- <b>Reddit:</b> 164,530 Contributions, 15,896 Submissions, 71,319 Accounts, Links
  - <b>Instagram:</b> 1,751,113 Comments, 193,967 Posts, 717,311 Accounts (Posts made by 36,137 accounts and 681,174 commented), Links
  - <b>YouTube:</b> (1) 2,176,926 Comments (1,693,341 Comments with 483,585 Replies), 6,893 Videos (with dislike ratios), 1,152,868 Accounts, Cross-Platform Links, (2) 11,152 videos, 324,029 comments
 - <b>Change.org:</b> 28,952 Comments, 181 Petitions, 2,117 Milestones, Cross-Platform Links
