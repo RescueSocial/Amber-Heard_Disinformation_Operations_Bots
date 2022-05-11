@@ -10,7 +10,8 @@ Timeseries Graph shows that 2016 and early 2019 had the most posts on Amber Hear
 
 <div style="width:500px ; height:100px">
 <center><img src="/_Tumblr Data/AH tumbler timeseries.png" alt="Cover" title="Tumblr Graph Timeseries on Amber Heard"></center><div>
-- There are peaks of posts in between 2016 and 2019 at the same levels as later.
+- There are peaks of posts in between 2016 and 2019 at higher levels than during the disinformation/influence operations start.
+<br> A similar comparison to show how to spot normal vs abnormal peaks can be made with Reddit showing lower posts in late 2020 than peaks on YouTube and Twitter showing increasing targeting against her 2020-2022 despite real-world events of winning cases.
 
 <br>Code included for how to search Tumblr posts and blogs for all posts obtainable for a blog with APIs.
   <br>https://www.tumblr.com/tagged/amber-heard
