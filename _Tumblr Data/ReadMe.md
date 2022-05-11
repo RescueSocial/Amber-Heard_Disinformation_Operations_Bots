@@ -7,10 +7,10 @@ Timeseries Graph shows that 2016 and early 2019 had the most posts on Amber Hear
 
 - 35,898 Tumblr Posts with "Amber Heard" Tag from 2009-2022. The first post using her name under tags is 2009. Tumblr began in 2007.
 - 14,040 Posts with "Amber Heard" Tag from Oct 10, 2017 to May 3, 2022. 
-<br>https://www.tumblr.com/tagged/amber-heard
 
 <div style="width:500px ; height:100px">
 <center><img src="/_Tumblr Data/AH tumbler timeseries.png" alt="Cover" title="Tumblr Graph Timeseries on Amber Heard"></center><div>
 
 Code included for how to search Tumblr posts and blogs for all posts obtainable for a blog.
+  <br>https://www.tumblr.com/tagged/amber-heard
 
