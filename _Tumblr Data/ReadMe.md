@@ -10,7 +10,8 @@ Timeseries Graph shows that 2016 and early 2019 had the most posts on Amber Hear
 
 <div style="width:500px ; height:100px">
 <center><img src="/_Tumblr Data/AH tumbler timeseries.png" alt="Cover" title="Tumblr Graph Timeseries on Amber Heard"></center><div>
+- There are peaks of posts in between 2016 and 2019 at the same levels as later.
 
-Code included for how to search Tumblr posts and blogs for all posts obtainable for a blog with APIs.
+<br>Code included for how to search Tumblr posts and blogs for all posts obtainable for a blog with APIs.
   <br>https://www.tumblr.com/tagged/amber-heard
 
