@@ -1,8 +1,8 @@
 <b>Beginning Tumblr Data on Amber Heard for Social Network/Data Analysis.</b>
 
 Timeseries Graph shows that 2016 and early 2019 had the most posts on Amber Heard with 2 top peaks. 
-<br>This might be showing a normal graph of interest, lacking bot activity under her name for Tumblr. 2020-2022 remains lower unlike other platforms.
-<br>Comparisons of non-bot anomaly infused platforms against her name is important for context in the study.
+<br>This might be showing a normal graph of interest, lacking bot activity under her name for Tumblr. 
+<br>Comparisons of non-bot anomaly infused platforms against her name is important for context in the study. 2020-2022 remains lower unlike other platforms.
 
 - 35,898 Tumblr Posts with "Amber Heard" Tag from 2009-2022. The first post using her name under tags is 2009. Tumblr began in 2007.
 - 14,040 Posts with "Amber Heard" Tag from Oct 10, 2017 to May 3, 2022. 
