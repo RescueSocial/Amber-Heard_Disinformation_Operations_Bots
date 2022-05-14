@@ -1,0 +1,91 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "7F6hgN7BTF8HRo6sx63Wfwg3DzM",
+        "id": "wICZGCMouac",
+        "snippet": {
+            "publishedAt": "2019-07-08T19:46:07Z",
+            "channelId": "UC0ZRm-R59AuKEVTByITZVTA",
+            "title": "Kawhi Leonard signs with the Clippers | The Media Gets it Wrong",
+            "description": "A compilation of the media being 99% sure about being 100% wrong about Kawhi's decision to go to the clippers.\n\n\n\"Music: Lazy Dally Comedy by Redafs.com, Licensed under Creative Commons: By Attribution 3.0 License\"\n\n#KawhiLeonard",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/wICZGCMouac/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/wICZGCMouac/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/wICZGCMouac/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/wICZGCMouac/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/wICZGCMouac/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Fire Films",
+            "tags": [
+                "kawhi leonard",
+                "kawhi first take",
+                "kawhi clippers",
+                "kawhi leonard laugh",
+                "media fail",
+                "first take",
+                "undisputed today",
+                "undisputed kawhi leonard clippers",
+                "first take kawhi leonard",
+                "colin cowherd kawhi leonard",
+                "paul george trade",
+                "paul george clippers",
+                "kawhi",
+                "clippers",
+                "'best team in the league'",
+                "chris broussard",
+                "chris broussard kawhi leonard",
+                "paul george 99 percent",
+                "paul george kawhi leonard"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Kawhi Leonard signs with the Clippers | The Media Gets it Wrong",
+                "description": "A compilation of the media being 99% sure about being 100% wrong about Kawhi's decision to go to the clippers.\n\n\n\"Music: Lazy Dally Comedy by Redafs.com, Licensed under Creative Commons: By Attribution 3.0 License\"\n\n#KawhiLeonard"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT3M32S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "8315",
+            "likeCount": "97",
+            "favoriteCount": "0",
+            "commentCount": "26"
+        }
+    }
+]

@@ -1,0 +1,94 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "QBiXcTR0f67WXez6iwz29tgkQN4",
+        "id": "JRW_nfS5uYo",
+        "snippet": {
+            "publishedAt": "2021-04-26T03:44:57Z",
+            "channelId": "UCuWeBHxVe6C69JTBpiY-Y8Q",
+            "title": "OSCARS ACADEMY AWARDS 2021 | En vivo y en espa\u00f1ol",
+            "description": "Los #Oscars con an\u00e1lisis y traducci\u00f3n en simultaneo al espa\u00f1ol.\n\n\u25ba TUS 10 SEGUNDOS \u27a5 https://tus10segundos.com/products/delcarajotv\n\u25ba SE PARTE DEL TEAM DELCARAJO:\n\u27a5 https://youtube.com/channel/UCuWeBHxVe6C69JTBpiY-Y8Q/join\n\u25ba TIENDA DELCARAJO \u27a5 http://delcarajo.net\n\n\u25ba Sigueme en:\nTwitter \u27a5 http://twitter.com/juanitosay\nInstagram \u27a5 http://instagram.com/juanitosayoficial\nTwitch \u27a5 http://twitch.tv/juanitosay\n\n\u25ba Contacto: say@delcarajo.net\n\n\n* Hey, Friki Delcarajo... \u00bfQue haces tan abajo? El boton de like esta mas arriba ( \u0361\u00b0 \u035c\u0296 \u0361\u00b0)",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/JRW_nfS5uYo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/JRW_nfS5uYo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/JRW_nfS5uYo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/JRW_nfS5uYo/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/JRW_nfS5uYo/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "DELCARAJO TV",
+            "tags": [
+                "juanito say",
+                "delcarajo",
+                "delcarajo tv",
+                "oscars",
+                "los oscar",
+                "como ver los oscars",
+                "los oscars online",
+                "ver oscars online",
+                "oscars live",
+                "oscars en espa\u00f1ol",
+                "oscars 2021",
+                "los oscar 2021",
+                "oscars television",
+                "donde ver los oscars",
+                "premios oscar",
+                "live stream oscars",
+                "oscars directo",
+                "oscars vivo",
+                "premiacion",
+                "actores",
+                "hollywood"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "OSCARS ACADEMY AWARDS 2021 | En vivo y en espa\u00f1ol",
+                "description": "Los #Oscars con an\u00e1lisis y traducci\u00f3n en simultaneo al espa\u00f1ol.\n\n\u25ba TUS 10 SEGUNDOS \u27a5 https://tus10segundos.com/products/delcarajotv\n\u25ba SE PARTE DEL TEAM DELCARAJO:\n\u27a5 https://youtube.com/channel/UCuWeBHxVe6C69JTBpiY-Y8Q/join\n\u25ba TIENDA DELCARAJO \u27a5 http://delcarajo.net\n\n\u25ba Sigueme en:\nTwitter \u27a5 http://twitter.com/juanitosay\nInstagram \u27a5 http://instagram.com/juanitosayoficial\nTwitch \u27a5 http://twitch.tv/juanitosay\n\n\u25ba Contacto: say@delcarajo.net\n\n\n* Hey, Friki Delcarajo... \u00bfQue haces tan abajo? El boton de like esta mas arriba ( \u0361\u00b0 \u035c\u0296 \u0361\u00b0)"
+            },
+            "defaultAudioLanguage": "es"
+        },
+        "contentDetails": {
+            "duration": "PT3H30M41S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "281624",
+            "likeCount": "6514",
+            "favoriteCount": "0",
+            "commentCount": "45"
+        }
+    }
+]

@@ -1,0 +1,91 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "BS6U9832JsLM50lGMJ1_wbdQSNg",
+        "id": "hYU7kb95pac",
+        "snippet": {
+            "publishedAt": "2016-07-17T19:52:33Z",
+            "channelId": "UCjw43GbxEqJQYXk5U7hkkVg",
+            "title": "Working with Arrays in MATLAB - Special Arrays in MATLAB",
+            "description": "Working with Arrays in MATLAB - Special Arrays in MATLAB\nThe zeros() function creates an array of all zeros.\nThe ones() function creates an array of all ones.\nThe eye() function creates an identity matrix.\nThe rand() function creates an array of uniformly distributed random numbers on (0,1).",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/hYU7kb95pac/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/hYU7kb95pac/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/hYU7kb95pac/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/hYU7kb95pac/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Uniformedia",
+            "tags": [
+                "arrays matlab",
+                "cell arrays matlab",
+                "MATLAB",
+                "zeros",
+                "ones",
+                "eye",
+                "rand",
+                "identity matrix",
+                "random numbers",
+                "matlab arrays",
+                "uniformedia",
+                "MathWorks",
+                "CAE Tutorials",
+                "Po Chen",
+                "Digital Signal Processing",
+                "David Dorran",
+                "eeprogrammer",
+                "Signal Processing",
+                "Barry Van Veen",
+                "John Santiago",
+                "online education",
+                "online schools",
+                "online college classes",
+                "online degree"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Working with Arrays in MATLAB - Special Arrays in MATLAB",
+                "description": "Working with Arrays in MATLAB - Special Arrays in MATLAB\nThe zeros() function creates an array of all zeros.\nThe ones() function creates an array of all ones.\nThe eye() function creates an identity matrix.\nThe rand() function creates an array of uniformly distributed random numbers on (0,1)."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT4M2S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "278",
+            "likeCount": "3",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

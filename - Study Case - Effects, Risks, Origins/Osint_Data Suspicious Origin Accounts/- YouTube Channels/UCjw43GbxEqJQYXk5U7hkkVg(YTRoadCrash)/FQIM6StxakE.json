@@ -1,0 +1,92 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "pe428pfiEBGBJMmNFNZWVERuTpw",
+        "id": "FQIM6StxakE",
+        "snippet": {
+            "publishedAt": "2017-04-09T13:03:23Z",
+            "channelId": "UCjw43GbxEqJQYXk5U7hkkVg",
+            "title": "Tutorial - How to configure RIP using Cisco Packet Tracer (Routing Information Protocol) 2018",
+            "description": "Packet tracer rip routing protocol tutorial lab. Cisco Packet Tracer rip routing.\n\nThe Routing Information Protocol, or RIP, as it is more commonly called, is one of the most enduring of all routing protocols. RIP has four basic components: routing update process, RIP routing metrics, routing stability, and routing timers. Devices that support RIP send routing-update messages at regular intervals and when the network topology changes. These RIP packets include information about the networks that the devices can reach, as well as the number of routers or gateways that a packet must travel through to reach the destination address. RIP generates more traffic than OSPF, but is easier to configure.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/FQIM6StxakE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/FQIM6StxakE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/FQIM6StxakE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/FQIM6StxakE/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/FQIM6StxakE/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Uniformedia",
+            "tags": [
+                "Cisco Packet Tracer",
+                "How to configure Rip using Cisco Packet Tracer",
+                "Packet tracer rip",
+                "Packet tracer rip routing",
+                "Packet tracer rip protocol",
+                "Packet tracer rip tutorial",
+                "Packet tracer rip lab",
+                "Packet tracer ripV2",
+                "Cisco Packet Tracer rip routing",
+                "Routing Information Protocol",
+                "uniformedia",
+                "danscourses",
+                "cruz sendy",
+                "CiscoStudents",
+                "Mohammad Amzad Hossain",
+                "Luis P\u00e9rez",
+                "Christian Augusto Romero Goyzueta",
+                "MyCyberAcademy",
+                "Cisco CCNA"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Tutorial - How to configure RIP using Cisco Packet Tracer (Routing Information Protocol) 2018",
+                "description": "Packet tracer rip routing protocol tutorial lab. Cisco Packet Tracer rip routing.\n\nThe Routing Information Protocol, or RIP, as it is more commonly called, is one of the most enduring of all routing protocols. RIP has four basic components: routing update process, RIP routing metrics, routing stability, and routing timers. Devices that support RIP send routing-update messages at regular intervals and when the network topology changes. These RIP packets include information about the networks that the devices can reach, as well as the number of routers or gateways that a packet must travel through to reach the destination address. RIP generates more traffic than OSPF, but is easier to configure."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT4M41S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "33931",
+            "likeCount": "101",
+            "favoriteCount": "0",
+            "commentCount": "7"
+        }
+    }
+]

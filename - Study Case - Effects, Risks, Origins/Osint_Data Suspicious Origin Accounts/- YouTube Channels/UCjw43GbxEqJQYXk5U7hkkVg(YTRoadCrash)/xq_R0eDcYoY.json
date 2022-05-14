@@ -1,0 +1,93 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "tXTn7pvT9O3h64H2JFYVvUahvtg",
+        "id": "xq_R0eDcYoY",
+        "snippet": {
+            "publishedAt": "2016-07-17T11:03:00Z",
+            "channelId": "UCjw43GbxEqJQYXk5U7hkkVg",
+            "title": "Matlab plot multiple lines - Multiple Graphs Or Plot Overlays in same MATLAB Plot",
+            "description": "Matlab plot multiple lines - Multiple Graphs Or Plot Overlays in same MATLAB Plot \nIn this tutorial I will show you how to plot legends, titles , plot multiple lines and change color on graph in matlb. I will use subplot function and hold on function. You can change line thickness with LineWidth command.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/xq_R0eDcYoY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/xq_R0eDcYoY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/xq_R0eDcYoY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/xq_R0eDcYoY/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Uniformedia",
+            "tags": [
+                "matlab line command",
+                "malab multiple lines",
+                "matlab plot overlays",
+                "matlab hold on",
+                "matlab hold off",
+                "matlab plot editor",
+                "Thesis123 MATLAB course",
+                "Matlab plot multiple lines",
+                "Multiple Graphs",
+                "uniformedia",
+                "subplot",
+                "hold on",
+                "legend",
+                "title graph",
+                "matlab",
+                "color graph matlab",
+                "LineWidth",
+                "CAE Tutorials",
+                "Jake Blanchard",
+                "RobertTalbertPhD",
+                "David Dorran",
+                "eeprogrammer",
+                "online education",
+                "online schools",
+                "online college classes",
+                "online degree"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Matlab plot multiple lines - Multiple Graphs Or Plot Overlays in same MATLAB Plot",
+                "description": "Matlab plot multiple lines - Multiple Graphs Or Plot Overlays in same MATLAB Plot \nIn this tutorial I will show you how to plot legends, titles , plot multiple lines and change color on graph in matlb. I will use subplot function and hold on function. You can change line thickness with LineWidth command."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT4M45S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "2687",
+            "likeCount": "14",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

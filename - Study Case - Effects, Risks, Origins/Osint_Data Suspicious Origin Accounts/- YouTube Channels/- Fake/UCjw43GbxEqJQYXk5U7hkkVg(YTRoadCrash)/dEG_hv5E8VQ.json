@@ -1,0 +1,87 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "2TaXxbqUtAwxB-XnEnXHB4r7h8I",
+        "id": "dEG_hv5E8VQ",
+        "snippet": {
+            "publishedAt": "2016-09-29T12:48:02Z",
+            "channelId": "UCjw43GbxEqJQYXk5U7hkkVg",
+            "title": "Amplitude Modulation - Matlab Tutorial (Amplitude modulation in Matlab with Code) 2016",
+            "description": "Matlab Tutorial - Amplitude Modulation\nHow to generate Amplitude modulation (AM) using MATLAB? AM is a method of transmitting signals, such as sound or digital information, in which the amplitude of carrier wave is changed according to the message signal. AM is widely used in electronic communication field. The plotting of AM signal using MATLAB is very easy.\nHere we are simply adding the carrier amplitude with message signal to obtain AM signal, then the instantaneous amplitude of carrier gets altered with respect to modulating signal. Thus the carrier amplitude varies according to the base band signal (message signal).",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/dEG_hv5E8VQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/dEG_hv5E8VQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/dEG_hv5E8VQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/dEG_hv5E8VQ/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Uniformedia",
+            "tags": [
+                "amplitude modulation matlab",
+                "amplitude modulation tutorial",
+                "amplitude modulation analysis",
+                "amplitude modulation matlab code",
+                "amplitude modulation matlab simulink",
+                "amplitude modulation matlab gui",
+                "amplitude modulation matlab example",
+                "amplitude modulation matlab simulation",
+                "CAE Tutorials",
+                "Po Chen",
+                "Digital Signal Processing",
+                "David Dorran",
+                "eeprogrammer",
+                "Signal Processing",
+                "Barry Van Veen",
+                "John Santiago",
+                "online education",
+                "online schools",
+                "online college classes",
+                "online degree"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amplitude Modulation - Matlab Tutorial (Amplitude modulation in Matlab with Code) 2016",
+                "description": "Matlab Tutorial - Amplitude Modulation\nHow to generate Amplitude modulation (AM) using MATLAB? AM is a method of transmitting signals, such as sound or digital information, in which the amplitude of carrier wave is changed according to the message signal. AM is widely used in electronic communication field. The plotting of AM signal using MATLAB is very easy.\nHere we are simply adding the carrier amplitude with message signal to obtain AM signal, then the instantaneous amplitude of carrier gets altered with respect to modulating signal. Thus the carrier amplitude varies according to the base band signal (message signal)."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT5M50S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "89288",
+            "likeCount": "596",
+            "favoriteCount": "0",
+            "commentCount": "34"
+        }
+    }
+]

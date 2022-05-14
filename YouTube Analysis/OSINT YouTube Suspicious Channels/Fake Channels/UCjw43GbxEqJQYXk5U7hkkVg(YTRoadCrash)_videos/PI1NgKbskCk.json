@@ -1,0 +1,95 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "QJ_klBAaKiUFqNmAApdrpACxlqw",
+        "id": "PI1NgKbskCk",
+        "snippet": {
+            "publishedAt": "2019-02-09T19:39:24Z",
+            "channelId": "UCjw43GbxEqJQYXk5U7hkkVg",
+            "title": "CATIA V5 Tutorial for Beginners - Catia v5 Basic Part Design",
+            "description": "CATIA V5 Tutorial for Beginners - Catia v5 Basic Part Design\nCATIA V5 Tutorial for Beginners - Catia v5 Basic Part Design\nCatia v5 Beginner Tutorial\n\npart design exercises, catia v5 drafting tutorial, catia sketcher tutorial, part design exercises,  catia v5 assembly tutorial,  catia v5 surface design,  catia advanced tutorials,  catia sketcher tutorial\n\nMusic: [No Copyright Music] Tropical Love - Del",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/PI1NgKbskCk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/PI1NgKbskCk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/PI1NgKbskCk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/PI1NgKbskCk/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/PI1NgKbskCk/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Uniformedia",
+            "tags": [
+                "CATIA V5 Tutorial for Beginners",
+                "CATIA V5 Tutorial",
+                "catia tutorial for beginners",
+                "part design",
+                "basic part design",
+                "catia v5 tutorials",
+                "Catia v5 part design",
+                "catia sketcher tutorial",
+                "part design exercises",
+                "catia v5 assembly tutorial",
+                "catia v5 surface design",
+                "catia advanced tutorials",
+                "CAD Designs",
+                "Stephen Kingston",
+                "howENGINEERSdoit!",
+                "Tutorials Engineer",
+                "catia v5",
+                "catia tutorial",
+                "Catia Beginner Tutorial",
+                "Catia v5 Beginner Tutorial",
+                "uniformedia"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "CATIA V5 Tutorial for Beginners - Catia v5 Basic Part Design",
+                "description": "CATIA V5 Tutorial for Beginners - Catia v5 Basic Part Design\nCATIA V5 Tutorial for Beginners - Catia v5 Basic Part Design\nCatia v5 Beginner Tutorial\n\npart design exercises, catia v5 drafting tutorial, catia sketcher tutorial, part design exercises,  catia v5 assembly tutorial,  catia v5 surface design,  catia advanced tutorials,  catia sketcher tutorial\n\nMusic: [No Copyright Music] Tropical Love - Del"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT5M46S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "3548",
+            "likeCount": "18",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        }
+    }
+]

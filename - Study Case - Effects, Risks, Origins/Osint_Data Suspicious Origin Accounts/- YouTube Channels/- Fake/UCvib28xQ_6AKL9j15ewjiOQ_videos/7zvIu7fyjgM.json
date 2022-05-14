@@ -1,0 +1,77 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "EgUpvhS-jtkqocFl_6C51OupqqQ",
+        "id": "7zvIu7fyjgM",
+        "snippet": {
+            "publishedAt": "2020-06-17T03:25:53Z",
+            "channelId": "UCvib28xQ_6AKL9j15ewjiOQ",
+            "title": "original song: \u201ccell\u201d",
+            "description": "Lyrics:\n\nIt\u2019s not easy for me, it\u2019s not easy for you to see \nI can\u2019t just move on like you do\nAnd I\u2019m so angry, not at him but at me\nFor believing your words to be true\nWhen you don\u2019t know me and I don\u2019t know you \nYou don\u2019t know me I don\u2019t know you \nYou don\u2019t know me I don\u2019t know you \n\nAnd why am always trying to change people?\nWhen I can\u2019t change people\nTrying to fix the past again \nThere\u2019s plenty of fish in the sea, but I can\u2019t see them\nThere\u2019s something pulling me towards him\nSomething pulling me towards him \nSomething pulling me towards him \n\nAnd I need to get out of this place\n But I don\u2019t know how \nI want to leave but something makes me stay \nI feel like I\u2019m in a cell\nI feel like I\u2019m in a cell\nI feel like I\u2019m in a cell\n\n\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n\nLove you guys!!\u2764\ufe0f",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/7zvIu7fyjgM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/7zvIu7fyjgM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/7zvIu7fyjgM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/7zvIu7fyjgM/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/7zvIu7fyjgM/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "her habits",
+            "tags": [
+                "original song",
+                "singersongwriter",
+                "acoustic original song",
+                "canadian singersongwriter",
+                "canadian musician"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "original song: \u201ccell\u201d",
+                "description": "Lyrics:\n\nIt\u2019s not easy for me, it\u2019s not easy for you to see \nI can\u2019t just move on like you do\nAnd I\u2019m so angry, not at him but at me\nFor believing your words to be true\nWhen you don\u2019t know me and I don\u2019t know you \nYou don\u2019t know me I don\u2019t know you \nYou don\u2019t know me I don\u2019t know you \n\nAnd why am always trying to change people?\nWhen I can\u2019t change people\nTrying to fix the past again \nThere\u2019s plenty of fish in the sea, but I can\u2019t see them\nThere\u2019s something pulling me towards him\nSomething pulling me towards him \nSomething pulling me towards him \n\nAnd I need to get out of this place\n But I don\u2019t know how \nI want to leave but something makes me stay \nI feel like I\u2019m in a cell\nI feel like I\u2019m in a cell\nI feel like I\u2019m in a cell\n\n\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n\nLove you guys!!\u2764\ufe0f"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT4M35S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "249",
+            "likeCount": "33",
+            "favoriteCount": "0",
+            "commentCount": "32"
+        }
+    }
+]

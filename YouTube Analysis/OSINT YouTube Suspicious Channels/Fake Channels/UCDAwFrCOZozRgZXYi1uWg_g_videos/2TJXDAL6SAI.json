@@ -1,0 +1,67 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "zwvyXZ3yAg8xGrWFwnUNzKkxDY8",
+        "id": "2TJXDAL6SAI",
+        "snippet": {
+            "publishedAt": "2022-04-18T20:06:57Z",
+            "channelId": "UCDAwFrCOZozRgZXYi1uWg_g",
+            "title": "Paul Barresi OJ Simpson Geraldo Rivera",
+            "description": "PAUL BARRESI VIDEOS (4).mp4",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/2TJXDAL6SAI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/2TJXDAL6SAI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/2TJXDAL6SAI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/2TJXDAL6SAI/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Mario Nitrini",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Paul Barresi OJ Simpson Geraldo Rivera",
+                "description": "PAUL BARRESI VIDEOS (4).mp4"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M10S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {
+                "ytRating": "ytAgeRestricted"
+            },
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "19",
+            "likeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

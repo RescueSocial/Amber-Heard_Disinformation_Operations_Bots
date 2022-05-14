@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "YZpG2ON1evAv5qSjyDPPq67RvXw",
+        "id": "3CHSykzYGR8",
+        "snippet": {
+            "publishedAt": "2020-05-02T16:09:05Z",
+            "channelId": "UCvib28xQ_6AKL9j15ewjiOQ",
+            "title": "Life update.",
+            "description": "Filling you all in on what\u2019s happened since the breakup. Let the her habits journey begin!",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/3CHSykzYGR8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/3CHSykzYGR8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/3CHSykzYGR8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/3CHSykzYGR8/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/3CHSykzYGR8/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "her habits",
+            "tags": [
+                "life update",
+                "her habits"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Life update.",
+                "description": "Filling you all in on what\u2019s happened since the breakup. Let the her habits journey begin!"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT6M16S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "741",
+            "likeCount": "45",
+            "favoriteCount": "0",
+            "commentCount": "42"
+        }
+    }
+]

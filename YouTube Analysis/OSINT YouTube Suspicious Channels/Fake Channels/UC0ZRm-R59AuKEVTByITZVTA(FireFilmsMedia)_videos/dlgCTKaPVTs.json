@@ -1,0 +1,83 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "m7UENH_37IvwYYTdnSUI5c-OoUo",
+        "id": "dlgCTKaPVTs",
+        "snippet": {
+            "publishedAt": "2019-04-23T22:49:43Z",
+            "channelId": "UC0ZRm-R59AuKEVTByITZVTA",
+            "title": "OVERPRICED $25M Apartment in NYC",
+            "description": "Check out this incredible, beautiful, amazing, sunlight, 25,000,00 million dollars.\n\nOriginal Video from Architectural Digest: https://www.youtube.com/watch?v=wT6WSR-yXp4",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/dlgCTKaPVTs/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/dlgCTKaPVTs/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/dlgCTKaPVTs/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/dlgCTKaPVTs/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/dlgCTKaPVTs/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Fire Films",
+            "tags": [
+                "apartment tour",
+                "million dollar home",
+                "nyc apartment",
+                "new york city",
+                "architectural digest",
+                "25 million dollar home",
+                "inside a million",
+                "inside a 25 million",
+                "expensive home",
+                "luxury appartment",
+                "AD"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "OVERPRICED $25M Apartment in NYC",
+                "description": "Check out this incredible, beautiful, amazing, sunlight, 25,000,00 million dollars.\n\nOriginal Video from Architectural Digest: https://www.youtube.com/watch?v=wT6WSR-yXp4"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M1S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "2587",
+            "likeCount": "22",
+            "favoriteCount": "0",
+            "commentCount": "6"
+        }
+    }
+]

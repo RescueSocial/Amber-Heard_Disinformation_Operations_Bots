@@ -1,0 +1,92 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "YUaoDHh5oFgUKX5MYZJpRap12u4",
+        "id": "rK8WBhMm4lI",
+        "snippet": {
+            "publishedAt": "2018-04-25T12:53:52Z",
+            "channelId": "UCjw43GbxEqJQYXk5U7hkkVg",
+            "title": "MATLAB tutorial - Histogram of a random signal with normal PDF in Matlab",
+            "description": "MATLAB tutorial - Histogram of a random signal with normal PDF in Matlab\n\nIn probability theory, the normal (or Gaussian or Gauss or Laplace-Gauss) distribution is a very common continuous probability distribution. Normal distributions are important in statistics and are often used in the natural and social sciences to represent real-valued random variables whose distributions are not known.A random variable with a Gaussian distribution is said to be normally distributed and is called a normal deviate.\n\nFor Matlab codes check: \nhttp://onlineengineers.info/\n\nFlying High by FREDJI https://soundcloud.com/fredjimusic \nhttps://www.facebook.com/fredjimusic/\nMusic promoted by Audio Library https://youtu.be/RYgKd-6_Fc4",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/rK8WBhMm4lI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/rK8WBhMm4lI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/rK8WBhMm4lI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/rK8WBhMm4lI/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/rK8WBhMm4lI/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Uniformedia",
+            "tags": [
+                "MATLAB tutorial",
+                "matlab histogram",
+                "normal PDF in Matlab",
+                "gaussian distribution",
+                "continuous probability distribution",
+                "matlab tutorial",
+                "eeprogrammer",
+                "RobertTalbertPhD",
+                "David Dorran",
+                "TheEngineeringWorld",
+                "John Santiago",
+                "MATLAB KFUPM",
+                "MATLAB",
+                "The Math Student",
+                "THE TECH TONGA",
+                "Andrew Marshall",
+                "education",
+                "engineering",
+                "programming"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "MATLAB tutorial - Histogram of a random signal with normal PDF in Matlab",
+                "description": "MATLAB tutorial - Histogram of a random signal with normal PDF in Matlab\n\nIn probability theory, the normal (or Gaussian or Gauss or Laplace-Gauss) distribution is a very common continuous probability distribution. Normal distributions are important in statistics and are often used in the natural and social sciences to represent real-valued random variables whose distributions are not known.A random variable with a Gaussian distribution is said to be normally distributed and is called a normal deviate.\n\nFor Matlab codes check: \nhttp://onlineengineers.info/\n\nFlying High by FREDJI https://soundcloud.com/fredjimusic \nhttps://www.facebook.com/fredjimusic/\nMusic promoted by Audio Library https://youtu.be/RYgKd-6_Fc4"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT3M42S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "6501",
+            "likeCount": "24",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

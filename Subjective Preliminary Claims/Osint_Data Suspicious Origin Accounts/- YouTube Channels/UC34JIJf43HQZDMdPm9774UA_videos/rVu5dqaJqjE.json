@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "4_LFKQnY7KWjO3EilQgyheMNU0g",
+        "id": "rVu5dqaJqjE",
+        "snippet": {
+            "publishedAt": "2022-03-17T07:13:49Z",
+            "channelId": "UC34JIJf43HQZDMdPm9774UA",
+            "title": "ORN SWORDS VS THE ROTTEN \u2694\ufe0f\u2694\ufe0f #shorts #eldenring #fyp",
+            "description": "#fyp #shorts #eldenring #funny \n\nElden Ring is an action role-playing game developed by FromSoftware and published by Bandai Namco Entertainment. The game was directed by Hidetaka Miyazaki and made in collaboration with fantasy novelist George R. R. Martin, who provided material for the game's setting.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/rVu5dqaJqjE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/rVu5dqaJqjE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/rVu5dqaJqjE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/rVu5dqaJqjE/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/rVu5dqaJqjE/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "CaiBurz",
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "ORN SWORDS VS THE ROTTEN \u2694\ufe0f\u2694\ufe0f #shorts #eldenring #fyp",
+                "description": "#fyp #shorts #eldenring #funny \n\nElden Ring is an action role-playing game developed by FromSoftware and published by Bandai Namco Entertainment. The game was directed by Hidetaka Miyazaki and made in collaboration with fantasy novelist George R. R. Martin, who provided material for the game's setting."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT17S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "4096",
+            "likeCount": "54",
+            "favoriteCount": "0",
+            "commentCount": "5"
+        }
+    }
+]

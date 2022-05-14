@@ -1,0 +1,87 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "MBw5PjZOffLExu6llK6BcNIEHWk",
+        "id": "IJt5snOu20E",
+        "snippet": {
+            "publishedAt": "2017-02-16T14:48:32Z",
+            "channelId": "UCjw43GbxEqJQYXk5U7hkkVg",
+            "title": "How to Create Bar Charts in Matlab - MATLAB Tutorial for Beginners 2017",
+            "description": "How to Create Bar Charts in Matlab - MATLAB Tutorial for Beginners 2017\n\nMATLAB: Plotting Pie Chart, Vertical & Horizontal Bar Graph",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/IJt5snOu20E/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/IJt5snOu20E/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/IJt5snOu20E/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/IJt5snOu20E/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/IJt5snOu20E/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Uniformedia",
+            "tags": [
+                "Bar Charts in Matlab",
+                "MATLAB Tutorial",
+                "MATLAB Tutorial for Beginners",
+                "Plotting Pie Chart",
+                "Vertical & Horizontal Bar Graph",
+                "eeprogrammer",
+                "RobertTalbertPhD",
+                "Uniformedia",
+                "MATLAB",
+                "THE TECH TONGA",
+                "TheEngineeringWorld",
+                "Andrew Marshall",
+                "Joseph Delgadillo",
+                "The Math Student"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "How to Create Bar Charts in Matlab - MATLAB Tutorial for Beginners 2017",
+                "description": "How to Create Bar Charts in Matlab - MATLAB Tutorial for Beginners 2017\n\nMATLAB: Plotting Pie Chart, Vertical & Horizontal Bar Graph"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT1M35S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "13182",
+            "likeCount": "27",
+            "favoriteCount": "0",
+            "commentCount": "4"
+        }
+    }
+]

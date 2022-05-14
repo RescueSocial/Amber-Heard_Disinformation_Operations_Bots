@@ -1,0 +1,92 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "SQ7gI35lfx_oAikdNcxiHPJ-GsQ",
+        "id": "Y7zeqE4327w",
+        "snippet": {
+            "publishedAt": "2018-04-25T12:54:26Z",
+            "channelId": "UCjw43GbxEqJQYXk5U7hkkVg",
+            "title": "MATLAB tutorial - Histogram of a random signal with log normal PDF",
+            "description": "MATLAB tutorial - Histogram of a random signal with log normal PDF\n\nIn probability theory, a log-normal (or lognormal) distribution is a continuous probability distribution of a random variable whose logarithm is normally distributed.\n\nY = lognpdf(X,mu,sigma) returns values at X of the lognormal pdf with distribution parameters mu and sigma. mu and sigma are the mean and standard deviation, respectively, of the associated normal distribution. X, mu, and sigma can be vectors, matrices, or multidimensional arrays that all have the same size, which is also the size of Y. A scalar input for X, mu, or sigma is expanded to a constant array with the same dimensions as the other inputs. The parameters in sigma must be positive.\n\nFor Matlab codes check: \nhttp://onlineengineers.info/\n\nFlying High by FREDJI https://soundcloud.com/fredjimusic \nhttps://www.facebook.com/fredjimusic/\nMusic promoted by Audio Library https://youtu.be/RYgKd-6_Fc4",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Y7zeqE4327w/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Y7zeqE4327w/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Y7zeqE4327w/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/Y7zeqE4327w/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/Y7zeqE4327w/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Uniformedia",
+            "tags": [
+                "MATLAB tutorial",
+                "lognpdf",
+                "Lognormal probability density function",
+                "matlab histogram",
+                "log normal PDF",
+                "matlab tutorial",
+                "eeprogrammer",
+                "RobertTalbertPhD",
+                "David Dorran",
+                "TheEngineeringWorld",
+                "John Santiago",
+                "MATLAB KFUPM",
+                "MATLAB",
+                "The Math Student",
+                "THE TECH TONGA",
+                "Andrew Marshall",
+                "education",
+                "engineering",
+                "programming"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "MATLAB tutorial - Histogram of a random signal with log normal PDF",
+                "description": "MATLAB tutorial - Histogram of a random signal with log normal PDF\n\nIn probability theory, a log-normal (or lognormal) distribution is a continuous probability distribution of a random variable whose logarithm is normally distributed.\n\nY = lognpdf(X,mu,sigma) returns values at X of the lognormal pdf with distribution parameters mu and sigma. mu and sigma are the mean and standard deviation, respectively, of the associated normal distribution. X, mu, and sigma can be vectors, matrices, or multidimensional arrays that all have the same size, which is also the size of Y. A scalar input for X, mu, or sigma is expanded to a constant array with the same dimensions as the other inputs. The parameters in sigma must be positive.\n\nFor Matlab codes check: \nhttp://onlineengineers.info/\n\nFlying High by FREDJI https://soundcloud.com/fredjimusic \nhttps://www.facebook.com/fredjimusic/\nMusic promoted by Audio Library https://youtu.be/RYgKd-6_Fc4"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT4M9S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1850",
+            "likeCount": "6",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

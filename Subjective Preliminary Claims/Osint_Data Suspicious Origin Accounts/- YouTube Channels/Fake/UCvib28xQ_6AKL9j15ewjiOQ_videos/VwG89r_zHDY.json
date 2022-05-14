@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "d_9l_7de5usQKRrw7A5cSeLz__U",
+        "id": "VwG89r_zHDY",
+        "snippet": {
+            "publishedAt": "2020-06-06T14:30:03Z",
+            "channelId": "UCvib28xQ_6AKL9j15ewjiOQ",
+            "title": "Folsom Prison Blues (Johnny Cash cover)",
+            "description": "Good morning, afternoon, or evening lovelies\u2764\ufe0f Here is a cover of Folsom Prison Blues by the man, the myth, the legend, Johnny Cash. Hope you enjoy!\u263a\ufe0f",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/VwG89r_zHDY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/VwG89r_zHDY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/VwG89r_zHDY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/VwG89r_zHDY/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/VwG89r_zHDY/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "her habits",
+            "tags": [
+                "folsom prison blues cover",
+                "johnny cash cover",
+                "folsom prison blues johnny cash cover",
+                "folsom prison blues acoustic cover"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Folsom Prison Blues (Johnny Cash cover)",
+                "description": "Good morning, afternoon, or evening lovelies\u2764\ufe0f Here is a cover of Folsom Prison Blues by the man, the myth, the legend, Johnny Cash. Hope you enjoy!\u263a\ufe0f"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT3M17S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "382",
+            "likeCount": "25",
+            "favoriteCount": "0",
+            "commentCount": "28"
+        }
+    }
+]

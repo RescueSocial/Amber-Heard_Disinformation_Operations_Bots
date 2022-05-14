@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "Q4FcKrpekURJUIDDL_g_EsVo9DA",
+        "id": "iQQTsGx1JZo",
+        "snippet": {
+            "publishedAt": "2020-06-27T16:48:40Z",
+            "channelId": "UCvib28xQ_6AKL9j15ewjiOQ",
+            "title": "acoustic car session: \u201cyellow brick road\u201d (original)",
+            "description": "Hello lovelies, welcome back\u2764\ufe0f I give my new original \u201cYellow Brick Road\u201d another go in this new series, \u201cAcoustic Car Sessions\u201d. Lyrics are subtitled in the video. Hope you enjoy!\ud83d\ude05 #singersongwriter #original song",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/iQQTsGx1JZo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/iQQTsGx1JZo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/iQQTsGx1JZo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/iQQTsGx1JZo/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "her habits",
+            "tags": [
+                "original song",
+                "singer songwriter",
+                "acoustic original song",
+                "canadian singer songwriter",
+                "acoustic folk original song",
+                "acoustic indie original song",
+                "yellow brick road song"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "acoustic car session: \u201cyellow brick road\u201d (original)",
+                "description": "Hello lovelies, welcome back\u2764\ufe0f I give my new original \u201cYellow Brick Road\u201d another go in this new series, \u201cAcoustic Car Sessions\u201d. Lyrics are subtitled in the video. Hope you enjoy!\ud83d\ude05 #singersongwriter #original song"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT6M21S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "81",
+            "likeCount": "10",
+            "favoriteCount": "0",
+            "commentCount": "9"
+        }
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "3gNRxWnfDt8rW4Gvyu37u4xsoy8",
+        "id": "TD0zjuYMJLs",
+        "snippet": {
+            "publishedAt": "2016-07-15T10:17:14Z",
+            "channelId": "UCjw43GbxEqJQYXk5U7hkkVg",
+            "title": "Discrete Time Fourier Transform (DTFT) in MATLAB - Matlab Tutorial Online Course - Uniformedia",
+            "description": "Discrete Time Fourier Transform (DTFT) in MATLAB - Matlab Tutorial Online Course - Uniformedia. In this example we will investigate the conjugate-symmetry property of its discrete-time Fourier transform using Matlab.\n\nDiscrete-time Fourier transform (DTFT) is a form of Fourier analysis that is applicable to the uniformly-spaced samples of a continuous function. The term discrete-time refers to the fact that the transform operates on discrete data (samples) whose interval often has units of time. From only the samples, it produces a function of frequency that is a periodic summation of the continuous Fourier transform of the original continuous function. Under certain theoretical conditions, described by the sampling theorem, the original continuous function can be recovered perfectly from the DTFT and thus from the original discrete samples. The DTFT itself is a continuous function of frequency, but discrete samples of it can be readily calculated via the discrete Fourier transform (DFT) , which is by far the most common method of modern Fourier analysis.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/TD0zjuYMJLs/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/TD0zjuYMJLs/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/TD0zjuYMJLs/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/TD0zjuYMJLs/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Uniformedia",
+            "tags": [
+                "Discrete Time Fourier Transform",
+                "DTFT",
+                "dtft in matlab",
+                "Discrete Time Fourier Transform (DTFT) in MATLAB",
+                "dtft lectures",
+                "dtft example",
+                "dtft vs dft",
+                "dtft and dft",
+                "dtft tutorial",
+                "discrete time fourier transform example",
+                "discrete time fourier transform",
+                "discrete time fourier transform matlab",
+                "discrete time fourier transform properties",
+                "discrete fourier transform",
+                "Late Usman Hari",
+                "online education",
+                "online schools",
+                "online college classes",
+                "online degree"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Discrete Time Fourier Transform (DTFT) in MATLAB - Matlab Tutorial Online Course - Uniformedia",
+                "description": "Discrete Time Fourier Transform (DTFT) in MATLAB - Matlab Tutorial Online Course - Uniformedia. In this example we will investigate the conjugate-symmetry property of its discrete-time Fourier transform using Matlab.\n\nDiscrete-time Fourier transform (DTFT) is a form of Fourier analysis that is applicable to the uniformly-spaced samples of a continuous function. The term discrete-time refers to the fact that the transform operates on discrete data (samples) whose interval often has units of time. From only the samples, it produces a function of frequency that is a periodic summation of the continuous Fourier transform of the original continuous function. Under certain theoretical conditions, described by the sampling theorem, the original continuous function can be recovered perfectly from the DTFT and thus from the original discrete samples. The DTFT itself is a continuous function of frequency, but discrete samples of it can be readily calculated via the discrete Fourier transform (DFT) , which is by far the most common method of modern Fourier analysis."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT6M32S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "51724",
+            "likeCount": "139",
+            "favoriteCount": "0",
+            "commentCount": "5"
+        }
+    }
+]

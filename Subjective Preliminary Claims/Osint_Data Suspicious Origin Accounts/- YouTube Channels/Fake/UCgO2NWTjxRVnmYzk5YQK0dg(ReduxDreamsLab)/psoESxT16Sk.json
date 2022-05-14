@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "487if0dmFK_i9C9e1dYOMOKgwTs",
+        "id": "psoESxT16Sk",
+        "snippet": {
+            "publishedAt": "2019-11-13T07:33:44Z",
+            "channelId": "UCgO2NWTjxRVnmYzk5YQK0dg",
+            "title": "Redux Dreams Lab Live Stream",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/psoESxT16Sk/default_live.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/psoESxT16Sk/mqdefault_live.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/psoESxT16Sk/hqdefault_live.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/psoESxT16Sk/sddefault_live.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/psoESxT16Sk/maxresdefault_live.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Redux Dreams Lab",
+            "categoryId": "20",
+            "liveBroadcastContent": "upcoming",
+            "localized": {
+                "title": "Redux Dreams Lab Live Stream",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "P0D",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "0",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

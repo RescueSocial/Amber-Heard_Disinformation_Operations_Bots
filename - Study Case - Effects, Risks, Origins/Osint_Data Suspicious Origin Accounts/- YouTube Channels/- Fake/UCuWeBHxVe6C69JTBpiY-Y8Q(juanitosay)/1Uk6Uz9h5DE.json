@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "cIOtpuaPt0g2_wroaBBFuzFkV3w",
+        "id": "1Uk6Uz9h5DE",
+        "snippet": {
+            "publishedAt": "2014-03-28T02:42:33Z",
+            "channelId": "UCuWeBHxVe6C69JTBpiY-Y8Q",
+            "title": "El Magico Show de Juanito Say #13 | Skype: DelcarajoTeve",
+            "description": "Participa del hangout con este enlace: https://plus.google.com/hangouts/_/hoaevent/AP36tYd0_6VWHHuUh35aMXTyZS71g_wgkXjb-U_E0NVFANf3uPMdgQ",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/1Uk6Uz9h5DE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/1Uk6Uz9h5DE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/1Uk6Uz9h5DE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/1Uk6Uz9h5DE/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/1Uk6Uz9h5DE/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "DELCARAJO TV",
+            "tags": [
+                "#hangoutsonair",
+                "Hangouts On Air",
+                "#hoa"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "El Magico Show de Juanito Say #13 | Skype: DelcarajoTeve",
+                "description": "Participa del hangout con este enlace: https://plus.google.com/hangouts/_/hoaevent/AP36tYd0_6VWHHuUh35aMXTyZS71g_wgkXjb-U_E0NVFANf3uPMdgQ"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2H8M41S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "likeCount": "53",
+            "favoriteCount": "0",
+            "commentCount": "84"
+        }
+    }
+]

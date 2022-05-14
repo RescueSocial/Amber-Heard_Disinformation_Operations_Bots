@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "9tNd3XktvyydCuMGg9p4bFfvQCs",
+        "id": "nXK8DZiHFSk",
+        "snippet": {
+            "publishedAt": "2022-04-27T00:00:11Z",
+            "channelId": "UC34JIJf43HQZDMdPm9774UA",
+            "title": "Elden Ring - Rune Stealer and The Giant Finger #shorts",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/nXK8DZiHFSk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/nXK8DZiHFSk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/nXK8DZiHFSk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/nXK8DZiHFSk/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/nXK8DZiHFSk/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "CaiBurz",
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Elden Ring - Rune Stealer and The Giant Finger #shorts",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT30S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "923",
+            "likeCount": "20",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "PjTEpDV_-txIgYGy4-KbuLjrCzM",
+        "id": "Aak_NwlyF-U",
+        "snippet": {
+            "publishedAt": "2021-12-17T02:49:41Z",
+            "channelId": "UCuWeBHxVe6C69JTBpiY-Y8Q",
+            "title": "SPIDER-MAN NO WAY HOME: \u00bf\u00c9xito o decepci\u00f3n? | Rese\u00f1a y an\u00e1lisis con spoilers",
+            "description": "ATENCION: Esta rese\u00f1a incluye spoilers a full. Hablamos de todo lo que sucede en #SpiderManNoWayHome. De principio a fin. Datos, curiosidades, analizamos en profundidad la trama, \u00bfcameos?, escenas post cr\u00e9ditos y mas.\n\u00bfSale Tobey Maguire? \u00bfAndrew Garfield? Dale play y averigualo...\n\n#SpiderMan #Multiverso\n\n\u25ba TUS 10 SEGUNDOS \u27a5 https://tus10segundos.com/products/delcarajotv\n\u25ba SE PARTE DEL TEAM DELCARAJO:\n\u27a5 https://youtube.com/channel/UCuWeBHxVe6C69JTBpiY-Y8Q/join\n\u25ba TIENDA DELCARAJO \u27a5 http://delcarajo.net\n\n\u25ba Sigueme en:\nTwitter \u27a5 http://twitter.com/juanitosay\nInstagram \u27a5 http://instagram.com/juanitosayoficial\nTwitch \u27a5 http://twitch.tv/juanitosay\n\n\u25ba Contacto: say@delcarajo.net\n\n\n* Hey, Friki Delcarajo... \u00bfQue haces tan abajo? El boton de like esta mas arriba ( \u0361\u00b0 \u035c\u0296 \u0361\u00b0)",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Aak_NwlyF-U/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Aak_NwlyF-U/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Aak_NwlyF-U/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/Aak_NwlyF-U/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/Aak_NwlyF-U/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "DELCARAJO TV",
+            "tags": [
+                "juanito say",
+                "delcarajo",
+                "delcarajo tv",
+                "spider man no way home rese\u00f1a",
+                "spider man no way home rese\u00f1a con spoilers",
+                "rese\u00f1a de spider man no way home",
+                "tom holland",
+                "spiderman",
+                "tobey maguire",
+                "andrew garfield",
+                "spiderman no way home",
+                "zendaya",
+                "electro",
+                "spiderverse",
+                "doctor strange",
+                "marvel",
+                "spider-man no way home",
+                "spider-man",
+                "duende verde",
+                "jon watts",
+                "benedict cumberbatch",
+                "an\u00e1lisis",
+                "hombre ara\u00f1a",
+                "spider-man no way home review",
+                "spider verse confirmado",
+                "pelicomic",
+                "somos geeks",
+                "spider verse"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "SPIDER-MAN NO WAY HOME: \u00bf\u00c9xito o decepci\u00f3n? | Rese\u00f1a y an\u00e1lisis con spoilers",
+                "description": "ATENCION: Esta rese\u00f1a incluye spoilers a full. Hablamos de todo lo que sucede en #SpiderManNoWayHome. De principio a fin. Datos, curiosidades, analizamos en profundidad la trama, \u00bfcameos?, escenas post cr\u00e9ditos y mas.\n\u00bfSale Tobey Maguire? \u00bfAndrew Garfield? Dale play y averigualo...\n\n#SpiderMan #Multiverso\n\n\u25ba TUS 10 SEGUNDOS \u27a5 https://tus10segundos.com/products/delcarajotv\n\u25ba SE PARTE DEL TEAM DELCARAJO:\n\u27a5 https://youtube.com/channel/UCuWeBHxVe6C69JTBpiY-Y8Q/join\n\u25ba TIENDA DELCARAJO \u27a5 http://delcarajo.net\n\n\u25ba Sigueme en:\nTwitter \u27a5 http://twitter.com/juanitosay\nInstagram \u27a5 http://instagram.com/juanitosayoficial\nTwitch \u27a5 http://twitch.tv/juanitosay\n\n\u25ba Contacto: say@delcarajo.net\n\n\n* Hey, Friki Delcarajo... \u00bfQue haces tan abajo? El boton de like esta mas arriba ( \u0361\u00b0 \u035c\u0296 \u0361\u00b0)"
+            },
+            "defaultAudioLanguage": "es"
+        },
+        "contentDetails": {
+            "duration": "PT19M51S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "153950",
+            "likeCount": "11118",
+            "favoriteCount": "0",
+            "commentCount": "1045"
+        }
+    }
+]

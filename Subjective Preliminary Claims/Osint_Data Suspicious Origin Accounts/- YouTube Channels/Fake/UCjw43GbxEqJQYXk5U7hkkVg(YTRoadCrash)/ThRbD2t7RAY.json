@@ -1,0 +1,83 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "ZDS1l7oUIErMAlfsX2bShZN3rTg",
+        "id": "ThRbD2t7RAY",
+        "snippet": {
+            "publishedAt": "2016-03-31T15:27:17Z",
+            "channelId": "UCjw43GbxEqJQYXk5U7hkkVg",
+            "title": "Butterworth filter design and Noise Cancellation - MATLAB tutorial | Uniformedia",
+            "description": "Butterworth filter design and Noise Cancellation - MATLAB tutorial\nfiltering in matlab using 'built-in' filter design techniques Learn MATLAB in simple and easy steps starting from basic to advanced concepts with examples http://onlineengineers.info\n\nButterworth filter design:\n[b,a] = butter(n,Wn) returns the transfer function coefficients of an nth-order lowpass digital Butterworth filter with normalized cutoff frequency Wn.\n\n[b,a] = butter(n,Wn,ftype) designs a lowpass, highpass, bandpass, or bandstop Butterworth filter, depending on the value of ftype and the number of elements of Wn. The resulting bandpass and bandstop designs are of order 2n.\n\nHow to Do a Fourier Transform in Matlab - How to plot FFT using Matlab: https://www.youtube.com/watch?v=Pb_bA28d77M",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/ThRbD2t7RAY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/ThRbD2t7RAY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/ThRbD2t7RAY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/ThRbD2t7RAY/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Uniformedia",
+            "tags": [
+                "Butterworth filter",
+                "butterworth filter matlab example",
+                "butterworth filter matlab code",
+                "butterworth filter matlab cutoff frequency",
+                "butterworth filter matlab tutorial",
+                "butterworth filter matlab",
+                "design a butterworth filter in matlab",
+                "Uniformedia",
+                "CAE Tutorials",
+                "Jake Blanchard",
+                "RobertTalbertPhD",
+                "David Dorran",
+                "eeprogrammer",
+                "education",
+                "math",
+                "engineering"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Butterworth filter design and Noise Cancellation - MATLAB tutorial | Uniformedia",
+                "description": "Butterworth filter design and Noise Cancellation - MATLAB tutorial\nfiltering in matlab using 'built-in' filter design techniques Learn MATLAB in simple and easy steps starting from basic to advanced concepts with examples http://onlineengineers.info\n\nButterworth filter design:\n[b,a] = butter(n,Wn) returns the transfer function coefficients of an nth-order lowpass digital Butterworth filter with normalized cutoff frequency Wn.\n\n[b,a] = butter(n,Wn,ftype) designs a lowpass, highpass, bandpass, or bandstop Butterworth filter, depending on the value of ftype and the number of elements of Wn. The resulting bandpass and bandstop designs are of order 2n.\n\nHow to Do a Fourier Transform in Matlab - How to plot FFT using Matlab: https://www.youtube.com/watch?v=Pb_bA28d77M"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT4M3S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "41981",
+            "likeCount": "85",
+            "favoriteCount": "0",
+            "commentCount": "5"
+        }
+    }
+]

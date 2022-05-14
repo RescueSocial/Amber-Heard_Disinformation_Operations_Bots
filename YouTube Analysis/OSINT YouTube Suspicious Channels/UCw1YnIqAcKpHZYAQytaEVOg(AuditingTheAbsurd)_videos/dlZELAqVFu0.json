@@ -1,0 +1,60 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "KMtgTlx4pSVOXkfcv-7R620q4NE",
+        "id": "dlZELAqVFu0",
+        "snippet": {
+            "publishedAt": "2022-05-04T22:06:16Z",
+            "channelId": "UCw1YnIqAcKpHZYAQytaEVOg",
+            "title": "Johnny Depp vs Amber Heard Defamation Trial Live",
+            "description": "Were back again peeps. Claire is my co host and she has a great channel here https://youtube.com/c/ClaireView307",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/dlZELAqVFu0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/dlZELAqVFu0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/dlZELAqVFu0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Auditing The Absurd",
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Johnny Depp vs Amber Heard Defamation Trial Live",
+                "description": "Were back again peeps. Claire is my co host and she has a great channel here https://youtube.com/c/ClaireView307"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT8H46M7S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "28788",
+            "likeCount": "800",
+            "favoriteCount": "0",
+            "commentCount": "47"
+        }
+    }
+]

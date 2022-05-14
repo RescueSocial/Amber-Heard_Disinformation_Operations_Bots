@@ -1,0 +1,85 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "Bz6DN9yKJjyKNR9gr0XnYkdjDEc",
+        "id": "JyiLT49WIcU",
+        "snippet": {
+            "publishedAt": "2020-11-19T00:30:19Z",
+            "channelId": "UCgO2NWTjxRVnmYzk5YQK0dg",
+            "title": "How to Setup Monect Gaming Controller on Android | Control any PC Game | Fully Functional Controller",
+            "description": "Hey whats up yo guys, welcome back to another tutorial on how to control literary any kind of PC game using your Android device. The Monect Gaming Controller does this magic and preciously you can keep the control over the game and the Controller itself. The Steering accuracy is pretty much good and it use sensors of your android device.\n\n\ud83d\udd39\ufe0fGTA Vice City Definitive Edition Layout: https://bit.ly/35xrNnh\n\nAttached files:\n\u25aa\ufe0fMonect Receiver for Windows 10- https://bit.ly/38PNkH8\n\u25aa\ufe0fMonect Controller for Android- https://bit.ly/3721EKB\n\u25aa\ufe0fGaming Layout for Testing(Direct link in video description)- https://bit.ly/37Lpo9p\n\nNote: \n\u25aa\ufe0fLayouts are only compatible with v7.3.3 or higher, otherwise will encounter \"problem parsing\" error.\n\u25aa\ufe0fSeek into 2:20 and see how the layout been installed manually to avoid \"import failed\" error. \n\u25aa\ufe0fFor most games, the Android device should have Gyroscope sensor in order to function the steering. But also there're some games which doesn't essentially need that sensor (GTA V)\n\n\u25baLeaving a LIKE would always appreciate! \r\n\u25baSubscribe for latest video uploads! http://bit.ly/29ZRld9\r\n\r\nOur social media:\r\n\u25fdLike on Facebook: http://bit.ly/2acp9pO\r\n\u25fdFollow on Twitter: http://bit.ly/6zco6Xb\r\n\u25fdMessage on Hangouts: Redux Dreams Lab\n\n#HowTo\n#AndroidController\n#GamingControllerForPC\n#WirelessAndroidControllerPC\n\nThanks for watching and see you back!",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/JyiLT49WIcU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/JyiLT49WIcU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/JyiLT49WIcU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/JyiLT49WIcU/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Redux Dreams Lab",
+            "tags": [
+                "ets2",
+                "ets 2",
+                "euro truck simulator 2",
+                "euro truck simulator steering",
+                "euro truck simulator g29",
+                "euro truck simulator steering wheel",
+                "euro truck simulator g29 steering wheel",
+                "bluetooth",
+                "android controller",
+                "android gaming controller",
+                "how to",
+                "how to setup gaming controller",
+                "Gaming layout",
+                "Gaming Controller for pc",
+                "using wifi",
+                "xbox 360"
+            ],
+            "categoryId": "26",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en-US",
+            "localized": {
+                "title": "How to Setup Monect Gaming Controller on Android | Control any PC Game | Fully Functional Controller",
+                "description": "Hey whats up yo guys, welcome back to another tutorial on how to control literary any kind of PC game using your Android device. The Monect Gaming Controller does this magic and preciously you can keep the control over the game and the Controller itself. The Steering accuracy is pretty much good and it use sensors of your android device.\n\n\ud83d\udd39\ufe0fGTA Vice City Definitive Edition Layout: https://bit.ly/35xrNnh\n\nAttached files:\n\u25aa\ufe0fMonect Receiver for Windows 10- https://bit.ly/38PNkH8\n\u25aa\ufe0fMonect Controller for Android- https://bit.ly/3721EKB\n\u25aa\ufe0fGaming Layout for Testing(Direct link in video description)- https://bit.ly/37Lpo9p\n\nNote: \n\u25aa\ufe0fLayouts are only compatible with v7.3.3 or higher, otherwise will encounter \"problem parsing\" error.\n\u25aa\ufe0fSeek into 2:20 and see how the layout been installed manually to avoid \"import failed\" error. \n\u25aa\ufe0fFor most games, the Android device should have Gyroscope sensor in order to function the steering. But also there're some games which doesn't essentially need that sensor (GTA V)\n\n\u25baLeaving a LIKE would always appreciate! \r\n\u25baSubscribe for latest video uploads! http://bit.ly/29ZRld9\r\n\r\nOur social media:\r\n\u25fdLike on Facebook: http://bit.ly/2acp9pO\r\n\u25fdFollow on Twitter: http://bit.ly/6zco6Xb\r\n\u25fdMessage on Hangouts: Redux Dreams Lab\n\n#HowTo\n#AndroidController\n#GamingControllerForPC\n#WirelessAndroidControllerPC\n\nThanks for watching and see you back!"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT3M1S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "14420",
+            "likeCount": "159",
+            "favoriteCount": "0",
+            "commentCount": "46"
+        }
+    }
+]

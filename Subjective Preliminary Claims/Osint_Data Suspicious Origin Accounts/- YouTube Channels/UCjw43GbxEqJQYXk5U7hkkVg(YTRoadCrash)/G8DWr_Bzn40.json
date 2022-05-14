@@ -1,0 +1,94 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "xgfy6GRB2bT52_LTHyvF-tbdZD0",
+        "id": "G8DWr_Bzn40",
+        "snippet": {
+            "publishedAt": "2018-04-24T14:12:55Z",
+            "channelId": "UCjw43GbxEqJQYXk5U7hkkVg",
+            "title": "Sampling Sinusoidal Signals in Matlab",
+            "description": "Sampling Sinusoidal Signals in Matlab \nIn signal processing, sampling is the reduction of a continuous-time signal to a discrete-time signal. A common example is the conversion of a sound wave (a continuous signal) to a sequence of samples (a discrete-time signal).\n\nFor Matlab codes check: \nhttp://onlineengineers.info/\n\nFlying High by FREDJI https://soundcloud.com/fredjimusic \nhttps://www.facebook.com/fredjimusic/\nMusic promoted by Audio Library https://youtu.be/RYgKd-6_Fc4",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/G8DWr_Bzn40/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/G8DWr_Bzn40/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/G8DWr_Bzn40/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/G8DWr_Bzn40/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/G8DWr_Bzn40/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Uniformedia",
+            "tags": [
+                "sampling signal matlab",
+                "sampling a signal in matlab",
+                "signal processing",
+                "Sampling Sinusoidal Signals",
+                "Sampling Sinusoidal Signals in Matlab",
+                "sampling matlab",
+                "matlab tutorial",
+                "eeprogrammer",
+                "RobertTalbertPhD",
+                "David Dorran",
+                "TheEngineeringWorld",
+                "John Santiago",
+                "MATLAB KFUPM",
+                "MATLAB",
+                "The Math Student",
+                "THE TECH TONGA",
+                "Andrew Marshall",
+                "education",
+                "engineering",
+                "programming"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Sampling Sinusoidal Signals in Matlab",
+                "description": "Sampling Sinusoidal Signals in Matlab \nIn signal processing, sampling is the reduction of a continuous-time signal to a discrete-time signal. A common example is the conversion of a sound wave (a continuous signal) to a sequence of samples (a discrete-time signal).\n\nFor Matlab codes check: \nhttp://onlineengineers.info/\n\nFlying High by FREDJI https://soundcloud.com/fredjimusic \nhttps://www.facebook.com/fredjimusic/\nMusic promoted by Audio Library https://youtu.be/RYgKd-6_Fc4"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT3M41S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "20319",
+            "likeCount": "76",
+            "favoriteCount": "0",
+            "commentCount": "3"
+        }
+    }
+]

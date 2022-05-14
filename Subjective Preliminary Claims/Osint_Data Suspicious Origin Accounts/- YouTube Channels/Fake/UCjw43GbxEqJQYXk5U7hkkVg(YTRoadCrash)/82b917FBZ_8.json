@@ -1,0 +1,92 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "G0LXORzsiUP41DN7BZLRHmwc7BQ",
+        "id": "82b917FBZ_8",
+        "snippet": {
+            "publishedAt": "2018-04-27T10:40:25Z",
+            "channelId": "UCjw43GbxEqJQYXk5U7hkkVg",
+            "title": "Step Response Using MATLAB - Plot Step Response in Matlab",
+            "description": "Step Response Using MATLAB - Plot Step Response in Matlab\n\nThe step response of a system in a given initial state consists of the time evolution of its outputs when its control inputs are Heaviside step functions. In electronic engineering and control theory, step response is the time behaviour of the outputs of a general system when its inputs change from zero to one in a very short time.\n\nFor Matlab codes check: \nhttp://onlineengineers.info/\n\nFlying High by FREDJI https://soundcloud.com/fredjimusic \nhttps://www.facebook.com/fredjimusic/\nMusic promoted by Audio Library https://youtu.be/RYgKd-6_Fc4\n\nStep Response Lecture: http://ctms.engin.umich.edu\n\nPower Spectral Density Plot using MATLAB: https://www.youtube.com/edit?o=U&video_id=O3ya8ye6Xus\n\nSampling Sinusoidal Signals in Matlab: \nhttps://www.youtube.com/edit?o=U&video_id=G8DWr_Bzn40\n\nUpsampling and Downsampling Signals in Matlab:\nhttps://www.youtube.com/edit?o=U&video_id=pr-wcWjqTw8\nhttps://www.youtube.com/edit?o=U&video_id=F3hICcuj8Ts",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/82b917FBZ_8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/82b917FBZ_8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/82b917FBZ_8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/82b917FBZ_8/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/82b917FBZ_8/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Uniformedia",
+            "tags": [
+                "step response matlab",
+                "step response matlab simulink",
+                "step response matlab code",
+                "step response matlab transfer function",
+                "unit step response matlab",
+                "step response using matlab",
+                "step response filter matlab",
+                "step response analysis matlab",
+                "step response amplitude matlab",
+                "step response of a system matlab",
+                "plot the step response matlab",
+                "step response command matlab",
+                "step response rlc circuit matlab",
+                "RobertTalbertPhD",
+                "David Dorran",
+                "eeprogrammer",
+                "education",
+                "engineering",
+                "programming"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Step Response Using MATLAB - Plot Step Response in Matlab",
+                "description": "Step Response Using MATLAB - Plot Step Response in Matlab\n\nThe step response of a system in a given initial state consists of the time evolution of its outputs when its control inputs are Heaviside step functions. In electronic engineering and control theory, step response is the time behaviour of the outputs of a general system when its inputs change from zero to one in a very short time.\n\nFor Matlab codes check: \nhttp://onlineengineers.info/\n\nFlying High by FREDJI https://soundcloud.com/fredjimusic \nhttps://www.facebook.com/fredjimusic/\nMusic promoted by Audio Library https://youtu.be/RYgKd-6_Fc4\n\nStep Response Lecture: http://ctms.engin.umich.edu\n\nPower Spectral Density Plot using MATLAB: https://www.youtube.com/edit?o=U&video_id=O3ya8ye6Xus\n\nSampling Sinusoidal Signals in Matlab: \nhttps://www.youtube.com/edit?o=U&video_id=G8DWr_Bzn40\n\nUpsampling and Downsampling Signals in Matlab:\nhttps://www.youtube.com/edit?o=U&video_id=pr-wcWjqTw8\nhttps://www.youtube.com/edit?o=U&video_id=F3hICcuj8Ts"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT1M51S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "17183",
+            "likeCount": "30",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

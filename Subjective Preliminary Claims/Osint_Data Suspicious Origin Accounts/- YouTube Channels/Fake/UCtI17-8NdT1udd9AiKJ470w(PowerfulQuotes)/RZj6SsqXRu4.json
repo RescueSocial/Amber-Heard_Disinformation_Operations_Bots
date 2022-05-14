@@ -1,0 +1,60 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "MyXWgjVRIdRk-1TTuZzq36IluVU",
+        "id": "RZj6SsqXRu4",
+        "snippet": {
+            "publishedAt": "2020-03-21T09:31:14Z",
+            "channelId": "UCtI17-8NdT1udd9AiKJ470w",
+            "title": "Live Coronavirus pandemic (COVID-19) real time count by country",
+            "description": "Live Coronavirus cases (COVID-19) real time count in top countries",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/RZj6SsqXRu4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/RZj6SsqXRu4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/RZj6SsqXRu4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Powerful Quotes ",
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Live Coronavirus pandemic (COVID-19) real time count by country",
+                "description": "Live Coronavirus cases (COVID-19) real time count in top countries"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT7H47M9S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": false,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "5",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

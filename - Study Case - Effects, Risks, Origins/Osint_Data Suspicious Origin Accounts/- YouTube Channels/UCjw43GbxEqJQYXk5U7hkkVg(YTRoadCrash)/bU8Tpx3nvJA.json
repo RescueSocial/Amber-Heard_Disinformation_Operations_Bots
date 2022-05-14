@@ -1,0 +1,88 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "0IDo_pRww2eVjeDuALVbesp_xMc",
+        "id": "bU8Tpx3nvJA",
+        "snippet": {
+            "publishedAt": "2018-05-30T16:15:34Z",
+            "channelId": "UCjw43GbxEqJQYXk5U7hkkVg",
+            "title": "Easy and Simple Low Pass Filter using Matlab",
+            "description": "Easy and Simple Low Pass Filter using Matlab\n\nA low-pass filter (LPF) is a filter that passes signals with a frequency lower than a certain cutoff frequency and attenuates signals with frequencies higher than the cutoff frequency. The exact frequency response of the filter depends on the filter design. The filter is sometimes called a high-cut filter, or treble-cut filter in audio applications. A low-pass filter is the complement of a high-pass filter.\n\nLow-pass filters exist in many different forms, including electronic circuits such as a hiss filter used in audio, anti-aliasing filters for conditioning signals prior to analog-to-digital conversion, digital filters for smoothing sets of data, acoustic barriers, blurring of images, and so on. The moving average operation used in fields such as finance is a particular kind of low-pass filter, and can be analyzed with the same signal processing techniques as are used for other low-pass filters. Low-pass filters provide a smoother form of a signal, removing the short-term fluctuations and leaving the longer-term trend.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/bU8Tpx3nvJA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/bU8Tpx3nvJA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/bU8Tpx3nvJA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/bU8Tpx3nvJA/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/bU8Tpx3nvJA/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Uniformedia",
+            "tags": [
+                "low pass filter matlab",
+                "low pass filter matlab code",
+                "low pass filter matlab example",
+                "low pass filter matlab simulink",
+                "low pass filter matlab butter",
+                "low pass filter matlab program",
+                "low pass filter matlab function",
+                "low pass filter matlab audio",
+                "fir low pass filter matlab",
+                "MATLAB",
+                "uniformedia",
+                "MATLAB Helper \u00ae",
+                "RobertTalbertPhD",
+                "David Dorran",
+                "asraf mohamed"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Easy and Simple Low Pass Filter using Matlab",
+                "description": "Easy and Simple Low Pass Filter using Matlab\n\nA low-pass filter (LPF) is a filter that passes signals with a frequency lower than a certain cutoff frequency and attenuates signals with frequencies higher than the cutoff frequency. The exact frequency response of the filter depends on the filter design. The filter is sometimes called a high-cut filter, or treble-cut filter in audio applications. A low-pass filter is the complement of a high-pass filter.\n\nLow-pass filters exist in many different forms, including electronic circuits such as a hiss filter used in audio, anti-aliasing filters for conditioning signals prior to analog-to-digital conversion, digital filters for smoothing sets of data, acoustic barriers, blurring of images, and so on. The moving average operation used in fields such as finance is a particular kind of low-pass filter, and can be analyzed with the same signal processing techniques as are used for other low-pass filters. Low-pass filters provide a smoother form of a signal, removing the short-term fluctuations and leaving the longer-term trend."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT2M17S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "7062",
+            "likeCount": "8",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

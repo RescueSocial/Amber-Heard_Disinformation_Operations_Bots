@@ -1,0 +1,99 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "7opz6pfMAaDuoU_3ikc6-HlexYQ",
+        "id": "f0kkF3YDJZo",
+        "snippet": {
+            "publishedAt": "2020-10-25T13:38:58Z",
+            "channelId": "UCjw43GbxEqJQYXk5U7hkkVg",
+            "title": "Signal Sampling in Matlab - Sampling explained in theory and code",
+            "description": "Sample a signal in MATLAB -  Signal Sampling Example Beside signal processing tutorials on this channel, you can find programming tutorials for  JavaScript, Svelte, React, Angular, SQL Server, .net, and c#. If you want to become a software developer and learn to code, subscribe to our channel.\n\nSorry for the bad audio. Noticed it only after the upload.\n00:00 - Intro\n00:24 - Sampling explained in theory\n00:46 - Sampling in Matlab\n06:25 - Outro\n\nMATLAB is a programming language developed by MathWorks.\nThis engineering software is very useful for signal processing.\n\nIn signal processing, sampling is the reduction of a continuous-time signal to a discrete-time signal. \nIn this tutorial, I will show you how a continuous-time signal can be represented in its samples and can be recovered back when sampling frequency fs is greater than or equal to twice the highest frequency \ncomponent of the message signal.\nSampling rate or sampling frequency defines the number of samples per second taken from a continuous signal to make a discrete or digital signal.\n\nMathWorks - Makers of MATLAB and Simulink - https://www.mathworks.com/\n\n\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\nTrack: SkyHigh \u2014 Enine [Audio Library Release]\nMusic provided by Audio Library Plus\nWatch: https://youtu.be/q-lf6x9cVXw\nFree Download / Stream: https://alplus.io/skyhigh\n\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\n\nhttps://www.freepik.com/photos/people \nwayhomestudio - www.freepik.com",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/f0kkF3YDJZo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/f0kkF3YDJZo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/f0kkF3YDJZo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/f0kkF3YDJZo/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/f0kkF3YDJZo/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Uniformedia",
+            "tags": [
+                "signal sampling and reconstruction",
+                "signal sampling and quantization",
+                "signal sampling examples",
+                "signal sampling matlab",
+                "signal sampling frequency",
+                "signal sampling theorem",
+                "sampling of signal",
+                "sampling of sinusoidal signal",
+                "MATLAB",
+                "programming tutorial",
+                "signal processing",
+                "JavaScript",
+                "Svelte",
+                "React",
+                "Angular",
+                "SQL Server",
+                ".net",
+                "programming language",
+                "engineering software",
+                "software developer",
+                "learn to code",
+                "Sk Rezwan",
+                "Jake Blanchard",
+                "RobertTalbertPhD",
+                "David Dorran",
+                "sampling theory"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Signal Sampling in Matlab - Sampling explained in theory and code",
+                "description": "Sample a signal in MATLAB -  Signal Sampling Example Beside signal processing tutorials on this channel, you can find programming tutorials for  JavaScript, Svelte, React, Angular, SQL Server, .net, and c#. If you want to become a software developer and learn to code, subscribe to our channel.\n\nSorry for the bad audio. Noticed it only after the upload.\n00:00 - Intro\n00:24 - Sampling explained in theory\n00:46 - Sampling in Matlab\n06:25 - Outro\n\nMATLAB is a programming language developed by MathWorks.\nThis engineering software is very useful for signal processing.\n\nIn signal processing, sampling is the reduction of a continuous-time signal to a discrete-time signal. \nIn this tutorial, I will show you how a continuous-time signal can be represented in its samples and can be recovered back when sampling frequency fs is greater than or equal to twice the highest frequency \ncomponent of the message signal.\nSampling rate or sampling frequency defines the number of samples per second taken from a continuous signal to make a discrete or digital signal.\n\nMathWorks - Makers of MATLAB and Simulink - https://www.mathworks.com/\n\n\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\nTrack: SkyHigh \u2014 Enine [Audio Library Release]\nMusic provided by Audio Library Plus\nWatch: https://youtu.be/q-lf6x9cVXw\nFree Download / Stream: https://alplus.io/skyhigh\n\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\n\nhttps://www.freepik.com/photos/people \nwayhomestudio - www.freepik.com"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT6M40S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "2241",
+            "likeCount": "19",
+            "favoriteCount": "0",
+            "commentCount": "3"
+        }
+    }
+]

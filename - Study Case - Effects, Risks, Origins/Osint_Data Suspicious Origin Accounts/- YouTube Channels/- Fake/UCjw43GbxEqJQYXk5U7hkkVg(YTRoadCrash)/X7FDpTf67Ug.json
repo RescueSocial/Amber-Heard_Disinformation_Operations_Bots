@@ -1,0 +1,93 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "RVNYSADDdXGF5xNNF4ILJqlgtQ0",
+        "id": "X7FDpTf67Ug",
+        "snippet": {
+            "publishedAt": "2016-07-14T14:23:58Z",
+            "channelId": "UCjw43GbxEqJQYXk5U7hkkVg",
+            "title": "MATLAB Tutorial - Function Plotting Basics - Plot multiple lines",
+            "description": "MATLAB Tutorial - Function Plotting Basics - Plot multiple lines\nLearn MATLAB in simple and easy steps starting from basic to advanced concepts with examples http://onlineengineers.info Uniformedia matlab classes online. How to use matlab and matlab help. \nTo plot the graph of a function, you need to take the following steps: Define x, by specifying the range of values for the variable x, for which the function is to be plotted. Define the function, y = f(x).\nCall the plot command, as plot(x, y).\n\n00:00 MATLAB Create 2-D Line Graph\n01:27 MATLAB Plot Multiple Lines\n02:16 MATLAB Colors, Line Styles, and Markers (Specify Line Style)\n02:53 MATLAB Specify Different Line Styles for Multiple Lines\n03:50 MATLAB Specify Line Style and Color\n04:20 MATLAB Plot Only Data Points - Markers\n\nMatlab Tutorial Videos:\n \nButterworth filter design https://www.youtube.com/watch?v=ThRbD2t7RAY\nHow to Do a Fourier Transform https://www.youtube.com/watch?v=Pb_bA28d77M",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/X7FDpTf67Ug/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/X7FDpTf67Ug/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/X7FDpTf67Ug/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/X7FDpTf67Ug/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Uniformedia",
+            "tags": [
+                "plot",
+                "graph",
+                "visualization",
+                "vizthink",
+                "MATLAB",
+                "programming",
+                "script",
+                "Talbert",
+                "tutorial",
+                "RobertTalbertPhD",
+                "matlab subplot",
+                "x axis matlab",
+                "matlab plot tutorial",
+                "plot graph",
+                "matlab plot color",
+                "subplot matlab",
+                "matlab legend",
+                "matlab figure",
+                "how to use matlab",
+                "matlab help",
+                "Plot Multiple Lines",
+                "matlab tutorial",
+                "education",
+                "engineering",
+                "mathematics"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "MATLAB Tutorial - Function Plotting Basics - Plot multiple lines",
+                "description": "MATLAB Tutorial - Function Plotting Basics - Plot multiple lines\nLearn MATLAB in simple and easy steps starting from basic to advanced concepts with examples http://onlineengineers.info Uniformedia matlab classes online. How to use matlab and matlab help. \nTo plot the graph of a function, you need to take the following steps: Define x, by specifying the range of values for the variable x, for which the function is to be plotted. Define the function, y = f(x).\nCall the plot command, as plot(x, y).\n\n00:00 MATLAB Create 2-D Line Graph\n01:27 MATLAB Plot Multiple Lines\n02:16 MATLAB Colors, Line Styles, and Markers (Specify Line Style)\n02:53 MATLAB Specify Different Line Styles for Multiple Lines\n03:50 MATLAB Specify Line Style and Color\n04:20 MATLAB Plot Only Data Points - Markers\n\nMatlab Tutorial Videos:\n \nButterworth filter design https://www.youtube.com/watch?v=ThRbD2t7RAY\nHow to Do a Fourier Transform https://www.youtube.com/watch?v=Pb_bA28d77M"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT5M1S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "166522",
+            "likeCount": "406",
+            "favoriteCount": "0",
+            "commentCount": "10"
+        }
+    }
+]

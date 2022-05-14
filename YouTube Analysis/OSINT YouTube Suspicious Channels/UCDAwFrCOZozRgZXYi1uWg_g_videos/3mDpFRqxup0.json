@@ -1,0 +1,60 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "N6ZV2Vq-rLR2RJegujdtRVfj3Rw",
+        "id": "3mDpFRqxup0",
+        "snippet": {
+            "publishedAt": "2022-04-18T22:33:33Z",
+            "channelId": "UCDAwFrCOZozRgZXYi1uWg_g",
+            "title": "Paul Barresi. The Amber Heard and Johnny Depp feud",
+            "description": "CLIP 1 (2).MP4",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/3mDpFRqxup0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/3mDpFRqxup0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/3mDpFRqxup0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Mario Nitrini",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Paul Barresi. The Amber Heard and Johnny Depp feud",
+                "description": "CLIP 1 (2).MP4"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT32S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "46",
+            "likeCount": "2",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

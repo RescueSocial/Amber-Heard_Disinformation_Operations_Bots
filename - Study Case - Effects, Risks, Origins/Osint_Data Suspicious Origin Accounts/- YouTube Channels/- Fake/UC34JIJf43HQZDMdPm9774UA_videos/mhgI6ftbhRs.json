@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "R41CSegQgDPbZXp4kbfFbaSDz1A",
+        "id": "mhgI6ftbhRs",
+        "snippet": {
+            "publishedAt": "2022-03-21T03:49:02Z",
+            "channelId": "UC34JIJf43HQZDMdPm9774UA",
+            "title": "Elden Ring Moonveil Katana is SO GOOD \u2694\ufe0f\u2694\ufe0f #shorts",
+            "description": "#shorts #short #fyp\n\nThis Katana Is Good...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/mhgI6ftbhRs/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/mhgI6ftbhRs/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/mhgI6ftbhRs/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/mhgI6ftbhRs/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/mhgI6ftbhRs/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "CaiBurz",
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Elden Ring Moonveil Katana is SO GOOD \u2694\ufe0f\u2694\ufe0f #shorts",
+                "description": "#shorts #short #fyp\n\nThis Katana Is Good..."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT14S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "3060",
+            "likeCount": "42",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

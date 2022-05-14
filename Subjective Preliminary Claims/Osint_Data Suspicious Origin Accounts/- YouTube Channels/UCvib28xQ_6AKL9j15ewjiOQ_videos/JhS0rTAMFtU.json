@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "8BOzExapYf5qXNPkgFFm-Jx_xBM",
+        "id": "JhS0rTAMFtU",
+        "snippet": {
+            "publishedAt": "2020-05-22T03:45:15Z",
+            "channelId": "UCvib28xQ_6AKL9j15ewjiOQ",
+            "title": "Jog Vlog",
+            "description": "Come for a jog with me in beautiful Vancouver! Welcome to my first vlog. Filmed and edited on an iPhone11.\n\nMusic Attribution: \n\nSneaky Snitch Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 3.0 License\nhttp://creativecommons.org/licenses/by/3.0/\n\nLinks:\n\nThe Wim Hof Method\n\nhttps://youtu.be/nzCaZQqAs9I\nhttps://www.wimhofmethod.com\n\nBrad Yates\n\nhttps://www.youtube.com/user/eftwizard\n\nFanny Pack\n\nhttps://www.amazon.ca/Running-Waistband-Fitness-Resistant-Reflective/dp/B01FEAI1TC/ref=mp_s_a_1_2?dchild=1&keywords=e+tronic+edge+waist+packs&qid=1590118337&sprefix=e+tronic+edge+wa&sr=8-2\n\nSunscreen (I got mine from a health food store)\n\nhttps://www.amazon.ca/Badger-Balms-Sunscreen-Cream-Unscented-Milliliters/dp/B00GYHUO2M/ref=mp_s_a_1_4?keywords=badger+sunscreen&qid=1590118410&sr=8-4\n\nDeodorant (sells at superstore and health food stores)\n\nhttps://www.amazon.ca/GREEN-BEAVER-Deodorant-Green-Beaver/dp/B00RLV2HPM/ref=mp_s_a_1_10?keywords=the+green+beaver+deodorant&qid=1590118493&sr=8-10",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/JhS0rTAMFtU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/JhS0rTAMFtU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/JhS0rTAMFtU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/JhS0rTAMFtU/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/JhS0rTAMFtU/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "her habits",
+            "tags": [
+                "jog vlog",
+                "run vlog",
+                "vlog Vancouver",
+                "Vancouver vlog"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Jog Vlog",
+                "description": "Come for a jog with me in beautiful Vancouver! Welcome to my first vlog. Filmed and edited on an iPhone11.\n\nMusic Attribution: \n\nSneaky Snitch Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 3.0 License\nhttp://creativecommons.org/licenses/by/3.0/\n\nLinks:\n\nThe Wim Hof Method\n\nhttps://youtu.be/nzCaZQqAs9I\nhttps://www.wimhofmethod.com\n\nBrad Yates\n\nhttps://www.youtube.com/user/eftwizard\n\nFanny Pack\n\nhttps://www.amazon.ca/Running-Waistband-Fitness-Resistant-Reflective/dp/B01FEAI1TC/ref=mp_s_a_1_2?dchild=1&keywords=e+tronic+edge+waist+packs&qid=1590118337&sprefix=e+tronic+edge+wa&sr=8-2\n\nSunscreen (I got mine from a health food store)\n\nhttps://www.amazon.ca/Badger-Balms-Sunscreen-Cream-Unscented-Milliliters/dp/B00GYHUO2M/ref=mp_s_a_1_4?keywords=badger+sunscreen&qid=1590118410&sr=8-4\n\nDeodorant (sells at superstore and health food stores)\n\nhttps://www.amazon.ca/GREEN-BEAVER-Deodorant-Green-Beaver/dp/B00RLV2HPM/ref=mp_s_a_1_10?keywords=the+green+beaver+deodorant&qid=1590118493&sr=8-10"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT8M2S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "546",
+            "likeCount": "37",
+            "favoriteCount": "0",
+            "commentCount": "12"
+        }
+    }
+]

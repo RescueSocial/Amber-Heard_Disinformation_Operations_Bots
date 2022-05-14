@@ -1,0 +1,89 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "T9EMy7LVKVI3dSmbn33CxdaixJE",
+        "id": "Ivv7Qt1CqeA",
+        "snippet": {
+            "publishedAt": "2022-04-16T00:49:10Z",
+            "channelId": "UCw1YnIqAcKpHZYAQytaEVOg",
+            "title": "Johnny Depp vs Amber Heard LIVE trial weekly recap",
+            "description": "4 days in and I am pretty confident I know the strategy of the 2 sides here. Lets break it down a bit.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Ivv7Qt1CqeA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Ivv7Qt1CqeA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Ivv7Qt1CqeA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Auditing The Absurd",
+            "tags": [
+                "Johnny depp",
+                "amber heard",
+                "virginia trial",
+                "johnny depp vs amber heard",
+                "live johnny depp",
+                "live amber heard",
+                "defamation trial",
+                "aquaman 2",
+                "johnny depp fired",
+                "ben chew",
+                "camille vasquez",
+                "isaac baruch",
+                "HEARD ABUSE",
+                "justice for johnny depp",
+                "deposition",
+                "domestic abuse",
+                "johnny depp vs amber heard trial",
+                "mepoo",
+                "jason mamoa",
+                "instagram",
+                "trial recap",
+                "cross examination",
+                "ben king",
+                "australia",
+                "London",
+                "Butler",
+                "Johnny depp recap"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Johnny Depp vs Amber Heard LIVE trial weekly recap",
+                "description": "4 days in and I am pretty confident I know the strategy of the 2 sides here. Lets break it down a bit."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT45M7S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1504",
+            "likeCount": "87",
+            "favoriteCount": "0",
+            "commentCount": "5"
+        }
+    }
+]

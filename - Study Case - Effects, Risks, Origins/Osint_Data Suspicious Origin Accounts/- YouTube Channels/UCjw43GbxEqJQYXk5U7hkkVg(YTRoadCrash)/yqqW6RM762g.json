@@ -1,0 +1,80 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "hCpPBm7iG89WEr-3SfUoyettTFQ",
+        "id": "yqqW6RM762g",
+        "snippet": {
+            "publishedAt": "2016-11-03T20:40:27Z",
+            "channelId": "UCjw43GbxEqJQYXk5U7hkkVg",
+            "title": "Matlab Examples - Discrete Convolution using Matlab - Matlab Tutorial",
+            "description": "Digital Signal Processing - If arbitrary sequences are of infinite duration, then MATLAB cannot be used directly to compute the convolution. MATLAB does provide a built-in function called conv that computes the convolution between two finite-duration sequences.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/yqqW6RM762g/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/yqqW6RM762g/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/yqqW6RM762g/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Uniformedia",
+            "tags": [
+                "Matlab Examples",
+                "Discrete Convolution",
+                "Matlab",
+                "matlab function",
+                "Digital Signal Processing",
+                "conv",
+                "sequences",
+                "Discrete Convolution using Matlab",
+                "Discrete Convolution in Matlab",
+                "John Santiago",
+                "David Dorran",
+                "CAE Tutorials",
+                "eeprogrammer",
+                "Barry Van Veen",
+                "MATLAB KFUPM",
+                "Darryl Morrell",
+                "uniformedia",
+                "Matlab Tutorial"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Matlab Examples - Discrete Convolution using Matlab - Matlab Tutorial",
+                "description": "Digital Signal Processing - If arbitrary sequences are of infinite duration, then MATLAB cannot be used directly to compute the convolution. MATLAB does provide a built-in function called conv that computes the convolution between two finite-duration sequences."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M38S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "12655",
+            "likeCount": "19",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        }
+    }
+]

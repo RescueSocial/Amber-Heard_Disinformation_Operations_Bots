@@ -1,0 +1,101 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "thGknMGFU08uLk-bvnjYklfj20g",
+        "id": "CCvFO-Yzpgo",
+        "snippet": {
+            "publishedAt": "2019-08-18T06:57:56Z",
+            "channelId": "UCjw43GbxEqJQYXk5U7hkkVg",
+            "title": "Svelte 3 - GitHub User Search App | Beginners Tutorial 2022",
+            "description": "In this tutorial, I'm going to show you how to create a simple GitHub user search application using Svelte. Svelte.js is a latest #framework in the market. It is a new way to build web applications.\n\nBeside signal processing tutorials on this channel, you can find programming tutorials for  JavaScript, Svelte, React, Angular, SQL Server, .net, and c#. If you want to become a software developer and learn to code, subscribe to our channel.\n\nIt is similar to #JavaScript frameworks such as React and Vue, which share a goal of making it easy to build slick interactive user interfaces.\n\nBut there's a crucial difference: #Svelte converts your app into ideal JavaScript at build time, rather than interpreting your application code at run time. This means you don't pay the performance cost of the framework's abstractions, and you don't incur a penalty when your software first loads.\n\nIn this tutorial I will show you how to grab data from an API,\ncreate an input box, use input box to run a search, take new search data and update our view. \nIt's a basic app that gives us access to see how the Svelte handles things like: HTTP requests, Lifecycle methods, Templating - Displaying data, Templating - Looping over things, Templating - Conditionally showing things, State - Updating the data and view.\n\n\n\n\nWhen I by Lonely Beats https://soundcloud.com/lnlybeats\nCreative Commons \u2014 Attribution-ShareAlike 3.0 Unported  \u2014 CC BY-SA 3.0 \nFree Download: http://bit.ly/when-i\nMusic promoted by Audio Library https://youtu.be/XGL5HTi8tJ0",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/CCvFO-Yzpgo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/CCvFO-Yzpgo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/CCvFO-Yzpgo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/CCvFO-Yzpgo/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/CCvFO-Yzpgo/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Uniformedia",
+            "tags": [
+                "svelte",
+                "svelte js",
+                "svelte 3",
+                "svelte tutorial",
+                "svelte framework",
+                "svelte basics",
+                "svelte lesson",
+                "svelte javascript",
+                "javascript svelte",
+                "sveltejs 3",
+                "svelte vs react",
+                "svelte angular",
+                "svelte javascript tutorial",
+                "svelte compiler",
+                "svelte events",
+                "svelte http request",
+                "svelte lifecycle",
+                "svelte looping",
+                "Andre Madarang",
+                "svelte fireship",
+                "CodingTheSmartWay",
+                "svelte Academind",
+                "svelte CodingPhase",
+                "freeCodeCamp",
+                "Web Development",
+                "Software Development",
+                "Svelte Crash Course",
+                "Traversy Media"
+            ],
+            "categoryId": "28",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Svelte 3 - GitHub User Search App | Beginners Tutorial 2022",
+                "description": "In this tutorial, I'm going to show you how to create a simple GitHub user search application using Svelte. Svelte.js is a latest #framework in the market. It is a new way to build web applications.\n\nBeside signal processing tutorials on this channel, you can find programming tutorials for  JavaScript, Svelte, React, Angular, SQL Server, .net, and c#. If you want to become a software developer and learn to code, subscribe to our channel.\n\nIt is similar to #JavaScript frameworks such as React and Vue, which share a goal of making it easy to build slick interactive user interfaces.\n\nBut there's a crucial difference: #Svelte converts your app into ideal JavaScript at build time, rather than interpreting your application code at run time. This means you don't pay the performance cost of the framework's abstractions, and you don't incur a penalty when your software first loads.\n\nIn this tutorial I will show you how to grab data from an API,\ncreate an input box, use input box to run a search, take new search data and update our view. \nIt's a basic app that gives us access to see how the Svelte handles things like: HTTP requests, Lifecycle methods, Templating - Displaying data, Templating - Looping over things, Templating - Conditionally showing things, State - Updating the data and view.\n\n\n\n\nWhen I by Lonely Beats https://soundcloud.com/lnlybeats\nCreative Commons \u2014 Attribution-ShareAlike 3.0 Unported  \u2014 CC BY-SA 3.0 \nFree Download: http://bit.ly/when-i\nMusic promoted by Audio Library https://youtu.be/XGL5HTi8tJ0"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT18M43S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "488",
+            "likeCount": "11",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

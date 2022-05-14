@@ -1,0 +1,91 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "h3t93HZf3Tj4bP7HXLLDG4AcJUQ",
+        "id": "_uPZx9iDfbc",
+        "snippet": {
+            "publishedAt": "2018-05-29T20:35:33Z",
+            "channelId": "UCjw43GbxEqJQYXk5U7hkkVg",
+            "title": "Step Response of Transfer Function Using Simulink on Matlab",
+            "description": "Step Response of Transfer Function Using Simulink on Matlab\n\nThe step function is one of most useful functions in MATLAB for control design. Given a system representation, the response to a step input can be immediately plotted, without need to actually solve for the time response analytically. A step input can be described as a change in the input from zero to a finite value at time t = 0. By default, the step command performs a unit step (i.e. the input goes from zero to one at time t = 0). The basic syntax for calling the step function is the following, where sys is a defined LTI object.\n\nFor Matlab codes check: \nhttp://onlineengineers.info/\n\nFlying High by FREDJI https://soundcloud.com/fredjimusic \nhttps://www.facebook.com/fredjimusic/\nMusic promoted by Audio Library https://youtu.be/RYgKd-6_Fc4\n\nStep Response Lecture: http://ctms.engin.umich.edu\n\nPower Spectral Density Plot using MATLAB: https://www.youtube.com/edit?o=U&video_id=O3ya8ye6Xus\n\nSampling Sinusoidal Signals in Matlab: \nhttps://www.youtube.com/edit?o=U&video_id=G8DWr_Bzn40\n\nUpsampling and Downsampling Signals in Matlab:\nhttps://www.youtube.com/edit?o=U&video_id=pr-wcWjqTw8\nhttps://www.youtube.com/edit?o=U&video_id=F3hICcuj8Ts",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/_uPZx9iDfbc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/_uPZx9iDfbc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/_uPZx9iDfbc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/_uPZx9iDfbc/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/_uPZx9iDfbc/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Uniformedia",
+            "tags": [
+                "step response of transfer function",
+                "step response of transfer function matlab",
+                "unit step response of transfer function",
+                "plot step response of transfer function matlab",
+                "step response of a transfer function in matlab",
+                "uniformedia",
+                "step response transfer function simulink",
+                "Joseph Delgadillo",
+                "John Santiago",
+                "MATLAB",
+                "David Dorran",
+                "The Bird Man",
+                "rmjds",
+                "AllAboutEE",
+                "sachin sharma",
+                "eeprogrammer",
+                "RobertTalbertPhD",
+                "asraf mohamed"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Step Response of Transfer Function Using Simulink on Matlab",
+                "description": "Step Response of Transfer Function Using Simulink on Matlab\n\nThe step function is one of most useful functions in MATLAB for control design. Given a system representation, the response to a step input can be immediately plotted, without need to actually solve for the time response analytically. A step input can be described as a change in the input from zero to a finite value at time t = 0. By default, the step command performs a unit step (i.e. the input goes from zero to one at time t = 0). The basic syntax for calling the step function is the following, where sys is a defined LTI object.\n\nFor Matlab codes check: \nhttp://onlineengineers.info/\n\nFlying High by FREDJI https://soundcloud.com/fredjimusic \nhttps://www.facebook.com/fredjimusic/\nMusic promoted by Audio Library https://youtu.be/RYgKd-6_Fc4\n\nStep Response Lecture: http://ctms.engin.umich.edu\n\nPower Spectral Density Plot using MATLAB: https://www.youtube.com/edit?o=U&video_id=O3ya8ye6Xus\n\nSampling Sinusoidal Signals in Matlab: \nhttps://www.youtube.com/edit?o=U&video_id=G8DWr_Bzn40\n\nUpsampling and Downsampling Signals in Matlab:\nhttps://www.youtube.com/edit?o=U&video_id=pr-wcWjqTw8\nhttps://www.youtube.com/edit?o=U&video_id=F3hICcuj8Ts"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT2M20S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "31606",
+            "likeCount": "73",
+            "favoriteCount": "0",
+            "commentCount": "4"
+        }
+    }
+]

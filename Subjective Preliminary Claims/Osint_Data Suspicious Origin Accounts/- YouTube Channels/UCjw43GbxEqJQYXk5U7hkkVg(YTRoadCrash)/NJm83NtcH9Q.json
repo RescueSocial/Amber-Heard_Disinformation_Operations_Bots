@@ -1,0 +1,83 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "eDlR2aaZ1uKmA0lbzEqKR6_lUU8",
+        "id": "NJm83NtcH9Q",
+        "snippet": {
+            "publishedAt": "2017-01-29T11:47:25Z",
+            "channelId": "UCjw43GbxEqJQYXk5U7hkkVg",
+            "title": "AM DSB Modulation in Matlab Simulink - Double Sideband Amplitude Modulation Suppressed Carrier 2017",
+            "description": "AM DSB Modulation in Matlab Simulink - Double Sideband Amplitude Modulation Suppressed Carrier - Demodulation\nMore Matlab tutorials on: http://onlineengineers.info\n\nDouble-sideband suppressed-carrier transmission (DSB-SC) is transmission in which frequencies produced by amplitude modulation (AM) are symmetrically spaced above and below the carrier frequency and the carrier level is reduced to the lowest practical level, ideally being completely suppressed.\n\nIn the DSB-SC modulation, unlike in AM, the wave carrier is not transmitted; thus, much of the power is distributed between the sidebands, which implies an increase of the cover in DSB-SC, compared to AM, for the same power used.\n\nDSB-SC transmission is a special case of double-sideband reduced carrier transmission. It is used for radio data systems.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/NJm83NtcH9Q/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/NJm83NtcH9Q/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/NJm83NtcH9Q/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/NJm83NtcH9Q/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Uniformedia",
+            "tags": [
+                "AM DSB Modulation in Matlab",
+                "Double Sideband Amplitude Modulation Suppressed Carrier",
+                "Double Sideband Suppressed Carrier",
+                "AM DSB using matlab",
+                "AM DSB using simulink",
+                "AM DSB demodulation matlab",
+                "AM DSB demodulation simulink",
+                "AM DSB 2017",
+                "uniformedia",
+                "Anas Kuzechie",
+                "John Santiago",
+                "sachin sharma",
+                "eeprogrammer",
+                "RobertTalbertPhD",
+                "David Dorran",
+                "Jake Blanchard"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "AM DSB Modulation in Matlab Simulink - Double Sideband Amplitude Modulation Suppressed Carrier 2017",
+                "description": "AM DSB Modulation in Matlab Simulink - Double Sideband Amplitude Modulation Suppressed Carrier - Demodulation\nMore Matlab tutorials on: http://onlineengineers.info\n\nDouble-sideband suppressed-carrier transmission (DSB-SC) is transmission in which frequencies produced by amplitude modulation (AM) are symmetrically spaced above and below the carrier frequency and the carrier level is reduced to the lowest practical level, ideally being completely suppressed.\n\nIn the DSB-SC modulation, unlike in AM, the wave carrier is not transmitted; thus, much of the power is distributed between the sidebands, which implies an increase of the cover in DSB-SC, compared to AM, for the same power used.\n\nDSB-SC transmission is a special case of double-sideband reduced carrier transmission. It is used for radio data systems."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT4M25S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "14630",
+            "likeCount": "68",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

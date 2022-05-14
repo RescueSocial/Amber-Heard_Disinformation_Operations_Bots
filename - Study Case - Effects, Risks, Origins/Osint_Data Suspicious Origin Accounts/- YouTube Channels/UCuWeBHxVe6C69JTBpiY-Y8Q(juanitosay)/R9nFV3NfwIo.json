@@ -1,0 +1,96 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "-UACcPM41iwLQzxb3EFlm8zYMBA",
+        "id": "R9nFV3NfwIo",
+        "snippet": {
+            "publishedAt": "2016-06-21T01:38:31Z",
+            "channelId": "UCuWeBHxVe6C69JTBpiY-Y8Q",
+            "title": "EL REGRESO DE CABLIN, EL PRIMER CANAL INFANTIL: Esteban Prol nos cuenta todo en la BA Geek",
+            "description": "\u00a1Nos encontramos con Esteban Prol y recordamos con el las epocas de Cablin y las posibilidades de su regreso a la TV!\n\n\u2605 SUSCRIBETE A MI CANAL Y SE UN FRIKI DELCARAJO: http://www.youtube.com/user/juanitosay?sub_confirmation=1\n\n\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\n\n\u25ba DELCARAJO ZETA - 100% DRAGON BALL \u27a5 http://youtube.com/delcarajozetadb\n\n\u25ba Sigueme en:\nTwitter \u27a5 http://twitter.com/juanitosay\nFacebook \u27a5 http://facebook.com/juanitosayoficial\nFacebook Personal \u27a5 http://facebook.com/soyjuanitosay\nYounow \u27a5 http://younow.com/JuanitoSay\nFreak Show \u27a5 http://freakshowtv.com.ar\n\n\u25ba Contacto prensa: say@freakshowtv.com.ar\n\n\u25ba DESCARGA MI APP PARA CHROME Y FIREFOX: http://myapp.wips.com/delcarajo-teve-juanito-say-extension",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/R9nFV3NfwIo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/R9nFV3NfwIo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/R9nFV3NfwIo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/R9nFV3NfwIo/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/R9nFV3NfwIo/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "DELCARAJO TV",
+            "tags": [
+                "buenos aires geek conference",
+                "geek",
+                "cablin",
+                "canal cablin",
+                "regresa cablin",
+                "recordando cablin",
+                "esteban prol",
+                "consejos utiles",
+                "batman y robin",
+                "sketch cablin",
+                "esteban prol disney",
+                "esteban prol floricienta",
+                "evento",
+                "entrevista",
+                "entrevista esteban prol",
+                "claudio morgado",
+                "freak show",
+                "freak show tv",
+                "vuelve cablin",
+                "cabl\u00edn",
+                "tarascon",
+                "cablin canal infantin",
+                "canal infantil"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "EL REGRESO DE CABLIN, EL PRIMER CANAL INFANTIL: Esteban Prol nos cuenta todo en la BA Geek",
+                "description": "\u00a1Nos encontramos con Esteban Prol y recordamos con el las epocas de Cablin y las posibilidades de su regreso a la TV!\n\n\u2605 SUSCRIBETE A MI CANAL Y SE UN FRIKI DELCARAJO: http://www.youtube.com/user/juanitosay?sub_confirmation=1\n\n\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\n\n\u25ba DELCARAJO ZETA - 100% DRAGON BALL \u27a5 http://youtube.com/delcarajozetadb\n\n\u25ba Sigueme en:\nTwitter \u27a5 http://twitter.com/juanitosay\nFacebook \u27a5 http://facebook.com/juanitosayoficial\nFacebook Personal \u27a5 http://facebook.com/soyjuanitosay\nYounow \u27a5 http://younow.com/JuanitoSay\nFreak Show \u27a5 http://freakshowtv.com.ar\n\n\u25ba Contacto prensa: say@freakshowtv.com.ar\n\n\u25ba DESCARGA MI APP PARA CHROME Y FIREFOX: http://myapp.wips.com/delcarajo-teve-juanito-say-extension"
+            },
+            "defaultAudioLanguage": "zxx"
+        },
+        "contentDetails": {
+            "duration": "PT6M9S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "9038",
+            "likeCount": "182",
+            "favoriteCount": "0",
+            "commentCount": "39"
+        }
+    }
+]

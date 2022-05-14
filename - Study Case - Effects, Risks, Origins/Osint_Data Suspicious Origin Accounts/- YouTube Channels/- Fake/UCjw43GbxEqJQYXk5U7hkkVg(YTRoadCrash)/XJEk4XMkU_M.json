@@ -1,0 +1,78 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "pysaMha6CrVDN6kfbUfvvTx4VpE",
+        "id": "XJEk4XMkU_M",
+        "snippet": {
+            "publishedAt": "2016-07-14T22:04:05Z",
+            "channelId": "UCjw43GbxEqJQYXk5U7hkkVg",
+            "title": "Monte Carlo Simulation using Matlab - Uniformedia Matlab Tutorial",
+            "description": "Monte Carlo Simulation using Matlab. Monte Carlo simulation is a method for exploring the sensitivity of a complex system by varying parameters within statistical constraints. These systems can include financial, physical, and mathematical models that are simulated in a loop, with statistical uncertainty between simulations. The results from the simulation are analyzed to determine the characteristics of the system.\n\nCommon tasks for performing Monte Carlo analysis include:\nVarying uncertain parameters for your model\nCreating dynamic simulations and alter parameters with statistical uncertainty\nCreating a Monte Carlo simulation to model a complex dynamic system\nDistributing simulations between processor cores and individual PCs to speed analysis\nAnalyzing data through robust plotting and advanced statistical methods\n\nMonte Carlo simulation, or probability simulation, is a technique used to understand the impact of risk and uncertainty in financial, project management, cost, and other forecasting models.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/XJEk4XMkU_M/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/XJEk4XMkU_M/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/XJEk4XMkU_M/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/XJEk4XMkU_M/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Uniformedia",
+            "tags": [
+                "Jake Blanchard",
+                "Monte Carlo Simulation using Matlab",
+                "monte carlo simulation example",
+                "monte carlo simulation matlab",
+                "monte carlo simulation algorithm",
+                "create a monte carlo simulation",
+                "monte carlo simulation code",
+                "monte carlo simulation c++ code",
+                "monte carlo simulation example matlab",
+                "monte carlo simulation gaussian distribution",
+                "monte carlo simulation in matlab"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Monte Carlo Simulation using Matlab - Uniformedia Matlab Tutorial",
+                "description": "Monte Carlo Simulation using Matlab. Monte Carlo simulation is a method for exploring the sensitivity of a complex system by varying parameters within statistical constraints. These systems can include financial, physical, and mathematical models that are simulated in a loop, with statistical uncertainty between simulations. The results from the simulation are analyzed to determine the characteristics of the system.\n\nCommon tasks for performing Monte Carlo analysis include:\nVarying uncertain parameters for your model\nCreating dynamic simulations and alter parameters with statistical uncertainty\nCreating a Monte Carlo simulation to model a complex dynamic system\nDistributing simulations between processor cores and individual PCs to speed analysis\nAnalyzing data through robust plotting and advanced statistical methods\n\nMonte Carlo simulation, or probability simulation, is a technique used to understand the impact of risk and uncertainty in financial, project management, cost, and other forecasting models."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M51S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "11439",
+            "likeCount": "45",
+            "favoriteCount": "0",
+            "commentCount": "4"
+        }
+    }
+]

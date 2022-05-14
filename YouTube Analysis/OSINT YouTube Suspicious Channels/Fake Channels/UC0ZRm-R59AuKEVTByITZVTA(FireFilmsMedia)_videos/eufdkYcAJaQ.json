@@ -1,0 +1,89 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "5R-pndk2pfH1nLCsDzMTG9Gte6w",
+        "id": "eufdkYcAJaQ",
+        "snippet": {
+            "publishedAt": "2019-06-06T16:32:40Z",
+            "channelId": "UC0ZRm-R59AuKEVTByITZVTA",
+            "title": "\"Yeayup\" - A Joe Rogan and Wiz Khalifa Conversation | JRE #1306",
+            "description": "This episode was dope. Yea Yup.\n\nContent from: The Joe Rogan Experience #1306. \n\nWiz's new documentary \"Wiz Khalifa: Behind the Cam\" is available now on Apple Music.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/eufdkYcAJaQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/eufdkYcAJaQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/eufdkYcAJaQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/eufdkYcAJaQ/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/eufdkYcAJaQ/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Fire Films",
+            "tags": [
+                "joe rogan alex jones",
+                "joe rogan wiz",
+                "joe rogan wiz khalifa",
+                "joe rogan weed",
+                "joe rogan best of",
+                "joe rogan best best podcast",
+                "wiz khalifa",
+                "wiz",
+                "wiz joe rogan",
+                "jre wiz khalifa",
+                "jre best of",
+                "joe rogan experience",
+                "wiz khalifa yea yup",
+                "wiz khalifa yeah",
+                "wiz khalifa best life",
+                "jre #1306",
+                "jre"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "\"Yeayup\" - A Joe Rogan and Wiz Khalifa Conversation | JRE #1306",
+                "description": "This episode was dope. Yea Yup.\n\nContent from: The Joe Rogan Experience #1306. \n\nWiz's new documentary \"Wiz Khalifa: Behind the Cam\" is available now on Apple Music."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT4M21S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "28550",
+            "likeCount": "449",
+            "favoriteCount": "0",
+            "commentCount": "60"
+        }
+    }
+]

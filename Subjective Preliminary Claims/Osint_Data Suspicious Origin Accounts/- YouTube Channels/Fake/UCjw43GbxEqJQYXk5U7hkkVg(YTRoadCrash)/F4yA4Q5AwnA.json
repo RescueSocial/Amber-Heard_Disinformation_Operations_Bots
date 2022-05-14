@@ -1,0 +1,94 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "iiKjlYO7col5H3AsqRVEnpwP4b4",
+        "id": "F4yA4Q5AwnA",
+        "snippet": {
+            "publishedAt": "2020-04-13T18:33:26Z",
+            "channelId": "UCjw43GbxEqJQYXk5U7hkkVg",
+            "title": "How to Generate Periodic Signals in Matlab (Sinusoidal, Square, Sawtooth) 2020",
+            "description": "How to Generate Periodic Signals in Matlab (Sinusoidal, Square, Sawtooth) 2020 - Programming in Matlab (Matlab Course)\nIn addition to the sin and cos functions in MATLAB\u00ae, the toolbox offers other functions that produce periodic signals such as sawtooth and square.\n\nThe sawtooth function generates a sawtooth wave with peaks at +/- 1 and a period of 2*pi. An optional width parameter specifies a fractional multiple of 2*pi at which the signal's maximum occurs.\n\nThe square function generates a square wave with a period of 2*pi. An optional parameter specifies the duty cycle, the percent of the period for which the signal is positive.\n\nIf you want to learn more about Matlab please subscribe to our channel.\nhttps://www.mathworks.com/matlabcentral/\nhttps://www.youtube.com/channel/UCjw43GbxEqJQYXk5U7hkkVg\nhttps://matlabacademy.mathworks.com/\nhttps://ocw.mit.edu/index.htm\n\nCampfire by extenz https://soundcloud.com/extenz\nCreative Commons \u2014 Attribution 3.0 Unported \u2014 CC BY 3.0\nFree Download / Stream: https://bit.ly/extenz-campfire\nMusic promoted by Audio Library https://youtu.be/-yZTrbMkF58",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/F4yA4Q5AwnA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/F4yA4Q5AwnA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/F4yA4Q5AwnA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/F4yA4Q5AwnA/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/F4yA4Q5AwnA/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Uniformedia",
+            "tags": [
+                "matlab generation of signals",
+                "matlab generate a sine wave",
+                "matlab generate sine wave with frequency",
+                "matlab signal processing",
+                "matlab signal plot",
+                "matlab how to plot a graph",
+                "matlab square wave",
+                "Uniformedia",
+                "CAE Tutorials",
+                "Jake Blanchard",
+                "RobertTalbertPhD",
+                "David Dorran",
+                "eeprogrammer",
+                "matlab tutorial",
+                "matlab tutorial for beginners",
+                "matlab basics",
+                "matlab programming",
+                "matlab download",
+                "matlab",
+                "matlab in hindi",
+                "introduction of matlab"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "How to Generate Periodic Signals in Matlab (Sinusoidal, Square, Sawtooth) 2020",
+                "description": "How to Generate Periodic Signals in Matlab (Sinusoidal, Square, Sawtooth) 2020 - Programming in Matlab (Matlab Course)\nIn addition to the sin and cos functions in MATLAB\u00ae, the toolbox offers other functions that produce periodic signals such as sawtooth and square.\n\nThe sawtooth function generates a sawtooth wave with peaks at +/- 1 and a period of 2*pi. An optional width parameter specifies a fractional multiple of 2*pi at which the signal's maximum occurs.\n\nThe square function generates a square wave with a period of 2*pi. An optional parameter specifies the duty cycle, the percent of the period for which the signal is positive.\n\nIf you want to learn more about Matlab please subscribe to our channel.\nhttps://www.mathworks.com/matlabcentral/\nhttps://www.youtube.com/channel/UCjw43GbxEqJQYXk5U7hkkVg\nhttps://matlabacademy.mathworks.com/\nhttps://ocw.mit.edu/index.htm\n\nCampfire by extenz https://soundcloud.com/extenz\nCreative Commons \u2014 Attribution 3.0 Unported \u2014 CC BY 3.0\nFree Download / Stream: https://bit.ly/extenz-campfire\nMusic promoted by Audio Library https://youtu.be/-yZTrbMkF58"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT5M20S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "9833",
+            "likeCount": "60",
+            "favoriteCount": "0",
+            "commentCount": "3"
+        }
+    }
+]

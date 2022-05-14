@@ -1,0 +1,75 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "7lYhIIWOfvdHNZ0WQMdMON38tKc",
+        "id": "bkL2ZlPq_OM",
+        "snippet": {
+            "publishedAt": "2022-04-30T00:00:09Z",
+            "channelId": "UC34JIJf43HQZDMdPm9774UA",
+            "title": "The Bloody Helice Is BETTER than I thought #shorts",
+            "description": "#eldenring #runes #shortsvideo",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/bkL2ZlPq_OM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/bkL2ZlPq_OM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/bkL2ZlPq_OM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/bkL2ZlPq_OM/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/bkL2ZlPq_OM/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "CaiBurz",
+            "tags": [
+                "#EldenRing",
+                "#shorts",
+                "#Runes"
+            ],
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "The Bloody Helice Is BETTER than I thought #shorts",
+                "description": "#eldenring #runes #shortsvideo"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT20S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1066",
+            "likeCount": "31",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]

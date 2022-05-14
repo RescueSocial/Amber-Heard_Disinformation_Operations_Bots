@@ -1,0 +1,86 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "AAweY4MaKKiGra8Lf9ldr2Dcl4s",
+        "id": "MkFpfZSkeic",
+        "snippet": {
+            "publishedAt": "2016-09-29T12:57:02Z",
+            "channelId": "UCjw43GbxEqJQYXk5U7hkkVg",
+            "title": "Phase Shift Keying PSK Modulation Code in MATLAB - Matlab Tutorial",
+            "description": "Phase Shift Keying PSK Modulation Code in MATLAB\n\nBinary Phase shift keying (BPSK) is one of the basic modulation schemes in which the phase of the carrier signal is varied or switched according to the input message pulses. When the modulation input is at logic 1, a finite number of cycles of a sinusoidal signal are transmitted and when the input is at logic 0, phase of the sinusoid is changed.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/MkFpfZSkeic/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/MkFpfZSkeic/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/MkFpfZSkeic/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/MkFpfZSkeic/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Uniformedia",
+            "tags": [
+                "Phase Shift Keying",
+                "PSK Modulation",
+                "PSK Matlab",
+                "Binary Phase shift keying",
+                "BPSK",
+                "BPSK Matlab",
+                "CAE Tutorials",
+                "Po Chen",
+                "Digital Signal Processing",
+                "David Dorran",
+                "eeprogrammer",
+                "Signal Processing",
+                "Barry Van Veen",
+                "John Santiago",
+                "online education",
+                "online schools",
+                "online college classes",
+                "online degree",
+                "Matlab Tutorial"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Phase Shift Keying PSK Modulation Code in MATLAB - Matlab Tutorial",
+                "description": "Phase Shift Keying PSK Modulation Code in MATLAB\n\nBinary Phase shift keying (BPSK) is one of the basic modulation schemes in which the phase of the carrier signal is varied or switched according to the input message pulses. When the modulation input is at logic 1, a finite number of cycles of a sinusoidal signal are transmitted and when the input is at logic 0, phase of the sinusoid is changed."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT3M36S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "35242",
+            "likeCount": "264",
+            "favoriteCount": "0",
+            "commentCount": "10"
+        }
+    }
+]

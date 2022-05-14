@@ -1,0 +1,89 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "ATXPZVlC1vBVxK9zN67BNnKTV7w",
+        "id": "p-lfEoyKX2M",
+        "snippet": {
+            "publishedAt": "2017-01-29T11:47:36Z",
+            "channelId": "UCjw43GbxEqJQYXk5U7hkkVg",
+            "title": "Amplitude Modulation in Simulink - AM Modulation | Matlab Simulation Tutorial 2017",
+            "description": "Amplitude Modulation in Simulink - AM Modulation | Matlab Simulation 2017 Demodulation\nMore Matlab tutorials on: http://onlineengineers.info \nAmplitude modulation (AM) is a one of the conventional technique used to transmit message signals using a carrier wave. Here is an example of using Matlab Simulink to demonstrate Amplitude Modulation.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/p-lfEoyKX2M/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/p-lfEoyKX2M/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/p-lfEoyKX2M/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/p-lfEoyKX2M/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Uniformedia",
+            "tags": [
+                "am modulation simulink",
+                "amplitude modulation simulink",
+                "am modulation in simulink",
+                "AM Generation using Simulink",
+                "AM simulink Model",
+                "Amplitude Modulation using simulink",
+                "Amplitude Modulation Demodulation",
+                "am modulation matlab",
+                "Amplitude Modulation matlab",
+                "AM modulation 2017",
+                "amplitude modulation 2017",
+                "uniformedia",
+                "Anas Kuzechie",
+                "John Santiago",
+                "sachin sharma",
+                "eeprogrammer",
+                "RobertTalbertPhD",
+                "David Dorran",
+                "Jake Blanchard",
+                "matlab tutorial",
+                "online education",
+                "online college"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amplitude Modulation in Simulink - AM Modulation | Matlab Simulation Tutorial 2017",
+                "description": "Amplitude Modulation in Simulink - AM Modulation | Matlab Simulation 2017 Demodulation\nMore Matlab tutorials on: http://onlineengineers.info \nAmplitude modulation (AM) is a one of the conventional technique used to transmit message signals using a carrier wave. Here is an example of using Matlab Simulink to demonstrate Amplitude Modulation."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT4M33S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "45642",
+            "likeCount": "221",
+            "favoriteCount": "0",
+            "commentCount": "6"
+        }
+    }
+]

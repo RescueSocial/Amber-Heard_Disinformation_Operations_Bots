@@ -1,0 +1,79 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "tZ9PPMPg8Cy3VEQYPs6QkoFpsoc",
+        "id": "6DKugvlTHto",
+        "snippet": {
+            "publishedAt": "2020-05-05T02:53:29Z",
+            "channelId": "UCvib28xQ_6AKL9j15ewjiOQ",
+            "title": "original song: \u201con my own\"",
+            "description": "Lyrics:\n\nI can do it on my own \nI don\u2019t need no one \nTo lean on \nI\u2019ve grown I\u2019ve grown I\u2019ve grown \nI don\u2019t need you\nI\u2019m strong \n\nI\u2019m not saying I didn\u2019t love you\nBut love just isn\u2019t enough\nAs much as I don\u2019t need you\nYou never needed me at all\n\nI can do it on my own\nBut I\u2019m gonna miss you cause you felt like home \nBut who said life was easy \nIt\u2019s a struggle, it\u2019s messy\n\n\nI can do it on my own \nI don\u2019t need no one \nTo lean on \nI\u2019ve grown I\u2019ve grown I\u2019ve grown \nI don\u2019t need you\nI\u2019m strong \n\nAnd I know we\u2019ll find our way\nWe\u2019ll get stronger every day \nCause I don\u2019t need you, you don\u2019t me\n\nWe can do it on our own\nDon\u2019t need no one to lean on\nWe\u2019ve grown we grown we\u2019ve grown\nDon\u2019t need each other cause we\u2019re strong \n\nI\u2019m not saying I didn\u2019t love you\nBut sometimes love isn\u2019t enough\nAs much as I don\u2019t need you\nYou never needed me at all\n\nChords:\n\nCapo 5th fret\n\nVerses: E, F#m, A, E\n\nOn the last line before the chorus \u201cAs much as I don\u2019t need you, you never needed me at all\u201d I will add a quick E7 (E, E7, F#m, A, E)\n\nChorus: E, F#m, A, E\n\nBridge: F#m, Am, E, F#m, A, E",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/6DKugvlTHto/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/6DKugvlTHto/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/6DKugvlTHto/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/6DKugvlTHto/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/6DKugvlTHto/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "her habits",
+            "tags": [
+                "original song",
+                "on my own",
+                "musician",
+                "acoustic",
+                "singersongwriter",
+                "canadian musician",
+                "canadian songwriter"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "original song: \u201con my own\"",
+                "description": "Lyrics:\n\nI can do it on my own \nI don\u2019t need no one \nTo lean on \nI\u2019ve grown I\u2019ve grown I\u2019ve grown \nI don\u2019t need you\nI\u2019m strong \n\nI\u2019m not saying I didn\u2019t love you\nBut love just isn\u2019t enough\nAs much as I don\u2019t need you\nYou never needed me at all\n\nI can do it on my own\nBut I\u2019m gonna miss you cause you felt like home \nBut who said life was easy \nIt\u2019s a struggle, it\u2019s messy\n\n\nI can do it on my own \nI don\u2019t need no one \nTo lean on \nI\u2019ve grown I\u2019ve grown I\u2019ve grown \nI don\u2019t need you\nI\u2019m strong \n\nAnd I know we\u2019ll find our way\nWe\u2019ll get stronger every day \nCause I don\u2019t need you, you don\u2019t me\n\nWe can do it on our own\nDon\u2019t need no one to lean on\nWe\u2019ve grown we grown we\u2019ve grown\nDon\u2019t need each other cause we\u2019re strong \n\nI\u2019m not saying I didn\u2019t love you\nBut sometimes love isn\u2019t enough\nAs much as I don\u2019t need you\nYou never needed me at all\n\nChords:\n\nCapo 5th fret\n\nVerses: E, F#m, A, E\n\nOn the last line before the chorus \u201cAs much as I don\u2019t need you, you never needed me at all\u201d I will add a quick E7 (E, E7, F#m, A, E)\n\nChorus: E, F#m, A, E\n\nBridge: F#m, Am, E, F#m, A, E"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT5M12S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "751",
+            "likeCount": "70",
+            "favoriteCount": "0",
+            "commentCount": "44"
+        }
+    }
+]

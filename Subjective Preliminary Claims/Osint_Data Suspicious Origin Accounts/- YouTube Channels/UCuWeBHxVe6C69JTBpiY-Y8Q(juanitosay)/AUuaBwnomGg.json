@@ -1,0 +1,79 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "lblrOXRF2zec-ZbemQa-ZUabpV0",
+        "id": "AUuaBwnomGg",
+        "snippet": {
+            "publishedAt": "2014-03-19T00:45:09Z",
+            "channelId": "UCuWeBHxVe6C69JTBpiY-Y8Q",
+            "title": "FREAK SHOW Promo - Desde el 3 de abril en la pantalla de CM",
+            "description": "Comienza Freak Show en la pantalla de CM, el canal de la musica, este jueves 3 de abril a las 22Hs de Argentina.\nChequea http://cmtv.com.ar para ver que canal es en tu cable operador o miralo en este mismo canal de Youtube.\n\nSi le das like, compartes y comentas, me ayuda mucho ;)\n\u00a1SUSCRIBETE AL CANAL!\n\nSigueme en:\nTwitter: http://twitter.com/juanitosay\nFacebook: http://facebook.com/juanitosayoficial\nFacebook Personal: http://facebook.com/sayphhat\nAsk: http://ask.fm/sayphhat\nSitio Oficial: http://mcsay.com\n\nDESCARGA MI APP PARA CHROME Y FIREFOX: http://myapp.wips.com/delcarajo-teve-juanito-say-extension",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/AUuaBwnomGg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/AUuaBwnomGg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/AUuaBwnomGg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/AUuaBwnomGg/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "DELCARAJO TV",
+            "tags": [
+                "delcarajo teve",
+                "juanito say",
+                "Freak Show (Film Subject)",
+                "freak show tv",
+                "freak show cm",
+                "freak show programa",
+                "ver freak show",
+                "descargar freak show",
+                "freak show juanito say",
+                "uma saponaro",
+                "uma saponaro freak show",
+                "cm el canal de la musica"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "FREAK SHOW Promo - Desde el 3 de abril en la pantalla de CM",
+                "description": "Comienza Freak Show en la pantalla de CM, el canal de la musica, este jueves 3 de abril a las 22Hs de Argentina.\nChequea http://cmtv.com.ar para ver que canal es en tu cable operador o miralo en este mismo canal de Youtube.\n\nSi le das like, compartes y comentas, me ayuda mucho ;)\n\u00a1SUSCRIBETE AL CANAL!\n\nSigueme en:\nTwitter: http://twitter.com/juanitosay\nFacebook: http://facebook.com/juanitosayoficial\nFacebook Personal: http://facebook.com/sayphhat\nAsk: http://ask.fm/sayphhat\nSitio Oficial: http://mcsay.com\n\nDESCARGA MI APP PARA CHROME Y FIREFOX: http://myapp.wips.com/delcarajo-teve-juanito-say-extension"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT32S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "6268",
+            "likeCount": "61",
+            "favoriteCount": "0",
+            "commentCount": "31"
+        }
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "IkwpHmiL_RGu8hmwswvFtff80wI",
+        "id": "CxzbSYEQiNA",
+        "snippet": {
+            "publishedAt": "2022-04-28T22:26:18Z",
+            "channelId": "UCw1YnIqAcKpHZYAQytaEVOg",
+            "title": "Depp-Heard Live Trial Coverage",
+            "description": "Depp and Heard are in court for the last day before the week long break, JD still presenting his case. Tune in to have a listen with commentary from myself and Claire.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/CxzbSYEQiNA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/CxzbSYEQiNA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/CxzbSYEQiNA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Auditing The Absurd",
+            "tags": [
+                "Johnny depp",
+                "amber heard",
+                "virginia trial",
+                "johnny depp vs amber heard",
+                "live johnny depp",
+                "live amber heard",
+                "defamation trial",
+                "aquaman 2",
+                "johnny depp fired",
+                "ben chew",
+                "camille vasquez",
+                "isaac baruch",
+                "HEARD ABUSE",
+                "justice for johnny depp",
+                "deposition",
+                "domestic abuse",
+                "johnny depp vs amber heard trial",
+                "mepoo",
+                "jason mamoa",
+                "instagram",
+                "trial recap",
+                "cross examination",
+                "australia",
+                "London",
+                "Johnny depp recap",
+                "johnny depp trial",
+                "amber heard trial",
+                "live coverage johnny depp amber heard"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Depp-Heard Live Trial Coverage",
+                "description": "Depp and Heard are in court for the last day before the week long break, JD still presenting his case. Tune in to have a listen with commentary from myself and Claire."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT8H58M2S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "5451",
+            "likeCount": "202",
+            "favoriteCount": "0",
+            "commentCount": "13"
+        }
+    }
+]

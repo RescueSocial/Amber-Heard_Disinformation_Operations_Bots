@@ -1,0 +1,77 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "DFA03Roi8wwKlAYX8s-5gAXcSqk",
+        "id": "aqbl9pUuKeU",
+        "snippet": {
+            "publishedAt": "2022-02-13T12:01:29Z",
+            "channelId": "UCw1YnIqAcKpHZYAQytaEVOg",
+            "title": "Introducing The Shills - Join Us For A Banter",
+            "description": "So The Shills are a group of globe defenders who like to gather and, well, take apart all the nonsense the flerfs put out, and these guys (and gals) do it in such a funny and unique way, it is really entertaining. So, to showcase them off a little bit more, you get a 2 hour livestream with me, taking questions from everyone in the chat and basically just having a good time. https://www.youtube.com/c/TheShills",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/aqbl9pUuKeU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/aqbl9pUuKeU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/aqbl9pUuKeU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/aqbl9pUuKeU/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Auditing The Absurd",
+            "tags": [
+                "flat earth",
+                "flat earth debunked",
+                "ftfe",
+                "conspiracy catz",
+                "flerfs",
+                "flerfspective",
+                "nasa",
+                "globe",
+                "space",
+                "the shills"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Introducing The Shills - Join Us For A Banter",
+                "description": "So The Shills are a group of globe defenders who like to gather and, well, take apart all the nonsense the flerfs put out, and these guys (and gals) do it in such a funny and unique way, it is really entertaining. So, to showcase them off a little bit more, you get a 2 hour livestream with me, taking questions from everyone in the chat and basically just having a good time. https://www.youtube.com/c/TheShills"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1H52M48S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1387",
+            "likeCount": "121",
+            "favoriteCount": "0",
+            "commentCount": "15"
+        }
+    }
+]

@@ -1,0 +1,97 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "F1L39pXYn7CpH9HqG8qn40GOFug",
+        "id": "bLNgyKd6doM",
+        "snippet": {
+            "publishedAt": "2020-04-26T02:49:35Z",
+            "channelId": "UCuWeBHxVe6C69JTBpiY-Y8Q",
+            "title": "CONFIRMADO: \u00a1JD PANTOJA Y KIMBERLY SE DIVORCIAN Y APARECE NUEVO VIDEO! Lizbeth debate con Dalas",
+            "description": "La pelicula de JD Pantoja, Kimberly Loaiza y Lizbeth Rodriguez esta cerca de llegar al final... aunque Dalas Review se meta a debatir en medio (?)\n\n\u25ba Stiwuard \u27a5 https://tus10s.com/2KlUVzx\n\u25ba SORTEO STAR WARS \u27a5 https://www.instagram.com/p/B_Y0u2pAbCf/\n\u25ba CONCURSO LEVEL UP \u27a5 https://instagram.com/p/B9-NcCBANDB/\n\n#JDPantoja #KimberlyLoaiza #LizbethRodriguez\n\n\u25ba TUS 10 SEGUNDOS \u27a5 http://tus10s.com/DelcarajoTeve\r\n\u25ba SE PARTE DEL TEAM DELCARAJO:\r\n\u27a5 https://youtube.com/channel/UCuWeBHxVe6C69JTBpiY-Y8Q/join\r\n\r\n\u25ba TIENDA DELCARAJO \u27a5 http://delcarajo.net\r\n\r\n\u25ba Sigueme en:\r\nTwitter \u27a5 http://twitter.com/juanitosay\r\nInstagram \u27a5 http://instagram.com/juanitosayoficial\r\n\r\n\u25ba Contacto: say@delcarajo.net\r\n\r\n\r\n* Hey, Friki Delcarajo... \u00bfQue haces tan abajo? El boton de like esta mas arriba ( \u0361\u00b0 \u035c\u0296 \u0361\u00b0)",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/bLNgyKd6doM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/bLNgyKd6doM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/bLNgyKd6doM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/bLNgyKd6doM/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/bLNgyKd6doM/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "DELCARAJO TV",
+            "tags": [
+                "juanito say",
+                "delcarajo",
+                "delcarajo teve",
+                "delcarajo tv",
+                "juan de dios pantoja",
+                "lizbeth rodr\u00edguez",
+                "candres peredo",
+                "kim loaiza",
+                "as\u00ed le respondi\u00f3 juan de dios pantoja a lizbeth rodriguez",
+                "lizbeth y juan de dios pantoja",
+                "kim y kenia",
+                "dalas review badabun",
+                "dalas review lizbeth",
+                "debate",
+                "noticias",
+                "kimberly loaiza",
+                "phanye hernandez",
+                "lizbeth y kenia os",
+                "entrevista de lizbeth a kenia",
+                "lesslie polinesia",
+                "dalas review juan de dios",
+                "youtubers",
+                "que paso",
+                "maurg1"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "CONFIRMADO: \u00a1JD PANTOJA Y KIMBERLY SE DIVORCIAN Y APARECE NUEVO VIDEO! Lizbeth debate con Dalas",
+                "description": "La pelicula de JD Pantoja, Kimberly Loaiza y Lizbeth Rodriguez esta cerca de llegar al final... aunque Dalas Review se meta a debatir en medio (?)\n\n\u25ba Stiwuard \u27a5 https://tus10s.com/2KlUVzx\n\u25ba SORTEO STAR WARS \u27a5 https://www.instagram.com/p/B_Y0u2pAbCf/\n\u25ba CONCURSO LEVEL UP \u27a5 https://instagram.com/p/B9-NcCBANDB/\n\n#JDPantoja #KimberlyLoaiza #LizbethRodriguez\n\n\u25ba TUS 10 SEGUNDOS \u27a5 http://tus10s.com/DelcarajoTeve\r\n\u25ba SE PARTE DEL TEAM DELCARAJO:\r\n\u27a5 https://youtube.com/channel/UCuWeBHxVe6C69JTBpiY-Y8Q/join\r\n\r\n\u25ba TIENDA DELCARAJO \u27a5 http://delcarajo.net\r\n\r\n\u25ba Sigueme en:\r\nTwitter \u27a5 http://twitter.com/juanitosay\r\nInstagram \u27a5 http://instagram.com/juanitosayoficial\r\n\r\n\u25ba Contacto: say@delcarajo.net\r\n\r\n\r\n* Hey, Friki Delcarajo... \u00bfQue haces tan abajo? El boton de like esta mas arriba ( \u0361\u00b0 \u035c\u0296 \u0361\u00b0)"
+            },
+            "defaultAudioLanguage": "zxx"
+        },
+        "contentDetails": {
+            "duration": "PT15M3S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "50374",
+            "likeCount": "2356",
+            "favoriteCount": "0",
+            "commentCount": "225"
+        }
+    }
+]

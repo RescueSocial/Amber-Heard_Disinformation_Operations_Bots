@@ -1,0 +1,964 @@
+kind,etag,id,snippet.publishedAt,snippet.channelId,snippet.title,snippet.description,snippet.thumbnails.default.url,snippet.thumbnails.default.width,snippet.thumbnails.default.height,snippet.thumbnails.medium.url,snippet.thumbnails.medium.width,snippet.thumbnails.medium.height,snippet.thumbnails.high.url,snippet.thumbnails.high.width,snippet.thumbnails.high.height,snippet.thumbnails.standard.url,snippet.thumbnails.standard.width,snippet.thumbnails.standard.height,snippet.thumbnails.maxres.url,snippet.thumbnails.maxres.width,snippet.thumbnails.maxres.height,snippet.channelTitle,snippet.tags,snippet.categoryId,snippet.liveBroadcastContent,snippet.localized.title,snippet.localized.description,snippet.defaultAudioLanguage,contentDetails.duration,contentDetails.dimension,contentDetails.definition,contentDetails.caption,contentDetails.licensedContent,contentDetails.projection,status.uploadStatus,status.privacyStatus,status.license,status.embeddable,status.publicStatsViewable,status.madeForKids,statistics.viewCount,statistics.likeCount,statistics.favoriteCount,statistics.commentCount,snippet.defaultLanguage
+youtube#video,HswwKSe2E1LCEN_8Tjl6NXf_dHU,-OPUnaaTT8E,2018-05-29T20:35:42Z,UCjw43GbxEqJQYXk5U7hkkVg,PWM Generation using MATLAB SIMULINK,"PWM Generation using MATLAB SIMULINK
+
+The PWM Generator block implements a PWM generator. The pulse width modulation technique controls power transfer from one electrical component to another by quickly switching between full power transfer and no power transfer.
+
+Working Principle
+The PWM generator block outputs either 1 when the duty cycle is greater than the carrier counter value, or 0 otherwise. You can set the period of each cycle by specifying the timer period Tper. You can change the initial output, or phase, of the PWM output by specifying one of three types of carrier counters.
+
+For Matlab codes check: 
+http://onlineengineers.info/
+
+Flying High by FREDJI https://soundcloud.com/fredjimusic 
+https://www.facebook.com/fredjimusic/
+Music promoted by Audio Library https://youtu.be/RYgKd-6_Fc4
+
+Step Response Lecture: http://ctms.engin.umich.edu
+
+Power Spectral Density Plot using MATLAB: https://www.youtube.com/edit?o=U&video_id=O3ya8ye6Xus
+
+Sampling Sinusoidal Signals in Matlab: 
+https://www.youtube.com/edit?o=U&video_id=G8DWr_Bzn40
+
+Upsampling and Downsampling Signals in Matlab:
+https://www.youtube.com/edit?o=U&video_id=pr-wcWjqTw8
+https://www.youtube.com/edit?o=U&video_id=F3hICcuj8Ts",https://i.ytimg.com/vi/-OPUnaaTT8E/default.jpg,120,90,https://i.ytimg.com/vi/-OPUnaaTT8E/mqdefault.jpg,320,180,https://i.ytimg.com/vi/-OPUnaaTT8E/hqdefault.jpg,480,360,https://i.ytimg.com/vi/-OPUnaaTT8E/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/-OPUnaaTT8E/maxresdefault.jpg,1280.0,720.0,Uniformedia,"['Joseph Delgadillo', 'John Santiago', 'MATLAB', 'David Dorran', 'The Bird Man', 'rmjds', 'AllAboutEE', 'sachin sharma', 'eeprogrammer', 'pwm generation', 'pwm generation in matlab', 'pwm generation and detection', 'pwm generation using matlab simulink', 'pwm generator simulink', 'pwm generation and demodulation', 'pwm generation in matlab simulink', 'SIMULINK', 'RobertTalbertPhD', 'asraf mohamed']",27,none,PWM Generation using MATLAB SIMULINK,"PWM Generation using MATLAB SIMULINK
+
+The PWM Generator block implements a PWM generator. The pulse width modulation technique controls power transfer from one electrical component to another by quickly switching between full power transfer and no power transfer.
+
+Working Principle
+The PWM generator block outputs either 1 when the duty cycle is greater than the carrier counter value, or 0 otherwise. You can set the period of each cycle by specifying the timer period Tper. You can change the initial output, or phase, of the PWM output by specifying one of three types of carrier counters.
+
+For Matlab codes check: 
+http://onlineengineers.info/
+
+Flying High by FREDJI https://soundcloud.com/fredjimusic 
+https://www.facebook.com/fredjimusic/
+Music promoted by Audio Library https://youtu.be/RYgKd-6_Fc4
+
+Step Response Lecture: http://ctms.engin.umich.edu
+
+Power Spectral Density Plot using MATLAB: https://www.youtube.com/edit?o=U&video_id=O3ya8ye6Xus
+
+Sampling Sinusoidal Signals in Matlab: 
+https://www.youtube.com/edit?o=U&video_id=G8DWr_Bzn40
+
+Upsampling and Downsampling Signals in Matlab:
+https://www.youtube.com/edit?o=U&video_id=pr-wcWjqTw8
+https://www.youtube.com/edit?o=U&video_id=F3hICcuj8Ts",en,PT2M37S,2d,hd,true,False,rectangular,processed,public,youtube,True,True,False,4971,13,0,1,
+youtube#video,LQYz_hJIDyTZoJWRHinTIG_IHDI,0MUOfFTUzVI,2022-05-05T20:58:44Z,UCjw43GbxEqJQYXk5U7hkkVg,Amber Heard Acts Scared as Johnny Depp Gets Close in Court,"Amber Heard Acts Scared as Johnny Depp Gets Close in Court
+johnny depp trial 2022
+#JohnnyDepp #AmberHeard #Depp #johnnyAmberTrial",https://i.ytimg.com/vi/0MUOfFTUzVI/default.jpg,120,90,https://i.ytimg.com/vi/0MUOfFTUzVI/mqdefault.jpg,320,180,https://i.ytimg.com/vi/0MUOfFTUzVI/hqdefault.jpg,480,360,https://i.ytimg.com/vi/0MUOfFTUzVI/sddefault.jpg,640.0,480.0,,,,Uniformedia,"['Johnny Depp', 'Amber Heard', 'amber heard acts scared', 'amber acts scared', 'amber acting scared', 'amber scared of johnny', 'amber scared of johnny depp', '#johnnydepp', '#amberheard', 'johnny depp trial 2022', 'johnny depp vs amber heard court case', 'johnny depp vs amber heard', 'johnny depp amber heard', 'johnny depp trial highlights', 'johnny depp court case', 'johnny depp lawyer', 'Uniformedia', 'johnny depp funny moments', 'funny moments']",20,none,Amber Heard Acts Scared as Johnny Depp Gets Close in Court,"Amber Heard Acts Scared as Johnny Depp Gets Close in Court
+johnny depp trial 2022
+#JohnnyDepp #AmberHeard #Depp #johnnyAmberTrial",en,PT1M3S,2d,hd,false,False,rectangular,processed,public,youtube,True,True,False,6199890,73383,0,24399,
+youtube#video,eULTW4V_I7erHL0vlFyWZV1282w,1UFm75h65F4,2017-02-25T11:24:25Z,UCjw43GbxEqJQYXk5U7hkkVg,Spectrum of a Sine Wave - MATLAB Tutorial for Beginners 2017,"Spectrum of a Sinusoidal Wave - MATLAB Tutorial for Beginners 2017
+
+A sine wave consists of a single frequency only, and its spectrum is a single point. Theoretically, a sine wave exists over infinite time and never changes. The mathematical transform that converts the time domain waveform into the frequency domain is called the Fourier transform, and it compresses all the information in the sine wave over infinite time into one point.",https://i.ytimg.com/vi/1UFm75h65F4/default.jpg,120,90,https://i.ytimg.com/vi/1UFm75h65F4/mqdefault.jpg,320,180,https://i.ytimg.com/vi/1UFm75h65F4/hqdefault.jpg,480,360,https://i.ytimg.com/vi/1UFm75h65F4/sddefault.jpg,640.0,480.0,,,,Uniformedia,"['Spectrum of a Sine Wave', 'MATLAB Tutorial', 'MATLAB Tutorial for Beginners', 'matlab spectrum', 'sine wave matlab', 'uniformedia', 'eeprogrammer', 'MATLAB', 'David Dorran', 'RobertTalbertPhD', 'matlab video tutorial', 'learn matlab free', 'matlab programming tutorial', 'matlab programs for beginners', 'matlab course online', 'matlab programming basics']",27,none,Spectrum of a Sine Wave - MATLAB Tutorial for Beginners 2017,"Spectrum of a Sinusoidal Wave - MATLAB Tutorial for Beginners 2017
+
+A sine wave consists of a single frequency only, and its spectrum is a single point. Theoretically, a sine wave exists over infinite time and never changes. The mathematical transform that converts the time domain waveform into the frequency domain is called the Fourier transform, and it compresses all the information in the sine wave over infinite time into one point.",en,PT2M47S,2d,hd,false,False,rectangular,processed,public,youtube,True,True,False,24558,125,0,1,
+youtube#video,-7-cq3_EDWI5dJQmSNDbkKJG7zc,4rq-TGFORBg,2017-02-16T14:48:32Z,UCjw43GbxEqJQYXk5U7hkkVg,Create rectangle with sharp or curved corners in Matlab - MATLAB Tutorial for Beginners 2017,Create rectangle with sharp or curved corners in Matlab - MATLAB Tutorial for Beginners 2017,https://i.ytimg.com/vi/4rq-TGFORBg/default.jpg,120,90,https://i.ytimg.com/vi/4rq-TGFORBg/mqdefault.jpg,320,180,https://i.ytimg.com/vi/4rq-TGFORBg/hqdefault.jpg,480,360,https://i.ytimg.com/vi/4rq-TGFORBg/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/4rq-TGFORBg/maxresdefault.jpg,1280.0,720.0,Uniformedia,"['rectangle matlab', 'MATLAB Tutorial for Beginners', 'MATLAB Tutorial', 'plotting matlab', 'Uniformedia', 'TheEngineeringWorld', 'Andrew Marshall', 'RobertTalbertPhD', 'MATLAB', 'THE TECH TONGA', 'Joseph Delgadillo', 'The Math Student', 'eeprogrammer']",27,none,Create rectangle with sharp or curved corners in Matlab - MATLAB Tutorial for Beginners 2017,Create rectangle with sharp or curved corners in Matlab - MATLAB Tutorial for Beginners 2017,en,PT1M38S,2d,hd,false,False,rectangular,processed,public,youtube,True,True,False,4719,13,0,3,
+youtube#video,iR5yoGlsJWVjqQAYxm0s4Ij2em8,6aSfs7xbwOg,2016-11-20T19:26:16Z,UCjw43GbxEqJQYXk5U7hkkVg,QPSK Modulation in Matlab AWGN Channel (BER) - Part 2 (2016) Matlab Tutorial,"QPSK Modulation in Matlab AWGN Channel - Part 2 (2016) 
+This program is used to calculate the Bit Error Rate (BER) of QPSK in an Additive White Gaussian Noise (AWGN) channel. The modulation and demodulation is done at baseband. Complex numbers are used to model the in-phase and quadrature components of a QPSK signal. The length of the symbol sequence and range of EbNo can be varied. 
+
+QPSK (Quadrature Phase Shift Keying) is type of phase shift keying. Unlike BPSK which is a DSBCS modulation scheme with digital information for the message, QPSK is also a DSBCS modulation scheme but it sends two bits of digital information a time (without the use of another carrier frequency).
+The amount of radio frequency spectrum required to transmit QPSK reliably is half that required for BPSK signals, which in turn makes room for more users on the channel.",https://i.ytimg.com/vi/6aSfs7xbwOg/default.jpg,120,90,https://i.ytimg.com/vi/6aSfs7xbwOg/mqdefault.jpg,320,180,https://i.ytimg.com/vi/6aSfs7xbwOg/hqdefault.jpg,480,360,https://i.ytimg.com/vi/6aSfs7xbwOg/sddefault.jpg,640.0,480.0,,,,Uniformedia,"['QPSK Modulation', 'QPSK Modulation in Matlab', 'AWGN Channel', 'Bit Error Rate', 'BER', 'matlab', 'Additive White Gaussian Noise', 'QPSK', 'BPSK', 'DSBCS', 'Amr Rashed', 'john santiago', 'eeprogrammer', 'sachin sharma', 'online education', 'online school', 'online degree', 'online college classes', 'Matlab Tutorial']",27,none,QPSK Modulation in Matlab AWGN Channel (BER) - Part 2 (2016) Matlab Tutorial,"QPSK Modulation in Matlab AWGN Channel - Part 2 (2016) 
+This program is used to calculate the Bit Error Rate (BER) of QPSK in an Additive White Gaussian Noise (AWGN) channel. The modulation and demodulation is done at baseband. Complex numbers are used to model the in-phase and quadrature components of a QPSK signal. The length of the symbol sequence and range of EbNo can be varied. 
+
+QPSK (Quadrature Phase Shift Keying) is type of phase shift keying. Unlike BPSK which is a DSBCS modulation scheme with digital information for the message, QPSK is also a DSBCS modulation scheme but it sends two bits of digital information a time (without the use of another carrier frequency).
+The amount of radio frequency spectrum required to transmit QPSK reliably is half that required for BPSK signals, which in turn makes room for more users on the channel.",,PT2M1S,2d,hd,false,False,rectangular,processed,public,youtube,True,True,False,17657,93,0,12,
+youtube#video,9CIYHt7bbLVga2K5HMIeeDeD_Uo,7JEOgbvKH70,2021-10-29T14:59:36Z,UCjw43GbxEqJQYXk5U7hkkVg,SolidWorks Extrude Text Tutorial - How to add Text to a Surface,"SolidWorks Extrude Text Tutorial - How to add Text to a Surface
+SolidWorks Extrude Text Tutorial - How to add Text to a Surface
+
+Solidworks 2021, solidworks 2020, solidworks 2019, solidworks 2018,
+solidworks 2017, solidworks 2016, solidworks 2015, solidworks 2014
+Beginner SolidWorks text recessed or extruded
+extrude cut text in solidworks, uniformedia
+SOLIDWORKS Text Tutorial - Quick Tip",https://i.ytimg.com/vi/7JEOgbvKH70/default.jpg,120,90,https://i.ytimg.com/vi/7JEOgbvKH70/mqdefault.jpg,320,180,https://i.ytimg.com/vi/7JEOgbvKH70/hqdefault.jpg,480,360,https://i.ytimg.com/vi/7JEOgbvKH70/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/7JEOgbvKH70/maxresdefault.jpg,1280.0,720.0,Uniformedia,"['solidworks', 'solidworks text', 'solidworks extrude text', 'how to extrude text in solidworks', 'extrude text in solidworks', 'add text to a surface', 'surface text in solidwokrs', 'how to add text solidworks', 'add text to a surface solidworks', 'solidworks tutorial', 'uniformedia', 'solidworks 2021', 'solidworks 2020', 'tutorial', 'GoEngineer', 'CAD CAM tutorials', 'extrude cut text in solidworks', 'extruding text in solidworks', 'extrude text', 'extrude text sw', 'extrude text solidworks']",20,none,SolidWorks Extrude Text Tutorial - How to add Text to a Surface,"SolidWorks Extrude Text Tutorial - How to add Text to a Surface
+SolidWorks Extrude Text Tutorial - How to add Text to a Surface
+
+Solidworks 2021, solidworks 2020, solidworks 2019, solidworks 2018,
+solidworks 2017, solidworks 2016, solidworks 2015, solidworks 2014
+Beginner SolidWorks text recessed or extruded
+extrude cut text in solidworks, uniformedia
+SOLIDWORKS Text Tutorial - Quick Tip",en,PT3M1S,2d,hd,false,False,rectangular,processed,public,youtube,True,True,False,709,1,0,0,
+youtube#video,G0LXORzsiUP41DN7BZLRHmwc7BQ,82b917FBZ_8,2018-04-27T10:40:25Z,UCjw43GbxEqJQYXk5U7hkkVg,Step Response Using MATLAB - Plot Step Response in Matlab,"Step Response Using MATLAB - Plot Step Response in Matlab
+
+The step response of a system in a given initial state consists of the time evolution of its outputs when its control inputs are Heaviside step functions. In electronic engineering and control theory, step response is the time behaviour of the outputs of a general system when its inputs change from zero to one in a very short time.
+
+For Matlab codes check: 
+http://onlineengineers.info/
+
+Flying High by FREDJI https://soundcloud.com/fredjimusic 
+https://www.facebook.com/fredjimusic/
+Music promoted by Audio Library https://youtu.be/RYgKd-6_Fc4
+
+Step Response Lecture: http://ctms.engin.umich.edu
+
+Power Spectral Density Plot using MATLAB: https://www.youtube.com/edit?o=U&video_id=O3ya8ye6Xus
+
+Sampling Sinusoidal Signals in Matlab: 
+https://www.youtube.com/edit?o=U&video_id=G8DWr_Bzn40
+
+Upsampling and Downsampling Signals in Matlab:
+https://www.youtube.com/edit?o=U&video_id=pr-wcWjqTw8
+https://www.youtube.com/edit?o=U&video_id=F3hICcuj8Ts",https://i.ytimg.com/vi/82b917FBZ_8/default.jpg,120,90,https://i.ytimg.com/vi/82b917FBZ_8/mqdefault.jpg,320,180,https://i.ytimg.com/vi/82b917FBZ_8/hqdefault.jpg,480,360,https://i.ytimg.com/vi/82b917FBZ_8/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/82b917FBZ_8/maxresdefault.jpg,1280.0,720.0,Uniformedia,"['step response matlab', 'step response matlab simulink', 'step response matlab code', 'step response matlab transfer function', 'unit step response matlab', 'step response using matlab', 'step response filter matlab', 'step response analysis matlab', 'step response amplitude matlab', 'step response of a system matlab', 'plot the step response matlab', 'step response command matlab', 'step response rlc circuit matlab', 'RobertTalbertPhD', 'David Dorran', 'eeprogrammer', 'education', 'engineering', 'programming']",27,none,Step Response Using MATLAB - Plot Step Response in Matlab,"Step Response Using MATLAB - Plot Step Response in Matlab
+
+The step response of a system in a given initial state consists of the time evolution of its outputs when its control inputs are Heaviside step functions. In electronic engineering and control theory, step response is the time behaviour of the outputs of a general system when its inputs change from zero to one in a very short time.
+
+For Matlab codes check: 
+http://onlineengineers.info/
+
+Flying High by FREDJI https://soundcloud.com/fredjimusic 
+https://www.facebook.com/fredjimusic/
+Music promoted by Audio Library https://youtu.be/RYgKd-6_Fc4
+
+Step Response Lecture: http://ctms.engin.umich.edu
+
+Power Spectral Density Plot using MATLAB: https://www.youtube.com/edit?o=U&video_id=O3ya8ye6Xus
+
+Sampling Sinusoidal Signals in Matlab: 
+https://www.youtube.com/edit?o=U&video_id=G8DWr_Bzn40
+
+Upsampling and Downsampling Signals in Matlab:
+https://www.youtube.com/edit?o=U&video_id=pr-wcWjqTw8
+https://www.youtube.com/edit?o=U&video_id=F3hICcuj8Ts",en,PT1M51S,2d,hd,true,False,rectangular,processed,public,youtube,True,True,False,17183,30,0,1,
+youtube#video,vVGkRJ2rGNfiztMFmrPieb-R4Ys,BDei_yBrHNE,2022-05-10T12:51:36Z,UCjw43GbxEqJQYXk5U7hkkVg,"Amber Heard ""Tell Them Johnny and See How Many People Believe or Side With You""","Tell Them Johnny and See How Many People Believe or Side With You
+Johnny Depp Trial 2022 Amber Heard Trial 2022
+#JohnnyDepp #AmberHeard",https://i.ytimg.com/vi/BDei_yBrHNE/default.jpg,120,90,https://i.ytimg.com/vi/BDei_yBrHNE/mqdefault.jpg,320,180,https://i.ytimg.com/vi/BDei_yBrHNE/hqdefault.jpg,480,360,https://i.ytimg.com/vi/BDei_yBrHNE/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/BDei_yBrHNE/maxresdefault.jpg,1280.0,720.0,Uniformedia,"['Johnny Depp', 'Amber Heard', 'Uniformedia', 'Johnny', 'Depp', 'Amber', 'Johnny Depp trial', 'Johnny Depp trial 2022', 'johnny depp amber heard', 'johnny amber', 'johnny depp amber heard trial']",20,none,"Amber Heard ""Tell Them Johnny and See How Many People Believe or Side With You""","Tell Them Johnny and See How Many People Believe or Side With You
+Johnny Depp Trial 2022 Amber Heard Trial 2022
+#JohnnyDepp #AmberHeard",en,PT33S,2d,sd,false,False,rectangular,processed,public,youtube,True,True,False,4890,98,0,19,
+youtube#video,0IDo_pRww2eVjeDuALVbesp_xMc,bU8Tpx3nvJA,2018-05-30T16:15:34Z,UCjw43GbxEqJQYXk5U7hkkVg,Easy and Simple Low Pass Filter using Matlab,"Easy and Simple Low Pass Filter using Matlab
+
+A low-pass filter (LPF) is a filter that passes signals with a frequency lower than a certain cutoff frequency and attenuates signals with frequencies higher than the cutoff frequency. The exact frequency response of the filter depends on the filter design. The filter is sometimes called a high-cut filter, or treble-cut filter in audio applications. A low-pass filter is the complement of a high-pass filter.
+
+Low-pass filters exist in many different forms, including electronic circuits such as a hiss filter used in audio, anti-aliasing filters for conditioning signals prior to analog-to-digital conversion, digital filters for smoothing sets of data, acoustic barriers, blurring of images, and so on. The moving average operation used in fields such as finance is a particular kind of low-pass filter, and can be analyzed with the same signal processing techniques as are used for other low-pass filters. Low-pass filters provide a smoother form of a signal, removing the short-term fluctuations and leaving the longer-term trend.",https://i.ytimg.com/vi/bU8Tpx3nvJA/default.jpg,120,90,https://i.ytimg.com/vi/bU8Tpx3nvJA/mqdefault.jpg,320,180,https://i.ytimg.com/vi/bU8Tpx3nvJA/hqdefault.jpg,480,360,https://i.ytimg.com/vi/bU8Tpx3nvJA/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/bU8Tpx3nvJA/maxresdefault.jpg,1280.0,720.0,Uniformedia,"['low pass filter matlab', 'low pass filter matlab code', 'low pass filter matlab example', 'low pass filter matlab simulink', 'low pass filter matlab butter', 'low pass filter matlab program', 'low pass filter matlab function', 'low pass filter matlab audio', 'fir low pass filter matlab', 'MATLAB', 'uniformedia', 'MATLAB Helper ®', 'RobertTalbertPhD', 'David Dorran', 'asraf mohamed']",27,none,Easy and Simple Low Pass Filter using Matlab,"Easy and Simple Low Pass Filter using Matlab
+
+A low-pass filter (LPF) is a filter that passes signals with a frequency lower than a certain cutoff frequency and attenuates signals with frequencies higher than the cutoff frequency. The exact frequency response of the filter depends on the filter design. The filter is sometimes called a high-cut filter, or treble-cut filter in audio applications. A low-pass filter is the complement of a high-pass filter.
+
+Low-pass filters exist in many different forms, including electronic circuits such as a hiss filter used in audio, anti-aliasing filters for conditioning signals prior to analog-to-digital conversion, digital filters for smoothing sets of data, acoustic barriers, blurring of images, and so on. The moving average operation used in fields such as finance is a particular kind of low-pass filter, and can be analyzed with the same signal processing techniques as are used for other low-pass filters. Low-pass filters provide a smoother form of a signal, removing the short-term fluctuations and leaving the longer-term trend.",en,PT2M17S,2d,hd,false,False,rectangular,processed,public,youtube,True,True,False,7062,8,0,0,
+youtube#video,hMF6YCdm7pHe5EI6WiE5L38B6z0,c0G4WWMNQGM,2022-05-02T19:20:47Z,UCjw43GbxEqJQYXk5U7hkkVg,Generate Continuous and Discrete  Random Noise in Matlab - Signal processing,"In signal processing, white noise is a random signal having equal intensity at different frequencies, giving it a constant power spectral density.
+
+In discrete time, white noise is a discrete signal whose samples are regarded as a sequence of serially uncorrelated random variables with zero mean and finite variance; a single realization of white noise is a random shock.
+
+y=rand(size(t));",https://i.ytimg.com/vi/c0G4WWMNQGM/default.jpg,120,90,https://i.ytimg.com/vi/c0G4WWMNQGM/mqdefault.jpg,320,180,https://i.ytimg.com/vi/c0G4WWMNQGM/hqdefault.jpg,480,360,https://i.ytimg.com/vi/c0G4WWMNQGM/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/c0G4WWMNQGM/maxresdefault.jpg,1280.0,720.0,Uniformedia,"['matlab tutorial', 'white noise', 'matlab code', 'generate noise signal matlab', 'signal processing matlab', 'random noise matlab', 'matlab programming', 'discrete signal', 'programming', 'matlab', 'matlab download']",27,none,Generate Continuous and Discrete  Random Noise in Matlab - Signal processing,"In signal processing, white noise is a random signal having equal intensity at different frequencies, giving it a constant power spectral density.
+
+In discrete time, white noise is a discrete signal whose samples are regarded as a sequence of serially uncorrelated random variables with zero mean and finite variance; a single realization of white noise is a random shock.
+
+y=rand(size(t));",en,PT3M5S,2d,hd,false,False,rectangular,processed,public,youtube,True,True,False,120,2,0,0,
+youtube#video,thGknMGFU08uLk-bvnjYklfj20g,CCvFO-Yzpgo,2019-08-18T06:57:56Z,UCjw43GbxEqJQYXk5U7hkkVg,Svelte 3 - GitHub User Search App | Beginners Tutorial 2022,"In this tutorial, I'm going to show you how to create a simple GitHub user search application using Svelte. Svelte.js is a latest #framework in the market. It is a new way to build web applications.
+
+Beside signal processing tutorials on this channel, you can find programming tutorials for  JavaScript, Svelte, React, Angular, SQL Server, .net, and c#. If you want to become a software developer and learn to code, subscribe to our channel.
+
+It is similar to #JavaScript frameworks such as React and Vue, which share a goal of making it easy to build slick interactive user interfaces.
+
+But there's a crucial difference: #Svelte converts your app into ideal JavaScript at build time, rather than interpreting your application code at run time. This means you don't pay the performance cost of the framework's abstractions, and you don't incur a penalty when your software first loads.
+
+In this tutorial I will show you how to grab data from an API,
+create an input box, use input box to run a search, take new search data and update our view. 
+It's a basic app that gives us access to see how the Svelte handles things like: HTTP requests, Lifecycle methods, Templating - Displaying data, Templating - Looping over things, Templating - Conditionally showing things, State - Updating the data and view.
+
+
+
+
+When I by Lonely Beats https://soundcloud.com/lnlybeats
+Creative Commons — Attribution-ShareAlike 3.0 Unported  — CC BY-SA 3.0 
+Free Download: http://bit.ly/when-i
+Music promoted by Audio Library https://youtu.be/XGL5HTi8tJ0",https://i.ytimg.com/vi/CCvFO-Yzpgo/default.jpg,120,90,https://i.ytimg.com/vi/CCvFO-Yzpgo/mqdefault.jpg,320,180,https://i.ytimg.com/vi/CCvFO-Yzpgo/hqdefault.jpg,480,360,https://i.ytimg.com/vi/CCvFO-Yzpgo/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/CCvFO-Yzpgo/maxresdefault.jpg,1280.0,720.0,Uniformedia,"['svelte', 'svelte js', 'svelte 3', 'svelte tutorial', 'svelte framework', 'svelte basics', 'svelte lesson', 'svelte javascript', 'javascript svelte', 'sveltejs 3', 'svelte vs react', 'svelte angular', 'svelte javascript tutorial', 'svelte compiler', 'svelte events', 'svelte http request', 'svelte lifecycle', 'svelte looping', 'Andre Madarang', 'svelte fireship', 'CodingTheSmartWay', 'svelte Academind', 'svelte CodingPhase', 'freeCodeCamp', 'Web Development', 'Software Development', 'Svelte Crash Course', 'Traversy Media']",28,none,Svelte 3 - GitHub User Search App | Beginners Tutorial 2022,"In this tutorial, I'm going to show you how to create a simple GitHub user search application using Svelte. Svelte.js is a latest #framework in the market. It is a new way to build web applications.
+
+Beside signal processing tutorials on this channel, you can find programming tutorials for  JavaScript, Svelte, React, Angular, SQL Server, .net, and c#. If you want to become a software developer and learn to code, subscribe to our channel.
+
+It is similar to #JavaScript frameworks such as React and Vue, which share a goal of making it easy to build slick interactive user interfaces.
+
+But there's a crucial difference: #Svelte converts your app into ideal JavaScript at build time, rather than interpreting your application code at run time. This means you don't pay the performance cost of the framework's abstractions, and you don't incur a penalty when your software first loads.
+
+In this tutorial I will show you how to grab data from an API,
+create an input box, use input box to run a search, take new search data and update our view. 
+It's a basic app that gives us access to see how the Svelte handles things like: HTTP requests, Lifecycle methods, Templating - Displaying data, Templating - Looping over things, Templating - Conditionally showing things, State - Updating the data and view.
+
+
+
+
+When I by Lonely Beats https://soundcloud.com/lnlybeats
+Creative Commons — Attribution-ShareAlike 3.0 Unported  — CC BY-SA 3.0 
+Free Download: http://bit.ly/when-i
+Music promoted by Audio Library https://youtu.be/XGL5HTi8tJ0",en,PT18M43S,2d,hd,false,False,rectangular,processed,public,youtube,True,True,False,488,11,0,0,
+youtube#video,9JJd3yJQBe8y4lSpbQn4SYDM_sM,daNljdAzYu8,2017-07-13T12:27:32Z,UCjw43GbxEqJQYXk5U7hkkVg,QPSK Modulation and Demodulation in Matlab AWGN Channel,"QPSK Modulation and Demodulation in Matlab AWGN Channel.
+We will first load our audio signal. Then we will use quantization, QPSK modulation, QPSK demodulation and dequantization.
+Matlab codes: http://onlineengineers.info/
+QPSK (Quadrature Phase Shift Keying) is type of phase shift keying. 
+A QPSK modulator can be implemented as follows. A demultiplexer (or serial to parallel converter) is used to separate odd and even bits from the generated information bits. Each of the odd bits (quadrature arm) and even bits (in-phase arm) are converted to NRZ format in a parallel manner. The signal on the in-phase arm is multiplied by cosine component and the signal on the quadrature arm is multiplied by sine component. QPSK modulated signal is obtained by adding the signal from both in-phase and quadrature arm.
+
+In the demodulator the received signal is multiplied by a reference frequency generators (cos(ωt)) and (sin(ωt)) on separate arms (in-phase and quadrature arms). The multiplied output on each arm is integrated over one bit period using an integrator. A threshold detector makes a decision on each integrated bit based on a threshold. Finally the bits on the in-phase arm (even bits) and on the quadrature arm (odd bits) are remapped to form detected information stream. 
+Source: http://www.gaussianwaves.com",https://i.ytimg.com/vi/daNljdAzYu8/default.jpg,120,90,https://i.ytimg.com/vi/daNljdAzYu8/mqdefault.jpg,320,180,https://i.ytimg.com/vi/daNljdAzYu8/hqdefault.jpg,480,360,https://i.ytimg.com/vi/daNljdAzYu8/sddefault.jpg,640.0,480.0,,,,Uniformedia,"['QPSK Modulation', 'QPSK demodulation', 'Modulation and Demodulation', 'QPSK in matlab', 'QPSK modulation matlab', 'QPSK demodulation matlab', 'quantization', 'quantization matlab', 'dequantization', 'dequantization matlab', 'Quadrature Phase Shift Keying', 'Quadrature Phase Shift Keying matlab', 'QPSK matlab code', 'eeprogrammer', 'David Dorran', 'MATLAB KFUPM', 'CAE Tutorials', 'Jake Blanchard', 'Anselm Griffin', 'RobertTalbertPhD', 'Xoviacs']",27,none,QPSK Modulation and Demodulation in Matlab AWGN Channel,"QPSK Modulation and Demodulation in Matlab AWGN Channel.
+We will first load our audio signal. Then we will use quantization, QPSK modulation, QPSK demodulation and dequantization.
+Matlab codes: http://onlineengineers.info/
+QPSK (Quadrature Phase Shift Keying) is type of phase shift keying. 
+A QPSK modulator can be implemented as follows. A demultiplexer (or serial to parallel converter) is used to separate odd and even bits from the generated information bits. Each of the odd bits (quadrature arm) and even bits (in-phase arm) are converted to NRZ format in a parallel manner. The signal on the in-phase arm is multiplied by cosine component and the signal on the quadrature arm is multiplied by sine component. QPSK modulated signal is obtained by adding the signal from both in-phase and quadrature arm.
+
+In the demodulator the received signal is multiplied by a reference frequency generators (cos(ωt)) and (sin(ωt)) on separate arms (in-phase and quadrature arms). The multiplied output on each arm is integrated over one bit period using an integrator. A threshold detector makes a decision on each integrated bit based on a threshold. Finally the bits on the in-phase arm (even bits) and on the quadrature arm (odd bits) are remapped to form detected information stream. 
+Source: http://www.gaussianwaves.com",en,PT4M42S,2d,hd,true,False,rectangular,processed,public,youtube,True,True,False,16353,42,0,4,
+youtube#video,2TaXxbqUtAwxB-XnEnXHB4r7h8I,dEG_hv5E8VQ,2016-09-29T12:48:02Z,UCjw43GbxEqJQYXk5U7hkkVg,Amplitude Modulation - Matlab Tutorial (Amplitude modulation in Matlab with Code) 2016,"Matlab Tutorial - Amplitude Modulation
+How to generate Amplitude modulation (AM) using MATLAB? AM is a method of transmitting signals, such as sound or digital information, in which the amplitude of carrier wave is changed according to the message signal. AM is widely used in electronic communication field. The plotting of AM signal using MATLAB is very easy.
+Here we are simply adding the carrier amplitude with message signal to obtain AM signal, then the instantaneous amplitude of carrier gets altered with respect to modulating signal. Thus the carrier amplitude varies according to the base band signal (message signal).",https://i.ytimg.com/vi/dEG_hv5E8VQ/default.jpg,120,90,https://i.ytimg.com/vi/dEG_hv5E8VQ/mqdefault.jpg,320,180,https://i.ytimg.com/vi/dEG_hv5E8VQ/hqdefault.jpg,480,360,https://i.ytimg.com/vi/dEG_hv5E8VQ/sddefault.jpg,640.0,480.0,,,,Uniformedia,"['amplitude modulation matlab', 'amplitude modulation tutorial', 'amplitude modulation analysis', 'amplitude modulation matlab code', 'amplitude modulation matlab simulink', 'amplitude modulation matlab gui', 'amplitude modulation matlab example', 'amplitude modulation matlab simulation', 'CAE Tutorials', 'Po Chen', 'Digital Signal Processing', 'David Dorran', 'eeprogrammer', 'Signal Processing', 'Barry Van Veen', 'John Santiago', 'online education', 'online schools', 'online college classes', 'online degree']",27,none,Amplitude Modulation - Matlab Tutorial (Amplitude modulation in Matlab with Code) 2016,"Matlab Tutorial - Amplitude Modulation
+How to generate Amplitude modulation (AM) using MATLAB? AM is a method of transmitting signals, such as sound or digital information, in which the amplitude of carrier wave is changed according to the message signal. AM is widely used in electronic communication field. The plotting of AM signal using MATLAB is very easy.
+Here we are simply adding the carrier amplitude with message signal to obtain AM signal, then the instantaneous amplitude of carrier gets altered with respect to modulating signal. Thus the carrier amplitude varies according to the base band signal (message signal).",,PT5M50S,2d,hd,false,False,rectangular,processed,public,youtube,True,True,False,89288,596,0,34,
+youtube#video,uP-8QijfwHF1MlyVEFbB5t8i2s4,dx1NYDih9pE,2017-02-01T15:01:22Z,UCjw43GbxEqJQYXk5U7hkkVg,FM modulation in Simulink 2017 (How to generate FM Modulation using Simulink Tutorial),"FM modulation in Simulink 2017 (How to generate FM Modulation using Simulink) Uniformedia
+
+In telecommunications and signal processing, frequency modulation (FM) is the encoding of information in a carrier wave by varying the instantaneous frequency of the wave. This contrasts with amplitude modulation, in which the amplitude of the carrier wave varies, while the frequency remains constant.
+
+Download FM modulation model in Simulink: http://onlineengineers.info
+(Free Electrical Engineering video lectures, free Online Electrical Engineering courses, Video Tutorials, University Courses, Youtube, Lecture notes.)
+
+What is FM modulation: http://www.radio-electronics.com/info/rf-technology-design/fm-frequency-modulation/what-is-fm-tutorial.php
+
+Check this MATLAB channel: https://www.youtube.com/channel/UCgdHSFcXvkN6O3NXvif0-pA",https://i.ytimg.com/vi/dx1NYDih9pE/default.jpg,120,90,https://i.ytimg.com/vi/dx1NYDih9pE/mqdefault.jpg,320,180,https://i.ytimg.com/vi/dx1NYDih9pE/hqdefault.jpg,480,360,https://i.ytimg.com/vi/dx1NYDih9pE/sddefault.jpg,640.0,480.0,,,,Uniformedia,"['FM modulation in Simulink', 'How to generate FM Modulation using Simulink', 'FM simulink', 'Modulador y Demodulador FM', 'Tutorial Simulink', 'FM Demodulation', 'Simulacion señales FM mediante simulink', 'Simulacion Modulacion FM', 'Uniformedia', 'John Santiago', 'David Dorran', 'RobertTalbertPhD', 'asraf mohamed', 'MATLAB', 'Simulink', 'eeprogrammer', 'FM modulation', 'fm modulation and demodulation', 'fm modulation circuit', 'fm modulation matlab', 'fm modulation tutorial', 'simulink tutorial', 'matlab tutorial']",27,none,FM modulation in Simulink 2017 (How to generate FM Modulation using Simulink Tutorial),"FM modulation in Simulink 2017 (How to generate FM Modulation using Simulink) Uniformedia
+
+In telecommunications and signal processing, frequency modulation (FM) is the encoding of information in a carrier wave by varying the instantaneous frequency of the wave. This contrasts with amplitude modulation, in which the amplitude of the carrier wave varies, while the frequency remains constant.
+
+Download FM modulation model in Simulink: http://onlineengineers.info
+(Free Electrical Engineering video lectures, free Online Electrical Engineering courses, Video Tutorials, University Courses, Youtube, Lecture notes.)
+
+What is FM modulation: http://www.radio-electronics.com/info/rf-technology-design/fm-frequency-modulation/what-is-fm-tutorial.php
+
+Check this MATLAB channel: https://www.youtube.com/channel/UCgdHSFcXvkN6O3NXvif0-pA",en,PT4M17S,2d,hd,true,False,rectangular,processed,public,youtube,True,True,False,25374,90,0,4,
+youtube#video,7opz6pfMAaDuoU_3ikc6-HlexYQ,f0kkF3YDJZo,2020-10-25T13:38:58Z,UCjw43GbxEqJQYXk5U7hkkVg,Signal Sampling in Matlab - Sampling explained in theory and code,"Sample a signal in MATLAB -  Signal Sampling Example Beside signal processing tutorials on this channel, you can find programming tutorials for  JavaScript, Svelte, React, Angular, SQL Server, .net, and c#. If you want to become a software developer and learn to code, subscribe to our channel.
+
+Sorry for the bad audio. Noticed it only after the upload.
+00:00 - Intro
+00:24 - Sampling explained in theory
+00:46 - Sampling in Matlab
+06:25 - Outro
+
+MATLAB is a programming language developed by MathWorks.
+This engineering software is very useful for signal processing.
+
+In signal processing, sampling is the reduction of a continuous-time signal to a discrete-time signal. 
+In this tutorial, I will show you how a continuous-time signal can be represented in its samples and can be recovered back when sampling frequency fs is greater than or equal to twice the highest frequency 
+component of the message signal.
+Sampling rate or sampling frequency defines the number of samples per second taken from a continuous signal to make a discrete or digital signal.
+
+MathWorks - Makers of MATLAB and Simulink - https://www.mathworks.com/
+
+––––––––––––––––––––––––––––––
+Track: SkyHigh — Enine [Audio Library Release]
+Music provided by Audio Library Plus
+Watch: https://youtu.be/q-lf6x9cVXw
+Free Download / Stream: https://alplus.io/skyhigh
+––––––––––––––––––––––––––––––
+
+https://www.freepik.com/photos/people 
+wayhomestudio - www.freepik.com",https://i.ytimg.com/vi/f0kkF3YDJZo/default.jpg,120,90,https://i.ytimg.com/vi/f0kkF3YDJZo/mqdefault.jpg,320,180,https://i.ytimg.com/vi/f0kkF3YDJZo/hqdefault.jpg,480,360,https://i.ytimg.com/vi/f0kkF3YDJZo/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/f0kkF3YDJZo/maxresdefault.jpg,1280.0,720.0,Uniformedia,"['signal sampling and reconstruction', 'signal sampling and quantization', 'signal sampling examples', 'signal sampling matlab', 'signal sampling frequency', 'signal sampling theorem', 'sampling of signal', 'sampling of sinusoidal signal', 'MATLAB', 'programming tutorial', 'signal processing', 'JavaScript', 'Svelte', 'React', 'Angular', 'SQL Server', '.net', 'programming language', 'engineering software', 'software developer', 'learn to code', 'Sk Rezwan', 'Jake Blanchard', 'RobertTalbertPhD', 'David Dorran', 'sampling theory']",27,none,Signal Sampling in Matlab - Sampling explained in theory and code,"Sample a signal in MATLAB -  Signal Sampling Example Beside signal processing tutorials on this channel, you can find programming tutorials for  JavaScript, Svelte, React, Angular, SQL Server, .net, and c#. If you want to become a software developer and learn to code, subscribe to our channel.
+
+Sorry for the bad audio. Noticed it only after the upload.
+00:00 - Intro
+00:24 - Sampling explained in theory
+00:46 - Sampling in Matlab
+06:25 - Outro
+
+MATLAB is a programming language developed by MathWorks.
+This engineering software is very useful for signal processing.
+
+In signal processing, sampling is the reduction of a continuous-time signal to a discrete-time signal. 
+In this tutorial, I will show you how a continuous-time signal can be represented in its samples and can be recovered back when sampling frequency fs is greater than or equal to twice the highest frequency 
+component of the message signal.
+Sampling rate or sampling frequency defines the number of samples per second taken from a continuous signal to make a discrete or digital signal.
+
+MathWorks - Makers of MATLAB and Simulink - https://www.mathworks.com/
+
+––––––––––––––––––––––––––––––
+Track: SkyHigh — Enine [Audio Library Release]
+Music provided by Audio Library Plus
+Watch: https://youtu.be/q-lf6x9cVXw
+Free Download / Stream: https://alplus.io/skyhigh
+––––––––––––––––––––––––––––––
+
+https://www.freepik.com/photos/people 
+wayhomestudio - www.freepik.com",en,PT6M40S,2d,hd,false,False,rectangular,processed,public,youtube,True,True,False,2241,19,0,3,
+youtube#video,v3YvLlWHs4M-3tquG4jElud6mxk,F3hICcuj8Ts,2018-04-26T10:09:05Z,UCjw43GbxEqJQYXk5U7hkkVg,Downsampling Signals in Matlab - Downsample Signal Matlab Tutorial,"Downsampling Signals in Matlab - Downsample Signal Matlab Tutorial
+
+In digital signal processing, decimation is the process of reducing the sampling rate of a signal. The term downsampling usually refers to one step of the process, but sometimes the terms are used interchangeably. Complementary to upsampling, which increases sampling rate, decimation is a specific case of sample rate conversion in a multi-rate digital signal processing system. A system component that performs decimation is called a decimator.
+
+For Matlab codes check: 
+http://onlineengineers.info/
+
+Flying High by FREDJI https://soundcloud.com/fredjimusic 
+https://www.facebook.com/fredjimusic/
+Music promoted by Audio Library https://youtu.be/RYgKd-6_Fc4
+
+Downsampling — Signal Phases:
+https://www.mathworks.com/help/signal/ug/downsampling-signal-phases.html",https://i.ytimg.com/vi/F3hICcuj8Ts/default.jpg,120,90,https://i.ytimg.com/vi/F3hICcuj8Ts/mqdefault.jpg,320,180,https://i.ytimg.com/vi/F3hICcuj8Ts/hqdefault.jpg,480,360,https://i.ytimg.com/vi/F3hICcuj8Ts/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/F3hICcuj8Ts/maxresdefault.jpg,1280.0,720.0,Uniformedia,"['downsampling example', 'Downsampling Signals in Matla', 'Downsample Signal Matlab', 'downsampling and upsampling examples', 'downsampling and upsampling', 'downsampling dsp', 'downsampling in matlab', 'downsampling in frequency domain', 'matlab', 'mathworks', 'eeprogrammer', 'RobertTalbertPhD', 'David Dorran', 'TheEngineeringWorld', 'John Santiago', 'MATLAB KFUPM', 'The Math Student', 'THE TECH TONGA', 'Andrew Marshall', 'education', 'engineering', 'programming']",27,none,Downsampling Signals in Matlab - Downsample Signal Matlab Tutorial,"Downsampling Signals in Matlab - Downsample Signal Matlab Tutorial
+
+In digital signal processing, decimation is the process of reducing the sampling rate of a signal. The term downsampling usually refers to one step of the process, but sometimes the terms are used interchangeably. Complementary to upsampling, which increases sampling rate, decimation is a specific case of sample rate conversion in a multi-rate digital signal processing system. A system component that performs decimation is called a decimator.
+
+For Matlab codes check: 
+http://onlineengineers.info/
+
+Flying High by FREDJI https://soundcloud.com/fredjimusic 
+https://www.facebook.com/fredjimusic/
+Music promoted by Audio Library https://youtu.be/RYgKd-6_Fc4
+
+Downsampling — Signal Phases:
+https://www.mathworks.com/help/signal/ug/downsampling-signal-phases.html",en,PT3M22S,2d,hd,true,False,rectangular,processed,public,youtube,True,True,False,10713,60,0,3,
+youtube#video,iiKjlYO7col5H3AsqRVEnpwP4b4,F4yA4Q5AwnA,2020-04-13T18:33:26Z,UCjw43GbxEqJQYXk5U7hkkVg,"How to Generate Periodic Signals in Matlab (Sinusoidal, Square, Sawtooth) 2020","How to Generate Periodic Signals in Matlab (Sinusoidal, Square, Sawtooth) 2020 - Programming in Matlab (Matlab Course)
+In addition to the sin and cos functions in MATLAB®, the toolbox offers other functions that produce periodic signals such as sawtooth and square.
+
+The sawtooth function generates a sawtooth wave with peaks at +/- 1 and a period of 2*pi. An optional width parameter specifies a fractional multiple of 2*pi at which the signal's maximum occurs.
+
+The square function generates a square wave with a period of 2*pi. An optional parameter specifies the duty cycle, the percent of the period for which the signal is positive.
+
+If you want to learn more about Matlab please subscribe to our channel.
+https://www.mathworks.com/matlabcentral/
+https://www.youtube.com/channel/UCjw43GbxEqJQYXk5U7hkkVg
+https://matlabacademy.mathworks.com/
+https://ocw.mit.edu/index.htm
+
+Campfire by extenz https://soundcloud.com/extenz
+Creative Commons — Attribution 3.0 Unported — CC BY 3.0
+Free Download / Stream: https://bit.ly/extenz-campfire
+Music promoted by Audio Library https://youtu.be/-yZTrbMkF58",https://i.ytimg.com/vi/F4yA4Q5AwnA/default.jpg,120,90,https://i.ytimg.com/vi/F4yA4Q5AwnA/mqdefault.jpg,320,180,https://i.ytimg.com/vi/F4yA4Q5AwnA/hqdefault.jpg,480,360,https://i.ytimg.com/vi/F4yA4Q5AwnA/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/F4yA4Q5AwnA/maxresdefault.jpg,1280.0,720.0,Uniformedia,"['matlab generation of signals', 'matlab generate a sine wave', 'matlab generate sine wave with frequency', 'matlab signal processing', 'matlab signal plot', 'matlab how to plot a graph', 'matlab square wave', 'Uniformedia', 'CAE Tutorials', 'Jake Blanchard', 'RobertTalbertPhD', 'David Dorran', 'eeprogrammer', 'matlab tutorial', 'matlab tutorial for beginners', 'matlab basics', 'matlab programming', 'matlab download', 'matlab', 'matlab in hindi', 'introduction of matlab']",27,none,"How to Generate Periodic Signals in Matlab (Sinusoidal, Square, Sawtooth) 2020","How to Generate Periodic Signals in Matlab (Sinusoidal, Square, Sawtooth) 2020 - Programming in Matlab (Matlab Course)
+In addition to the sin and cos functions in MATLAB®, the toolbox offers other functions that produce periodic signals such as sawtooth and square.
+
+The sawtooth function generates a sawtooth wave with peaks at +/- 1 and a period of 2*pi. An optional width parameter specifies a fractional multiple of 2*pi at which the signal's maximum occurs.
+
+The square function generates a square wave with a period of 2*pi. An optional parameter specifies the duty cycle, the percent of the period for which the signal is positive.
+
+If you want to learn more about Matlab please subscribe to our channel.
+https://www.mathworks.com/matlabcentral/
+https://www.youtube.com/channel/UCjw43GbxEqJQYXk5U7hkkVg
+https://matlabacademy.mathworks.com/
+https://ocw.mit.edu/index.htm
+
+Campfire by extenz https://soundcloud.com/extenz
+Creative Commons — Attribution 3.0 Unported — CC BY 3.0
+Free Download / Stream: https://bit.ly/extenz-campfire
+Music promoted by Audio Library https://youtu.be/-yZTrbMkF58",en,PT5M20S,2d,hd,false,False,rectangular,processed,public,youtube,True,True,False,9833,60,0,3,
+youtube#video,pe428pfiEBGBJMmNFNZWVERuTpw,FQIM6StxakE,2017-04-09T13:03:23Z,UCjw43GbxEqJQYXk5U7hkkVg,Tutorial - How to configure RIP using Cisco Packet Tracer (Routing Information Protocol) 2018,"Packet tracer rip routing protocol tutorial lab. Cisco Packet Tracer rip routing.
+
+The Routing Information Protocol, or RIP, as it is more commonly called, is one of the most enduring of all routing protocols. RIP has four basic components: routing update process, RIP routing metrics, routing stability, and routing timers. Devices that support RIP send routing-update messages at regular intervals and when the network topology changes. These RIP packets include information about the networks that the devices can reach, as well as the number of routers or gateways that a packet must travel through to reach the destination address. RIP generates more traffic than OSPF, but is easier to configure.",https://i.ytimg.com/vi/FQIM6StxakE/default.jpg,120,90,https://i.ytimg.com/vi/FQIM6StxakE/mqdefault.jpg,320,180,https://i.ytimg.com/vi/FQIM6StxakE/hqdefault.jpg,480,360,https://i.ytimg.com/vi/FQIM6StxakE/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/FQIM6StxakE/maxresdefault.jpg,1280.0,720.0,Uniformedia,"['Cisco Packet Tracer', 'How to configure Rip using Cisco Packet Tracer', 'Packet tracer rip', 'Packet tracer rip routing', 'Packet tracer rip protocol', 'Packet tracer rip tutorial', 'Packet tracer rip lab', 'Packet tracer ripV2', 'Cisco Packet Tracer rip routing', 'Routing Information Protocol', 'uniformedia', 'danscourses', 'cruz sendy', 'CiscoStudents', 'Mohammad Amzad Hossain', 'Luis Pérez', 'Christian Augusto Romero Goyzueta', 'MyCyberAcademy', 'Cisco CCNA']",27,none,Tutorial - How to configure RIP using Cisco Packet Tracer (Routing Information Protocol) 2018,"Packet tracer rip routing protocol tutorial lab. Cisco Packet Tracer rip routing.
+
+The Routing Information Protocol, or RIP, as it is more commonly called, is one of the most enduring of all routing protocols. RIP has four basic components: routing update process, RIP routing metrics, routing stability, and routing timers. Devices that support RIP send routing-update messages at regular intervals and when the network topology changes. These RIP packets include information about the networks that the devices can reach, as well as the number of routers or gateways that a packet must travel through to reach the destination address. RIP generates more traffic than OSPF, but is easier to configure.",en,PT4M41S,2d,hd,true,False,rectangular,processed,public,youtube,True,True,False,33931,101,0,7,
+youtube#video,xgfy6GRB2bT52_LTHyvF-tbdZD0,G8DWr_Bzn40,2018-04-24T14:12:55Z,UCjw43GbxEqJQYXk5U7hkkVg,Sampling Sinusoidal Signals in Matlab,"Sampling Sinusoidal Signals in Matlab 
+In signal processing, sampling is the reduction of a continuous-time signal to a discrete-time signal. A common example is the conversion of a sound wave (a continuous signal) to a sequence of samples (a discrete-time signal).
+
+For Matlab codes check: 
+http://onlineengineers.info/
+
+Flying High by FREDJI https://soundcloud.com/fredjimusic 
+https://www.facebook.com/fredjimusic/
+Music promoted by Audio Library https://youtu.be/RYgKd-6_Fc4",https://i.ytimg.com/vi/G8DWr_Bzn40/default.jpg,120,90,https://i.ytimg.com/vi/G8DWr_Bzn40/mqdefault.jpg,320,180,https://i.ytimg.com/vi/G8DWr_Bzn40/hqdefault.jpg,480,360,https://i.ytimg.com/vi/G8DWr_Bzn40/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/G8DWr_Bzn40/maxresdefault.jpg,1280.0,720.0,Uniformedia,"['sampling signal matlab', 'sampling a signal in matlab', 'signal processing', 'Sampling Sinusoidal Signals', 'Sampling Sinusoidal Signals in Matlab', 'sampling matlab', 'matlab tutorial', 'eeprogrammer', 'RobertTalbertPhD', 'David Dorran', 'TheEngineeringWorld', 'John Santiago', 'MATLAB KFUPM', 'MATLAB', 'The Math Student', 'THE TECH TONGA', 'Andrew Marshall', 'education', 'engineering', 'programming']",27,none,Sampling Sinusoidal Signals in Matlab,"Sampling Sinusoidal Signals in Matlab 
+In signal processing, sampling is the reduction of a continuous-time signal to a discrete-time signal. A common example is the conversion of a sound wave (a continuous signal) to a sequence of samples (a discrete-time signal).
+
+For Matlab codes check: 
+http://onlineengineers.info/
+
+Flying High by FREDJI https://soundcloud.com/fredjimusic 
+https://www.facebook.com/fredjimusic/
+Music promoted by Audio Library https://youtu.be/RYgKd-6_Fc4",en,PT3M41S,2d,hd,true,False,rectangular,processed,public,youtube,True,True,False,20319,76,0,3,en
+youtube#video,JGtrJ2B0OsntD0hkfu2qYRibJt0,gi9tG6Rh6HE,2018-05-30T16:15:34Z,UCjw43GbxEqJQYXk5U7hkkVg,Inverse Fast Fourier Transform (IFFT) using Matlab,"Inverse Fast Fourier Transform (IFFT) using Matlab
+
+IFFT is a fast algorithm to perform inverse (or backward) Fourier transform (IDFT), which undoes the process of DFT. IDFT of a sequence { } that can be defined as: If an IFFT is performed on a complex FFT result computed by Origin, this will in principle transform the FFT result back to its original data set.",https://i.ytimg.com/vi/gi9tG6Rh6HE/default.jpg,120,90,https://i.ytimg.com/vi/gi9tG6Rh6HE/mqdefault.jpg,320,180,https://i.ytimg.com/vi/gi9tG6Rh6HE/hqdefault.jpg,480,360,https://i.ytimg.com/vi/gi9tG6Rh6HE/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/gi9tG6Rh6HE/maxresdefault.jpg,1280.0,720.0,Uniformedia,"['inverse fast fourier transform', 'inverse fast fourier transform tutorial', 'inverse fast fourier transform example', 'inverse fast fourier transform matlab', 'inverse fast fourier transform algorithm', 'inverse fast fourier transform theory', 'inverse fast fourier transform matlab example', 'inverse fast fourier transform in ofdm', 'MATLAB', 'Uniformedia', 'MATLAB Helper ®', 'RobertTalbertPhD', 'David Dorran', 'asraf mohamed']",27,none,Inverse Fast Fourier Transform (IFFT) using Matlab,"Inverse Fast Fourier Transform (IFFT) using Matlab
+
+IFFT is a fast algorithm to perform inverse (or backward) Fourier transform (IDFT), which undoes the process of DFT. IDFT of a sequence { } that can be defined as: If an IFFT is performed on a complex FFT result computed by Origin, this will in principle transform the FFT result back to its original data set.",en,PT4M18S,2d,hd,false,False,rectangular,processed,public,youtube,True,True,False,15557,50,0,4,
+youtube#video,FFT7XoRhuJo6RmXUxn1p26nLr9s,GV1HJk3nmts,2018-05-19T19:05:22Z,UCjw43GbxEqJQYXk5U7hkkVg,Matlab Program for Computing Autocorrelation Function,"Matlab Program for Computing Autocorrelation Function
+
+Autocorrelation, also known as serial correlation, is the correlation of a signal with a delayed copy of itself as a function of delay. Informally, it is the similarity between observations as a function of the time lag between them. The analysis of autocorrelation is a mathematical tool for finding repeating patterns, such as the presence of a periodic signal obscured by noise, or identifying the missing fundamental frequency in a signal implied by its harmonic frequencies. It is often used in signal processing for analyzing functions or series of values, such as time domain signals.",https://i.ytimg.com/vi/GV1HJk3nmts/default.jpg,120,90,https://i.ytimg.com/vi/GV1HJk3nmts/mqdefault.jpg,320,180,https://i.ytimg.com/vi/GV1HJk3nmts/hqdefault.jpg,480,360,https://i.ytimg.com/vi/GV1HJk3nmts/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/GV1HJk3nmts/maxresdefault.jpg,1280.0,720.0,Uniformedia,"['Autocorrelation Function', 'autocorrelation function matlab', 'Matlab Program', 'MATLAB', 'RobertTalbertPhD']",27,none,Matlab Program for Computing Autocorrelation Function,"Matlab Program for Computing Autocorrelation Function
+
+Autocorrelation, also known as serial correlation, is the correlation of a signal with a delayed copy of itself as a function of delay. Informally, it is the similarity between observations as a function of the time lag between them. The analysis of autocorrelation is a mathematical tool for finding repeating patterns, such as the presence of a periodic signal obscured by noise, or identifying the missing fundamental frequency in a signal implied by its harmonic frequencies. It is often used in signal processing for analyzing functions or series of values, such as time domain signals.",en,PT2M39S,2d,hd,false,False,rectangular,processed,public,youtube,True,True,False,17276,51,0,4,
+youtube#video,62k9vO9_w6cYDa9sGmvbmBWEwlQ,HPTk00Naw08,2018-05-24T21:28:10Z,UCjw43GbxEqJQYXk5U7hkkVg,Butterworth analog High Pass Filter in Matlab,"Butterworth analog High Pass Filter in Matlab  - Matlab program
+
+MATLAB CODE FOR DESIGN OF HIGH PASS AND LOW PASS BUTTERWORTH FILTERS",https://i.ytimg.com/vi/HPTk00Naw08/default.jpg,120,90,https://i.ytimg.com/vi/HPTk00Naw08/mqdefault.jpg,320,180,https://i.ytimg.com/vi/HPTk00Naw08/hqdefault.jpg,480,360,https://i.ytimg.com/vi/HPTk00Naw08/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/HPTk00Naw08/maxresdefault.jpg,1280.0,720.0,Uniformedia,"['butterworth analog filter design using matlab', 'butterworth filter design', 'Butterworth analog High Pass Filter in Matlab', 'Butterworth analog High Pass Filter', 'butterworth filter dsp', 'butterworth analog filter design', 'MATLAB', 'butterworth filter example', 'butterworth filter response', 'butterworth filter simulink', 'butterworth filter low pass', 'butterworth bandpass filter matlab', 'butterworth bandpass filter', 'butterworth bandpass filter design', 'eeprogrammer', 'David Dorran', 'RobertTalbertPhD']",27,none,Butterworth analog High Pass Filter in Matlab,"Butterworth analog High Pass Filter in Matlab  - Matlab program
+
+MATLAB CODE FOR DESIGN OF HIGH PASS AND LOW PASS BUTTERWORTH FILTERS",en,PT2M3S,2d,hd,false,False,rectangular,processed,public,youtube,True,True,False,6120,21,0,0,
+youtube#video,BS6U9832JsLM50lGMJ1_wbdQSNg,hYU7kb95pac,2016-07-17T19:52:33Z,UCjw43GbxEqJQYXk5U7hkkVg,Working with Arrays in MATLAB - Special Arrays in MATLAB,"Working with Arrays in MATLAB - Special Arrays in MATLAB
+The zeros() function creates an array of all zeros.
+The ones() function creates an array of all ones.
+The eye() function creates an identity matrix.
+The rand() function creates an array of uniformly distributed random numbers on (0,1).",https://i.ytimg.com/vi/hYU7kb95pac/default.jpg,120,90,https://i.ytimg.com/vi/hYU7kb95pac/mqdefault.jpg,320,180,https://i.ytimg.com/vi/hYU7kb95pac/hqdefault.jpg,480,360,https://i.ytimg.com/vi/hYU7kb95pac/sddefault.jpg,640.0,480.0,,,,Uniformedia,"['arrays matlab', 'cell arrays matlab', 'MATLAB', 'zeros', 'ones', 'eye', 'rand', 'identity matrix', 'random numbers', 'matlab arrays', 'uniformedia', 'MathWorks', 'CAE Tutorials', 'Po Chen', 'Digital Signal Processing', 'David Dorran', 'eeprogrammer', 'Signal Processing', 'Barry Van Veen', 'John Santiago', 'online education', 'online schools', 'online college classes', 'online degree']",27,none,Working with Arrays in MATLAB - Special Arrays in MATLAB,"Working with Arrays in MATLAB - Special Arrays in MATLAB
+The zeros() function creates an array of all zeros.
+The ones() function creates an array of all ones.
+The eye() function creates an identity matrix.
+The rand() function creates an array of uniformly distributed random numbers on (0,1).",,PT4M2S,2d,sd,false,False,rectangular,processed,public,youtube,True,True,False,278,3,0,1,
+youtube#video,aij26khKkz3BOUFz9Y_gOwkiD5Q,I4zyuoRA2SI,2021-08-08T16:48:22Z,UCjw43GbxEqJQYXk5U7hkkVg,SOLIDWORKS Tutorial - Learn How to Make a Sphere (Ball) in SolidWorks,"SOLIDWORKS Tutorial - Learn How to Make a Sphere (Ball) in SolidWorks
+#solidworks #uniformedia #tutorial
+
+Music: Del - Tropical Love (Vlog No Copyright Music)
+
+Make Sphere solidworks, create sphere in solidworks, Solidworks 2014, Solidworks 2015, Solidworks 2016, Solidworks 2017, Solidworks 2018, Solidworks 2019, Solidworks 2020, Solidworks 2021, CAD CAM Tutorial, howENGINEERSdoit, Stephen Kingston Solidworks Tutorial Ball",https://i.ytimg.com/vi/I4zyuoRA2SI/default.jpg,120,90,https://i.ytimg.com/vi/I4zyuoRA2SI/mqdefault.jpg,320,180,https://i.ytimg.com/vi/I4zyuoRA2SI/hqdefault.jpg,480,360,https://i.ytimg.com/vi/I4zyuoRA2SI/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/I4zyuoRA2SI/maxresdefault.jpg,1280.0,720.0,Uniformedia,"['solidworks', 'solidworks tutorial', 'uniformedia', 'solidworks sphere', 'solidworks ball', 'solidworks how to make ball', 'how to make sphere in solidworks', 'how to make ball in solidworks', 'how to make a sphere in solidworks', 'how to make a ball in solidworks', 'solidworks sphere tutorial', 'solidworks ball tutorial', 'solidworks make sphere', 'solidworks make ball', 'how to make sphere', 'how to make ball', 'solidworks tutorial for beginners', 'cad cam tutorial', 'howENGINEERSdoit', 'tutorial']",27,none,SOLIDWORKS Tutorial - Learn How to Make a Sphere (Ball) in SolidWorks,"SOLIDWORKS Tutorial - Learn How to Make a Sphere (Ball) in SolidWorks
+#solidworks #uniformedia #tutorial
+
+Music: Del - Tropical Love (Vlog No Copyright Music)
+
+Make Sphere solidworks, create sphere in solidworks, Solidworks 2014, Solidworks 2015, Solidworks 2016, Solidworks 2017, Solidworks 2018, Solidworks 2019, Solidworks 2020, Solidworks 2021, CAD CAM Tutorial, howENGINEERSdoit, Stephen Kingston Solidworks Tutorial Ball",en,PT1M25S,2d,hd,false,False,rectangular,processed,public,youtube,True,True,False,508,4,0,1,
+youtube#video,EhAwVNnKzmzefLmprN1r8tDzmt0,if3YcNte8xc,2017-02-15T14:28:18Z,UCjw43GbxEqJQYXk5U7hkkVg,Generating an isolated rectangular pulse in MATLAB - MATLAB Tutorial for Beginners 2017,"Generating an isolated rectangular pulse in MATLAB 
+http://onlineengineers.info/generating-isolated-rectangular-pulse-matlab-tutorial/
+
+In this Matlab Tutorial we will generate an isolated rectangular pulse. y = rectpuls(t) returns a continuous, aperiodic, unity-height rectangular pulse at the sample times indicated in array t, centered about t = 0 and with a default width of 1. Note that the interval of nonzero amplitude is defined to be open on the right, that is, rectpuls(-0.5) = 1 while rectpuls(0.5) = 0.
+
+y = rectpuls(t,w) generates a rectangle of width w.
+
+rectpuls is typically used in conjunction with the pulse train generating function pulstran.",https://i.ytimg.com/vi/if3YcNte8xc/default.jpg,120,90,https://i.ytimg.com/vi/if3YcNte8xc/mqdefault.jpg,320,180,https://i.ytimg.com/vi/if3YcNte8xc/hqdefault.jpg,480,360,,,,,,,Uniformedia,"['isolated rectangular pulse', 'rectangular pulse in MATLAB', 'MATLAB Tutorial for Beginners', 'pulse function', 'pulse function matlab', 'window function', 'window function matlab', 'Uniformedia', 'RobertTalbertPhD', 'David Dorran', 'TheEngineeringWorld', 'John Santiago', 'MATLAB KFUPM', 'eeprogrammer', 'MATLAB', 'The Math Student', 'THE TECH TONGA', 'Andrew Marshall']",27,none,Generating an isolated rectangular pulse in MATLAB - MATLAB Tutorial for Beginners 2017,"Generating an isolated rectangular pulse in MATLAB 
+http://onlineengineers.info/generating-isolated-rectangular-pulse-matlab-tutorial/
+
+In this Matlab Tutorial we will generate an isolated rectangular pulse. y = rectpuls(t) returns a continuous, aperiodic, unity-height rectangular pulse at the sample times indicated in array t, centered about t = 0 and with a default width of 1. Note that the interval of nonzero amplitude is defined to be open on the right, that is, rectpuls(-0.5) = 1 while rectpuls(0.5) = 0.
+
+y = rectpuls(t,w) generates a rectangle of width w.
+
+rectpuls is typically used in conjunction with the pulse train generating function pulstran.",en,PT2M42S,2d,hd,true,False,rectangular,processed,public,youtube,True,True,False,52331,147,0,15,
+youtube#video,iT-kYJxldVCrlRFizL3UBCtBVu0,ifBVNOIeAc0,2018-03-25T14:00:57Z,UCjw43GbxEqJQYXk5U7hkkVg,Lenovo Ideapad 320 - Unboxing & Review,"Lenovo Ideapad 320 - Unboxing & Review
+
+Lenovo 320-15IKB, Intel Core i5 7200U 2,50 GHz, Core 2, 8 GB, 15,6"" 1920x1080, SSD 256 GB, Free DOS, NVIDIA GeForce 940MX (4 GB), DVD±RW, 1x 10/100/1000, 802.11ac, BT 4.1, HDMI 1, USB 3.0 2, USB Type-C 1, 2,2 kg
+
+The machine is powered by a Kaby Lake processor. The GeForce graphics solution, at least to some degree, allows for the use of video games. 
+
+Powered by 7th Gen Intel® Core™ i7 processing, up to NVIDIA GeForce 940MX graphics and startling FHD clarity, the Ideapad 320 is designed to meet your productivity and entertainment needs.
+
+The IdeaPad 320 offers up to Full High Definition resolution, and features anti-glare technology. You'll enjoy true visual clarity when you watch movies, browse the web, and more.
+
+The laptop comes equipped with two USB Type-A ports (USB 3.1 Gen 1) and one USB Type-C port (USB 3.1 Gen 1), which are accompanied by one HDMI Out port and a gigabit Ethernet port.
+
+Gaming Performance
+The hardware of the IdeaPad allows most computer games to run smoothly at HD resolution (1366x768) at the medium quality settings.
+
+Flying High by FREDJI https://soundcloud.com/fredjimusic 
+https://www.facebook.com/fredjimusic/
+Music promoted by Audio Library https://youtu.be/RYgKd-6_Fc4",https://i.ytimg.com/vi/ifBVNOIeAc0/default.jpg,120,90,https://i.ytimg.com/vi/ifBVNOIeAc0/mqdefault.jpg,320,180,https://i.ytimg.com/vi/ifBVNOIeAc0/hqdefault.jpg,480,360,https://i.ytimg.com/vi/ifBVNOIeAc0/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/ifBVNOIeAc0/maxresdefault.jpg,1280.0,720.0,Uniformedia,"['Lenovo Ideapad 320', 'lenovo 320-15abr', 'lenovo 320-15', 'lenovo 320 ideapad', 'lenovo 320s review', 'lenovo 320 ideapad review', 'lenovo 320 review', 'lenovo 320 15', 'lenovo 320 amd review', 'lenovo 320 battery', 'lenovo 320 celeron', 'lenovo 320 charger', 'lenovo 320 core i5', 'lenovo 320 core i3', 'lenovo 320 core i7', 'lenovo ideapad 320 specs', 'lenovo ideapad 320 15 review']",28,none,Lenovo Ideapad 320 - Unboxing & Review,"Lenovo Ideapad 320 - Unboxing & Review
+
+Lenovo 320-15IKB, Intel Core i5 7200U 2,50 GHz, Core 2, 8 GB, 15,6"" 1920x1080, SSD 256 GB, Free DOS, NVIDIA GeForce 940MX (4 GB), DVD±RW, 1x 10/100/1000, 802.11ac, BT 4.1, HDMI 1, USB 3.0 2, USB Type-C 1, 2,2 kg
+
+The machine is powered by a Kaby Lake processor. The GeForce graphics solution, at least to some degree, allows for the use of video games. 
+
+Powered by 7th Gen Intel® Core™ i7 processing, up to NVIDIA GeForce 940MX graphics and startling FHD clarity, the Ideapad 320 is designed to meet your productivity and entertainment needs.
+
+The IdeaPad 320 offers up to Full High Definition resolution, and features anti-glare technology. You'll enjoy true visual clarity when you watch movies, browse the web, and more.
+
+The laptop comes equipped with two USB Type-A ports (USB 3.1 Gen 1) and one USB Type-C port (USB 3.1 Gen 1), which are accompanied by one HDMI Out port and a gigabit Ethernet port.
+
+Gaming Performance
+The hardware of the IdeaPad allows most computer games to run smoothly at HD resolution (1366x768) at the medium quality settings.
+
+Flying High by FREDJI https://soundcloud.com/fredjimusic 
+https://www.facebook.com/fredjimusic/
+Music promoted by Audio Library https://youtu.be/RYgKd-6_Fc4",en,PT5M10S,2d,hd,true,False,rectangular,processed,public,youtube,True,True,False,4772,20,0,8,
+youtube#video,3EEstIzlQgtcXkagrVg_Rv9MR_8,IJkiFJEEADc,2019-02-09T16:19:11Z,UCjw43GbxEqJQYXk5U7hkkVg,CATIA V5 TUTORIAL - Learn How to Make a Sphere (Ball) in Catia v5,"Catia v5 Tutorial - Learn how to make a Sphere (Ball) in Catia
+Catia v5 Tutorial - Learn how to make a Sphere (Ball) in Catia
+
+Catia v5 Tutorials by Uniformedia
+Catia v6 Tutorial",https://i.ytimg.com/vi/IJkiFJEEADc/default.jpg,120,90,https://i.ytimg.com/vi/IJkiFJEEADc/mqdefault.jpg,320,180,https://i.ytimg.com/vi/IJkiFJEEADc/hqdefault.jpg,480,360,https://i.ytimg.com/vi/IJkiFJEEADc/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/IJkiFJEEADc/maxresdefault.jpg,1280.0,720.0,Uniformedia,"['Catia v5', 'Catia', 'Catia v5 Tutorial', 'catia tutorial', 'catia sphere', 'catia ball', 'catia circle extrude', 'catia ball tutorial', 'catia sphere tutorial', 'uniformedia', 'Solidworksprofessor', 'Tutorials Engineer', 'Stephen Kingston', 'CAD Designs', 'howENGINEERSdoit', 'sphere tutorial', 'cad tutorials', 'solidworks tutorial', 'catia tutorials', 'Catia v6', 'Catia v6 tutorial', 'catia v5 sphere', 'catia v6 sphere', 'catia v5 ball', 'how to make a ball']",27,none,CATIA V5 TUTORIAL - Learn How to Make a Sphere (Ball) in Catia v5,"Catia v5 Tutorial - Learn how to make a Sphere (Ball) in Catia
+Catia v5 Tutorial - Learn how to make a Sphere (Ball) in Catia
+
+Catia v5 Tutorials by Uniformedia
+Catia v6 Tutorial",en,PT1M8S,2d,hd,false,False,rectangular,processed,public,youtube,True,True,False,12294,37,0,3,en
+youtube#video,MBw5PjZOffLExu6llK6BcNIEHWk,IJt5snOu20E,2017-02-16T14:48:32Z,UCjw43GbxEqJQYXk5U7hkkVg,How to Create Bar Charts in Matlab - MATLAB Tutorial for Beginners 2017,"How to Create Bar Charts in Matlab - MATLAB Tutorial for Beginners 2017
+
+MATLAB: Plotting Pie Chart, Vertical & Horizontal Bar Graph",https://i.ytimg.com/vi/IJt5snOu20E/default.jpg,120,90,https://i.ytimg.com/vi/IJt5snOu20E/mqdefault.jpg,320,180,https://i.ytimg.com/vi/IJt5snOu20E/hqdefault.jpg,480,360,https://i.ytimg.com/vi/IJt5snOu20E/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/IJt5snOu20E/maxresdefault.jpg,1280.0,720.0,Uniformedia,"['Bar Charts in Matlab', 'MATLAB Tutorial', 'MATLAB Tutorial for Beginners', 'Plotting Pie Chart', 'Vertical & Horizontal Bar Graph', 'eeprogrammer', 'RobertTalbertPhD', 'Uniformedia', 'MATLAB', 'THE TECH TONGA', 'TheEngineeringWorld', 'Andrew Marshall', 'Joseph Delgadillo', 'The Math Student']",27,none,How to Create Bar Charts in Matlab - MATLAB Tutorial for Beginners 2017,"How to Create Bar Charts in Matlab - MATLAB Tutorial for Beginners 2017
+
+MATLAB: Plotting Pie Chart, Vertical & Horizontal Bar Graph",en,PT1M35S,2d,hd,false,False,rectangular,processed,public,youtube,True,True,False,13182,27,0,4,
+youtube#video,Pgvso-CXN_V5R7Wsswl2JsWudDU,iX_5Bi2_0jg,2016-07-17T11:44:48Z,UCjw43GbxEqJQYXk5U7hkkVg,How To Plot a Step Function In MATLAB - Heaviside Functions - Matlab Tutorial,"How To Plot a Step Function In MATLAB using Heaviside Function. The term ""Heaviside step function"" and its symbol can represent either a piecewise constant function or a generalized function.
+Step response in Matlab using Heaviside Function.",https://i.ytimg.com/vi/iX_5Bi2_0jg/default.jpg,120,90,https://i.ytimg.com/vi/iX_5Bi2_0jg/mqdefault.jpg,320,180,https://i.ytimg.com/vi/iX_5Bi2_0jg/hqdefault.jpg,480,360,https://i.ytimg.com/vi/iX_5Bi2_0jg/sddefault.jpg,640.0,480.0,,,,Uniformedia,"['matlab', 'heaviside', 'step function', 'plot', 'u(t) plot', 'u(t)', 'matlab step function plot', 'AllAboutEE', 'MATLAB', 'MATLAB tutorial', 'matlab step response', 'step response', 'step input', 'transient response', 'uniformedia', 'step function in matlab', 'step function graph', 'heaviside function', 'heaviside step function', 'online education', 'online schools', 'online college classes', 'online degree', 'Matlab Tutorial']",27,none,How To Plot a Step Function In MATLAB - Heaviside Functions - Matlab Tutorial,"How To Plot a Step Function In MATLAB using Heaviside Function. The term ""Heaviside step function"" and its symbol can represent either a piecewise constant function or a generalized function.
+Step response in Matlab using Heaviside Function.",,PT2M17S,2d,sd,false,False,rectangular,processed,public,youtube,True,True,False,19825,37,0,2,
+youtube#video,R7lqpyae7-o7usn-egGdyiBgRWo,JsAyeCl5Mro,2018-05-24T21:28:06Z,UCjw43GbxEqJQYXk5U7hkkVg,Butterworth analog Low Pass Filter in Matlab  - Matlab program,"Butterworth analog Low Pass Filter in Matlab  - Matlab program
+
+MATLAB CODE FOR DESIGN OF HIGH PASS AND LOW PASS BUTTERWORTH FILTERS",https://i.ytimg.com/vi/JsAyeCl5Mro/default.jpg,120,90,https://i.ytimg.com/vi/JsAyeCl5Mro/mqdefault.jpg,320,180,https://i.ytimg.com/vi/JsAyeCl5Mro/hqdefault.jpg,480,360,https://i.ytimg.com/vi/JsAyeCl5Mro/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/JsAyeCl5Mro/maxresdefault.jpg,1280.0,720.0,Uniformedia,"['Butterworth analog Low Pass Filter in Matlab', 'Butterworth analog Low Pass Filter', 'butterworth filter dsp', 'butterworth analog filter design', 'butterworth analog filter design using matlab', 'MATLAB', 'PROGRAMMING', 'butterworth filter example', 'butterworth filter response', 'butterworth filter simulink', 'butterworth filter low pass', 'butterworth bandpass filter matlab', 'butterworth bandpass filter', 'butterworth bandpass filter design', 'eeprogrammer', 'David Dorran', 'uniformedia', 'RobertTalbertPhD']",27,none,Butterworth analog Low Pass Filter in Matlab  - Matlab program,"Butterworth analog Low Pass Filter in Matlab  - Matlab program
+
+MATLAB CODE FOR DESIGN OF HIGH PASS AND LOW PASS BUTTERWORTH FILTERS",en,PT5M8S,2d,hd,false,False,rectangular,processed,public,youtube,True,True,False,16319,66,0,10,
+youtube#video,6jE6Dq085E0EngE0TtWJcbITfgY,jXjfAylZlMA,2022-05-05T18:19:35Z,UCjw43GbxEqJQYXk5U7hkkVg,Amber Heard Exposed With an Instant Mood Shift,"Amber Heard Exposed With an Instant Mood Shift
+johnny depp trial 2022
+#JohnnyDepp #AmberHeard #Depp #JohnnyAmberTrial",https://i.ytimg.com/vi/jXjfAylZlMA/default.jpg,120,90,https://i.ytimg.com/vi/jXjfAylZlMA/mqdefault.jpg,320,180,https://i.ytimg.com/vi/jXjfAylZlMA/hqdefault.jpg,480,360,https://i.ytimg.com/vi/jXjfAylZlMA/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/jXjfAylZlMA/maxresdefault.jpg,1280.0,720.0,Uniformedia,,20,none,Amber Heard Exposed With an Instant Mood Shift,"Amber Heard Exposed With an Instant Mood Shift
+johnny depp trial 2022
+#JohnnyDepp #AmberHeard #Depp #JohnnyAmberTrial",en,PT1M21S,2d,hd,false,False,rectangular,processed,public,youtube,True,True,False,1986823,23381,0,5842,
+youtube#video,FvPZUE0Z7o9wqx0gyvWIKcEb-9M,KrFckzUqXJ8,2018-05-19T19:05:29Z,UCjw43GbxEqJQYXk5U7hkkVg,Matlab Program for Computing Cross Correlation in Matlab,"Matlab Program for Computing Cross Correlation in Matlab
+
+In signal processing, cross-correlation is a measure of similarity of two series as a function of the displacement of one relative to the other. This is also known as a sliding dot product or sliding inner-product.",https://i.ytimg.com/vi/KrFckzUqXJ8/default.jpg,120,90,https://i.ytimg.com/vi/KrFckzUqXJ8/mqdefault.jpg,320,180,https://i.ytimg.com/vi/KrFckzUqXJ8/hqdefault.jpg,480,360,https://i.ytimg.com/vi/KrFckzUqXJ8/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/KrFckzUqXJ8/maxresdefault.jpg,1280.0,720.0,Uniformedia,"['Cross Correlation', 'Cross Correlation in Matlab', 'matlab tutorial', 'MATLAB', 'RobertTalbertPhD']",27,none,Matlab Program for Computing Cross Correlation in Matlab,"Matlab Program for Computing Cross Correlation in Matlab
+
+In signal processing, cross-correlation is a measure of similarity of two series as a function of the displacement of one relative to the other. This is also known as a sliding dot product or sliding inner-product.",en,PT3M55S,2d,hd,false,False,rectangular,processed,public,youtube,True,True,False,15845,63,0,6,
+youtube#video,AAweY4MaKKiGra8Lf9ldr2Dcl4s,MkFpfZSkeic,2016-09-29T12:57:02Z,UCjw43GbxEqJQYXk5U7hkkVg,Phase Shift Keying PSK Modulation Code in MATLAB - Matlab Tutorial,"Phase Shift Keying PSK Modulation Code in MATLAB
+
+Binary Phase shift keying (BPSK) is one of the basic modulation schemes in which the phase of the carrier signal is varied or switched according to the input message pulses. When the modulation input is at logic 1, a finite number of cycles of a sinusoidal signal are transmitted and when the input is at logic 0, phase of the sinusoid is changed.",https://i.ytimg.com/vi/MkFpfZSkeic/default.jpg,120,90,https://i.ytimg.com/vi/MkFpfZSkeic/mqdefault.jpg,320,180,https://i.ytimg.com/vi/MkFpfZSkeic/hqdefault.jpg,480,360,https://i.ytimg.com/vi/MkFpfZSkeic/sddefault.jpg,640.0,480.0,,,,Uniformedia,"['Phase Shift Keying', 'PSK Modulation', 'PSK Matlab', 'Binary Phase shift keying', 'BPSK', 'BPSK Matlab', 'CAE Tutorials', 'Po Chen', 'Digital Signal Processing', 'David Dorran', 'eeprogrammer', 'Signal Processing', 'Barry Van Veen', 'John Santiago', 'online education', 'online schools', 'online college classes', 'online degree', 'Matlab Tutorial']",27,none,Phase Shift Keying PSK Modulation Code in MATLAB - Matlab Tutorial,"Phase Shift Keying PSK Modulation Code in MATLAB
+
+Binary Phase shift keying (BPSK) is one of the basic modulation schemes in which the phase of the carrier signal is varied or switched according to the input message pulses. When the modulation input is at logic 1, a finite number of cycles of a sinusoidal signal are transmitted and when the input is at logic 0, phase of the sinusoid is changed.",,PT3M36S,2d,hd,false,False,rectangular,processed,public,youtube,True,True,False,35242,264,0,10,
+youtube#video,ly552I9Ghsh0vYOR2FVrYyQcYeA,nDqNq2WqVHI,2021-08-09T14:41:31Z,UCjw43GbxEqJQYXk5U7hkkVg,SOLIDWORKS Tutorial - Learn How To Split A Part - Split Parts in SolidWorks,"Learn How To Split A Part - Split Parts in SolidWorks #solidworks #uniformedia #tutorial Solidworks split command
+
+Music: Del - Tropical Love (Vlog No Copyright Music)
+
+Make Sphere solidworks, create sphere in solidworks, Solidworks 2014, Solidworks 2015, Solidworks 2016, Solidworks 2017, Solidworks 2018, Solidworks 2019, Solidworks 2020, Solidworks 2021, CAD CAM Tutorial, howENGINEERSdoit, Stephen Kingston Solidworks Tutorial Split object split surface split part split body Solid Solutions - Professional Design Solutions",https://i.ytimg.com/vi/nDqNq2WqVHI/default.jpg,120,90,https://i.ytimg.com/vi/nDqNq2WqVHI/mqdefault.jpg,320,180,https://i.ytimg.com/vi/nDqNq2WqVHI/hqdefault.jpg,480,360,https://i.ytimg.com/vi/nDqNq2WqVHI/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/nDqNq2WqVHI/maxresdefault.jpg,1280.0,720.0,Uniformedia,"['solidworks', 'solidworks tutorial', 'solidworks split part', 'solidworks split parts', 'solidworks split a part', 'split part solidworks', 'split a part solidworks', 'split a part in solidworks', 'uniformedia', 'how to split a part in solidworks', 'how to split a part solidworks', 'split part sw', 'solidworks split command', 'split command solidworks', 'split body solidworks', 'solidwokrs split object', 'cad cam tutorial', 'split surface solidworks', 'Solid Solutions - Professional Design Solutions']",27,none,SOLIDWORKS Tutorial - Learn How To Split A Part - Split Parts in SolidWorks,"Learn How To Split A Part - Split Parts in SolidWorks #solidworks #uniformedia #tutorial Solidworks split command
+
+Music: Del - Tropical Love (Vlog No Copyright Music)
+
+Make Sphere solidworks, create sphere in solidworks, Solidworks 2014, Solidworks 2015, Solidworks 2016, Solidworks 2017, Solidworks 2018, Solidworks 2019, Solidworks 2020, Solidworks 2021, CAD CAM Tutorial, howENGINEERSdoit, Stephen Kingston Solidworks Tutorial Split object split surface split part split body Solid Solutions - Professional Design Solutions",en,PT2M43S,2d,hd,false,False,rectangular,processed,public,youtube,True,True,False,2079,8,0,0,
+youtube#video,VyV4Lw2GLMSPfdB6i9AN1bPRJgo,Nfs1pUxUyOk,2022-05-04T18:50:50Z,UCjw43GbxEqJQYXk5U7hkkVg,Funniest Moments of Johnny Depp's Trial (Best Moments in Court),"Funniest Moments of Johnny Depp's Trial (Best Moments in Court)
+johnny depp funny moments court, johnny depp amber heard funny moments johnny depp funniest moments
+
+#JohnnyDepp #AmberHeard #Depp #JohnnyAmberTrial",https://i.ytimg.com/vi/Nfs1pUxUyOk/default.jpg,120,90,https://i.ytimg.com/vi/Nfs1pUxUyOk/mqdefault.jpg,320,180,https://i.ytimg.com/vi/Nfs1pUxUyOk/hqdefault.jpg,480,360,https://i.ytimg.com/vi/Nfs1pUxUyOk/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/Nfs1pUxUyOk/maxresdefault.jpg,1280.0,720.0,Uniformedia,"['Johnny Depp', 'johnny depp funny', 'johnny depp amber heard', 'johnny depp trial 2022', 'johnny depp vs amber heard', 'johnny depp court case funny moments', 'johnny depp laughing', 'Depp', 'Johnny Depp funny moments', 'johnny depp funny moments court', 'johnny depp amber heard funny', 'johnny depp amber heard best moments', '#johnnydepp', 'uniformedia', 'johnny depp lawyer', 'johnny depp trial', 'johnny amber court case', 'johnny depp amber heard funny moments', 'johnny depp funniest moments', 'funny moments', 'funny']",24,none,Funniest Moments of Johnny Depp's Trial (Best Moments in Court),"Funniest Moments of Johnny Depp's Trial (Best Moments in Court)
+johnny depp funny moments court, johnny depp amber heard funny moments johnny depp funniest moments
+
+#JohnnyDepp #AmberHeard #Depp #JohnnyAmberTrial",en,PT8M21S,2d,hd,false,False,rectangular,processed,public,youtube,True,True,False,851334,9921,0,681,
+youtube#video,eDlR2aaZ1uKmA0lbzEqKR6_lUU8,NJm83NtcH9Q,2017-01-29T11:47:25Z,UCjw43GbxEqJQYXk5U7hkkVg,AM DSB Modulation in Matlab Simulink - Double Sideband Amplitude Modulation Suppressed Carrier 2017,"AM DSB Modulation in Matlab Simulink - Double Sideband Amplitude Modulation Suppressed Carrier - Demodulation
+More Matlab tutorials on: http://onlineengineers.info
+
+Double-sideband suppressed-carrier transmission (DSB-SC) is transmission in which frequencies produced by amplitude modulation (AM) are symmetrically spaced above and below the carrier frequency and the carrier level is reduced to the lowest practical level, ideally being completely suppressed.
+
+In the DSB-SC modulation, unlike in AM, the wave carrier is not transmitted; thus, much of the power is distributed between the sidebands, which implies an increase of the cover in DSB-SC, compared to AM, for the same power used.
+
+DSB-SC transmission is a special case of double-sideband reduced carrier transmission. It is used for radio data systems.",https://i.ytimg.com/vi/NJm83NtcH9Q/default.jpg,120,90,https://i.ytimg.com/vi/NJm83NtcH9Q/mqdefault.jpg,320,180,https://i.ytimg.com/vi/NJm83NtcH9Q/hqdefault.jpg,480,360,https://i.ytimg.com/vi/NJm83NtcH9Q/sddefault.jpg,640.0,480.0,,,,Uniformedia,"['AM DSB Modulation in Matlab', 'Double Sideband Amplitude Modulation Suppressed Carrier', 'Double Sideband Suppressed Carrier', 'AM DSB using matlab', 'AM DSB using simulink', 'AM DSB demodulation matlab', 'AM DSB demodulation simulink', 'AM DSB 2017', 'uniformedia', 'Anas Kuzechie', 'John Santiago', 'sachin sharma', 'eeprogrammer', 'RobertTalbertPhD', 'David Dorran', 'Jake Blanchard']",27,none,AM DSB Modulation in Matlab Simulink - Double Sideband Amplitude Modulation Suppressed Carrier 2017,"AM DSB Modulation in Matlab Simulink - Double Sideband Amplitude Modulation Suppressed Carrier - Demodulation
+More Matlab tutorials on: http://onlineengineers.info
+
+Double-sideband suppressed-carrier transmission (DSB-SC) is transmission in which frequencies produced by amplitude modulation (AM) are symmetrically spaced above and below the carrier frequency and the carrier level is reduced to the lowest practical level, ideally being completely suppressed.
+
+In the DSB-SC modulation, unlike in AM, the wave carrier is not transmitted; thus, much of the power is distributed between the sidebands, which implies an increase of the cover in DSB-SC, compared to AM, for the same power used.
+
+DSB-SC transmission is a special case of double-sideband reduced carrier transmission. It is used for radio data systems.",,PT4M25S,2d,hd,false,False,rectangular,processed,public,youtube,True,True,False,14630,68,0,1,
+youtube#video,fibrNpONuMpgkPBUaea9UUPID-U,NZwXyEu-cdY,2021-08-07T14:38:18Z,UCjw43GbxEqJQYXk5U7hkkVg,SOLIDWORKS Tutorial - Learn How to Make a Cone (Create Cone in SolidWorks),"SOLIDWORKS Tutorial - Learn How to Make Cone Create Cone
+#solidworks #uniformedia #tutorial
+
+Music: Del - Tropical Love (Vlog No Copyright Music)
+
+Make Cone solidworks, create cone in solidworks, Solidworks 2014, Solidworks 2015, Solidworks 2016, Solidworks 2017, Solidworks 2018, Solidworks 2019, Solidworks 2020, Solidworks 2021, CAD CAM Tutorial, howENGINEERSdoit, Stephen Kingston Solidworks Tutorial Sheet Metal Cone",https://i.ytimg.com/vi/NZwXyEu-cdY/default.jpg,120,90,https://i.ytimg.com/vi/NZwXyEu-cdY/mqdefault.jpg,320,180,https://i.ytimg.com/vi/NZwXyEu-cdY/hqdefault.jpg,480,360,https://i.ytimg.com/vi/NZwXyEu-cdY/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/NZwXyEu-cdY/maxresdefault.jpg,1280.0,720.0,Uniformedia,"['solidworks', 'solidworks cone', 'solidworks cones', 'solidworks tutorial cone', 'solidworks tutorial cones', 'how to make cone', 'how to create cone', 'how to make a cone', 'how to make a cone solidworks', 'solidworks make cone', 'uniformedia', 'solidworks tutorial', 'solidworks 2021 tutorial', 'solidworks 2020 tutorial', 'make a cone in solidworks', 'create a cone', 'create cone solidworks', 'tutorial', 'solidworks 2019 tutorial', 'solidworks 2018 tutorial', 'how to make a cone in solidworks', 'cone solidworks', 'cad']",27,none,SOLIDWORKS Tutorial - Learn How to Make a Cone (Create Cone in SolidWorks),"SOLIDWORKS Tutorial - Learn How to Make Cone Create Cone
+#solidworks #uniformedia #tutorial
+
+Music: Del - Tropical Love (Vlog No Copyright Music)
+
+Make Cone solidworks, create cone in solidworks, Solidworks 2014, Solidworks 2015, Solidworks 2016, Solidworks 2017, Solidworks 2018, Solidworks 2019, Solidworks 2020, Solidworks 2021, CAD CAM Tutorial, howENGINEERSdoit, Stephen Kingston Solidworks Tutorial Sheet Metal Cone",en,PT1M47S,2d,hd,false,False,rectangular,processed,public,youtube,True,True,False,3364,11,0,0,
+youtube#video,4g8iA4BLx6XpToRT5BJQ1Q69rNM,O3ya8ye6Xus,2017-04-27T08:54:29Z,UCjw43GbxEqJQYXk5U7hkkVg,Power Spectral Density Plot using MATLAB | Uniformedia 2017,"Power spectral density function (PSD) shows the strength of the variations(energy) as a function of frequency. In other words, it shows at which frequencies variations are strong and at which frequencies variations are weak. The unit of PSD is energy (variance) per frequency(width) and you can obtain energy within a specific frequency range by integrating PSD within that frequency range.
+
+For more informations check: http://www.cygres.com/OcnPageE/Glosry/SpecE.html",https://i.ytimg.com/vi/O3ya8ye6Xus/default.jpg,120,90,https://i.ytimg.com/vi/O3ya8ye6Xus/mqdefault.jpg,320,180,https://i.ytimg.com/vi/O3ya8ye6Xus/hqdefault.jpg,480,360,https://i.ytimg.com/vi/O3ya8ye6Xus/sddefault.jpg,640.0,480.0,,,,Uniformedia,"['Power Spectral Density', 'Power Spectral Density Plot using MATLAB', 'PSD matlab', 'power spectral density matlab', 'power spectral density lecture', 'power spectral density example', 'power spectral density code', 'Uniformedia', 'MATLAB', 'eeprogrammer', 'David Dorran', 'RobertTalbertPhD', 'matlab video tutorial', 'learn matlab free', 'matlab programs for beginners', 'matlab course online', 'matlab programming basics', 'sachin sharma']",27,none,Power Spectral Density Plot using MATLAB | Uniformedia 2017,"Power spectral density function (PSD) shows the strength of the variations(energy) as a function of frequency. In other words, it shows at which frequencies variations are strong and at which frequencies variations are weak. The unit of PSD is energy (variance) per frequency(width) and you can obtain energy within a specific frequency range by integrating PSD within that frequency range.
+
+For more informations check: http://www.cygres.com/OcnPageE/Glosry/SpecE.html",en,PT3M24S,2d,hd,true,False,rectangular,processed,public,youtube,True,True,False,31888,114,0,4,
+youtube#video,GVkZI5KAk6-rwr3Oqu-e1La1Ze4,oKIAV-yZkyk,2018-04-28T11:58:11Z,UCjw43GbxEqJQYXk5U7hkkVg,Convolution of Two Sequences in Matlab - Linear Convolution Using Matlab,"Convolution of Two Sequences in Matlab - Linear Convolution Using Matlab
+
+In this tutorial we will write a Linear convolution program in Matlab.
+
+Linear convolution is the basic operation to calculate the output for any linear time invariant system given its input and its impulse response.
+
+For Matlab codes check: 
+http://onlineengineers.info/
+
+Flying High by FREDJI https://soundcloud.com/fredjimusic 
+https://www.facebook.com/fredjimusic/
+Music promoted by Audio Library https://youtu.be/RYgKd-6_Fc4
+
+Power Spectral Density Plot using MATLAB: https://www.youtube.com/edit?o=U&video_id=O3ya8ye6Xus
+
+Sampling Sinusoidal Signals in Matlab: 
+https://www.youtube.com/edit?o=U&video_id=G8DWr_Bzn40
+
+Upsampling and Downsampling Signals in Matlab:
+https://www.youtube.com/edit?o=U&video_id=pr-wcWjqTw8
+https://www.youtube.com/edit?o=U&video_id=F3hICcuj8Ts",https://i.ytimg.com/vi/oKIAV-yZkyk/default.jpg,120,90,https://i.ytimg.com/vi/oKIAV-yZkyk/mqdefault.jpg,320,180,https://i.ytimg.com/vi/oKIAV-yZkyk/hqdefault.jpg,480,360,,,,,,,Uniformedia,"['convolution matlab', 'convolution matlab code', 'convolution matlab program', 'convolution matlab function', 'convolution signals and systems', 'uniformedia', 'MATLAB', 'RobertTalbertPhD', 'David Dorran', 'eeprogrammer', 'education', 'engineering', 'programming']",27,none,Convolution of Two Sequences in Matlab - Linear Convolution Using Matlab,"Convolution of Two Sequences in Matlab - Linear Convolution Using Matlab
+
+In this tutorial we will write a Linear convolution program in Matlab.
+
+Linear convolution is the basic operation to calculate the output for any linear time invariant system given its input and its impulse response.
+
+For Matlab codes check: 
+http://onlineengineers.info/
+
+Flying High by FREDJI https://soundcloud.com/fredjimusic 
+https://www.facebook.com/fredjimusic/
+Music promoted by Audio Library https://youtu.be/RYgKd-6_Fc4
+
+Power Spectral Density Plot using MATLAB: https://www.youtube.com/edit?o=U&video_id=O3ya8ye6Xus
+
+Sampling Sinusoidal Signals in Matlab: 
+https://www.youtube.com/edit?o=U&video_id=G8DWr_Bzn40
+
+Upsampling and Downsampling Signals in Matlab:
+https://www.youtube.com/edit?o=U&video_id=pr-wcWjqTw8
+https://www.youtube.com/edit?o=U&video_id=F3hICcuj8Ts",en,PT4M10S,2d,hd,true,False,rectangular,processed,public,youtube,True,True,False,18872,101,0,7,
+youtube#video,ATXPZVlC1vBVxK9zN67BNnKTV7w,p-lfEoyKX2M,2017-01-29T11:47:36Z,UCjw43GbxEqJQYXk5U7hkkVg,Amplitude Modulation in Simulink - AM Modulation | Matlab Simulation Tutorial 2017,"Amplitude Modulation in Simulink - AM Modulation | Matlab Simulation 2017 Demodulation
+More Matlab tutorials on: http://onlineengineers.info 
+Amplitude modulation (AM) is a one of the conventional technique used to transmit message signals using a carrier wave. Here is an example of using Matlab Simulink to demonstrate Amplitude Modulation.",https://i.ytimg.com/vi/p-lfEoyKX2M/default.jpg,120,90,https://i.ytimg.com/vi/p-lfEoyKX2M/mqdefault.jpg,320,180,https://i.ytimg.com/vi/p-lfEoyKX2M/hqdefault.jpg,480,360,https://i.ytimg.com/vi/p-lfEoyKX2M/sddefault.jpg,640.0,480.0,,,,Uniformedia,"['am modulation simulink', 'amplitude modulation simulink', 'am modulation in simulink', 'AM Generation using Simulink', 'AM simulink Model', 'Amplitude Modulation using simulink', 'Amplitude Modulation Demodulation', 'am modulation matlab', 'Amplitude Modulation matlab', 'AM modulation 2017', 'amplitude modulation 2017', 'uniformedia', 'Anas Kuzechie', 'John Santiago', 'sachin sharma', 'eeprogrammer', 'RobertTalbertPhD', 'David Dorran', 'Jake Blanchard', 'matlab tutorial', 'online education', 'online college']",27,none,Amplitude Modulation in Simulink - AM Modulation | Matlab Simulation Tutorial 2017,"Amplitude Modulation in Simulink - AM Modulation | Matlab Simulation 2017 Demodulation
+More Matlab tutorials on: http://onlineengineers.info 
+Amplitude modulation (AM) is a one of the conventional technique used to transmit message signals using a carrier wave. Here is an example of using Matlab Simulink to demonstrate Amplitude Modulation.",,PT4M33S,2d,hd,false,False,rectangular,processed,public,youtube,True,True,False,45642,221,0,6,
+youtube#video,cWTe_ieeTe86bvMx_UJ0jLJ8nVo,Pb_bA28d77M,2016-03-26T14:42:31Z,UCjw43GbxEqJQYXk5U7hkkVg,How to Do a Fourier Transform in Matlab - How to plot FFT using Matlab | Uniformedia,"How to Do a Fourier Transform in Matlab - How to plot FFT using Matlab - 매트랩 fft
+Learn MATLAB in simple and easy steps starting from basic to advanced concepts with examples http://onlineengineers.info
+
+The Fourier transform is one of the most useful mathematical tools for many fields of science and engineering.  The Fourier transform has applications in signal processing, physics, communications, geology, astronomy, optics, and many other fields.  This technique transforms a function or set of data from the time or sample domain to the frequency domain.  This means that the Fourier transform can display the frequency components within a time series of data.  The Discrete Fourier Transform (DFT) transforms discrete data from the sample domain to the frequency domain.  The Fast Fourier Transform (FFT) is an efficient way to do the DFT, and there are many different algorithms to accomplish the FFT.  Matlab uses the FFT to find the frequency components of a discrete signal.
+
+Butterworth filter design and Noise Cancellation - MATLAB tutorial: https://www.youtube.com/watch?v=ThRbD2t7RAY",https://i.ytimg.com/vi/Pb_bA28d77M/default.jpg,120,90,https://i.ytimg.com/vi/Pb_bA28d77M/mqdefault.jpg,320,180,https://i.ytimg.com/vi/Pb_bA28d77M/hqdefault.jpg,480,360,https://i.ytimg.com/vi/Pb_bA28d77M/sddefault.jpg,640.0,480.0,,,,Uniformedia,"['fourier transform in matlab example', 'fourier transform in matlab code', 'fourier transform in matlab tutorial', 'discrete fourier transform in matlab', 'fourier transform in matlab', 'fourier transform and matlab', 'plotting a fourier transform in matlab', 'How to plot FFT using Matlab', 'How to Do a Fourier Transform in Matlab', '매트랩 fft', 'Uniformedia', 'fft matlab', 'fft', 'dft', 'fft filter', 'CAE Tutorials', 'Jake Blanchard', 'RobertTalbertPhD', 'David Dorran', 'eeprogrammer', 'education', 'math']",27,none,How to Do a Fourier Transform in Matlab - How to plot FFT using Matlab | Uniformedia,"How to Do a Fourier Transform in Matlab - How to plot FFT using Matlab - 매트랩 fft
+Learn MATLAB in simple and easy steps starting from basic to advanced concepts with examples http://onlineengineers.info
+
+The Fourier transform is one of the most useful mathematical tools for many fields of science and engineering.  The Fourier transform has applications in signal processing, physics, communications, geology, astronomy, optics, and many other fields.  This technique transforms a function or set of data from the time or sample domain to the frequency domain.  This means that the Fourier transform can display the frequency components within a time series of data.  The Discrete Fourier Transform (DFT) transforms discrete data from the sample domain to the frequency domain.  The Fast Fourier Transform (FFT) is an efficient way to do the DFT, and there are many different algorithms to accomplish the FFT.  Matlab uses the FFT to find the frequency components of a discrete signal.
+
+Butterworth filter design and Noise Cancellation - MATLAB tutorial: https://www.youtube.com/watch?v=ThRbD2t7RAY",,PT2M17S,2d,hd,false,False,rectangular,processed,public,youtube,True,True,False,152491,199,0,12,
+youtube#video,QJ_klBAaKiUFqNmAApdrpACxlqw,PI1NgKbskCk,2019-02-09T19:39:24Z,UCjw43GbxEqJQYXk5U7hkkVg,CATIA V5 Tutorial for Beginners - Catia v5 Basic Part Design,"CATIA V5 Tutorial for Beginners - Catia v5 Basic Part Design
+CATIA V5 Tutorial for Beginners - Catia v5 Basic Part Design
+Catia v5 Beginner Tutorial
+
+part design exercises, catia v5 drafting tutorial, catia sketcher tutorial, part design exercises,  catia v5 assembly tutorial,  catia v5 surface design,  catia advanced tutorials,  catia sketcher tutorial
+
+Music: [No Copyright Music] Tropical Love - Del",https://i.ytimg.com/vi/PI1NgKbskCk/default.jpg,120,90,https://i.ytimg.com/vi/PI1NgKbskCk/mqdefault.jpg,320,180,https://i.ytimg.com/vi/PI1NgKbskCk/hqdefault.jpg,480,360,https://i.ytimg.com/vi/PI1NgKbskCk/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/PI1NgKbskCk/maxresdefault.jpg,1280.0,720.0,Uniformedia,"['CATIA V5 Tutorial for Beginners', 'CATIA V5 Tutorial', 'catia tutorial for beginners', 'part design', 'basic part design', 'catia v5 tutorials', 'Catia v5 part design', 'catia sketcher tutorial', 'part design exercises', 'catia v5 assembly tutorial', 'catia v5 surface design', 'catia advanced tutorials', 'CAD Designs', 'Stephen Kingston', 'howENGINEERSdoit!', 'Tutorials Engineer', 'catia v5', 'catia tutorial', 'Catia Beginner Tutorial', 'Catia v5 Beginner Tutorial', 'uniformedia']",27,none,CATIA V5 Tutorial for Beginners - Catia v5 Basic Part Design,"CATIA V5 Tutorial for Beginners - Catia v5 Basic Part Design
+CATIA V5 Tutorial for Beginners - Catia v5 Basic Part Design
+Catia v5 Beginner Tutorial
+
+part design exercises, catia v5 drafting tutorial, catia sketcher tutorial, part design exercises,  catia v5 assembly tutorial,  catia v5 surface design,  catia advanced tutorials,  catia sketcher tutorial
+
+Music: [No Copyright Music] Tropical Love - Del",en,PT5M46S,2d,hd,false,False,rectangular,processed,public,youtube,True,True,False,3548,18,0,2,en
+youtube#video,EYiq1c0gSdogIEC8GwJDnJgGYZ0,pr-wcWjqTw8,2018-04-26T10:08:21Z,UCjw43GbxEqJQYXk5U7hkkVg,Upsampling and Plotting a Signal in Matlab,"Upsampling and Plotting a Signal in Matlab 
+
+In digital signal processing, upsampling can refer to the entire process of increasing the sampling rate of a signal, or it can refer to just one step of the process, the other step being interpolation. Complementary to decimation, which decreases sampling rate, it is a specific case of sample rate conversion in a multi-rate digital signal processing system. When upsampling is performed on a sequence of samples of a signal or other continuous function, it produces an approximation of the sequence that would have been obtained by sampling the signal at a higher rate (or density, as in the case of a photograph).
+
+For Matlab codes check: 
+http://onlineengineers.info/
+
+Flying High by FREDJI https://soundcloud.com/fredjimusic 
+https://www.facebook.com/fredjimusic/
+Music promoted by Audio Library https://youtu.be/RYgKd-6_Fc4
+
+Upsampling MathWorks:
+https://www.mathworks.com/help/signal/ug/upsampling-imaging-artifacts.html",https://i.ytimg.com/vi/pr-wcWjqTw8/default.jpg,120,90,https://i.ytimg.com/vi/pr-wcWjqTw8/mqdefault.jpg,320,180,https://i.ytimg.com/vi/pr-wcWjqTw8/hqdefault.jpg,480,360,https://i.ytimg.com/vi/pr-wcWjqTw8/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/pr-wcWjqTw8/maxresdefault.jpg,1280.0,720.0,Uniformedia,"['RobertTalbertPhD', 'David Dorran', 'TheEngineeringWorld', 'John Santiago', 'MATLAB KFUPM', 'The Math Student', 'THE TECH TONGA', 'Andrew Marshall', 'education', 'engineering', 'programming', 'eeprogrammer', 'upsampling and downsampling in matlab', 'Upsampling', 'upsampling and downsampling in frequency domain', 'upsampling and downsampling example', 'upsampling matlab', 'upsampling matlab example code']",27,none,Upsampling and Plotting a Signal in Matlab,"Upsampling and Plotting a Signal in Matlab 
+
+In digital signal processing, upsampling can refer to the entire process of increasing the sampling rate of a signal, or it can refer to just one step of the process, the other step being interpolation. Complementary to decimation, which decreases sampling rate, it is a specific case of sample rate conversion in a multi-rate digital signal processing system. When upsampling is performed on a sequence of samples of a signal or other continuous function, it produces an approximation of the sequence that would have been obtained by sampling the signal at a higher rate (or density, as in the case of a photograph).
+
+For Matlab codes check: 
+http://onlineengineers.info/
+
+Flying High by FREDJI https://soundcloud.com/fredjimusic 
+https://www.facebook.com/fredjimusic/
+Music promoted by Audio Library https://youtu.be/RYgKd-6_Fc4
+
+Upsampling MathWorks:
+https://www.mathworks.com/help/signal/ug/upsampling-imaging-artifacts.html",en,PT4M4S,2d,hd,true,False,rectangular,processed,public,youtube,True,True,False,6442,28,0,2,
+youtube#video,hs-5CKP2RBmB4q7BejInh2PnihQ,PYhTurDPPME,2017-02-18T12:36:54Z,UCjw43GbxEqJQYXk5U7hkkVg,3D Plots in Matlab For Beginners - Plotting in 3D in MATLAB Tutorial,"3D Plots in Matlab Learn how to plot graphs in Matlab
+
+In this tutorial we will create a 3D plot in Matlab
+
+surf(Z) creates a three-dimensional shaded surface from the z components in matrix Z, using x = 1:n and y = 1:m, where [m,n] = size(Z). The height, Z, is a single-valued function defined over a geometrically rectangular grid. Z specifies the color data, as well as surface height, so color is proportional to surface height. The values in Z can be numeric or datetime or duration values.
+
+surf(Z,C) plots the height of Z, a single-valued function defined over a geometrically rectangular grid, and uses matrix C, assumed to be the same size as Z, to color the surface. See Coloring Mesh and Surface Plots for information on defining C.
+
+surf(X,Y,Z) uses Z for the color data and surface height. X and Y are vectors or matrices defining the x and y components of a surface. If X and Y are vectors, length(X) = n and length(Y) = m, where [m,n] = size(Z). In this case, the vertices of the surface faces are (X(j), Y(i), Z(i,j)) triples. To create X and Y matrices for arbitrary domains, use the meshgrid function. The values in X, Y, or Z can be numeric or datetime or duration values.
+
+surf(X,Y,Z,C) uses C to define color. MATLAB® performs a linear transformation on this data to obtain colors from the current colormap.
+
+surf(...,'PropertyName',PropertyValue) specifies surface properties along with the data. For a list of properties, see Chart Surface Properties.
+
+surf(ax,...) plots into the axes ax instead of the current axes (gca).
+
+h = surf(...) returns a handle to a chart surface graphics object.
+https://www.mathworks.com/help/matlab/ref/surf.html",https://i.ytimg.com/vi/PYhTurDPPME/default.jpg,120,90,https://i.ytimg.com/vi/PYhTurDPPME/mqdefault.jpg,320,180,https://i.ytimg.com/vi/PYhTurDPPME/hqdefault.jpg,480,360,,,,,,,Uniformedia,"['3D Plots in Matlab', 'Matlab For Beginner', 'Plotting in 3D', 'Plotting in 3D in MATLAB', 'MATLAB Tutorial', 'Uniformedia', 'how to plot graphs', 'how to plot graphs in Matlab', '3d plot in matlab', 'Joseph Delgadillo', 'asraf mohamed', 'Student Dave', 'Outpost Omega', 'Tutoriales de MATLAB en Español', 'MATLAB', 'eeprogrammer', 'TheEngineeringWorld', 'MATLAB KFUPM', 'Andrew Marshall', 'sachin sharma', 'John Santiago', 'rupam rupam', 'RobertTalbertPhD', 'David Dorran']",27,none,3D Plots in Matlab For Beginners - Plotting in 3D in MATLAB Tutorial,"3D Plots in Matlab Learn how to plot graphs in Matlab
+
+In this tutorial we will create a 3D plot in Matlab
+
+surf(Z) creates a three-dimensional shaded surface from the z components in matrix Z, using x = 1:n and y = 1:m, where [m,n] = size(Z). The height, Z, is a single-valued function defined over a geometrically rectangular grid. Z specifies the color data, as well as surface height, so color is proportional to surface height. The values in Z can be numeric or datetime or duration values.
+
+surf(Z,C) plots the height of Z, a single-valued function defined over a geometrically rectangular grid, and uses matrix C, assumed to be the same size as Z, to color the surface. See Coloring Mesh and Surface Plots for information on defining C.
+
+surf(X,Y,Z) uses Z for the color data and surface height. X and Y are vectors or matrices defining the x and y components of a surface. If X and Y are vectors, length(X) = n and length(Y) = m, where [m,n] = size(Z). In this case, the vertices of the surface faces are (X(j), Y(i), Z(i,j)) triples. To create X and Y matrices for arbitrary domains, use the meshgrid function. The values in X, Y, or Z can be numeric or datetime or duration values.
+
+surf(X,Y,Z,C) uses C to define color. MATLAB® performs a linear transformation on this data to obtain colors from the current colormap.
+
+surf(...,'PropertyName',PropertyValue) specifies surface properties along with the data. For a list of properties, see Chart Surface Properties.
+
+surf(ax,...) plots into the axes ax instead of the current axes (gca).
+
+h = surf(...) returns a handle to a chart surface graphics object.
+https://www.mathworks.com/help/matlab/ref/surf.html",en,PT1M20S,2d,hd,true,False,rectangular,processed,public,youtube,True,True,False,15045,29,0,2,
+youtube#video,DmzxaIIBYxldGSxMy8mZs4fHWUE,Qf2WAXfDEu0,2017-02-13T21:05:27Z,UCjw43GbxEqJQYXk5U7hkkVg,How to generate Sine Wave in Matlab - Generating a Sine Wave in MATLAB 2017,"How to generate Sine Wave in Matlab - Generating a Sine Wave in MATLAB 2017 
+
+In this Matlab tutorial for beginners, we will see how to generate and plot sine wave in Matlab. For more Matlab tutorials check http://onlineengineers.info
+
+A sine wave or sinusoid is a mathematical curve that describes a smooth repetitive oscillation. It is named after the function sine, of which it is the graph.
+
+Uniformedia
+https://www.youtube.com/user/MATLAB
+
+How to plot in Matlab: https://www.youtube.com/watch?v=X7FDpTf67Ug",https://i.ytimg.com/vi/Qf2WAXfDEu0/default.jpg,120,90,https://i.ytimg.com/vi/Qf2WAXfDEu0/mqdefault.jpg,320,180,https://i.ytimg.com/vi/Qf2WAXfDEu0/hqdefault.jpg,480,360,,,,,,,Uniformedia,"['Sine Wave in Matlab', 'How to generate Sine Wave in Matlab', 'Generating a Sine Wave in MATLAB', 'Uniformedia', 'MATLAB KFUPM', 'RobertTalbertPhD', 'eeprogrammer', 'MatLabTutorialFull', 'Joseph Delgadillo', 'TheEngineeringWorld', 'sachin sharma', 'Jake Blanchard', 'matheleteful', 'jjasso5', 'Thesis 123', 'THE TECH TONGA', 'The Math Student']",27,none,How to generate Sine Wave in Matlab - Generating a Sine Wave in MATLAB 2017,"How to generate Sine Wave in Matlab - Generating a Sine Wave in MATLAB 2017 
+
+In this Matlab tutorial for beginners, we will see how to generate and plot sine wave in Matlab. For more Matlab tutorials check http://onlineengineers.info
+
+A sine wave or sinusoid is a mathematical curve that describes a smooth repetitive oscillation. It is named after the function sine, of which it is the graph.
+
+Uniformedia
+https://www.youtube.com/user/MATLAB
+
+How to plot in Matlab: https://www.youtube.com/watch?v=X7FDpTf67Ug",en,PT1M6S,2d,hd,true,False,rectangular,processed,public,youtube,True,True,False,33719,57,0,2,en
+youtube#video,dKCZPKBGZc0CO_seArPUBYwN8lw,qjXUJZmLKW4,2017-02-14T11:22:18Z,UCjw43GbxEqJQYXk5U7hkkVg,How to Generate Sawtooth Wave in Matlab - MATLAB Tutorial 2017,"How to Generate Sawtooth Wave in Matlab - MATLAB Tutorial 2017
+For more Matlab Tutorials check: http://onlineengineers.info
+
+The sawtooth wave (or saw wave) is a kind of non-sinusoidal waveform. It is so named based on its resemblance to the teeth of a plain-toothed saw with a zero rake angle.
+
+The convention is that a sawtooth wave ramps upward and then sharply drops. However, in a ""reverse (or inverse) sawtooth wave"", the wave ramps downward and then sharply rises. It can also be considered the extreme case of an asymmetric triangle wave.",https://i.ytimg.com/vi/qjXUJZmLKW4/default.jpg,120,90,https://i.ytimg.com/vi/qjXUJZmLKW4/mqdefault.jpg,320,180,https://i.ytimg.com/vi/qjXUJZmLKW4/hqdefault.jpg,480,360,https://i.ytimg.com/vi/qjXUJZmLKW4/sddefault.jpg,640.0,480.0,,,,Uniformedia,"['Sawtooth Wave in Matlab', 'MATLAB Tutorial', 'How to Generate Sawtooth Wave', 'Uniformedia', 'The Math Student', 'matheleteful', 'RobertTalbertPhD', 'Thesis 123', 'David Dorran', 'asraf mohamed', 'Joseph Delgadillo', 'Amr Rashed', 'rupam rupam', 'MATLAB']",27,none,How to Generate Sawtooth Wave in Matlab - MATLAB Tutorial 2017,"How to Generate Sawtooth Wave in Matlab - MATLAB Tutorial 2017
+For more Matlab Tutorials check: http://onlineengineers.info
+
+The sawtooth wave (or saw wave) is a kind of non-sinusoidal waveform. It is so named based on its resemblance to the teeth of a plain-toothed saw with a zero rake angle.
+
+The convention is that a sawtooth wave ramps upward and then sharply drops. However, in a ""reverse (or inverse) sawtooth wave"", the wave ramps downward and then sharply rises. It can also be considered the extreme case of an asymmetric triangle wave.",en,PT1M36S,2d,hd,true,False,rectangular,processed,public,youtube,True,True,False,21543,57,0,4,
+youtube#video,YUaoDHh5oFgUKX5MYZJpRap12u4,rK8WBhMm4lI,2018-04-25T12:53:52Z,UCjw43GbxEqJQYXk5U7hkkVg,MATLAB tutorial - Histogram of a random signal with normal PDF in Matlab,"MATLAB tutorial - Histogram of a random signal with normal PDF in Matlab
+
+In probability theory, the normal (or Gaussian or Gauss or Laplace-Gauss) distribution is a very common continuous probability distribution. Normal distributions are important in statistics and are often used in the natural and social sciences to represent real-valued random variables whose distributions are not known.A random variable with a Gaussian distribution is said to be normally distributed and is called a normal deviate.
+
+For Matlab codes check: 
+http://onlineengineers.info/
+
+Flying High by FREDJI https://soundcloud.com/fredjimusic 
+https://www.facebook.com/fredjimusic/
+Music promoted by Audio Library https://youtu.be/RYgKd-6_Fc4",https://i.ytimg.com/vi/rK8WBhMm4lI/default.jpg,120,90,https://i.ytimg.com/vi/rK8WBhMm4lI/mqdefault.jpg,320,180,https://i.ytimg.com/vi/rK8WBhMm4lI/hqdefault.jpg,480,360,https://i.ytimg.com/vi/rK8WBhMm4lI/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/rK8WBhMm4lI/maxresdefault.jpg,1280.0,720.0,Uniformedia,"['MATLAB tutorial', 'matlab histogram', 'normal PDF in Matlab', 'gaussian distribution', 'continuous probability distribution', 'matlab tutorial', 'eeprogrammer', 'RobertTalbertPhD', 'David Dorran', 'TheEngineeringWorld', 'John Santiago', 'MATLAB KFUPM', 'MATLAB', 'The Math Student', 'THE TECH TONGA', 'Andrew Marshall', 'education', 'engineering', 'programming']",27,none,MATLAB tutorial - Histogram of a random signal with normal PDF in Matlab,"MATLAB tutorial - Histogram of a random signal with normal PDF in Matlab
+
+In probability theory, the normal (or Gaussian or Gauss or Laplace-Gauss) distribution is a very common continuous probability distribution. Normal distributions are important in statistics and are often used in the natural and social sciences to represent real-valued random variables whose distributions are not known.A random variable with a Gaussian distribution is said to be normally distributed and is called a normal deviate.
+
+For Matlab codes check: 
+http://onlineengineers.info/
+
+Flying High by FREDJI https://soundcloud.com/fredjimusic 
+https://www.facebook.com/fredjimusic/
+Music promoted by Audio Library https://youtu.be/RYgKd-6_Fc4",en,PT3M42S,2d,hd,true,False,rectangular,processed,public,youtube,True,True,False,6501,24,0,0,
+youtube#video,acRdso7CmG4vLthmmezCzQMqvkY,rn0JcRNLNu8,2022-05-05T15:48:18Z,UCjw43GbxEqJQYXk5U7hkkVg,Johnny Depp’s Lawyer Has Had Enough of Amber Heard 😂,"Johnny Depp’s Lawyer Has Had Enough of Amber Heard 😂
+johnny depp trial 2022, johnny depp amber heard
+#JohnnyDepp #AmberHeard #JohnnyAmberTrial",https://i.ytimg.com/vi/rn0JcRNLNu8/default.jpg,120,90,https://i.ytimg.com/vi/rn0JcRNLNu8/mqdefault.jpg,320,180,https://i.ytimg.com/vi/rn0JcRNLNu8/hqdefault.jpg,480,360,https://i.ytimg.com/vi/rn0JcRNLNu8/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/rn0JcRNLNu8/maxresdefault.jpg,1280.0,720.0,Uniformedia,"['johnny depp', 'johnny depp trial', ""Johnny Depp's trial"", 'amber heard trial', 'amber heard', 'johhny vs amber trial', 'funny', '#johnnydepp', 'johnny depp amber heard', 'johnny amber', 'johnny depp amber heard trial', 'johnny depp amber heard court', 'funny moments', 'johnny depp amber heard funny moments', 'johnny depp trial 2022', 'depp', 'johnny depp court highlights', 'AndrewPandrew', 'johnny depp court case', 'johnny depp lawyer', 'johnny depp court case funny moments', 'johnny depp trial highlights', 'Benjamin Chew']",20,none,Johnny Depp’s Lawyer Has Had Enough of Amber Heard 😂,"Johnny Depp’s Lawyer Has Had Enough of Amber Heard 😂
+johnny depp trial 2022, johnny depp amber heard
+#JohnnyDepp #AmberHeard #JohnnyAmberTrial",en,PT32S,2d,hd,false,False,rectangular,processed,public,youtube,True,True,False,2460168,32391,0,2397,
+youtube#video,Wx8F4pOLo6dJo2H6MeApjWaTaCc,S2w2Ze36PqE,2022-05-02T21:22:22Z,UCjw43GbxEqJQYXk5U7hkkVg,Generate Continuous Sine Wave and Discrete Sine Wave - Plot sine wave in Matlab,"Generate Continuous Sine Wave and Discrete Sine Wave - Matlab Code
+Continuous-Time Sinusoidal Signal
+A sinusoidal signal which is defined for every instant of time is called continuous-time sinusoidal signal. The continuous time sinusoidal signal is given as follows −
+
+𝑥(𝑡) = 𝐴 sin(𝜔𝑡 + 𝜑) = 𝐴 sin(2𝜋𝑓𝑡 + 𝜑)
+
+Where,
+
+A is the amplitude of the signal. That is the peak deviation of the signal from zero.
+ω=2πf is the angular frequency in radians per seconds.
+f is the frequency of the signal in Hz.
+φ is the phase angle in radians.
+
+A sinusoidal signal which is defined only at discrete instants of time is called discrete-time sinusoidal signal. The discrete-time sinusoidal signal is given as follows −
+
+𝑥(𝑛) = 𝐴 sin(𝜔𝑛 + 𝜑) = 𝐴 sin(2𝜋𝑓𝑛 + 𝜑)
+
+Where,
+
+A is the amplitude of the signal.
+
+ω=2πf is the angular frequency in radians per seconds.
+
+f is the frequency of the signal in Hz.
+
+φ is the phase angle in radians.
+
+n is an integer.
+
+More on: https://www.tutorialspoint.com/continuous-time-vs-discrete-time-sinusoidal-signal",https://i.ytimg.com/vi/S2w2Ze36PqE/default.jpg,120,90,https://i.ytimg.com/vi/S2w2Ze36PqE/mqdefault.jpg,320,180,https://i.ytimg.com/vi/S2w2Ze36PqE/hqdefault.jpg,480,360,,,,,,,Uniformedia,"['continuous sine wave', 'discrete sine wave in matlab', 'matlab programming', 'matlab tutorial', 'sinusoidal signal', 'signal processing', 'signal processing matlab', 'Generate Continuous Sine', 'matlab', 'how to plot sine wave in matlab', 'sine wave', 'how to plot signals in matlab', 'matlab download', 'Opti-Num Solutions', 'Knowledge Amplifier', 'Plot sine wave in Matlab']",27,none,Generate Continuous Sine Wave and Discrete Sine Wave - Plot sine wave in Matlab,"Generate Continuous Sine Wave and Discrete Sine Wave - Matlab Code
+Continuous-Time Sinusoidal Signal
+A sinusoidal signal which is defined for every instant of time is called continuous-time sinusoidal signal. The continuous time sinusoidal signal is given as follows −
+
+𝑥(𝑡) = 𝐴 sin(𝜔𝑡 + 𝜑) = 𝐴 sin(2𝜋𝑓𝑡 + 𝜑)
+
+Where,
+
+A is the amplitude of the signal. That is the peak deviation of the signal from zero.
+ω=2πf is the angular frequency in radians per seconds.
+f is the frequency of the signal in Hz.
+φ is the phase angle in radians.
+
+A sinusoidal signal which is defined only at discrete instants of time is called discrete-time sinusoidal signal. The discrete-time sinusoidal signal is given as follows −
+
+𝑥(𝑛) = 𝐴 sin(𝜔𝑛 + 𝜑) = 𝐴 sin(2𝜋𝑓𝑛 + 𝜑)
+
+Where,
+
+A is the amplitude of the signal.
+
+ω=2πf is the angular frequency in radians per seconds.
+
+f is the frequency of the signal in Hz.
+
+φ is the phase angle in radians.
+
+n is an integer.
+
+More on: https://www.tutorialspoint.com/continuous-time-vs-discrete-time-sinusoidal-signal",en,PT3M6S,2d,hd,false,False,rectangular,processed,public,youtube,True,True,False,217,3,0,6,
+youtube#video,dSPnuOREEhX5oAZx7SQvU3bBMTw,sO9oyDWX34I,2018-05-30T16:15:35Z,UCjw43GbxEqJQYXk5U7hkkVg,Random Signal with Log Normal PDF using Matlab,"Random Signal with Log Normal PDF using Matlab
+
+In probability theory, a log-normal (or lognormal) distribution is a continuous probability distribution of a random variable whose logarithm is normally distributed. Thus, if the random variable X is log-normally distributed, then Y = ln(X) has a normal distribution. Likewise, if Y has a normal distribution, then the exponential function of Y, X = exp(Y), has a log-normal distribution. A random variable which is log-normally distributed takes only positive real values.",https://i.ytimg.com/vi/sO9oyDWX34I/default.jpg,120,90,https://i.ytimg.com/vi/sO9oyDWX34I/mqdefault.jpg,320,180,https://i.ytimg.com/vi/sO9oyDWX34I/hqdefault.jpg,480,360,https://i.ytimg.com/vi/sO9oyDWX34I/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/sO9oyDWX34I/maxresdefault.jpg,1280.0,720.0,Uniformedia,"['log normal pdf', 'lognormal pdf derivation', 'lognormal pdf excel', 'lognormal pdf', 'pdf of lognormal distribution proof', 'pdf matlab', 'pdf matlab function', 'pdf matlab plot', 'MATLAB', 'uniformedia', 'MATLAB Helper ®', 'RobertTalbertPhD', 'David Dorran', 'asraf mohamed']",27,none,Random Signal with Log Normal PDF using Matlab,"Random Signal with Log Normal PDF using Matlab
+
+In probability theory, a log-normal (or lognormal) distribution is a continuous probability distribution of a random variable whose logarithm is normally distributed. Thus, if the random variable X is log-normally distributed, then Y = ln(X) has a normal distribution. Likewise, if Y has a normal distribution, then the exponential function of Y, X = exp(Y), has a log-normal distribution. A random variable which is log-normally distributed takes only positive real values.",en,PT4M12S,2d,hd,false,False,rectangular,processed,public,youtube,True,True,False,1668,8,0,1,
+youtube#video,3gNRxWnfDt8rW4Gvyu37u4xsoy8,TD0zjuYMJLs,2016-07-15T10:17:14Z,UCjw43GbxEqJQYXk5U7hkkVg,Discrete Time Fourier Transform (DTFT) in MATLAB - Matlab Tutorial Online Course - Uniformedia,"Discrete Time Fourier Transform (DTFT) in MATLAB - Matlab Tutorial Online Course - Uniformedia. In this example we will investigate the conjugate-symmetry property of its discrete-time Fourier transform using Matlab.
+
+Discrete-time Fourier transform (DTFT) is a form of Fourier analysis that is applicable to the uniformly-spaced samples of a continuous function. The term discrete-time refers to the fact that the transform operates on discrete data (samples) whose interval often has units of time. From only the samples, it produces a function of frequency that is a periodic summation of the continuous Fourier transform of the original continuous function. Under certain theoretical conditions, described by the sampling theorem, the original continuous function can be recovered perfectly from the DTFT and thus from the original discrete samples. The DTFT itself is a continuous function of frequency, but discrete samples of it can be readily calculated via the discrete Fourier transform (DFT) , which is by far the most common method of modern Fourier analysis.",https://i.ytimg.com/vi/TD0zjuYMJLs/default.jpg,120,90,https://i.ytimg.com/vi/TD0zjuYMJLs/mqdefault.jpg,320,180,https://i.ytimg.com/vi/TD0zjuYMJLs/hqdefault.jpg,480,360,https://i.ytimg.com/vi/TD0zjuYMJLs/sddefault.jpg,640.0,480.0,,,,Uniformedia,"['Discrete Time Fourier Transform', 'DTFT', 'dtft in matlab', 'Discrete Time Fourier Transform (DTFT) in MATLAB', 'dtft lectures', 'dtft example', 'dtft vs dft', 'dtft and dft', 'dtft tutorial', 'discrete time fourier transform example', 'discrete time fourier transform', 'discrete time fourier transform matlab', 'discrete time fourier transform properties', 'discrete fourier transform', 'Late Usman Hari', 'online education', 'online schools', 'online college classes', 'online degree']",27,none,Discrete Time Fourier Transform (DTFT) in MATLAB - Matlab Tutorial Online Course - Uniformedia,"Discrete Time Fourier Transform (DTFT) in MATLAB - Matlab Tutorial Online Course - Uniformedia. In this example we will investigate the conjugate-symmetry property of its discrete-time Fourier transform using Matlab.
+
+Discrete-time Fourier transform (DTFT) is a form of Fourier analysis that is applicable to the uniformly-spaced samples of a continuous function. The term discrete-time refers to the fact that the transform operates on discrete data (samples) whose interval often has units of time. From only the samples, it produces a function of frequency that is a periodic summation of the continuous Fourier transform of the original continuous function. Under certain theoretical conditions, described by the sampling theorem, the original continuous function can be recovered perfectly from the DTFT and thus from the original discrete samples. The DTFT itself is a continuous function of frequency, but discrete samples of it can be readily calculated via the discrete Fourier transform (DFT) , which is by far the most common method of modern Fourier analysis.",,PT6M32S,2d,sd,false,False,rectangular,processed,public,youtube,True,True,False,51724,139,0,5,
+youtube#video,ZDS1l7oUIErMAlfsX2bShZN3rTg,ThRbD2t7RAY,2016-03-31T15:27:17Z,UCjw43GbxEqJQYXk5U7hkkVg,Butterworth filter design and Noise Cancellation - MATLAB tutorial | Uniformedia,"Butterworth filter design and Noise Cancellation - MATLAB tutorial
+filtering in matlab using 'built-in' filter design techniques Learn MATLAB in simple and easy steps starting from basic to advanced concepts with examples http://onlineengineers.info
+
+Butterworth filter design:
+[b,a] = butter(n,Wn) returns the transfer function coefficients of an nth-order lowpass digital Butterworth filter with normalized cutoff frequency Wn.
+
+[b,a] = butter(n,Wn,ftype) designs a lowpass, highpass, bandpass, or bandstop Butterworth filter, depending on the value of ftype and the number of elements of Wn. The resulting bandpass and bandstop designs are of order 2n.
+
+How to Do a Fourier Transform in Matlab - How to plot FFT using Matlab: https://www.youtube.com/watch?v=Pb_bA28d77M",https://i.ytimg.com/vi/ThRbD2t7RAY/default.jpg,120,90,https://i.ytimg.com/vi/ThRbD2t7RAY/mqdefault.jpg,320,180,https://i.ytimg.com/vi/ThRbD2t7RAY/hqdefault.jpg,480,360,https://i.ytimg.com/vi/ThRbD2t7RAY/sddefault.jpg,640.0,480.0,,,,Uniformedia,"['Butterworth filter', 'butterworth filter matlab example', 'butterworth filter matlab code', 'butterworth filter matlab cutoff frequency', 'butterworth filter matlab tutorial', 'butterworth filter matlab', 'design a butterworth filter in matlab', 'Uniformedia', 'CAE Tutorials', 'Jake Blanchard', 'RobertTalbertPhD', 'David Dorran', 'eeprogrammer', 'education', 'math', 'engineering']",27,none,Butterworth filter design and Noise Cancellation - MATLAB tutorial | Uniformedia,"Butterworth filter design and Noise Cancellation - MATLAB tutorial
+filtering in matlab using 'built-in' filter design techniques Learn MATLAB in simple and easy steps starting from basic to advanced concepts with examples http://onlineengineers.info
+
+Butterworth filter design:
+[b,a] = butter(n,Wn) returns the transfer function coefficients of an nth-order lowpass digital Butterworth filter with normalized cutoff frequency Wn.
+
+[b,a] = butter(n,Wn,ftype) designs a lowpass, highpass, bandpass, or bandstop Butterworth filter, depending on the value of ftype and the number of elements of Wn. The resulting bandpass and bandstop designs are of order 2n.
+
+How to Do a Fourier Transform in Matlab - How to plot FFT using Matlab: https://www.youtube.com/watch?v=Pb_bA28d77M",,PT4M3S,2d,hd,false,False,rectangular,processed,public,youtube,True,True,False,41981,85,0,5,
+youtube#video,AKzQvGSjVvHPYJ-_zn1uj7hlonQ,uw3D0xkEhwA,2016-08-25T11:49:39Z,UCjw43GbxEqJQYXk5U7hkkVg,Matlab Tutorial - How to do Differentiation in Matlab | Uniformedia,Matlab Tutorial - How to do Differentiation in Matlab | Uniformedia  Integration in matlab and solving differential equations in matlab,https://i.ytimg.com/vi/uw3D0xkEhwA/default.jpg,120,90,https://i.ytimg.com/vi/uw3D0xkEhwA/mqdefault.jpg,320,180,https://i.ytimg.com/vi/uw3D0xkEhwA/hqdefault.jpg,480,360,https://i.ytimg.com/vi/uw3D0xkEhwA/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/uw3D0xkEhwA/maxresdefault.jpg,1280.0,720.0,Uniformedia,"['Matlab Tutorial', 'Differentiation in Matlab', 'Uniformedia', 'matlab', 'CAE Tutorials', 'Dean Clark', 'Tutoriales de MATLAB en Español', 'Numerical Methods ChE McMaster', 'Outpost Omega', 'NazmusLabs', 'eeprogrammer', 'Ilya Mikhelson', 'MATLAB KFUPM', 'Anas Kuzechie', 'Kanal von chiron27yt', 'Integration in matlab', 'Differentiation', 'Integration', 'examples', 'solve Differentiation in Matlab', 'differential equations in matlab', 'online education', 'online schools', 'online college classes', 'online degree']",27,none,Matlab Tutorial - How to do Differentiation in Matlab | Uniformedia,Matlab Tutorial - How to do Differentiation in Matlab | Uniformedia  Integration in matlab and solving differential equations in matlab,,PT2M40S,2d,hd,false,False,rectangular,processed,public,youtube,True,True,False,513,1,0,0,
+youtube#video,pIPTT8b9_uxEi7NPguX7smdIJxE,vALxxMWjtOc,2020-02-14T16:35:01Z,UCjw43GbxEqJQYXk5U7hkkVg,Star-CCM+ Meshing Tutorial - Volume and Surface Meshing 2022,"Star-CCM+ Meshing Tutorial - Volume and Surface Mesh
+Mesh Operations in STAR-CCM+  star ccm+ geometry tutorial Creating volume mesh & Surface Mesh Star CCM+ Beginner to Pro",https://i.ytimg.com/vi/vALxxMWjtOc/default.jpg,120,90,https://i.ytimg.com/vi/vALxxMWjtOc/mqdefault.jpg,320,180,https://i.ytimg.com/vi/vALxxMWjtOc/hqdefault.jpg,480,360,https://i.ytimg.com/vi/vALxxMWjtOc/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/vALxxMWjtOc/maxresdefault.jpg,1280.0,720.0,Uniformedia,"['Star ccm+', 'ccm+', 'star ccm+ tutorial', 'ccm+ tutorial', 'star ccm+ beginner to pro', 'star ccm+ for beginners', 'star ccm+ meshing tutorial', 'star ccm+ mesh', 'star-ccm+', 'star-ccm+ tutorial', 'star ccm+ meshing', 'star ccm+ volume mesh', 'star ccm+ surface mesh', 'meshing tutorial', 'mechanic fluid', 'fluid', 'ccm+ beginer tutorial', 'star ccm+ geometry tutorial', 'star ccm+ geometry', 'geometry tutorial', 'volume meshing', 'surface meshing', 'mesh operation in star ccm+', 'cfd', 'star ccm+', 'Star ccm+ 2022']",27,none,Star-CCM+ Meshing Tutorial - Volume and Surface Meshing 2022,"Star-CCM+ Meshing Tutorial - Volume and Surface Mesh
+Mesh Operations in STAR-CCM+  star ccm+ geometry tutorial Creating volume mesh & Surface Mesh Star CCM+ Beginner to Pro",en,PT5M38S,2d,hd,false,False,rectangular,processed,public,youtube,True,True,False,5388,17,0,2,
+youtube#video,nEUs4r5J329WOI9G9TXT9ToMI8Y,veJu4cgemmA,2016-09-01T21:14:09Z,UCjw43GbxEqJQYXk5U7hkkVg,QPSK Modulation in Matlab AWGN Channel - Part 1 (2016) Matlab Tutorial,"This program is used to calculate the Bit Error Rate (BER) of QPSK in an Additive White Gaussian Noise (AWGN) channel. The modulation and demodulation is done at baseband. Complex numbers are used to model the in-phase and quadrature components of a QPSK signal. The length of the symbol sequence and range of EbNo can be varied. 
+
+QPSK (Quadrature Phase Shift Keying) is type of  phase shift keying. Unlike BPSK which is a DSBCS modulation scheme with digital information for the message, QPSK is also a DSBCS modulation scheme but it sends two bits of digital information a time (without the use of another carrier frequency).
+The amount of radio frequency spectrum required to transmit QPSK reliably is half that required for BPSK signals, which in turn makes room for more users on the channel.",https://i.ytimg.com/vi/veJu4cgemmA/default.jpg,120,90,https://i.ytimg.com/vi/veJu4cgemmA/mqdefault.jpg,320,180,https://i.ytimg.com/vi/veJu4cgemmA/hqdefault.jpg,480,360,https://i.ytimg.com/vi/veJu4cgemmA/sddefault.jpg,640.0,480.0,,,,Uniformedia,"['QPSK Modulation', 'QPSK Modulation in Matlab', 'AWGN Channel', 'Bit Error Rate', 'BER', 'matlab', 'Additive White Gaussian Noise', 'QPSK', 'BPSK', 'DSBCS', 'Amr Rashed', 'John Santiago', 'eeprogrammer', 'sachin sharma', 'online education', 'online schools', 'online college classes', 'online degree', 'Matlab Tutorial']",27,none,QPSK Modulation in Matlab AWGN Channel - Part 1 (2016) Matlab Tutorial,"This program is used to calculate the Bit Error Rate (BER) of QPSK in an Additive White Gaussian Noise (AWGN) channel. The modulation and demodulation is done at baseband. Complex numbers are used to model the in-phase and quadrature components of a QPSK signal. The length of the symbol sequence and range of EbNo can be varied. 
+
+QPSK (Quadrature Phase Shift Keying) is type of  phase shift keying. Unlike BPSK which is a DSBCS modulation scheme with digital information for the message, QPSK is also a DSBCS modulation scheme but it sends two bits of digital information a time (without the use of another carrier frequency).
+The amount of radio frequency spectrum required to transmit QPSK reliably is half that required for BPSK signals, which in turn makes room for more users on the channel.",,PT4M16S,2d,hd,false,False,rectangular,processed,public,youtube,True,True,False,21303,54,0,9,
+youtube#video,RVNYSADDdXGF5xNNF4ILJqlgtQ0,X7FDpTf67Ug,2016-07-14T14:23:58Z,UCjw43GbxEqJQYXk5U7hkkVg,MATLAB Tutorial - Function Plotting Basics - Plot multiple lines,"MATLAB Tutorial - Function Plotting Basics - Plot multiple lines
+Learn MATLAB in simple and easy steps starting from basic to advanced concepts with examples http://onlineengineers.info Uniformedia matlab classes online. How to use matlab and matlab help. 
+To plot the graph of a function, you need to take the following steps: Define x, by specifying the range of values for the variable x, for which the function is to be plotted. Define the function, y = f(x).
+Call the plot command, as plot(x, y).
+
+00:00 MATLAB Create 2-D Line Graph
+01:27 MATLAB Plot Multiple Lines
+02:16 MATLAB Colors, Line Styles, and Markers (Specify Line Style)
+02:53 MATLAB Specify Different Line Styles for Multiple Lines
+03:50 MATLAB Specify Line Style and Color
+04:20 MATLAB Plot Only Data Points - Markers
+
+Matlab Tutorial Videos:
+ 
+Butterworth filter design https://www.youtube.com/watch?v=ThRbD2t7RAY
+How to Do a Fourier Transform https://www.youtube.com/watch?v=Pb_bA28d77M",https://i.ytimg.com/vi/X7FDpTf67Ug/default.jpg,120,90,https://i.ytimg.com/vi/X7FDpTf67Ug/mqdefault.jpg,320,180,https://i.ytimg.com/vi/X7FDpTf67Ug/hqdefault.jpg,480,360,https://i.ytimg.com/vi/X7FDpTf67Ug/sddefault.jpg,640.0,480.0,,,,Uniformedia,"['plot', 'graph', 'visualization', 'vizthink', 'MATLAB', 'programming', 'script', 'Talbert', 'tutorial', 'RobertTalbertPhD', 'matlab subplot', 'x axis matlab', 'matlab plot tutorial', 'plot graph', 'matlab plot color', 'subplot matlab', 'matlab legend', 'matlab figure', 'how to use matlab', 'matlab help', 'Plot Multiple Lines', 'matlab tutorial', 'education', 'engineering', 'mathematics']",27,none,MATLAB Tutorial - Function Plotting Basics - Plot multiple lines,"MATLAB Tutorial - Function Plotting Basics - Plot multiple lines
+Learn MATLAB in simple and easy steps starting from basic to advanced concepts with examples http://onlineengineers.info Uniformedia matlab classes online. How to use matlab and matlab help. 
+To plot the graph of a function, you need to take the following steps: Define x, by specifying the range of values for the variable x, for which the function is to be plotted. Define the function, y = f(x).
+Call the plot command, as plot(x, y).
+
+00:00 MATLAB Create 2-D Line Graph
+01:27 MATLAB Plot Multiple Lines
+02:16 MATLAB Colors, Line Styles, and Markers (Specify Line Style)
+02:53 MATLAB Specify Different Line Styles for Multiple Lines
+03:50 MATLAB Specify Line Style and Color
+04:20 MATLAB Plot Only Data Points - Markers
+
+Matlab Tutorial Videos:
+ 
+Butterworth filter design https://www.youtube.com/watch?v=ThRbD2t7RAY
+How to Do a Fourier Transform https://www.youtube.com/watch?v=Pb_bA28d77M",en,PT5M1S,2d,hd,true,False,rectangular,processed,public,youtube,True,True,False,166522,406,0,10,
+youtube#video,YzNK45vYjOm6C8KTpitB9Tgg7i4,x7mjVGFKnk8,2016-09-29T13:02:49Z,UCjw43GbxEqJQYXk5U7hkkVg,Amplitude Shift Keying ASK Modulation Code in MATLAB - Matlab Tutorial,"Amplitude Shift Keying ASK Modulation Code in MATLAB
+
+Amplitude Shift Keying is one of the basic types of digital modulation techniques. In ASK, amplitude level of the carrier signal is switched according to the binary information, keeping the phase and frequency fixed.
+
+Matlab tutorials: http://onlineengineers.info",https://i.ytimg.com/vi/x7mjVGFKnk8/default.jpg,120,90,https://i.ytimg.com/vi/x7mjVGFKnk8/mqdefault.jpg,320,180,https://i.ytimg.com/vi/x7mjVGFKnk8/hqdefault.jpg,480,360,https://i.ytimg.com/vi/x7mjVGFKnk8/sddefault.jpg,640.0,480.0,,,,Uniformedia,"['Amplitude Shift Keying', 'ASK Modulation Code', 'ASK Modulation Code in MATLAB', 'CAE Tutorials', 'Po Chen', 'Digital Signal Processing', 'David Dorran', 'eeprogrammer', 'Signal Processing', 'Barry Van Veen', 'John Santiago', 'online education', 'online schools', 'online college classes', 'online degree', 'Matlab Tutorial']",27,none,Amplitude Shift Keying ASK Modulation Code in MATLAB - Matlab Tutorial,"Amplitude Shift Keying ASK Modulation Code in MATLAB
+
+Amplitude Shift Keying is one of the basic types of digital modulation techniques. In ASK, amplitude level of the carrier signal is switched according to the binary information, keeping the phase and frequency fixed.
+
+Matlab tutorials: http://onlineengineers.info",,PT3M29S,2d,hd,false,False,rectangular,processed,public,youtube,True,True,False,42586,290,0,13,
+youtube#video,pysaMha6CrVDN6kfbUfvvTx4VpE,XJEk4XMkU_M,2016-07-14T22:04:05Z,UCjw43GbxEqJQYXk5U7hkkVg,Monte Carlo Simulation using Matlab - Uniformedia Matlab Tutorial,"Monte Carlo Simulation using Matlab. Monte Carlo simulation is a method for exploring the sensitivity of a complex system by varying parameters within statistical constraints. These systems can include financial, physical, and mathematical models that are simulated in a loop, with statistical uncertainty between simulations. The results from the simulation are analyzed to determine the characteristics of the system.
+
+Common tasks for performing Monte Carlo analysis include:
+Varying uncertain parameters for your model
+Creating dynamic simulations and alter parameters with statistical uncertainty
+Creating a Monte Carlo simulation to model a complex dynamic system
+Distributing simulations between processor cores and individual PCs to speed analysis
+Analyzing data through robust plotting and advanced statistical methods
+
+Monte Carlo simulation, or probability simulation, is a technique used to understand the impact of risk and uncertainty in financial, project management, cost, and other forecasting models.",https://i.ytimg.com/vi/XJEk4XMkU_M/default.jpg,120,90,https://i.ytimg.com/vi/XJEk4XMkU_M/mqdefault.jpg,320,180,https://i.ytimg.com/vi/XJEk4XMkU_M/hqdefault.jpg,480,360,https://i.ytimg.com/vi/XJEk4XMkU_M/sddefault.jpg,640.0,480.0,,,,Uniformedia,"['Jake Blanchard', 'Monte Carlo Simulation using Matlab', 'monte carlo simulation example', 'monte carlo simulation matlab', 'monte carlo simulation algorithm', 'create a monte carlo simulation', 'monte carlo simulation code', 'monte carlo simulation c++ code', 'monte carlo simulation example matlab', 'monte carlo simulation gaussian distribution', 'monte carlo simulation in matlab']",27,none,Monte Carlo Simulation using Matlab - Uniformedia Matlab Tutorial,"Monte Carlo Simulation using Matlab. Monte Carlo simulation is a method for exploring the sensitivity of a complex system by varying parameters within statistical constraints. These systems can include financial, physical, and mathematical models that are simulated in a loop, with statistical uncertainty between simulations. The results from the simulation are analyzed to determine the characteristics of the system.
+
+Common tasks for performing Monte Carlo analysis include:
+Varying uncertain parameters for your model
+Creating dynamic simulations and alter parameters with statistical uncertainty
+Creating a Monte Carlo simulation to model a complex dynamic system
+Distributing simulations between processor cores and individual PCs to speed analysis
+Analyzing data through robust plotting and advanced statistical methods
+
+Monte Carlo simulation, or probability simulation, is a technique used to understand the impact of risk and uncertainty in financial, project management, cost, and other forecasting models.",,PT1M51S,2d,sd,false,False,rectangular,processed,public,youtube,True,True,False,11439,45,0,4,
+youtube#video,RNYnswPYUoa5F1_C_ysvonEz8RM,xODEvWfERfo,2016-07-19T22:21:46Z,UCjw43GbxEqJQYXk5U7hkkVg,How to generate White Noise in Matlab/Octave - How to make White Gaussian Noise,"How to make white noise in matlab. A random process (or signal for your visualization) with a constant power spectral density (PSD) function is a white noise process. A white noise signal (process) is constituted by a set of independent and identically distributed (i.i.d) random variables. In discrete sense, the white noise signal constitutes a series of samples that are independent and generated from the same probability distribution. For example, you can generate a white noise signal using a random number generator in which all the samples follow a given Gaussian distribution. This is called White Gaussian Noise (WGN) or Gaussian White Noise.",https://i.ytimg.com/vi/xODEvWfERfo/default.jpg,120,90,https://i.ytimg.com/vi/xODEvWfERfo/mqdefault.jpg,320,180,https://i.ytimg.com/vi/xODEvWfERfo/hqdefault.jpg,480,360,https://i.ytimg.com/vi/xODEvWfERfo/sddefault.jpg,640.0,480.0,,,,Uniformedia,"['how to make white noise in matlab', 'How to generate White Noise', 'matlab', 'White Gaussian Noise', 'WGN', 'Gaussian White Noise', 'power spectral density', 'PSD', 'uniformedia', 'CAE Tutorials', 'Jake Blanchard', 'RobertTalbertPhD', 'David Dorran', 'eeprogrammer', 'online education', 'online schools', 'online college classes', 'online degree']",27,none,How to generate White Noise in Matlab/Octave - How to make White Gaussian Noise,"How to make white noise in matlab. A random process (or signal for your visualization) with a constant power spectral density (PSD) function is a white noise process. A white noise signal (process) is constituted by a set of independent and identically distributed (i.i.d) random variables. In discrete sense, the white noise signal constitutes a series of samples that are independent and generated from the same probability distribution. For example, you can generate a white noise signal using a random number generator in which all the samples follow a given Gaussian distribution. This is called White Gaussian Noise (WGN) or Gaussian White Noise.",,PT2M23S,2d,hd,false,False,rectangular,processed,public,youtube,True,True,False,46897,134,0,17,
+youtube#video,tXTn7pvT9O3h64H2JFYVvUahvtg,xq_R0eDcYoY,2016-07-17T11:03:00Z,UCjw43GbxEqJQYXk5U7hkkVg,Matlab plot multiple lines - Multiple Graphs Or Plot Overlays in same MATLAB Plot,"Matlab plot multiple lines - Multiple Graphs Or Plot Overlays in same MATLAB Plot 
+In this tutorial I will show you how to plot legends, titles , plot multiple lines and change color on graph in matlb. I will use subplot function and hold on function. You can change line thickness with LineWidth command.",https://i.ytimg.com/vi/xq_R0eDcYoY/default.jpg,120,90,https://i.ytimg.com/vi/xq_R0eDcYoY/mqdefault.jpg,320,180,https://i.ytimg.com/vi/xq_R0eDcYoY/hqdefault.jpg,480,360,https://i.ytimg.com/vi/xq_R0eDcYoY/sddefault.jpg,640.0,480.0,,,,Uniformedia,"['matlab line command', 'malab multiple lines', 'matlab plot overlays', 'matlab hold on', 'matlab hold off', 'matlab plot editor', 'Thesis123 MATLAB course', 'Matlab plot multiple lines', 'Multiple Graphs', 'uniformedia', 'subplot', 'hold on', 'legend', 'title graph', 'matlab', 'color graph matlab', 'LineWidth', 'CAE Tutorials', 'Jake Blanchard', 'RobertTalbertPhD', 'David Dorran', 'eeprogrammer', 'online education', 'online schools', 'online college classes', 'online degree']",27,none,Matlab plot multiple lines - Multiple Graphs Or Plot Overlays in same MATLAB Plot,"Matlab plot multiple lines - Multiple Graphs Or Plot Overlays in same MATLAB Plot 
+In this tutorial I will show you how to plot legends, titles , plot multiple lines and change color on graph in matlb. I will use subplot function and hold on function. You can change line thickness with LineWidth command.",,PT4M45S,2d,sd,false,False,rectangular,processed,public,youtube,True,True,False,2687,14,0,1,
+youtube#video,-HedgPL8TlDfr_B6ohLKn7EzLUE,XR4vDC7Vw_s,2022-05-05T23:07:28Z,UCjw43GbxEqJQYXk5U7hkkVg,Amber Heard Posed for a Photo With a Tissue to Her Face,"Amber Heard Posed for a Photo With a Tissue to Her Face
+johnny depp trial 2022
+#JohnnyDepp #AmberHeard #Depp #JohnnyAmberTrial",https://i.ytimg.com/vi/XR4vDC7Vw_s/default.jpg,120,90,https://i.ytimg.com/vi/XR4vDC7Vw_s/mqdefault.jpg,320,180,https://i.ytimg.com/vi/XR4vDC7Vw_s/hqdefault.jpg,480,360,https://i.ytimg.com/vi/XR4vDC7Vw_s/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/XR4vDC7Vw_s/maxresdefault.jpg,1280.0,720.0,Uniformedia,"['Johnny Depp', 'Amber Heard', 'amber heard acts scared', 'amber acts scared', 'amber acting scared', 'amber scared of johnny', 'amber scared of johnny depp', '#johnnydepp', '#amberheard', 'johnny depp trial 2022', 'johnny depp amber heard', 'johnny depp court case', 'johnny depp lawyer', 'Uniformedia', 'johnny depp funny moments', 'funny moments', 'amber pose for photo', 'amber pose for a photo', 'amber posed for photo', 'amber pose', 'amber poses', 'amber posed', 'amber heard pose']",20,none,Amber Heard Posed for a Photo With a Tissue to Her Face,"Amber Heard Posed for a Photo With a Tissue to Her Face
+johnny depp trial 2022
+#JohnnyDepp #AmberHeard #Depp #JohnnyAmberTrial",en,PT43S,2d,hd,true,False,rectangular,processed,public,youtube,True,True,False,3315562,45945,0,10714,
+youtube#video,SQ7gI35lfx_oAikdNcxiHPJ-GsQ,Y7zeqE4327w,2018-04-25T12:54:26Z,UCjw43GbxEqJQYXk5U7hkkVg,MATLAB tutorial - Histogram of a random signal with log normal PDF,"MATLAB tutorial - Histogram of a random signal with log normal PDF
+
+In probability theory, a log-normal (or lognormal) distribution is a continuous probability distribution of a random variable whose logarithm is normally distributed.
+
+Y = lognpdf(X,mu,sigma) returns values at X of the lognormal pdf with distribution parameters mu and sigma. mu and sigma are the mean and standard deviation, respectively, of the associated normal distribution. X, mu, and sigma can be vectors, matrices, or multidimensional arrays that all have the same size, which is also the size of Y. A scalar input for X, mu, or sigma is expanded to a constant array with the same dimensions as the other inputs. The parameters in sigma must be positive.
+
+For Matlab codes check: 
+http://onlineengineers.info/
+
+Flying High by FREDJI https://soundcloud.com/fredjimusic 
+https://www.facebook.com/fredjimusic/
+Music promoted by Audio Library https://youtu.be/RYgKd-6_Fc4",https://i.ytimg.com/vi/Y7zeqE4327w/default.jpg,120,90,https://i.ytimg.com/vi/Y7zeqE4327w/mqdefault.jpg,320,180,https://i.ytimg.com/vi/Y7zeqE4327w/hqdefault.jpg,480,360,https://i.ytimg.com/vi/Y7zeqE4327w/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/Y7zeqE4327w/maxresdefault.jpg,1280.0,720.0,Uniformedia,"['MATLAB tutorial', 'lognpdf', 'Lognormal probability density function', 'matlab histogram', 'log normal PDF', 'matlab tutorial', 'eeprogrammer', 'RobertTalbertPhD', 'David Dorran', 'TheEngineeringWorld', 'John Santiago', 'MATLAB KFUPM', 'MATLAB', 'The Math Student', 'THE TECH TONGA', 'Andrew Marshall', 'education', 'engineering', 'programming']",27,none,MATLAB tutorial - Histogram of a random signal with log normal PDF,"MATLAB tutorial - Histogram of a random signal with log normal PDF
+
+In probability theory, a log-normal (or lognormal) distribution is a continuous probability distribution of a random variable whose logarithm is normally distributed.
+
+Y = lognpdf(X,mu,sigma) returns values at X of the lognormal pdf with distribution parameters mu and sigma. mu and sigma are the mean and standard deviation, respectively, of the associated normal distribution. X, mu, and sigma can be vectors, matrices, or multidimensional arrays that all have the same size, which is also the size of Y. A scalar input for X, mu, or sigma is expanded to a constant array with the same dimensions as the other inputs. The parameters in sigma must be positive.
+
+For Matlab codes check: 
+http://onlineengineers.info/
+
+Flying High by FREDJI https://soundcloud.com/fredjimusic 
+https://www.facebook.com/fredjimusic/
+Music promoted by Audio Library https://youtu.be/RYgKd-6_Fc4",en,PT4M9S,2d,hd,true,False,rectangular,processed,public,youtube,True,True,False,1850,6,0,0,
+youtube#video,G1U30UYR_5t8G1oyan8j7cVn9q4,yLhpSTIbPb8,2016-12-22T21:55:11Z,UCjw43GbxEqJQYXk5U7hkkVg,How to add images to Android Studio -  How to display images in app - Android Studio Tutorial 2022,"How to add images to Android Studio -  How to display images in app 
+Tutorial step by step Image Display with ImageView in Android Studio 
+Go to your image in windows and copy it. Go to the res folder and select one of the drawable folders and paste the image in there. Click on imageview then go to properties and scroll down until you see src. Insert this into src @drawable/imagename.",https://i.ytimg.com/vi/yLhpSTIbPb8/default.jpg,120,90,https://i.ytimg.com/vi/yLhpSTIbPb8/mqdefault.jpg,320,180,https://i.ytimg.com/vi/yLhpSTIbPb8/hqdefault.jpg,480,360,https://i.ytimg.com/vi/yLhpSTIbPb8/sddefault.jpg,640.0,480.0,,,,Uniformedia,"['Android Studio', 'how to add image android studio', 'android studio add background image', 'android studio add image to imageview', 'How to add background image in Android Studio', 'How do I import images into Android Studio', 'Android Studio drawable folders', 'Android Studio Tutorial', 'Tonikami TV', 'Oum Saokosal', 'PRABEESH R K', 'Android Developers', 'Radiant Silver Labs', 'thenewboston', 'Johnny Manson', 'Carlos Solis', 'TimKippTutorials', 'Tech Academy', 'Tihomir RAdeff', 'techobbyist', 'TZCoder', 'EDMT Dev']",27,none,How to add images to Android Studio -  How to display images in app - Android Studio Tutorial 2022,"How to add images to Android Studio -  How to display images in app 
+Tutorial step by step Image Display with ImageView in Android Studio 
+Go to your image in windows and copy it. Go to the res folder and select one of the drawable folders and paste the image in there. Click on imageview then go to properties and scroll down until you see src. Insert this into src @drawable/imagename.",,PT1M10S,2d,hd,false,False,rectangular,processed,public,youtube,True,True,False,49589,87,0,5,
+youtube#video,hCpPBm7iG89WEr-3SfUoyettTFQ,yqqW6RM762g,2016-11-03T20:40:27Z,UCjw43GbxEqJQYXk5U7hkkVg,Matlab Examples - Discrete Convolution using Matlab - Matlab Tutorial,"Digital Signal Processing - If arbitrary sequences are of infinite duration, then MATLAB cannot be used directly to compute the convolution. MATLAB does provide a built-in function called conv that computes the convolution between two finite-duration sequences.",https://i.ytimg.com/vi/yqqW6RM762g/default.jpg,120,90,https://i.ytimg.com/vi/yqqW6RM762g/mqdefault.jpg,320,180,https://i.ytimg.com/vi/yqqW6RM762g/hqdefault.jpg,480,360,,,,,,,Uniformedia,"['Matlab Examples', 'Discrete Convolution', 'Matlab', 'matlab function', 'Digital Signal Processing', 'conv', 'sequences', 'Discrete Convolution using Matlab', 'Discrete Convolution in Matlab', 'John Santiago', 'David Dorran', 'CAE Tutorials', 'eeprogrammer', 'Barry Van Veen', 'MATLAB KFUPM', 'Darryl Morrell', 'uniformedia', 'Matlab Tutorial']",27,none,Matlab Examples - Discrete Convolution using Matlab - Matlab Tutorial,"Digital Signal Processing - If arbitrary sequences are of infinite duration, then MATLAB cannot be used directly to compute the convolution. MATLAB does provide a built-in function called conv that computes the convolution between two finite-duration sequences.",,PT1M38S,2d,hd,false,False,rectangular,processed,public,youtube,True,True,False,12655,19,0,2,
+youtube#video,N9roaHWvKaP2nKYCxfarqGZMTMM,Z7K3ivB8ZZo,2022-05-03T23:28:11Z,UCjw43GbxEqJQYXk5U7hkkVg,"Johnny Depp's Lawyer Makes Court Laugh - ""I Can't Wait to Oppose This"" 😂","Johnny Depp's lawyer makes court laugh I can't wait to oppose this 
+#JohnnyDepp #AmberHeard Johnny vs Amber Trial #depp johnny depp funny moments",https://i.ytimg.com/vi/Z7K3ivB8ZZo/default.jpg,120,90,https://i.ytimg.com/vi/Z7K3ivB8ZZo/mqdefault.jpg,320,180,https://i.ytimg.com/vi/Z7K3ivB8ZZo/hqdefault.jpg,480,360,,,,,,,Uniformedia,"['johnny depp', 'johnny depp trial', ""Johnny Depp's trial"", 'amber heard trial', 'amber heard', 'johhny vs amber trial', 'funny', '#johnnydepp', 'johnny depp amber heard', 'johnny amber', 'johnny depp amber heard trial', 'johnny depp amber heard court', 'funny moments', 'johnny depp amber heard funny moments', 'johnny depp trial 2022', 'depp', 'depp vs heard', 'johnny depp court highlights', 'AndrewPandrew', 'johnny depp court case', 'johnny depp lawyer', 'johnny depp court case funny moments', 'johnny depp trial highlights']",20,none,"Johnny Depp's Lawyer Makes Court Laugh - ""I Can't Wait to Oppose This"" 😂","Johnny Depp's lawyer makes court laugh I can't wait to oppose this 
+#JohnnyDepp #AmberHeard Johnny vs Amber Trial #depp johnny depp funny moments",en,PT3M23S,2d,hd,false,False,rectangular,processed,public,youtube,True,True,False,6656983,98221,0,5931,
+youtube#video,oKpSPjAXlFH-Kls51QGm9drft6A,zHjY-WhwZ8I,2017-02-02T16:25:09Z,UCjw43GbxEqJQYXk5U7hkkVg,Hill Cipher Encryption Technique - Matlab Simulation Tutorial 2017,"Hill Cipher Encryption Technique - Matlab Simulation 2017
+For more examples check http://onlineengineers.info
+
+The Hill cipher is an example of a block cipher. A block cipher is a cipher in which groups of letters are enciphered together in equal length blocks. The Hill cipher was developed by Lester Hill and introduced in an article published in 1929.
+
+Encipher
+In order to encrypt a message using the Hill cipher, the sender and receiver must first agree upon a key matrix A of size n x n. A must be invertible mod 26. The plaintext will then be enciphered in blocks of size n. In the following example A is a 2 x 2 matrix and the message will be enciphered in blocks of 2 characters.
+
+https://en.wikipedia.org/wiki/Hill_cipher",https://i.ytimg.com/vi/zHjY-WhwZ8I/default.jpg,120,90,https://i.ytimg.com/vi/zHjY-WhwZ8I/mqdefault.jpg,320,180,https://i.ytimg.com/vi/zHjY-WhwZ8I/hqdefault.jpg,480,360,https://i.ytimg.com/vi/zHjY-WhwZ8I/sddefault.jpg,640.0,480.0,,,,Uniformedia,"['hill cipher example 2x2', 'hill cipher 3x3 example', 'hill cipher decryption', 'hill cipher example', 'hill cipher encryption and decryption', 'hill cipher 2x2 example', 'hill cipher technique', 'hill cipher شرح', 'hill cipher decryption example', 'hill cipher in cryptography', 'hill cipher in matlab', 'matlab tutorial']",27,none,Hill Cipher Encryption Technique - Matlab Simulation Tutorial 2017,"Hill Cipher Encryption Technique - Matlab Simulation 2017
+For more examples check http://onlineengineers.info
+
+The Hill cipher is an example of a block cipher. A block cipher is a cipher in which groups of letters are enciphered together in equal length blocks. The Hill cipher was developed by Lester Hill and introduced in an article published in 1929.
+
+Encipher
+In order to encrypt a message using the Hill cipher, the sender and receiver must first agree upon a key matrix A of size n x n. A must be invertible mod 26. The plaintext will then be enciphered in blocks of size n. In the following example A is a 2 x 2 matrix and the message will be enciphered in blocks of 2 characters.
+
+https://en.wikipedia.org/wiki/Hill_cipher",en,PT3M2S,2d,hd,true,False,rectangular,processed,public,youtube,True,True,False,6102,26,0,0,
+youtube#video,h3t93HZf3Tj4bP7HXLLDG4AcJUQ,_uPZx9iDfbc,2018-05-29T20:35:33Z,UCjw43GbxEqJQYXk5U7hkkVg,Step Response of Transfer Function Using Simulink on Matlab,"Step Response of Transfer Function Using Simulink on Matlab
+
+The step function is one of most useful functions in MATLAB for control design. Given a system representation, the response to a step input can be immediately plotted, without need to actually solve for the time response analytically. A step input can be described as a change in the input from zero to a finite value at time t = 0. By default, the step command performs a unit step (i.e. the input goes from zero to one at time t = 0). The basic syntax for calling the step function is the following, where sys is a defined LTI object.
+
+For Matlab codes check: 
+http://onlineengineers.info/
+
+Flying High by FREDJI https://soundcloud.com/fredjimusic 
+https://www.facebook.com/fredjimusic/
+Music promoted by Audio Library https://youtu.be/RYgKd-6_Fc4
+
+Step Response Lecture: http://ctms.engin.umich.edu
+
+Power Spectral Density Plot using MATLAB: https://www.youtube.com/edit?o=U&video_id=O3ya8ye6Xus
+
+Sampling Sinusoidal Signals in Matlab: 
+https://www.youtube.com/edit?o=U&video_id=G8DWr_Bzn40
+
+Upsampling and Downsampling Signals in Matlab:
+https://www.youtube.com/edit?o=U&video_id=pr-wcWjqTw8
+https://www.youtube.com/edit?o=U&video_id=F3hICcuj8Ts",https://i.ytimg.com/vi/_uPZx9iDfbc/default.jpg,120,90,https://i.ytimg.com/vi/_uPZx9iDfbc/mqdefault.jpg,320,180,https://i.ytimg.com/vi/_uPZx9iDfbc/hqdefault.jpg,480,360,https://i.ytimg.com/vi/_uPZx9iDfbc/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/_uPZx9iDfbc/maxresdefault.jpg,1280.0,720.0,Uniformedia,"['step response of transfer function', 'step response of transfer function matlab', 'unit step response of transfer function', 'plot step response of transfer function matlab', 'step response of a transfer function in matlab', 'uniformedia', 'step response transfer function simulink', 'Joseph Delgadillo', 'John Santiago', 'MATLAB', 'David Dorran', 'The Bird Man', 'rmjds', 'AllAboutEE', 'sachin sharma', 'eeprogrammer', 'RobertTalbertPhD', 'asraf mohamed']",27,none,Step Response of Transfer Function Using Simulink on Matlab,"Step Response of Transfer Function Using Simulink on Matlab
+
+The step function is one of most useful functions in MATLAB for control design. Given a system representation, the response to a step input can be immediately plotted, without need to actually solve for the time response analytically. A step input can be described as a change in the input from zero to a finite value at time t = 0. By default, the step command performs a unit step (i.e. the input goes from zero to one at time t = 0). The basic syntax for calling the step function is the following, where sys is a defined LTI object.
+
+For Matlab codes check: 
+http://onlineengineers.info/
+
+Flying High by FREDJI https://soundcloud.com/fredjimusic 
+https://www.facebook.com/fredjimusic/
+Music promoted by Audio Library https://youtu.be/RYgKd-6_Fc4
+
+Step Response Lecture: http://ctms.engin.umich.edu
+
+Power Spectral Density Plot using MATLAB: https://www.youtube.com/edit?o=U&video_id=O3ya8ye6Xus
+
+Sampling Sinusoidal Signals in Matlab: 
+https://www.youtube.com/edit?o=U&video_id=G8DWr_Bzn40
+
+Upsampling and Downsampling Signals in Matlab:
+https://www.youtube.com/edit?o=U&video_id=pr-wcWjqTw8
+https://www.youtube.com/edit?o=U&video_id=F3hICcuj8Ts",en,PT2M20S,2d,hd,true,False,rectangular,processed,public,youtube,True,True,False,31606,73,0,4,

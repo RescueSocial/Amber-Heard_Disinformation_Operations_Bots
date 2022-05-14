@@ -1,0 +1,81 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "EhAwVNnKzmzefLmprN1r8tDzmt0",
+        "id": "if3YcNte8xc",
+        "snippet": {
+            "publishedAt": "2017-02-15T14:28:18Z",
+            "channelId": "UCjw43GbxEqJQYXk5U7hkkVg",
+            "title": "Generating an isolated rectangular pulse in MATLAB - MATLAB Tutorial for Beginners 2017",
+            "description": "Generating an isolated rectangular pulse in MATLAB \nhttp://onlineengineers.info/generating-isolated-rectangular-pulse-matlab-tutorial/\n\nIn this Matlab Tutorial we will generate an isolated rectangular pulse. y = rectpuls(t) returns a continuous, aperiodic, unity-height rectangular pulse at the sample times indicated in array t, centered about t = 0 and with a default width of 1. Note that the interval of nonzero amplitude is defined to be open on the right, that is, rectpuls(-0.5) = 1 while rectpuls(0.5) = 0.\n\ny = rectpuls(t,w) generates a rectangle of width w.\n\nrectpuls is typically used in conjunction with the pulse train generating function pulstran.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/if3YcNte8xc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/if3YcNte8xc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/if3YcNte8xc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Uniformedia",
+            "tags": [
+                "isolated rectangular pulse",
+                "rectangular pulse in MATLAB",
+                "MATLAB Tutorial for Beginners",
+                "pulse function",
+                "pulse function matlab",
+                "window function",
+                "window function matlab",
+                "Uniformedia",
+                "RobertTalbertPhD",
+                "David Dorran",
+                "TheEngineeringWorld",
+                "John Santiago",
+                "MATLAB KFUPM",
+                "eeprogrammer",
+                "MATLAB",
+                "The Math Student",
+                "THE TECH TONGA",
+                "Andrew Marshall"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Generating an isolated rectangular pulse in MATLAB - MATLAB Tutorial for Beginners 2017",
+                "description": "Generating an isolated rectangular pulse in MATLAB \nhttp://onlineengineers.info/generating-isolated-rectangular-pulse-matlab-tutorial/\n\nIn this Matlab Tutorial we will generate an isolated rectangular pulse. y = rectpuls(t) returns a continuous, aperiodic, unity-height rectangular pulse at the sample times indicated in array t, centered about t = 0 and with a default width of 1. Note that the interval of nonzero amplitude is defined to be open on the right, that is, rectpuls(-0.5) = 1 while rectpuls(0.5) = 0.\n\ny = rectpuls(t,w) generates a rectangle of width w.\n\nrectpuls is typically used in conjunction with the pulse train generating function pulstran."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT2M42S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "52331",
+            "likeCount": "147",
+            "favoriteCount": "0",
+            "commentCount": "15"
+        }
+    }
+]

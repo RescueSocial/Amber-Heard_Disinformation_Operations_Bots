@@ -1,0 +1,82 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "KrmEcxNUCYmln9zwpA_6vgtDYww",
+        "id": "NPQ9BplSHsw",
+        "snippet": {
+            "publishedAt": "2014-09-08T00:17:47Z",
+            "channelId": "UCuWeBHxVe6C69JTBpiY-Y8Q",
+            "title": "El Magico Show de Juanito Say #15 [info Dragon Ball Z y la locura de siempre!]",
+            "description": "La locura de siempre, con llamados en vivo por Skype y mucho Dragon Ball Z ;)\n\nSi le das like, compartes y comentas, me ayuda mucho ;)\nSUSCRIBETE: http://www.youtube.com/subscription_center?add_user=juanitosay\n\nMIRA FREAK SHOW EN: http://cmtv.com.ar/freakshow\nMI CANAL DE GAMEPLAYS: http://youtube.com/user/gamerdelcarajo\n\nSigueme en:\nTwitter: http://twitter.com/juanitosay\nFacebook: http://facebook.com/juanitosayoficial\nFacebook Personal: http://facebook.com/sayphhat\nAsk: http://ask.fm/sayphhat\nSitio Oficial: http://mcsay.com\n\nDESCARGA MI APP PARA CHROME Y FIREFOX: http://myapp.wips.com/delcarajo-teve-juanito-say-extension",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/NPQ9BplSHsw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/NPQ9BplSHsw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/NPQ9BplSHsw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/NPQ9BplSHsw/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/NPQ9BplSHsw/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "DELCARAJO TV",
+            "tags": [
+                "delcarajo teve",
+                "juanito say",
+                "#hangoutsonair",
+                "Hangouts On Air",
+                "#hoa",
+                "juanito say el magico show",
+                "el magico show de juanito say",
+                "dragon ball z 2015",
+                "juanito say dragon ball z",
+                "dragon ball delcarajo teve"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "El Magico Show de Juanito Say #15 [info Dragon Ball Z y la locura de siempre!]",
+                "description": "La locura de siempre, con llamados en vivo por Skype y mucho Dragon Ball Z ;)\n\nSi le das like, compartes y comentas, me ayuda mucho ;)\nSUSCRIBETE: http://www.youtube.com/subscription_center?add_user=juanitosay\n\nMIRA FREAK SHOW EN: http://cmtv.com.ar/freakshow\nMI CANAL DE GAMEPLAYS: http://youtube.com/user/gamerdelcarajo\n\nSigueme en:\nTwitter: http://twitter.com/juanitosay\nFacebook: http://facebook.com/juanitosayoficial\nFacebook Personal: http://facebook.com/sayphhat\nAsk: http://ask.fm/sayphhat\nSitio Oficial: http://mcsay.com\n\nDESCARGA MI APP PARA CHROME Y FIREFOX: http://myapp.wips.com/delcarajo-teve-juanito-say-extension"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1H34M24S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "3410",
+            "likeCount": "123",
+            "favoriteCount": "0",
+            "commentCount": "16"
+        }
+    }
+]

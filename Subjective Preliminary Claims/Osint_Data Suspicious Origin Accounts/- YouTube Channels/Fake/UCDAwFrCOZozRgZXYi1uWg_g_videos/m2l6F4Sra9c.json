@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "45FHaJtVQUVb0KQ32uReQWmBjXo",
+        "id": "m2l6F4Sra9c",
+        "snippet": {
+            "publishedAt": "2022-04-22T23:54:26Z",
+            "channelId": "UCDAwFrCOZozRgZXYi1uWg_g",
+            "title": "HOLLYWOOD FIXER SILENCES TRANSVESTITE HOOKERS CLAIMING \u00a0THEY HAD SEXUAL RELATIONS WITH EDDIE MURPHY\u00a0",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/m2l6F4Sra9c/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/m2l6F4Sra9c/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/m2l6F4Sra9c/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/m2l6F4Sra9c/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Mario Nitrini",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "HOLLYWOOD FIXER SILENCES TRANSVESTITE HOOKERS CLAIMING \u00a0THEY HAD SEXUAL RELATIONS WITH EDDIE MURPHY\u00a0",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT12S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "17",
+            "likeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

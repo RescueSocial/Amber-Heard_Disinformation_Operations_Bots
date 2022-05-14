@@ -1,0 +1,60 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "QbPNNHohJ5FGu_2nps9-QP6iquY",
+        "id": "nY1scN0XMtk",
+        "snippet": {
+            "publishedAt": "2020-03-29T13:57:25Z",
+            "channelId": "UCtI17-8NdT1udd9AiKJ470w",
+            "title": "CORONAVIRUS LIVE UPDATE REAL TIME INFECTION COUNT ALL COUNTRIES",
+            "description": "CORONAVIRUS LIVE UPDATE REAL TIME INFECTION COUNT ALL COUNTRIES",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/nY1scN0XMtk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/nY1scN0XMtk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/nY1scN0XMtk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Powerful Quotes ",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "CORONAVIRUS LIVE UPDATE REAL TIME INFECTION COUNT ALL COUNTRIES",
+                "description": "CORONAVIRUS LIVE UPDATE REAL TIME INFECTION COUNT ALL COUNTRIES"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT5H41M43S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": false,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "0",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

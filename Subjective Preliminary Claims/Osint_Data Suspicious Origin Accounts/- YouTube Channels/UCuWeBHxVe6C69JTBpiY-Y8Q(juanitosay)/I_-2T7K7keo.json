@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "lh7_stGON8Cnk_Yb1gO8YRavDv0",
+        "id": "I_-2T7K7keo",
+        "snippet": {
+            "publishedAt": "2013-06-06T00:53:59Z",
+            "channelId": "UCuWeBHxVe6C69JTBpiY-Y8Q",
+            "title": "Tips y consejos",
+            "description": "\u2605 SUSCRIBETE A MI CANAL: http://www.youtube.com/user/juanitosay?sub_confirmation=1\nSi le das like, compartes y comentas, me ayuda mucho ;)",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/I_-2T7K7keo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/I_-2T7K7keo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/I_-2T7K7keo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/I_-2T7K7keo/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/I_-2T7K7keo/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "DELCARAJO TV",
+            "categoryId": "26",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Tips y consejos",
+                "description": "\u2605 SUSCRIBETE A MI CANAL: http://www.youtube.com/user/juanitosay?sub_confirmation=1\nSi le das like, compartes y comentas, me ayuda mucho ;)"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT28S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {
+                "ytRating": "ytAgeRestricted"
+            },
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1570809",
+            "likeCount": "1580",
+            "favoriteCount": "0",
+            "commentCount": "139"
+        }
+    }
+]

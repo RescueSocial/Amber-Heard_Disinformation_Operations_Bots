@@ -1,0 +1,89 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "cWTe_ieeTe86bvMx_UJ0jLJ8nVo",
+        "id": "Pb_bA28d77M",
+        "snippet": {
+            "publishedAt": "2016-03-26T14:42:31Z",
+            "channelId": "UCjw43GbxEqJQYXk5U7hkkVg",
+            "title": "How to Do a Fourier Transform in Matlab - How to plot FFT using Matlab | Uniformedia",
+            "description": "How to Do a Fourier Transform in Matlab - How to plot FFT using Matlab - \ub9e4\ud2b8\ub7a9 fft\nLearn MATLAB in simple and easy steps starting from basic to advanced concepts with examples http://onlineengineers.info\n\nThe Fourier transform is one of the most useful mathematical tools for many fields of science and engineering.  The Fourier transform has applications in signal processing, physics, communications, geology, astronomy, optics, and many other fields.  This technique transforms a function or set of data from the time or sample domain to the frequency domain.  This means that the Fourier transform can display the frequency components within a time series of data.  The Discrete Fourier Transform (DFT) transforms discrete data from the sample domain to the frequency domain.  The Fast Fourier Transform (FFT) is an efficient way to do the DFT, and there are many different algorithms to accomplish the FFT.  Matlab uses the FFT to find the frequency components of a discrete signal.\n\nButterworth filter design and Noise Cancellation - MATLAB tutorial: https://www.youtube.com/watch?v=ThRbD2t7RAY",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Pb_bA28d77M/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Pb_bA28d77M/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Pb_bA28d77M/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/Pb_bA28d77M/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Uniformedia",
+            "tags": [
+                "fourier transform in matlab example",
+                "fourier transform in matlab code",
+                "fourier transform in matlab tutorial",
+                "discrete fourier transform in matlab",
+                "fourier transform in matlab",
+                "fourier transform and matlab",
+                "plotting a fourier transform in matlab",
+                "How to plot FFT using Matlab",
+                "How to Do a Fourier Transform in Matlab",
+                "\ub9e4\ud2b8\ub7a9 fft",
+                "Uniformedia",
+                "fft matlab",
+                "fft",
+                "dft",
+                "fft filter",
+                "CAE Tutorials",
+                "Jake Blanchard",
+                "RobertTalbertPhD",
+                "David Dorran",
+                "eeprogrammer",
+                "education",
+                "math"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "How to Do a Fourier Transform in Matlab - How to plot FFT using Matlab | Uniformedia",
+                "description": "How to Do a Fourier Transform in Matlab - How to plot FFT using Matlab - \ub9e4\ud2b8\ub7a9 fft\nLearn MATLAB in simple and easy steps starting from basic to advanced concepts with examples http://onlineengineers.info\n\nThe Fourier transform is one of the most useful mathematical tools for many fields of science and engineering.  The Fourier transform has applications in signal processing, physics, communications, geology, astronomy, optics, and many other fields.  This technique transforms a function or set of data from the time or sample domain to the frequency domain.  This means that the Fourier transform can display the frequency components within a time series of data.  The Discrete Fourier Transform (DFT) transforms discrete data from the sample domain to the frequency domain.  The Fast Fourier Transform (FFT) is an efficient way to do the DFT, and there are many different algorithms to accomplish the FFT.  Matlab uses the FFT to find the frequency components of a discrete signal.\n\nButterworth filter design and Noise Cancellation - MATLAB tutorial: https://www.youtube.com/watch?v=ThRbD2t7RAY"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M17S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "152491",
+            "likeCount": "199",
+            "favoriteCount": "0",
+            "commentCount": "12"
+        }
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "eU7XmBVFseATT3IGzktW6grrLcw",
+        "id": "h6RpphA-14I",
+        "snippet": {
+            "publishedAt": "2022-03-18T23:30:03Z",
+            "channelId": "UC34JIJf43HQZDMdPm9774UA",
+            "title": "Elden Ring - Easy Way To Defeat The ErdTree Avatar!",
+            "description": "Today I show an easy quite simple way to defeat the Erdtree avatar!\nUsing a common sword and some ashes!\n\nConsider subscribing and like for that will help me a lot! \nThank You!\n\n#EldenRing #eldenring",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/h6RpphA-14I/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/h6RpphA-14I/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/h6RpphA-14I/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "CaiBurz",
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Elden Ring - Easy Way To Defeat The ErdTree Avatar!",
+                "description": "Today I show an easy quite simple way to defeat the Erdtree avatar!\nUsing a common sword and some ashes!\n\nConsider subscribing and like for that will help me a lot! \nThank You!\n\n#EldenRing #eldenring"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M20S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "149",
+            "likeCount": "3",
+            "favoriteCount": "0",
+            "commentCount": "3"
+        }
+    }
+]

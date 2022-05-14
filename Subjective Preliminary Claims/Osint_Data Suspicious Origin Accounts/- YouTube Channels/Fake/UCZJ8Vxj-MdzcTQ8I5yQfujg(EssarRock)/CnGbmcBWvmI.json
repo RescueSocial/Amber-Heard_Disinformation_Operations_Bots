@@ -1,0 +1,81 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "ERuREhxxD8CFtBfEBuoLuHHyjSs",
+        "id": "CnGbmcBWvmI",
+        "snippet": {
+            "publishedAt": "2022-02-04T22:44:27Z",
+            "channelId": "UCZJ8Vxj-MdzcTQ8I5yQfujg",
+            "title": "\u00bfPor qu\u00e9 Cheslie Kryst se QUIT\u00d3 la VIDA? | MISS USA 2019",
+            "description": "SI TE GUST\u00d3 EL V\u00cdDEO NO OLVIDES APOYAR AL CANAL DEJANDO TU LIKE Y SUSCRIBI\u00c9NDOTE, PARA AS\u00cd PODER CREAR Y SUBIR M\u00c1S CONTENIDO.\n\nSuscr\u00edbete\u25ba https://www.youtube.com/channel/UCZJ8Vxj-MdzcTQ8I5yQfujg\n\nFacebook\u25ba https://www.facebook.com/ermisterios\n\nM\u00fasica\u25ba https://www.youtube.com/watch?v=ttx-KwDSRgg&list=PLz-EO5NkwaYZJpdeX7L-H67VAbMrQ_Zti&ab_channel=PowerMusicFactory\n\n#CheslieKryst #AprilSimpkins #MissUSA2019",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/CnGbmcBWvmI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/CnGbmcBWvmI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/CnGbmcBWvmI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/CnGbmcBWvmI/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/CnGbmcBWvmI/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "ER Misterios",
+            "tags": [
+                "er misterios",
+                "miss usa 2019",
+                "ex miss usa 2019",
+                "ex miss usa",
+                "cheslie kryst",
+                "april simpkins",
+                "ex reina de belleza",
+                "miss estados unidos",
+                "noticias"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "\u00bfPor qu\u00e9 Cheslie Kryst se QUIT\u00d3 la VIDA? | MISS USA 2019",
+                "description": "SI TE GUST\u00d3 EL V\u00cdDEO NO OLVIDES APOYAR AL CANAL DEJANDO TU LIKE Y SUSCRIBI\u00c9NDOTE, PARA AS\u00cd PODER CREAR Y SUBIR M\u00c1S CONTENIDO.\n\nSuscr\u00edbete\u25ba https://www.youtube.com/channel/UCZJ8Vxj-MdzcTQ8I5yQfujg\n\nFacebook\u25ba https://www.facebook.com/ermisterios\n\nM\u00fasica\u25ba https://www.youtube.com/watch?v=ttx-KwDSRgg&list=PLz-EO5NkwaYZJpdeX7L-H67VAbMrQ_Zti&ab_channel=PowerMusicFactory\n\n#CheslieKryst #AprilSimpkins #MissUSA2019"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT5M10S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "179294",
+            "likeCount": "2663",
+            "favoriteCount": "0",
+            "commentCount": "808"
+        }
+    }
+]

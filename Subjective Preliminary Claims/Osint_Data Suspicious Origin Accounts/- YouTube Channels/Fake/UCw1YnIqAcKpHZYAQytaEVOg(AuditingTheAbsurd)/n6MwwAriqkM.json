@@ -1,0 +1,89 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "qXPLF9LMlbiwEPeZunWE3acKhEc",
+        "id": "n6MwwAriqkM",
+        "snippet": {
+            "publishedAt": "2022-04-19T10:44:56Z",
+            "channelId": "UCw1YnIqAcKpHZYAQytaEVOg",
+            "title": "Daily Recap Johnny Depp vs Amber Heard week 2 day 1",
+            "description": "What happened yesterday, what is likely to happen today. \n\n#JOHNNYDEPP #AMBERHEARD",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/n6MwwAriqkM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/n6MwwAriqkM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/n6MwwAriqkM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Auditing The Absurd",
+            "tags": [
+                "Johnny depp",
+                "amber heard",
+                "virginia trial",
+                "johnny depp vs amber heard",
+                "amber heard vs johnny depp",
+                "live coverage",
+                "live johnny depp",
+                "live amber heard",
+                "defamation trial",
+                "aquaman 2",
+                "johnny depp fired",
+                "elon musk",
+                "eve barlow",
+                "body cam footage",
+                "how to change the narrative",
+                "ben chew",
+                "camille vasquez",
+                "ben rottenborn",
+                "elaine bredehoft",
+                "isaac baruch",
+                "daily mirror",
+                "shill media",
+                "mainstream media",
+                "HEARD ABUSE",
+                "justice for johnny depp",
+                "marriage counselor",
+                "deposition"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Daily Recap Johnny Depp vs Amber Heard week 2 day 1",
+                "description": "What happened yesterday, what is likely to happen today. \n\n#JOHNNYDEPP #AMBERHEARD"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT5M38S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "663",
+            "likeCount": "77",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

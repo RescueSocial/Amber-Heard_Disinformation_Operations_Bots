@@ -1,0 +1,79 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "AFeNoAeKtCBVLcE1zJUtWinKFiQ",
+        "id": "1vPlOwdqXcg",
+        "snippet": {
+            "publishedAt": "2020-07-17T04:54:22Z",
+            "channelId": "UCvib28xQ_6AKL9j15ewjiOQ",
+            "title": "original song: \u201ccold\"",
+            "description": "Hey lovelies, here\u2019s another original song I wrote awhile ago, in February, called cold. Hope you enjoy\u2764\ufe0f\n\nLyrics:\n\nI\u2019m tired of being cold all the time\nI said I\u2019m tired of being cold all the time \nwould you be warm for me?\nvalentine\n\nthe leaves on the trees turning red in the Fall\nare like hearts of mercy that fall \nbut they ain\u2019t falling for me\ncause there ain\u2019t no tree \n\nI\u2019m tired of being cold all the time \nI said I\u2019m tired of being cold all the time\nwould you be warm for me?\nvalentine \n\nand when that water freeze to ice\nbut that river keeping a flowin\u2019 despite \ncause as cold as I may be \nI never freeze \n\nand I said I\u2019m tired of being cold all the time \nyeah I said I\u2019m tired of being cold all the time \nso this February baby\nwould you be mine?\n\nFollow me on the gram! @herhabitschannel",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/1vPlOwdqXcg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/1vPlOwdqXcg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/1vPlOwdqXcg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/1vPlOwdqXcg/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/1vPlOwdqXcg/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "her habits",
+            "tags": [
+                "original song",
+                "singersongwriter original song",
+                "acoustic original song",
+                "canadian singersongwriter",
+                "blues acoustic",
+                "blues original",
+                "blues"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "original song: \u201ccold\"",
+                "description": "Hey lovelies, here\u2019s another original song I wrote awhile ago, in February, called cold. Hope you enjoy\u2764\ufe0f\n\nLyrics:\n\nI\u2019m tired of being cold all the time\nI said I\u2019m tired of being cold all the time \nwould you be warm for me?\nvalentine\n\nthe leaves on the trees turning red in the Fall\nare like hearts of mercy that fall \nbut they ain\u2019t falling for me\ncause there ain\u2019t no tree \n\nI\u2019m tired of being cold all the time \nI said I\u2019m tired of being cold all the time\nwould you be warm for me?\nvalentine \n\nand when that water freeze to ice\nbut that river keeping a flowin\u2019 despite \ncause as cold as I may be \nI never freeze \n\nand I said I\u2019m tired of being cold all the time \nyeah I said I\u2019m tired of being cold all the time \nso this February baby\nwould you be mine?\n\nFollow me on the gram! @herhabitschannel"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT4M9S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "529",
+            "likeCount": "40",
+            "favoriteCount": "0",
+            "commentCount": "45"
+        }
+    }
+]

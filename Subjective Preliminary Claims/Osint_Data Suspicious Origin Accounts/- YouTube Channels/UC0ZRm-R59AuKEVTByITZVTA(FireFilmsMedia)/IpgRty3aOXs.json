@@ -1,0 +1,93 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "rs5Xi_MPvYb54cjcUsH1Px2Cw2Q",
+        "id": "IpgRty3aOXs",
+        "snippet": {
+            "publishedAt": "2020-04-08T16:00:17Z",
+            "channelId": "UC0ZRm-R59AuKEVTByITZVTA",
+            "title": "Joe Exotic hating Carole Baskin for 3 minutes..",
+            "description": "Joe Exotic really hates Carole Baskin, here is a compilation of some of his hate from the Netflix show Tiger King.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/IpgRty3aOXs/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/IpgRty3aOXs/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/IpgRty3aOXs/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/IpgRty3aOXs/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/IpgRty3aOXs/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Fire Films",
+            "tags": [
+                "Tiger King",
+                "Joe exotic saying carole baskin",
+                "tiger king memes",
+                "tiger king music video",
+                "here kitty kitty",
+                "here kitty kitty joe",
+                "joe exotic carole baskin",
+                "joe exotic funny moments",
+                "joe exotic here kitty kitty",
+                "joe exotic tv",
+                "joe exotic",
+                "joe exotic best moments",
+                "carole baskin joe exotic",
+                "carole baskin killed her husband",
+                "carole baskin is a b",
+                "carole baskin meme",
+                "tiger king funniest moments",
+                "carole baskin",
+                "tiger king funny",
+                "best tiger king moments",
+                "here kitty kitty lyrics"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Joe Exotic hating Carole Baskin for 3 minutes..",
+                "description": "Joe Exotic really hates Carole Baskin, here is a compilation of some of his hate from the Netflix show Tiger King."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M59S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1617814",
+            "likeCount": "25600",
+            "favoriteCount": "0",
+            "commentCount": "1865"
+        }
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "oq5uM4uDFYJe5mW5LB1HtayiP7U",
+        "id": "k-9KGA2pJrI",
+        "snippet": {
+            "publishedAt": "2022-03-19T00:16:16Z",
+            "channelId": "UC34JIJf43HQZDMdPm9774UA",
+            "title": "Elden Ring NPC Gets What He Deserves \ud83d\ude21 #shorts #short",
+            "description": "Elden Ring is an action role-playing game developed by FromSoftware and published by Bandai Namco Entertainment. The game was directed by Hidetaka Miyazaki and made in collaboration with fantasy novelist George R. R. Martin, who provided material for the game's setting.\n\n#Shorts #shorts #short #shortsvideo",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/k-9KGA2pJrI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/k-9KGA2pJrI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/k-9KGA2pJrI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/k-9KGA2pJrI/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/k-9KGA2pJrI/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "CaiBurz",
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Elden Ring NPC Gets What He Deserves \ud83d\ude21 #shorts #short",
+                "description": "Elden Ring is an action role-playing game developed by FromSoftware and published by Bandai Namco Entertainment. The game was directed by Hidetaka Miyazaki and made in collaboration with fantasy novelist George R. R. Martin, who provided material for the game's setting.\n\n#Shorts #shorts #short #shortsvideo"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT16S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "2024",
+            "likeCount": "38",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        }
+    }
+]

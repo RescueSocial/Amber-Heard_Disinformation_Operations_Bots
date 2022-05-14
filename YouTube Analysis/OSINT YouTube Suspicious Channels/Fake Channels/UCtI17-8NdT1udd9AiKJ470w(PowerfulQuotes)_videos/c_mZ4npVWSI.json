@@ -1,0 +1,65 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "HPuXs-OtXG73lwvKw9EUJkDxD6Q",
+        "id": "c_mZ4npVWSI",
+        "snippet": {
+            "publishedAt": "2022-05-06T08:58:37Z",
+            "channelId": "UCtI17-8NdT1udd9AiKJ470w",
+            "title": "Day 15 Live - Johnny Depp Defamation Trial",
+            "description": "Day 15 Live - Johnny Depp Defamation Trial\n\n\u25ba Subscribe to Our Channel! \u2192 https://www.youtube.com/c/PowerfulQuotes\nThank you for watching!\n\nCopyright info:\n* We must state that in NO way, shape or form am I intending to infringe rights of the copyright holder. Content used is strictly for research/reviewing purposes and to help educate. All under the Fair Use law.\n\n\nAs always your feedback is welcome.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/c_mZ4npVWSI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/c_mZ4npVWSI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/c_mZ4npVWSI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Powerful Quotes ",
+            "tags": [
+                "Johnny Depp Defamation Trial"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Day 15 Live - Johnny Depp Defamation Trial",
+                "description": "Day 15 Live - Johnny Depp Defamation Trial\n\n\u25ba Subscribe to Our Channel! \u2192 https://www.youtube.com/c/PowerfulQuotes\nThank you for watching!\n\nCopyright info:\n* We must state that in NO way, shape or form am I intending to infringe rights of the copyright holder. Content used is strictly for research/reviewing purposes and to help educate. All under the Fair Use law.\n\n\nAs always your feedback is welcome."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT2M44S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "52",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

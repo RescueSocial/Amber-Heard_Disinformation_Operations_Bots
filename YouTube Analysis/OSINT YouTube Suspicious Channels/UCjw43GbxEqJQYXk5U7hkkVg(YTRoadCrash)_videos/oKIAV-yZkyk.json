@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "GVkZI5KAk6-rwr3Oqu-e1La1Ze4",
+        "id": "oKIAV-yZkyk",
+        "snippet": {
+            "publishedAt": "2018-04-28T11:58:11Z",
+            "channelId": "UCjw43GbxEqJQYXk5U7hkkVg",
+            "title": "Convolution of Two Sequences in Matlab - Linear Convolution Using Matlab",
+            "description": "Convolution of Two Sequences in Matlab - Linear Convolution Using Matlab\n\nIn this tutorial we will write a Linear convolution program in Matlab.\n\nLinear convolution is the basic operation to calculate the output for any linear time invariant system given its input and its impulse response.\n\nFor Matlab codes check: \nhttp://onlineengineers.info/\n\nFlying High by FREDJI https://soundcloud.com/fredjimusic \nhttps://www.facebook.com/fredjimusic/\nMusic promoted by Audio Library https://youtu.be/RYgKd-6_Fc4\n\nPower Spectral Density Plot using MATLAB: https://www.youtube.com/edit?o=U&video_id=O3ya8ye6Xus\n\nSampling Sinusoidal Signals in Matlab: \nhttps://www.youtube.com/edit?o=U&video_id=G8DWr_Bzn40\n\nUpsampling and Downsampling Signals in Matlab:\nhttps://www.youtube.com/edit?o=U&video_id=pr-wcWjqTw8\nhttps://www.youtube.com/edit?o=U&video_id=F3hICcuj8Ts",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/oKIAV-yZkyk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/oKIAV-yZkyk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/oKIAV-yZkyk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Uniformedia",
+            "tags": [
+                "convolution matlab",
+                "convolution matlab code",
+                "convolution matlab program",
+                "convolution matlab function",
+                "convolution signals and systems",
+                "uniformedia",
+                "MATLAB",
+                "RobertTalbertPhD",
+                "David Dorran",
+                "eeprogrammer",
+                "education",
+                "engineering",
+                "programming"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Convolution of Two Sequences in Matlab - Linear Convolution Using Matlab",
+                "description": "Convolution of Two Sequences in Matlab - Linear Convolution Using Matlab\n\nIn this tutorial we will write a Linear convolution program in Matlab.\n\nLinear convolution is the basic operation to calculate the output for any linear time invariant system given its input and its impulse response.\n\nFor Matlab codes check: \nhttp://onlineengineers.info/\n\nFlying High by FREDJI https://soundcloud.com/fredjimusic \nhttps://www.facebook.com/fredjimusic/\nMusic promoted by Audio Library https://youtu.be/RYgKd-6_Fc4\n\nPower Spectral Density Plot using MATLAB: https://www.youtube.com/edit?o=U&video_id=O3ya8ye6Xus\n\nSampling Sinusoidal Signals in Matlab: \nhttps://www.youtube.com/edit?o=U&video_id=G8DWr_Bzn40\n\nUpsampling and Downsampling Signals in Matlab:\nhttps://www.youtube.com/edit?o=U&video_id=pr-wcWjqTw8\nhttps://www.youtube.com/edit?o=U&video_id=F3hICcuj8Ts"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT4M10S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "18872",
+            "likeCount": "101",
+            "favoriteCount": "0",
+            "commentCount": "7"
+        }
+    }
+]

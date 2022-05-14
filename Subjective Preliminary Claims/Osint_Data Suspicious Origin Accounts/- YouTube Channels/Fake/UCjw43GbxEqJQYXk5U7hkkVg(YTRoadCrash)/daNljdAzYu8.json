@@ -1,0 +1,89 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "9JJd3yJQBe8y4lSpbQn4SYDM_sM",
+        "id": "daNljdAzYu8",
+        "snippet": {
+            "publishedAt": "2017-07-13T12:27:32Z",
+            "channelId": "UCjw43GbxEqJQYXk5U7hkkVg",
+            "title": "QPSK Modulation and Demodulation in Matlab AWGN Channel",
+            "description": "QPSK Modulation and Demodulation in Matlab AWGN Channel.\nWe will first load our audio signal. Then we will use quantization, QPSK modulation, QPSK demodulation and dequantization.\nMatlab codes: http://onlineengineers.info/\nQPSK (Quadrature Phase Shift Keying) is type of phase shift keying. \nA QPSK modulator can be implemented as follows. A demultiplexer (or serial to parallel converter) is used to separate odd and even bits from the generated information bits. Each of the odd bits (quadrature arm) and even bits (in-phase arm) are converted to NRZ format in a parallel manner. The signal on the in-phase arm is multiplied by cosine component and the signal on the quadrature arm is multiplied by sine component. QPSK modulated signal is obtained by adding the signal from both in-phase and quadrature arm.\n\nIn the demodulator the received signal is multiplied by a reference frequency generators (cos(\u03c9t)) and (sin(\u03c9t)) on separate arms (in-phase and quadrature arms). The multiplied output on each arm is integrated over one bit period using an integrator. A threshold detector makes a decision on each integrated bit based on a threshold. Finally the bits on the in-phase arm (even bits) and on the quadrature arm (odd bits) are remapped to form detected information stream. \nSource: http://www.gaussianwaves.com",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/daNljdAzYu8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/daNljdAzYu8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/daNljdAzYu8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/daNljdAzYu8/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Uniformedia",
+            "tags": [
+                "QPSK Modulation",
+                "QPSK demodulation",
+                "Modulation and Demodulation",
+                "QPSK in matlab",
+                "QPSK modulation matlab",
+                "QPSK demodulation matlab",
+                "quantization",
+                "quantization matlab",
+                "dequantization",
+                "dequantization matlab",
+                "Quadrature Phase Shift Keying",
+                "Quadrature Phase Shift Keying matlab",
+                "QPSK matlab code",
+                "eeprogrammer",
+                "David Dorran",
+                "MATLAB KFUPM",
+                "CAE Tutorials",
+                "Jake Blanchard",
+                "Anselm Griffin",
+                "RobertTalbertPhD",
+                "Xoviacs"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "QPSK Modulation and Demodulation in Matlab AWGN Channel",
+                "description": "QPSK Modulation and Demodulation in Matlab AWGN Channel.\nWe will first load our audio signal. Then we will use quantization, QPSK modulation, QPSK demodulation and dequantization.\nMatlab codes: http://onlineengineers.info/\nQPSK (Quadrature Phase Shift Keying) is type of phase shift keying. \nA QPSK modulator can be implemented as follows. A demultiplexer (or serial to parallel converter) is used to separate odd and even bits from the generated information bits. Each of the odd bits (quadrature arm) and even bits (in-phase arm) are converted to NRZ format in a parallel manner. The signal on the in-phase arm is multiplied by cosine component and the signal on the quadrature arm is multiplied by sine component. QPSK modulated signal is obtained by adding the signal from both in-phase and quadrature arm.\n\nIn the demodulator the received signal is multiplied by a reference frequency generators (cos(\u03c9t)) and (sin(\u03c9t)) on separate arms (in-phase and quadrature arms). The multiplied output on each arm is integrated over one bit period using an integrator. A threshold detector makes a decision on each integrated bit based on a threshold. Finally the bits on the in-phase arm (even bits) and on the quadrature arm (odd bits) are remapped to form detected information stream. \nSource: http://www.gaussianwaves.com"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT4M42S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "16353",
+            "likeCount": "42",
+            "favoriteCount": "0",
+            "commentCount": "4"
+        }
+    }
+]

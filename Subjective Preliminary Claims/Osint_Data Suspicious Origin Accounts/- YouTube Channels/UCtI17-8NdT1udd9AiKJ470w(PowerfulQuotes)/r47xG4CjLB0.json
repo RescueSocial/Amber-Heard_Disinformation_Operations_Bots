@@ -1,0 +1,60 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "FUot1hXUffQQZXHbkjK1HOQn3VI",
+        "id": "r47xG4CjLB0",
+        "snippet": {
+            "publishedAt": "2020-03-14T14:53:46Z",
+            "channelId": "UCtI17-8NdT1udd9AiKJ470w",
+            "title": "Live Coronavirus (COVID-19) real time count",
+            "description": "Coronavirus (COVID-19) update: real time count",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/r47xG4CjLB0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/r47xG4CjLB0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/r47xG4CjLB0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Powerful Quotes ",
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Live Coronavirus (COVID-19) real time count",
+                "description": "Coronavirus (COVID-19) update: real time count"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT5H5M53S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": false,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "27",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

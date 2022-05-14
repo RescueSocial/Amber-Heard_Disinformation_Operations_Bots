@@ -1,0 +1,78 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "s8d0ZsNpqqKBHIJVzhOaBRhx0wU",
+        "id": "fby3nR5gCdw",
+        "snippet": {
+            "publishedAt": "2020-07-30T06:21:15Z",
+            "channelId": "UCvib28xQ_6AKL9j15ewjiOQ",
+            "title": "I put a spell on you - Screamin\u2019 Jay Hawkins (acoustic cover)",
+            "description": "Hello beautiful souls\u2764\ufe0f I cover one of the classics, \u201cI put a spell on you\u201d, by the one and only Screamin\u2019 Jay Hawkins, while busking along the seawall in Vancouver, BC. Vlog coming soon!\ud83d\ude00 love you\u2019s\u2764\ufe0f",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/fby3nR5gCdw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/fby3nR5gCdw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/fby3nR5gCdw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/fby3nR5gCdw/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "her habits",
+            "tags": [
+                "i put a spell on you cover",
+                "i put a spell on you",
+                "acoustic cover",
+                "i put a spell on you acoustic cover",
+                "acoustic blues cover",
+                "singersongwriter",
+                "busking",
+                "vancouver",
+                "busking canada",
+                "busking vancouver",
+                "canadian musician"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "I put a spell on you - Screamin\u2019 Jay Hawkins (acoustic cover)",
+                "description": "Hello beautiful souls\u2764\ufe0f I cover one of the classics, \u201cI put a spell on you\u201d, by the one and only Screamin\u2019 Jay Hawkins, while busking along the seawall in Vancouver, BC. Vlog coming soon!\ud83d\ude00 love you\u2019s\u2764\ufe0f"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT3M33S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "365",
+            "likeCount": "27",
+            "favoriteCount": "0",
+            "commentCount": "28"
+        }
+    }
+]

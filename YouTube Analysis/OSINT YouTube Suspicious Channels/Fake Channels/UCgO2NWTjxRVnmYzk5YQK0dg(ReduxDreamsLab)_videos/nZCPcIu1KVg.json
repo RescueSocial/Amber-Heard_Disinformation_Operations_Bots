@@ -1,0 +1,72 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "LzUl2IqXnjLwWgsux7YmkJvhE80",
+        "id": "nZCPcIu1KVg",
+        "snippet": {
+            "publishedAt": "2022-02-13T09:42:29Z",
+            "channelId": "UCgO2NWTjxRVnmYzk5YQK0dg",
+            "title": "Redux Dreams Lab Live Stream",
+            "description": "\u25baLeaving a LIKE would always appreciate! \n\u25baSubscribe for latest video uploads! http://bit.ly/29ZRld9\n\nOur social media:\n\u25fdLike on Facebook: http://bit.ly/2acp9pO\n\u25fdFollow on Twitter: http://bit.ly/6zco6Xb\n\u25fdMessage on Hangouts: Redux Dreams Lab\n\nThanks for watching and see you back!\n\n#gta #gtav #gta5 #shorts",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/nZCPcIu1KVg/default_live.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/nZCPcIu1KVg/mqdefault_live.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/nZCPcIu1KVg/hqdefault_live.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/nZCPcIu1KVg/sddefault_live.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/nZCPcIu1KVg/maxresdefault_live.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Redux Dreams Lab",
+            "categoryId": "20",
+            "liveBroadcastContent": "upcoming",
+            "defaultLanguage": "en-US",
+            "localized": {
+                "title": "Redux Dreams Lab Live Stream",
+                "description": "\u25baLeaving a LIKE would always appreciate! \n\u25baSubscribe for latest video uploads! http://bit.ly/29ZRld9\n\nOur social media:\n\u25fdLike on Facebook: http://bit.ly/2acp9pO\n\u25fdFollow on Twitter: http://bit.ly/6zco6Xb\n\u25fdMessage on Hangouts: Redux Dreams Lab\n\nThanks for watching and see you back!\n\n#gta #gtav #gta5 #shorts"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "P0D",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "uploaded",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "0",
+            "likeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

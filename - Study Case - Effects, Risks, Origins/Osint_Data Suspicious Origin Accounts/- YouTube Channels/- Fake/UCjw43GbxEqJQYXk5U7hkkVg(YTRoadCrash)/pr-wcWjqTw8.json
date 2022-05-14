@@ -1,0 +1,91 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "EYiq1c0gSdogIEC8GwJDnJgGYZ0",
+        "id": "pr-wcWjqTw8",
+        "snippet": {
+            "publishedAt": "2018-04-26T10:08:21Z",
+            "channelId": "UCjw43GbxEqJQYXk5U7hkkVg",
+            "title": "Upsampling and Plotting a Signal in Matlab",
+            "description": "Upsampling and Plotting a Signal in Matlab \n\nIn digital signal processing, upsampling can refer to the entire process of increasing the sampling rate of a signal, or it can refer to just one step of the process, the other step being interpolation. Complementary to decimation, which decreases sampling rate, it is a specific case of sample rate conversion in a multi-rate digital signal processing system. When upsampling is performed on a sequence of samples of a signal or other continuous function, it produces an approximation of the sequence that would have been obtained by sampling the signal at a higher rate (or density, as in the case of a photograph).\n\nFor Matlab codes check: \nhttp://onlineengineers.info/\n\nFlying High by FREDJI https://soundcloud.com/fredjimusic \nhttps://www.facebook.com/fredjimusic/\nMusic promoted by Audio Library https://youtu.be/RYgKd-6_Fc4\n\nUpsampling MathWorks:\nhttps://www.mathworks.com/help/signal/ug/upsampling-imaging-artifacts.html",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/pr-wcWjqTw8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/pr-wcWjqTw8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/pr-wcWjqTw8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/pr-wcWjqTw8/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/pr-wcWjqTw8/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Uniformedia",
+            "tags": [
+                "RobertTalbertPhD",
+                "David Dorran",
+                "TheEngineeringWorld",
+                "John Santiago",
+                "MATLAB KFUPM",
+                "The Math Student",
+                "THE TECH TONGA",
+                "Andrew Marshall",
+                "education",
+                "engineering",
+                "programming",
+                "eeprogrammer",
+                "upsampling and downsampling in matlab",
+                "Upsampling",
+                "upsampling and downsampling in frequency domain",
+                "upsampling and downsampling example",
+                "upsampling matlab",
+                "upsampling matlab example code"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Upsampling and Plotting a Signal in Matlab",
+                "description": "Upsampling and Plotting a Signal in Matlab \n\nIn digital signal processing, upsampling can refer to the entire process of increasing the sampling rate of a signal, or it can refer to just one step of the process, the other step being interpolation. Complementary to decimation, which decreases sampling rate, it is a specific case of sample rate conversion in a multi-rate digital signal processing system. When upsampling is performed on a sequence of samples of a signal or other continuous function, it produces an approximation of the sequence that would have been obtained by sampling the signal at a higher rate (or density, as in the case of a photograph).\n\nFor Matlab codes check: \nhttp://onlineengineers.info/\n\nFlying High by FREDJI https://soundcloud.com/fredjimusic \nhttps://www.facebook.com/fredjimusic/\nMusic promoted by Audio Library https://youtu.be/RYgKd-6_Fc4\n\nUpsampling MathWorks:\nhttps://www.mathworks.com/help/signal/ug/upsampling-imaging-artifacts.html"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT4M4S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "6442",
+            "likeCount": "28",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        }
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "VM9X0kLIAX7tpKn6w9uVnW6Y9oE",
+        "id": "CxwPVFSfiUU",
+        "snippet": {
+            "publishedAt": "2020-07-14T00:37:29Z",
+            "channelId": "UCvib28xQ_6AKL9j15ewjiOQ",
+            "title": "Dua Lipa - Hallucinate (Official Music Video) REACTION",
+            "description": "Her habits reacts to none other than Dua Lipa\u2019s \n\u201cHallucinate\u201d from her new album \u201cFuture Nostalgia\u201d.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/CxwPVFSfiUU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/CxwPVFSfiUU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/CxwPVFSfiUU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/CxwPVFSfiUU/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/CxwPVFSfiUU/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "her habits",
+            "tags": [
+                "dua lipa hallucinate reaction",
+                "hallucinate dua lipa reaction",
+                "dua lipa hallucinate music video reaction",
+                "dua lipa reaction",
+                "hallucinate reaction",
+                "future nostalgia",
+                "dua lipa",
+                "hallucinate"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Dua Lipa - Hallucinate (Official Music Video) REACTION",
+                "description": "Her habits reacts to none other than Dua Lipa\u2019s \n\u201cHallucinate\u201d from her new album \u201cFuture Nostalgia\u201d."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT6M19S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "582",
+            "likeCount": "18",
+            "favoriteCount": "0",
+            "commentCount": "16"
+        }
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "X91k02Ku3KcCyhUGPuVQsvZI6Cc",
+        "id": "846em-O62mk",
+        "snippet": {
+            "publishedAt": "2021-08-19T01:09:29Z",
+            "channelId": "UCvib28xQ_6AKL9j15ewjiOQ",
+            "title": "NEW SONG OUT! (notifications may have glitched and I can't make community posts yet)",
+            "description": "Just notifying you that I posted a new song on my channel. I had a bit of a panic when after I posted it was only playing through one of my headphones and I made the video private before I realized it was just my headphones and not the audio of the video. Doing this may mess with being able to access the video through the notification link so I just wanted to fill you guys in, in case it wasn't working. I would have just reposted it to make sure but I spent a substantial amount of time manually putting in subtitles via the YouTube creator studio so I was going to have to re-do it and I was so not into that.\n\ncheck out my new song \"CANCER\" here!\ud83d\udc49 https://youtu.be/-EoF4OcmXdY",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/846em-O62mk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/846em-O62mk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/846em-O62mk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/846em-O62mk/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/846em-O62mk/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "her habits",
+            "categoryId": "10",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "NEW SONG OUT! (notifications may have glitched and I can't make community posts yet)",
+                "description": "Just notifying you that I posted a new song on my channel. I had a bit of a panic when after I posted it was only playing through one of my headphones and I made the video private before I realized it was just my headphones and not the audio of the video. Doing this may mess with being able to access the video through the notification link so I just wanted to fill you guys in, in case it wasn't working. I would have just reposted it to make sure but I spent a substantial amount of time manually putting in subtitles via the YouTube creator studio so I was going to have to re-do it and I was so not into that.\n\ncheck out my new song \"CANCER\" here!\ud83d\udc49 https://youtu.be/-EoF4OcmXdY"
+            },
+            "defaultAudioLanguage": "en-CA"
+        },
+        "contentDetails": {
+            "duration": "PT42S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "502",
+            "likeCount": "25",
+            "favoriteCount": "0",
+            "commentCount": "12"
+        }
+    }
+]

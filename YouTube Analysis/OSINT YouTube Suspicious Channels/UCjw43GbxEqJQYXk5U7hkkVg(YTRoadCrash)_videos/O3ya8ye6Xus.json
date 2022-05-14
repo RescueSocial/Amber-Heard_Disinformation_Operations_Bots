@@ -1,0 +1,86 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "4g8iA4BLx6XpToRT5BJQ1Q69rNM",
+        "id": "O3ya8ye6Xus",
+        "snippet": {
+            "publishedAt": "2017-04-27T08:54:29Z",
+            "channelId": "UCjw43GbxEqJQYXk5U7hkkVg",
+            "title": "Power Spectral Density Plot using MATLAB | Uniformedia 2017",
+            "description": "Power spectral density function (PSD) shows the strength of the variations(energy) as a function of frequency. In other words, it shows at which frequencies variations are strong and at which frequencies variations are weak. The unit of PSD is energy (variance) per frequency(width) and you can obtain energy within a specific frequency range by integrating PSD within that frequency range.\n\nFor more informations check: http://www.cygres.com/OcnPageE/Glosry/SpecE.html",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/O3ya8ye6Xus/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/O3ya8ye6Xus/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/O3ya8ye6Xus/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/O3ya8ye6Xus/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Uniformedia",
+            "tags": [
+                "Power Spectral Density",
+                "Power Spectral Density Plot using MATLAB",
+                "PSD matlab",
+                "power spectral density matlab",
+                "power spectral density lecture",
+                "power spectral density example",
+                "power spectral density code",
+                "Uniformedia",
+                "MATLAB",
+                "eeprogrammer",
+                "David Dorran",
+                "RobertTalbertPhD",
+                "matlab video tutorial",
+                "learn matlab free",
+                "matlab programs for beginners",
+                "matlab course online",
+                "matlab programming basics",
+                "sachin sharma"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Power Spectral Density Plot using MATLAB | Uniformedia 2017",
+                "description": "Power spectral density function (PSD) shows the strength of the variations(energy) as a function of frequency. In other words, it shows at which frequencies variations are strong and at which frequencies variations are weak. The unit of PSD is energy (variance) per frequency(width) and you can obtain energy within a specific frequency range by integrating PSD within that frequency range.\n\nFor more informations check: http://www.cygres.com/OcnPageE/Glosry/SpecE.html"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT3M24S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "31888",
+            "likeCount": "114",
+            "favoriteCount": "0",
+            "commentCount": "4"
+        }
+    }
+]

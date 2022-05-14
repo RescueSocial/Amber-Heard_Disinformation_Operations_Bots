@@ -1,0 +1,87 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "hs-5CKP2RBmB4q7BejInh2PnihQ",
+        "id": "PYhTurDPPME",
+        "snippet": {
+            "publishedAt": "2017-02-18T12:36:54Z",
+            "channelId": "UCjw43GbxEqJQYXk5U7hkkVg",
+            "title": "3D Plots in Matlab For Beginners - Plotting in 3D in MATLAB Tutorial",
+            "description": "3D Plots in Matlab Learn how to plot graphs in Matlab\n\nIn this tutorial we will create a 3D plot in Matlab\n\nsurf(Z) creates a three-dimensional shaded surface from the z components in matrix Z, using x = 1:n and y = 1:m, where [m,n] = size(Z). The height, Z, is a single-valued function defined over a geometrically rectangular grid. Z specifies the color data, as well as surface height, so color is proportional to surface height. The values in Z can be numeric or datetime or duration values.\n\nsurf(Z,C) plots the height of Z, a single-valued function defined over a geometrically rectangular grid, and uses matrix C, assumed to be the same size as Z, to color the surface. See Coloring Mesh and Surface Plots for information on defining C.\n\nsurf(X,Y,Z) uses Z for the color data and surface height. X and Y are vectors or matrices defining the x and y components of a surface. If X and Y are vectors, length(X) = n and length(Y) = m, where [m,n] = size(Z). In this case, the vertices of the surface faces are (X(j), Y(i), Z(i,j)) triples. To create X and Y matrices for arbitrary domains, use the meshgrid function. The values in X, Y, or Z can be numeric or datetime or duration values.\n\nsurf(X,Y,Z,C) uses C to define color. MATLAB\u00ae performs a linear transformation on this data to obtain colors from the current colormap.\n\nsurf(...,'PropertyName',PropertyValue) specifies surface properties along with the data. For a list of properties, see Chart Surface Properties.\n\nsurf(ax,...) plots into the axes ax instead of the current axes (gca).\n\nh = surf(...) returns a handle to a chart surface graphics object.\nhttps://www.mathworks.com/help/matlab/ref/surf.html",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/PYhTurDPPME/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/PYhTurDPPME/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/PYhTurDPPME/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Uniformedia",
+            "tags": [
+                "3D Plots in Matlab",
+                "Matlab For Beginner",
+                "Plotting in 3D",
+                "Plotting in 3D in MATLAB",
+                "MATLAB Tutorial",
+                "Uniformedia",
+                "how to plot graphs",
+                "how to plot graphs in Matlab",
+                "3d plot in matlab",
+                "Joseph Delgadillo",
+                "asraf mohamed",
+                "Student Dave",
+                "Outpost Omega",
+                "Tutoriales de MATLAB en Espa\u00f1ol",
+                "MATLAB",
+                "eeprogrammer",
+                "TheEngineeringWorld",
+                "MATLAB KFUPM",
+                "Andrew Marshall",
+                "sachin sharma",
+                "John Santiago",
+                "rupam rupam",
+                "RobertTalbertPhD",
+                "David Dorran"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "3D Plots in Matlab For Beginners - Plotting in 3D in MATLAB Tutorial",
+                "description": "3D Plots in Matlab Learn how to plot graphs in Matlab\n\nIn this tutorial we will create a 3D plot in Matlab\n\nsurf(Z) creates a three-dimensional shaded surface from the z components in matrix Z, using x = 1:n and y = 1:m, where [m,n] = size(Z). The height, Z, is a single-valued function defined over a geometrically rectangular grid. Z specifies the color data, as well as surface height, so color is proportional to surface height. The values in Z can be numeric or datetime or duration values.\n\nsurf(Z,C) plots the height of Z, a single-valued function defined over a geometrically rectangular grid, and uses matrix C, assumed to be the same size as Z, to color the surface. See Coloring Mesh and Surface Plots for information on defining C.\n\nsurf(X,Y,Z) uses Z for the color data and surface height. X and Y are vectors or matrices defining the x and y components of a surface. If X and Y are vectors, length(X) = n and length(Y) = m, where [m,n] = size(Z). In this case, the vertices of the surface faces are (X(j), Y(i), Z(i,j)) triples. To create X and Y matrices for arbitrary domains, use the meshgrid function. The values in X, Y, or Z can be numeric or datetime or duration values.\n\nsurf(X,Y,Z,C) uses C to define color. MATLAB\u00ae performs a linear transformation on this data to obtain colors from the current colormap.\n\nsurf(...,'PropertyName',PropertyValue) specifies surface properties along with the data. For a list of properties, see Chart Surface Properties.\n\nsurf(ax,...) plots into the axes ax instead of the current axes (gca).\n\nh = surf(...) returns a handle to a chart surface graphics object.\nhttps://www.mathworks.com/help/matlab/ref/surf.html"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT1M20S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "15045",
+            "likeCount": "29",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        }
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "sEbd349H5wnuF7z2MoI3VO37Mqs",
+        "id": "BJQqExgRp5A",
+        "snippet": {
+            "publishedAt": "2014-01-28T20:01:59Z",
+            "channelId": "UCuWeBHxVe6C69JTBpiY-Y8Q",
+            "title": "CRUNK SINATRA FT JUANITO SAY - MANIJA (Videoclip Oficial)",
+            "description": "Videoclip oficial del track \"Manija\" por Gas Ameba y Juanito Say.\nFilmado en Benidorm (Espa\u00f1a) y Buenos Aires (Argentina).\nProducido, dirigido y todolodemas por Gas y Say.\n\nSi le das like, compartes y comentas, me ayuda mucho ;)\n\u00a1SUSCRIBETE AL CANAL!\n\nConsigue camisetas, pins y mas de Delcarajo en http://phhat.com\n\nSigueme en:\nTwitter: http://twitter.com/sayphhat\nFacebook: http://facebook.com/juanitosayoficial\nFacebook Personal: http://facebook.com/sayphhat\nAsk: http://ask.fm/sayphhat\nSitio Oficial: http://mcsay.com\n\nDESCARGA MI APP PARA CHROME Y FIREFOX: http://myapp.wips.com/delcarajo-teve-juanito-say-extension",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/BJQqExgRp5A/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/BJQqExgRp5A/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/BJQqExgRp5A/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/BJQqExgRp5A/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/BJQqExgRp5A/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "DELCARAJO TV",
+            "tags": [
+                "delcarajo teve",
+                "juanito say"
+            ],
+            "categoryId": "10",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "CRUNK SINATRA FT JUANITO SAY - MANIJA (Videoclip Oficial)",
+                "description": "Videoclip oficial del track \"Manija\" por Gas Ameba y Juanito Say.\nFilmado en Benidorm (Espa\u00f1a) y Buenos Aires (Argentina).\nProducido, dirigido y todolodemas por Gas y Say.\n\nSi le das like, compartes y comentas, me ayuda mucho ;)\n\u00a1SUSCRIBETE AL CANAL!\n\nConsigue camisetas, pins y mas de Delcarajo en http://phhat.com\n\nSigueme en:\nTwitter: http://twitter.com/sayphhat\nFacebook: http://facebook.com/juanitosayoficial\nFacebook Personal: http://facebook.com/sayphhat\nAsk: http://ask.fm/sayphhat\nSitio Oficial: http://mcsay.com\n\nDESCARGA MI APP PARA CHROME Y FIREFOX: http://myapp.wips.com/delcarajo-teve-juanito-say-extension"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT4M15S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "3171",
+            "likeCount": "63",
+            "favoriteCount": "0",
+            "commentCount": "32"
+        }
+    }
+]

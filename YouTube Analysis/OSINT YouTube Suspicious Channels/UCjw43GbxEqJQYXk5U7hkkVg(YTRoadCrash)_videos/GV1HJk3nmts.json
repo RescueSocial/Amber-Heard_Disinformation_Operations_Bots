@@ -1,0 +1,78 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "FFT7XoRhuJo6RmXUxn1p26nLr9s",
+        "id": "GV1HJk3nmts",
+        "snippet": {
+            "publishedAt": "2018-05-19T19:05:22Z",
+            "channelId": "UCjw43GbxEqJQYXk5U7hkkVg",
+            "title": "Matlab Program for Computing Autocorrelation Function",
+            "description": "Matlab Program for Computing Autocorrelation Function\n\nAutocorrelation, also known as serial correlation, is the correlation of a signal with a delayed copy of itself as a function of delay. Informally, it is the similarity between observations as a function of the time lag between them. The analysis of autocorrelation is a mathematical tool for finding repeating patterns, such as the presence of a periodic signal obscured by noise, or identifying the missing fundamental frequency in a signal implied by its harmonic frequencies. It is often used in signal processing for analyzing functions or series of values, such as time domain signals.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/GV1HJk3nmts/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/GV1HJk3nmts/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/GV1HJk3nmts/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/GV1HJk3nmts/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/GV1HJk3nmts/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Uniformedia",
+            "tags": [
+                "Autocorrelation Function",
+                "autocorrelation function matlab",
+                "Matlab Program",
+                "MATLAB",
+                "RobertTalbertPhD"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Matlab Program for Computing Autocorrelation Function",
+                "description": "Matlab Program for Computing Autocorrelation Function\n\nAutocorrelation, also known as serial correlation, is the correlation of a signal with a delayed copy of itself as a function of delay. Informally, it is the similarity between observations as a function of the time lag between them. The analysis of autocorrelation is a mathematical tool for finding repeating patterns, such as the presence of a periodic signal obscured by noise, or identifying the missing fundamental frequency in a signal implied by its harmonic frequencies. It is often used in signal processing for analyzing functions or series of values, such as time domain signals."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT2M39S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "17276",
+            "likeCount": "51",
+            "favoriteCount": "0",
+            "commentCount": "4"
+        }
+    }
+]

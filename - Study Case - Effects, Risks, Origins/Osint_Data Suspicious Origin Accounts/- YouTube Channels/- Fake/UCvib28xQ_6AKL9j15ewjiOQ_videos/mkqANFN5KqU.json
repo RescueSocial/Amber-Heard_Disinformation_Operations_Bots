@@ -1,0 +1,74 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "23ch96tqI4NL8sJdgG5qbTJcrr0",
+        "id": "mkqANFN5KqU",
+        "snippet": {
+            "publishedAt": "2020-05-11T04:01:43Z",
+            "channelId": "UCvib28xQ_6AKL9j15ewjiOQ",
+            "title": "Ariana Grande & Justin Bieber - Stuck with U | REACTION |",
+            "description": "You are stuck with me for 9 minutes of reacting to Justin Bieber and Ariana Grande\u2019s new song \u201cStuck with You\u201d!",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/mkqANFN5KqU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/mkqANFN5KqU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/mkqANFN5KqU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/mkqANFN5KqU/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "her habits",
+            "tags": [
+                "Ariana Grande Stuck with u reaction",
+                "Justin bieber stuck with u reaction",
+                "ariana grande justin bieber stuck with u reaction",
+                "ariana grande justin bieber stuck with u",
+                "stuck with u review",
+                "ariana grande Justin Bieber",
+                "stuck with u reaction"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Ariana Grande & Justin Bieber - Stuck with U | REACTION |",
+                "description": "You are stuck with me for 9 minutes of reacting to Justin Bieber and Ariana Grande\u2019s new song \u201cStuck with You\u201d!"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT9M13S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "785",
+            "likeCount": "69",
+            "favoriteCount": "0",
+            "commentCount": "27"
+        }
+    }
+]

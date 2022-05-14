@@ -1,0 +1,79 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "Wx8F4pOLo6dJo2H6MeApjWaTaCc",
+        "id": "S2w2Ze36PqE",
+        "snippet": {
+            "publishedAt": "2022-05-02T21:22:22Z",
+            "channelId": "UCjw43GbxEqJQYXk5U7hkkVg",
+            "title": "Generate Continuous Sine Wave and Discrete Sine Wave - Plot sine wave in Matlab",
+            "description": "Generate Continuous Sine Wave and Discrete Sine Wave - Matlab Code\nContinuous-Time Sinusoidal Signal\nA sinusoidal signal which is defined for every instant of time is called continuous-time sinusoidal signal. The continuous time sinusoidal signal is given as follows \u2212\n\n\ud835\udc65(\ud835\udc61) = \ud835\udc34 sin(\ud835\udf14\ud835\udc61 + \ud835\udf11) = \ud835\udc34 sin(2\ud835\udf0b\ud835\udc53\ud835\udc61 + \ud835\udf11)\n\nWhere,\n\nA is the amplitude of the signal. That is the peak deviation of the signal from zero.\n\u03c9=2\u03c0f is the angular frequency in radians per seconds.\nf is the frequency of the signal in Hz.\n\u03c6 is the phase angle in radians.\n\nA sinusoidal signal which is defined only at discrete instants of time is called discrete-time sinusoidal signal. The discrete-time sinusoidal signal is given as follows \u2212\n\n\ud835\udc65(\ud835\udc5b) = \ud835\udc34 sin(\ud835\udf14\ud835\udc5b + \ud835\udf11) = \ud835\udc34 sin(2\ud835\udf0b\ud835\udc53\ud835\udc5b + \ud835\udf11)\n\nWhere,\n\nA is the amplitude of the signal.\n\n\u03c9=2\u03c0f is the angular frequency in radians per seconds.\n\nf is the frequency of the signal in Hz.\n\n\u03c6 is the phase angle in radians.\n\nn is an integer.\n\nMore on: https://www.tutorialspoint.com/continuous-time-vs-discrete-time-sinusoidal-signal",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/S2w2Ze36PqE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/S2w2Ze36PqE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/S2w2Ze36PqE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Uniformedia",
+            "tags": [
+                "continuous sine wave",
+                "discrete sine wave in matlab",
+                "matlab programming",
+                "matlab tutorial",
+                "sinusoidal signal",
+                "signal processing",
+                "signal processing matlab",
+                "Generate Continuous Sine",
+                "matlab",
+                "how to plot sine wave in matlab",
+                "sine wave",
+                "how to plot signals in matlab",
+                "matlab download",
+                "Opti-Num Solutions",
+                "Knowledge Amplifier",
+                "Plot sine wave in Matlab"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Generate Continuous Sine Wave and Discrete Sine Wave - Plot sine wave in Matlab",
+                "description": "Generate Continuous Sine Wave and Discrete Sine Wave - Matlab Code\nContinuous-Time Sinusoidal Signal\nA sinusoidal signal which is defined for every instant of time is called continuous-time sinusoidal signal. The continuous time sinusoidal signal is given as follows \u2212\n\n\ud835\udc65(\ud835\udc61) = \ud835\udc34 sin(\ud835\udf14\ud835\udc61 + \ud835\udf11) = \ud835\udc34 sin(2\ud835\udf0b\ud835\udc53\ud835\udc61 + \ud835\udf11)\n\nWhere,\n\nA is the amplitude of the signal. That is the peak deviation of the signal from zero.\n\u03c9=2\u03c0f is the angular frequency in radians per seconds.\nf is the frequency of the signal in Hz.\n\u03c6 is the phase angle in radians.\n\nA sinusoidal signal which is defined only at discrete instants of time is called discrete-time sinusoidal signal. The discrete-time sinusoidal signal is given as follows \u2212\n\n\ud835\udc65(\ud835\udc5b) = \ud835\udc34 sin(\ud835\udf14\ud835\udc5b + \ud835\udf11) = \ud835\udc34 sin(2\ud835\udf0b\ud835\udc53\ud835\udc5b + \ud835\udf11)\n\nWhere,\n\nA is the amplitude of the signal.\n\n\u03c9=2\u03c0f is the angular frequency in radians per seconds.\n\nf is the frequency of the signal in Hz.\n\n\u03c6 is the phase angle in radians.\n\nn is an integer.\n\nMore on: https://www.tutorialspoint.com/continuous-time-vs-discrete-time-sinusoidal-signal"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT3M6S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "217",
+            "likeCount": "3",
+            "favoriteCount": "0",
+            "commentCount": "6"
+        }
+    }
+]

@@ -1,0 +1,95 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "v3YvLlWHs4M-3tquG4jElud6mxk",
+        "id": "F3hICcuj8Ts",
+        "snippet": {
+            "publishedAt": "2018-04-26T10:09:05Z",
+            "channelId": "UCjw43GbxEqJQYXk5U7hkkVg",
+            "title": "Downsampling Signals in Matlab - Downsample Signal Matlab Tutorial",
+            "description": "Downsampling Signals in Matlab - Downsample Signal Matlab Tutorial\n\nIn digital signal processing, decimation is the process of reducing the sampling rate of a signal. The term downsampling usually refers to one step of the process, but sometimes the terms are used interchangeably. Complementary to upsampling, which increases sampling rate, decimation is a specific case of sample rate conversion in a multi-rate digital signal processing system. A system component that performs decimation is called a decimator.\n\nFor Matlab codes check: \nhttp://onlineengineers.info/\n\nFlying High by FREDJI https://soundcloud.com/fredjimusic \nhttps://www.facebook.com/fredjimusic/\nMusic promoted by Audio Library https://youtu.be/RYgKd-6_Fc4\n\nDownsampling \u2014 Signal Phases:\nhttps://www.mathworks.com/help/signal/ug/downsampling-signal-phases.html",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/F3hICcuj8Ts/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/F3hICcuj8Ts/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/F3hICcuj8Ts/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/F3hICcuj8Ts/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/F3hICcuj8Ts/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Uniformedia",
+            "tags": [
+                "downsampling example",
+                "Downsampling Signals in Matla",
+                "Downsample Signal Matlab",
+                "downsampling and upsampling examples",
+                "downsampling and upsampling",
+                "downsampling dsp",
+                "downsampling in matlab",
+                "downsampling in frequency domain",
+                "matlab",
+                "mathworks",
+                "eeprogrammer",
+                "RobertTalbertPhD",
+                "David Dorran",
+                "TheEngineeringWorld",
+                "John Santiago",
+                "MATLAB KFUPM",
+                "The Math Student",
+                "THE TECH TONGA",
+                "Andrew Marshall",
+                "education",
+                "engineering",
+                "programming"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Downsampling Signals in Matlab - Downsample Signal Matlab Tutorial",
+                "description": "Downsampling Signals in Matlab - Downsample Signal Matlab Tutorial\n\nIn digital signal processing, decimation is the process of reducing the sampling rate of a signal. The term downsampling usually refers to one step of the process, but sometimes the terms are used interchangeably. Complementary to upsampling, which increases sampling rate, decimation is a specific case of sample rate conversion in a multi-rate digital signal processing system. A system component that performs decimation is called a decimator.\n\nFor Matlab codes check: \nhttp://onlineengineers.info/\n\nFlying High by FREDJI https://soundcloud.com/fredjimusic \nhttps://www.facebook.com/fredjimusic/\nMusic promoted by Audio Library https://youtu.be/RYgKd-6_Fc4\n\nDownsampling \u2014 Signal Phases:\nhttps://www.mathworks.com/help/signal/ug/downsampling-signal-phases.html"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT3M22S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "10713",
+            "likeCount": "60",
+            "favoriteCount": "0",
+            "commentCount": "3"
+        }
+    }
+]

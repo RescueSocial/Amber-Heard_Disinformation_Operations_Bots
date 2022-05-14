@@ -1,0 +1,83 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "ZrLAlSZGnSurwmdI7EVpN3NP-dI",
+        "id": "sR6UeVptzRg",
+        "snippet": {
+            "publishedAt": "2020-01-09T18:00:38Z",
+            "channelId": "UC0ZRm-R59AuKEVTByITZVTA",
+            "title": "Ricky Gervais at the Golden Globes 2020 - All of his bits chained",
+            "description": "Ricky Gervais' monologue at the 77th Annual Golden Globe Awards and also all of his other bits/introductions. Couldn't find a complete version on YouTube so I made it. Hope you have a great day.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/sR6UeVptzRg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/sR6UeVptzRg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/sR6UeVptzRg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Fire Films",
+            "tags": [
+                "ricky gervais monologue",
+                "golden globes",
+                "ricky gervais golden globes",
+                "ricky gervais golden globes 2020",
+                "ricky gervais",
+                "comedy",
+                "ricky gervais epstein",
+                "ricky gervais weinstein",
+                "ricky gervais golden globes epstein",
+                "ricky gervais harvey weinstein",
+                "best of",
+                "monologue",
+                "golden globes joaquin phoenix",
+                "golden globes 2020",
+                "2020",
+                "golden globes full",
+                "acceptance speech golden globes",
+                "golden globe awards",
+                "funny",
+                "best parts",
+                "oscars"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Ricky Gervais at the Golden Globes 2020 - All of his bits chained",
+                "description": "Ricky Gervais' monologue at the 77th Annual Golden Globe Awards and also all of his other bits/introductions. Couldn't find a complete version on YouTube so I made it. Hope you have a great day."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT10M47S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "47997891",
+            "likeCount": "886565",
+            "favoriteCount": "0",
+            "commentCount": "91423"
+        }
+    }
+]

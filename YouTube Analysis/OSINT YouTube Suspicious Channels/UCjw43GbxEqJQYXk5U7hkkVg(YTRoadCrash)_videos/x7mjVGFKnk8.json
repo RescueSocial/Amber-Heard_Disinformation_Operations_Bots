@@ -1,0 +1,83 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "YzNK45vYjOm6C8KTpitB9Tgg7i4",
+        "id": "x7mjVGFKnk8",
+        "snippet": {
+            "publishedAt": "2016-09-29T13:02:49Z",
+            "channelId": "UCjw43GbxEqJQYXk5U7hkkVg",
+            "title": "Amplitude Shift Keying ASK Modulation Code in MATLAB - Matlab Tutorial",
+            "description": "Amplitude Shift Keying ASK Modulation Code in MATLAB\n\nAmplitude Shift Keying is one of the basic types of digital modulation techniques. In ASK, amplitude level of the carrier signal is switched according to the binary information, keeping the phase and frequency fixed.\n\nMatlab tutorials: http://onlineengineers.info",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/x7mjVGFKnk8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/x7mjVGFKnk8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/x7mjVGFKnk8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/x7mjVGFKnk8/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Uniformedia",
+            "tags": [
+                "Amplitude Shift Keying",
+                "ASK Modulation Code",
+                "ASK Modulation Code in MATLAB",
+                "CAE Tutorials",
+                "Po Chen",
+                "Digital Signal Processing",
+                "David Dorran",
+                "eeprogrammer",
+                "Signal Processing",
+                "Barry Van Veen",
+                "John Santiago",
+                "online education",
+                "online schools",
+                "online college classes",
+                "online degree",
+                "Matlab Tutorial"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amplitude Shift Keying ASK Modulation Code in MATLAB - Matlab Tutorial",
+                "description": "Amplitude Shift Keying ASK Modulation Code in MATLAB\n\nAmplitude Shift Keying is one of the basic types of digital modulation techniques. In ASK, amplitude level of the carrier signal is switched according to the binary information, keeping the phase and frequency fixed.\n\nMatlab tutorials: http://onlineengineers.info"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT3M29S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "42586",
+            "likeCount": "290",
+            "favoriteCount": "0",
+            "commentCount": "13"
+        }
+    }
+]

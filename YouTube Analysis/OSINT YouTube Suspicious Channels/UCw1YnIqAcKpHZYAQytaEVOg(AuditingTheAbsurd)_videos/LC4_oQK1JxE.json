@@ -1,0 +1,91 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "sQu6DcvsUZpqlB2ZtHJiVK3akJM",
+        "id": "LC4_oQK1JxE",
+        "snippet": {
+            "publishedAt": "2022-04-15T08:09:52Z",
+            "channelId": "UCw1YnIqAcKpHZYAQytaEVOg",
+            "title": "Johnny Depp vs Amber Heard Trial Day 4 Recap",
+            "description": "Yesterday was a tough day for team JD as AH team managed to get a key witness thrown off the case. Devastating for all concerned, but seemed to make AH very happy indeed afterwards.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/LC4_oQK1JxE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/LC4_oQK1JxE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/LC4_oQK1JxE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Auditing The Absurd",
+            "tags": [
+                "Johnny depp",
+                "amber heard",
+                "virginia trial",
+                "johnny depp vs amber heard",
+                "amber heard vs johnny depp",
+                "live coverage",
+                "court cam johnny depp",
+                "court cam amber heard",
+                "live johnny depp",
+                "live amber heard",
+                "defamation trial",
+                "aquaman 2",
+                "johnny depp fired",
+                "jason mamoa",
+                "elon musk",
+                "james franco",
+                "eve barlow",
+                "body cam footage",
+                "UK trial",
+                "JD",
+                "how to change the narrative",
+                "ben chew",
+                "camille vasquez",
+                "ben rottenborn",
+                "elaine bredehoft",
+                "isaac baruch",
+                "daily mirror",
+                "shill media",
+                "mainstream media"
+            ],
+            "categoryId": "25",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Johnny Depp vs Amber Heard Trial Day 4 Recap",
+                "description": "Yesterday was a tough day for team JD as AH team managed to get a key witness thrown off the case. Devastating for all concerned, but seemed to make AH very happy indeed afterwards."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT23M47S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "3914",
+            "likeCount": "142",
+            "favoriteCount": "0",
+            "commentCount": "18"
+        }
+    }
+]

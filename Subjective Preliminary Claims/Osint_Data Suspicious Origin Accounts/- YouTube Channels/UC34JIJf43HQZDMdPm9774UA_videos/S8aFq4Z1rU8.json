@@ -1,0 +1,60 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "SkM20zSb35WZ3XkzTKs1AQZNZ-U",
+        "id": "S8aFq4Z1rU8",
+        "snippet": {
+            "publishedAt": "2022-03-25T07:56:29Z",
+            "channelId": "UC34JIJf43HQZDMdPm9774UA",
+            "title": "Elden Ring - Defeating the mimic boss in the most clever way...",
+            "description": "Bro got bamboozled\nGo Sub!",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/S8aFq4Z1rU8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/S8aFq4Z1rU8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/S8aFq4Z1rU8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "CaiBurz",
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Elden Ring - Defeating the mimic boss in the most clever way...",
+                "description": "Bro got bamboozled\nGo Sub!"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M8S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "132",
+            "likeCount": "7",
+            "favoriteCount": "0",
+            "commentCount": "5"
+        }
+    }
+]

@@ -1,0 +1,89 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "yMeaUaaDRXQa7PFQ9fUq4OF1DzI",
+        "id": "fzMa-SbbBic",
+        "snippet": {
+            "publishedAt": "2022-04-01T04:07:58Z",
+            "channelId": "UCZJ8Vxj-MdzcTQ8I5yQfujg",
+            "title": "CHRIS ROCK ROMPE SU SILENCIO y HABLA sobre la BOFETADA de WILL SMITH",
+            "description": "SI TE GUST\u00d3 EL V\u00cdDEO NO OLVIDES APOYAR AL CANAL DEJANDO TU LIKE Y SUSCRIBI\u00c9NDOTE, PARA AS\u00cd PODER CREAR Y SUBIR M\u00c1S CONTENIDO.\n\nSuscr\u00edbete\u25ba https://www.youtube.com/channel/UCZJ8Vxj-MdzcTQ8I5yQfujg\n\nFacebook\u25ba https://www.facebook.com/ermisterios\n\nM\u00fasica\u25ba https://www.youtube.com/watch?v=ttx-KwDSRgg&list=PLz-EO5NkwaYZJpdeX7L-H67VAbMrQ_Zti&ab_channel=PowerMusicFactory\n\n#WillSmith #ChrisRock #Oscars",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/fzMa-SbbBic/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/fzMa-SbbBic/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/fzMa-SbbBic/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/fzMa-SbbBic/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/fzMa-SbbBic/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "ER Misterios",
+            "tags": [
+                "er misterios",
+                "tendencias",
+                "tendencia",
+                "will smith",
+                "chris rock",
+                "jada smith",
+                "esposa de will smith",
+                "oscars 2002",
+                "will smith oscar",
+                "chris rock oscar",
+                "will smith chris rock",
+                "chris rock will smith",
+                "will smith wins oscar",
+                "will smith llorando",
+                "will smith y chris rock",
+                "denzel washington will smith",
+                "bradley will smith"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "CHRIS ROCK ROMPE SU SILENCIO y HABLA sobre la BOFETADA de WILL SMITH",
+                "description": "SI TE GUST\u00d3 EL V\u00cdDEO NO OLVIDES APOYAR AL CANAL DEJANDO TU LIKE Y SUSCRIBI\u00c9NDOTE, PARA AS\u00cd PODER CREAR Y SUBIR M\u00c1S CONTENIDO.\n\nSuscr\u00edbete\u25ba https://www.youtube.com/channel/UCZJ8Vxj-MdzcTQ8I5yQfujg\n\nFacebook\u25ba https://www.facebook.com/ermisterios\n\nM\u00fasica\u25ba https://www.youtube.com/watch?v=ttx-KwDSRgg&list=PLz-EO5NkwaYZJpdeX7L-H67VAbMrQ_Zti&ab_channel=PowerMusicFactory\n\n#WillSmith #ChrisRock #Oscars"
+            }
+        },
+        "contentDetails": {
+            "duration": "PT45S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "6916",
+            "likeCount": "129",
+            "favoriteCount": "0",
+            "commentCount": "36"
+        }
+    }
+]

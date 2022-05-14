@@ -1,0 +1,91 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "uP-8QijfwHF1MlyVEFbB5t8i2s4",
+        "id": "dx1NYDih9pE",
+        "snippet": {
+            "publishedAt": "2017-02-01T15:01:22Z",
+            "channelId": "UCjw43GbxEqJQYXk5U7hkkVg",
+            "title": "FM modulation in Simulink 2017 (How to generate FM Modulation using Simulink Tutorial)",
+            "description": "FM modulation in Simulink 2017 (How to generate FM Modulation using Simulink) Uniformedia\n\nIn telecommunications and signal processing, frequency modulation (FM) is the encoding of information in a carrier wave by varying the instantaneous frequency of the wave. This contrasts with amplitude modulation, in which the amplitude of the carrier wave varies, while the frequency remains constant.\n\nDownload FM modulation model in Simulink: http://onlineengineers.info\n(Free Electrical Engineering video lectures, free Online Electrical Engineering courses, Video Tutorials, University Courses, Youtube, Lecture notes.)\n\nWhat is FM modulation: http://www.radio-electronics.com/info/rf-technology-design/fm-frequency-modulation/what-is-fm-tutorial.php\n\nCheck this MATLAB channel: https://www.youtube.com/channel/UCgdHSFcXvkN6O3NXvif0-pA",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/dx1NYDih9pE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/dx1NYDih9pE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/dx1NYDih9pE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/dx1NYDih9pE/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Uniformedia",
+            "tags": [
+                "FM modulation in Simulink",
+                "How to generate FM Modulation using Simulink",
+                "FM simulink",
+                "Modulador y Demodulador FM",
+                "Tutorial Simulink",
+                "FM Demodulation",
+                "Simulacion se\u00f1ales FM mediante simulink",
+                "Simulacion Modulacion FM",
+                "Uniformedia",
+                "John Santiago",
+                "David Dorran",
+                "RobertTalbertPhD",
+                "asraf mohamed",
+                "MATLAB",
+                "Simulink",
+                "eeprogrammer",
+                "FM modulation",
+                "fm modulation and demodulation",
+                "fm modulation circuit",
+                "fm modulation matlab",
+                "fm modulation tutorial",
+                "simulink tutorial",
+                "matlab tutorial"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "FM modulation in Simulink 2017 (How to generate FM Modulation using Simulink Tutorial)",
+                "description": "FM modulation in Simulink 2017 (How to generate FM Modulation using Simulink) Uniformedia\n\nIn telecommunications and signal processing, frequency modulation (FM) is the encoding of information in a carrier wave by varying the instantaneous frequency of the wave. This contrasts with amplitude modulation, in which the amplitude of the carrier wave varies, while the frequency remains constant.\n\nDownload FM modulation model in Simulink: http://onlineengineers.info\n(Free Electrical Engineering video lectures, free Online Electrical Engineering courses, Video Tutorials, University Courses, Youtube, Lecture notes.)\n\nWhat is FM modulation: http://www.radio-electronics.com/info/rf-technology-design/fm-frequency-modulation/what-is-fm-tutorial.php\n\nCheck this MATLAB channel: https://www.youtube.com/channel/UCgdHSFcXvkN6O3NXvif0-pA"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT4M17S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "25374",
+            "likeCount": "90",
+            "favoriteCount": "0",
+            "commentCount": "4"
+        }
+    }
+]

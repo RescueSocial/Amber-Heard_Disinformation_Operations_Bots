@@ -1,0 +1,86 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "nEUs4r5J329WOI9G9TXT9ToMI8Y",
+        "id": "veJu4cgemmA",
+        "snippet": {
+            "publishedAt": "2016-09-01T21:14:09Z",
+            "channelId": "UCjw43GbxEqJQYXk5U7hkkVg",
+            "title": "QPSK Modulation in Matlab AWGN Channel - Part 1 (2016) Matlab Tutorial",
+            "description": "This program is used to calculate the Bit Error Rate (BER) of QPSK in an Additive White Gaussian Noise (AWGN) channel. The modulation and demodulation is done at baseband. Complex numbers are used to model the in-phase and quadrature components of a QPSK signal. The length of the symbol sequence and range of EbNo can be varied. \n\nQPSK (Quadrature Phase Shift Keying) is type of  phase shift keying. Unlike BPSK which is a DSBCS modulation scheme with digital information for the message, QPSK is also a DSBCS modulation scheme but it sends two bits of digital information a time (without the use of another carrier frequency).\nThe amount of radio frequency spectrum required to transmit QPSK reliably is half that required for BPSK signals, which in turn makes room for more users on the channel.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/veJu4cgemmA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/veJu4cgemmA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/veJu4cgemmA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/veJu4cgemmA/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Uniformedia",
+            "tags": [
+                "QPSK Modulation",
+                "QPSK Modulation in Matlab",
+                "AWGN Channel",
+                "Bit Error Rate",
+                "BER",
+                "matlab",
+                "Additive White Gaussian Noise",
+                "QPSK",
+                "BPSK",
+                "DSBCS",
+                "Amr Rashed",
+                "John Santiago",
+                "eeprogrammer",
+                "sachin sharma",
+                "online education",
+                "online schools",
+                "online college classes",
+                "online degree",
+                "Matlab Tutorial"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "QPSK Modulation in Matlab AWGN Channel - Part 1 (2016) Matlab Tutorial",
+                "description": "This program is used to calculate the Bit Error Rate (BER) of QPSK in an Additive White Gaussian Noise (AWGN) channel. The modulation and demodulation is done at baseband. Complex numbers are used to model the in-phase and quadrature components of a QPSK signal. The length of the symbol sequence and range of EbNo can be varied. \n\nQPSK (Quadrature Phase Shift Keying) is type of  phase shift keying. Unlike BPSK which is a DSBCS modulation scheme with digital information for the message, QPSK is also a DSBCS modulation scheme but it sends two bits of digital information a time (without the use of another carrier frequency).\nThe amount of radio frequency spectrum required to transmit QPSK reliably is half that required for BPSK signals, which in turn makes room for more users on the channel."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT4M16S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "21303",
+            "likeCount": "54",
+            "favoriteCount": "0",
+            "commentCount": "9"
+        }
+    }
+]

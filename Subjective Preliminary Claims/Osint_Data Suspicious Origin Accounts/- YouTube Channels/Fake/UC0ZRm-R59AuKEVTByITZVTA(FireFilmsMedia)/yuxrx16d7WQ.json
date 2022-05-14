@@ -1,0 +1,100 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "6w5ud7FE9pdZ1nh3VJ53KUkQ3I0",
+        "id": "yuxrx16d7WQ",
+        "snippet": {
+            "publishedAt": "2020-01-27T00:49:19Z",
+            "channelId": "UC0ZRm-R59AuKEVTByITZVTA",
+            "title": "Kobe Bryant Tribute - RIP",
+            "description": "A tribute video for Kobe, RIP. You will be missed dearly but legends never die.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/yuxrx16d7WQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/yuxrx16d7WQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/yuxrx16d7WQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/yuxrx16d7WQ/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/yuxrx16d7WQ/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Fire Films",
+            "tags": [
+                "kobe",
+                "kobe bryant",
+                "kobe bryant death",
+                "kobe helicopter",
+                "kobe bryant dead",
+                "kobe highlights",
+                "kobe tribute video",
+                "kobe bryant helicopter",
+                "kobe bryant crash",
+                "kobe bryant motivation",
+                "kobe bryant die",
+                "kobe bryant daughter",
+                "kobe bryant tribute video",
+                "death of kobe bryant",
+                "death of Kobe Bryant",
+                "Kobe Bryant's death",
+                "espn",
+                "kobe lakers",
+                "kobe news",
+                "kobe bryant news",
+                "nba",
+                "lakers",
+                "kobe tribute",
+                "kobe bryant tribute",
+                "staples center",
+                "kobe live news",
+                "pays tribute",
+                "remembers kobe bryant"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Kobe Bryant Tribute - RIP",
+                "description": "A tribute video for Kobe, RIP. You will be missed dearly but legends never die."
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M38S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "47376",
+            "likeCount": "1016",
+            "favoriteCount": "0",
+            "commentCount": "69"
+        }
+    }
+]

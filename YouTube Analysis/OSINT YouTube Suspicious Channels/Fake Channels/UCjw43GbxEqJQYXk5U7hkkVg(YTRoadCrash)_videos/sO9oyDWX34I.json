@@ -1,0 +1,87 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "dSPnuOREEhX5oAZx7SQvU3bBMTw",
+        "id": "sO9oyDWX34I",
+        "snippet": {
+            "publishedAt": "2018-05-30T16:15:35Z",
+            "channelId": "UCjw43GbxEqJQYXk5U7hkkVg",
+            "title": "Random Signal with Log Normal PDF using Matlab",
+            "description": "Random Signal with Log Normal PDF using Matlab\n\nIn probability theory, a log-normal (or lognormal) distribution is a continuous probability distribution of a random variable whose logarithm is normally distributed. Thus, if the random variable X is log-normally distributed, then Y = ln(X) has a normal distribution. Likewise, if Y has a normal distribution, then the exponential function of Y, X = exp(Y), has a log-normal distribution. A random variable which is log-normally distributed takes only positive real values.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/sO9oyDWX34I/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/sO9oyDWX34I/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/sO9oyDWX34I/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/sO9oyDWX34I/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/sO9oyDWX34I/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Uniformedia",
+            "tags": [
+                "log normal pdf",
+                "lognormal pdf derivation",
+                "lognormal pdf excel",
+                "lognormal pdf",
+                "pdf of lognormal distribution proof",
+                "pdf matlab",
+                "pdf matlab function",
+                "pdf matlab plot",
+                "MATLAB",
+                "uniformedia",
+                "MATLAB Helper \u00ae",
+                "RobertTalbertPhD",
+                "David Dorran",
+                "asraf mohamed"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Random Signal with Log Normal PDF using Matlab",
+                "description": "Random Signal with Log Normal PDF using Matlab\n\nIn probability theory, a log-normal (or lognormal) distribution is a continuous probability distribution of a random variable whose logarithm is normally distributed. Thus, if the random variable X is log-normally distributed, then Y = ln(X) has a normal distribution. Likewise, if Y has a normal distribution, then the exponential function of Y, X = exp(Y), has a log-normal distribution. A random variable which is log-normally distributed takes only positive real values."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT4M12S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1668",
+            "likeCount": "8",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        }
+    }
+]
