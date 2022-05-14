@@ -1,0 +1,79 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "uxuWl-K2n5UqfSN3vNAehvid8fs",
+        "id": "AV--bO2v7NI",
+        "snippet": {
+            "publishedAt": "2013-05-13T20:11:22Z",
+            "channelId": "UCuKswlhcgspq_A_3VY7sstQ",
+            "title": "Installation of Audio and Video bugs",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/AV--bO2v7NI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/AV--bO2v7NI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/AV--bO2v7NI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/AV--bO2v7NI/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Richard Di Sabatino",
+            "tags": [
+                "Listening Devices",
+                "Transmitter",
+                "RIchard Di Sabatino",
+                "Entry",
+                "Bug",
+                "Video Device",
+                "Signal",
+                "Spy",
+                "ISG",
+                "Agent",
+                "CIA",
+                "Installation"
+            ],
+            "categoryId": "28",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Installation of Audio and Video bugs",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M51S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "402",
+            "likeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

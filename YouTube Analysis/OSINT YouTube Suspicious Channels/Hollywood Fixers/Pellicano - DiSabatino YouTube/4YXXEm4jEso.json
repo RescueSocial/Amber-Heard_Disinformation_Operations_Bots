@@ -1,0 +1,80 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "ZvO6wk3e7EDdAMfPogD6QyUPyWw",
+        "id": "4YXXEm4jEso",
+        "snippet": {
+            "publishedAt": "2013-05-08T20:16:20Z",
+            "channelId": "UCuKswlhcgspq_A_3VY7sstQ",
+            "title": "GPS",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/4YXXEm4jEso/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/4YXXEm4jEso/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/4YXXEm4jEso/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/4YXXEm4jEso/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Richard Di Sabatino",
+            "tags": [
+                "Precise location",
+                "Satellites",
+                "FBI",
+                "Receiver",
+                "ISG",
+                "listening devices",
+                "bugs",
+                "Richard Di Sabatino"
+            ],
+            "categoryId": "28",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "GPS",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M13S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "regionRestriction": {
+                "blocked": [
+                    "NZ"
+                ]
+            },
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "23",
+            "likeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

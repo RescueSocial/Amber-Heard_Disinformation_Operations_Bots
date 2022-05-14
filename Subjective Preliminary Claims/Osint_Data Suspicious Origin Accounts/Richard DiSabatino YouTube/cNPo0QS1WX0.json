@@ -1,0 +1,76 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "aWmjq6FAqHm12mABqEEkNaYPiYk",
+        "id": "cNPo0QS1WX0",
+        "snippet": {
+            "publishedAt": "2013-05-08T19:18:56Z",
+            "channelId": "UCuKswlhcgspq_A_3VY7sstQ",
+            "title": "Electromagnetic Pulse",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/cNPo0QS1WX0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/cNPo0QS1WX0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/cNPo0QS1WX0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/cNPo0QS1WX0/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Richard Di Sabatino",
+            "tags": [
+                "ISG",
+                "Intelligence Support Group",
+                "Combat",
+                "Surveillance",
+                "Transmittion",
+                "Wall Street",
+                "Stock Exchange",
+                "CIA",
+                "Richard Di Sabatino"
+            ],
+            "categoryId": "28",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Electromagnetic Pulse",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT1M52S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "32",
+            "likeCount": "2",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

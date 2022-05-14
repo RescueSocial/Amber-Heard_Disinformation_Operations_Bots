@@ -1,0 +1,73 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "Dq8Jg55rRA81XzjWnDwW-IwAa-U",
+        "id": "qC-gWf8Cidk",
+        "snippet": {
+            "publishedAt": "2013-05-13T20:29:10Z",
+            "channelId": "UCuKswlhcgspq_A_3VY7sstQ",
+            "title": "Hollywood Blackmail",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/qC-gWf8Cidk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/qC-gWf8Cidk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/qC-gWf8Cidk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/qC-gWf8Cidk/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Richard Di Sabatino",
+            "tags": [
+                "Anthony Pellicano",
+                "Hollywood",
+                "Blackmail",
+                "Richard Di Sabatino",
+                "ISG",
+                "wiretapping"
+            ],
+            "categoryId": "28",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Hollywood Blackmail",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT37S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "317",
+            "likeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]

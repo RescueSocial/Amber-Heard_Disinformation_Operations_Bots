@@ -1,0 +1,86 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "FLUZKErpXWL3e5iXsJb3PvRYjWk",
+        "id": "5JzUj7Uofbw",
+        "snippet": {
+            "publishedAt": "2013-05-13T19:23:09Z",
+            "channelId": "UCuKswlhcgspq_A_3VY7sstQ",
+            "title": "Bugs",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/5JzUj7Uofbw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/5JzUj7Uofbw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/5JzUj7Uofbw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/5JzUj7Uofbw/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Richard Di Sabatino",
+            "tags": [
+                "Richard Di Sabatino",
+                "Surveillance Expert",
+                "ISG",
+                "CIA",
+                "Bugs",
+                "Transmitter",
+                "microphone",
+                "target",
+                "Ames",
+                "FBI",
+                "stereo",
+                "Aldrich Hazen Ames",
+                "Rosario Ames",
+                "Espionage"
+            ],
+            "categoryId": "28",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Bugs",
+                "description": ""
+            }
+        },
+        "contentDetails": {
+            "duration": "PT2M9S",
+            "dimension": "2d",
+            "definition": "sd",
+            "caption": "false",
+            "licensedContent": false,
+            "regionRestriction": {
+                "blocked": [
+                    "NZ"
+                ]
+            },
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "22",
+            "likeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        }
+    }
+]
