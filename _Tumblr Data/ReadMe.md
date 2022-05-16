@@ -13,6 +13,7 @@ Timeseries Graph shows that 2016 and early 2019 had the most posts on Amber Hear
 - There are peaks of posts in between 2016 and 2019 at higher levels than during the disinformation/influence operations start.
 <br> A similar comparison to show how to spot normal vs abnormal peaks can be made with Reddit showing lower posts in late 2020 than peaks on YouTube and Twitter showing increasing targeting against her 2020-2022 despite real-world events of winning cases.
 
+<br>
 TimeSeries per year posted of "Amber Heard" hashtag on Tumblr
 <br>2009 have (3 posts)
 <br>2010 have (0 post)
