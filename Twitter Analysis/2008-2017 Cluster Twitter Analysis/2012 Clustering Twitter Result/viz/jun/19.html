@@ -1,0 +1,916 @@
+<img src="wordcloud_19.png" style="display: block;width: 350px;margin-left: auto;margin-right: auto;" /><br><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>user.id_str</th>
+      <th>user.screen_name</th>
+      <th>user.name</th>
+      <th>user.created_at</th>
+      <th>user.location</th>
+      <th>user.followers_count</th>
+      <th>user.friends_count</th>
+      <th>user.statuses_count</th>
+      <th>profile_image_url</th>
+      <th>profile_banner_url</th>
+      <th>user.lang</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>130</th>
+      <td>118791313</td>
+      <td>Michaelolivetti</td>
+      <td>michael olivetti</td>
+      <td>2010-03-01 19:22:42+00:00</td>
+      <td>cavaion veronese</td>
+      <td>26</td>
+      <td>25</td>
+      <td>5925</td>
+      <td><img src="http://pbs.twimg.com/profile_images/2150003516/5720431411455686914_normal" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>272</th>
+      <td>92318097</td>
+      <td>spettacolo_fp</td>
+      <td>Spettacolo Fanpage</td>
+      <td>2009-11-24 17:18:08+00:00</td>
+      <td></td>
+      <td>1298</td>
+      <td>103</td>
+      <td>168807</td>
+      <td><img src="http://pbs.twimg.com/profile_images/461521556191997954/CqseYR0U_normal.png" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/92318097/1399038357" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>660</th>
+      <td>283974430</td>
+      <td>imonerh</td>
+      <td>Munerah ⛄</td>
+      <td>2011-04-18 11:25:03+00:00</td>
+      <td></td>
+      <td>127</td>
+      <td>84</td>
+      <td>1686</td>
+      <td><img src="http://pbs.twimg.com/profile_images/2941733234/6e64852066b81c808f3a8e3bb52027a0_normal.jpeg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>1746</th>
+      <td>180026789</td>
+      <td>ErickLiverga</td>
+      <td>Gregory Erick Febrianto</td>
+      <td>2010-08-18 17:29:16+00:00</td>
+      <td>Denpasar, Bali</td>
+      <td>592</td>
+      <td>581</td>
+      <td>15735</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1337657842296180736/gbitS6xQ_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/180026789/1587923699" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>1757</th>
+      <td>99486086</td>
+      <td>dee_alieth</td>
+      <td>Diaz Akbar</td>
+      <td>2009-12-26 11:45:54+00:00</td>
+      <td>Cirebon</td>
+      <td>1425</td>
+      <td>335</td>
+      <td>69091</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1399581697700634629/zUdINWdO_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/99486086/1550637545" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>1758</th>
+      <td>59368000</td>
+      <td>aY_aRumSuci</td>
+      <td>Ay'Rum</td>
+      <td>2009-07-23 05:01:11+00:00</td>
+      <td>Yogyakarta-Hatimu-Pikiranmu</td>
+      <td>614</td>
+      <td>246</td>
+      <td>45407</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1036880100971560962/NpBaKz1k_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/59368000/1424298085" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>1762</th>
+      <td>31355801</td>
+      <td>KapanLagicom</td>
+      <td>kapanlagicom</td>
+      <td>2009-04-15 06:21:06+00:00</td>
+      <td>Indonesia</td>
+      <td>2078011</td>
+      <td>2247</td>
+      <td>456833</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1510502005009104896/eY3yCF47_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/31355801/1652180100" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>1846</th>
+      <td>563061324</td>
+      <td>aji_guzzz</td>
+      <td>Baguz adi Wicaksono</td>
+      <td>2012-04-25 15:42:50+00:00</td>
+      <td></td>
+      <td>71</td>
+      <td>72</td>
+      <td>89760</td>
+      <td><img src="http://pbs.twimg.com/profile_images/2339783055/0g4np3nyas1bxpqouzxc_normal.jpeg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>1852</th>
+      <td>422599055</td>
+      <td>radarkota</td>
+      <td>radar</td>
+      <td>2011-11-27 13:07:36+00:00</td>
+      <td>jakarta</td>
+      <td>387</td>
+      <td>8</td>
+      <td>93395</td>
+      <td><img src="http://pbs.twimg.com/profile_images/2445448675/wm68lm3rf0qnp10qkn8l_normal.jpeg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>1855</th>
+      <td>562953197</td>
+      <td>aulia_chanchan</td>
+      <td>Siti Aulia Nug</td>
+      <td>2012-04-25 15:08:41+00:00</td>
+      <td></td>
+      <td>109</td>
+      <td>72</td>
+      <td>25846</td>
+      <td><img src="http://pbs.twimg.com/profile_images/2339729508/29xhk7dw3180jgxq0yr7_normal.jpeg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>1856</th>
+      <td>540866192</td>
+      <td>Tiiiiitin</td>
+      <td>🜺Bukanmbakmu🜺</td>
+      <td>2012-03-30 14:35:46+00:00</td>
+      <td>Far From U</td>
+      <td>191</td>
+      <td>491</td>
+      <td>33418</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1992953883/9_normal.jpg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>1858</th>
+      <td>555029613</td>
+      <td>AreaGosip</td>
+      <td>Area Gosip</td>
+      <td>2012-04-16 07:49:51+00:00</td>
+      <td></td>
+      <td>368</td>
+      <td>0</td>
+      <td>135329</td>
+      <td><img src="http://pbs.twimg.com/profile_images/2134126209/image.php_normal.jpg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>1862</th>
+      <td>453117393</td>
+      <td>infoiklan1</td>
+      <td>Segala Iklan & Info</td>
+      <td>2012-01-02 16:07:15+00:00</td>
+      <td>Cengkareng, Jakarta, Indonesia</td>
+      <td>872</td>
+      <td>1196</td>
+      <td>157754</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1849574929/images_normal.jpg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>1866</th>
+      <td>319510645</td>
+      <td>IDbackpack</td>
+      <td>Lazy Frame</td>
+      <td>2011-06-18 07:20:07+00:00</td>
+      <td>Indonesia</td>
+      <td>155</td>
+      <td>21</td>
+      <td>29534</td>
+      <td><img src="http://pbs.twimg.com/profile_images/426200338308141056/TzDCPCDP_normal.jpeg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>1873</th>
+      <td>122563706</td>
+      <td>mhacyhudi</td>
+      <td>Verified Account™</td>
+      <td>2010-03-13 04:08:41+00:00</td>
+      <td>ÜT: -5.183945,119.020395</td>
+      <td>2773</td>
+      <td>1254</td>
+      <td>713762</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1573349949/mhacyhudi_2536959318097046906_normal.jpg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>1876</th>
+      <td>77226858</td>
+      <td>RifkyArzelli</td>
+      <td>Rifky Arzelli</td>
+      <td>2009-09-25 14:33:29+00:00</td>
+      <td>Jakarta</td>
+      <td>331</td>
+      <td>446</td>
+      <td>116346</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1184097405/pile-of-papers2_normal.jpg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>1881</th>
+      <td>618002182</td>
+      <td>_InfoSelebritis</td>
+      <td>Info Selebritis</td>
+      <td>2012-06-25 10:59:01+00:00</td>
+      <td>Denpasar, Indonesia</td>
+      <td>405</td>
+      <td>38</td>
+      <td>36473</td>
+      <td><img src="http://pbs.twimg.com/profile_images/2339410558/_InfoSelebritis_normal.png" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>1885</th>
+      <td>147841363</td>
+      <td>tukangpijatNO1</td>
+      <td>Pak Emis (Misbah)</td>
+      <td>2010-05-25 05:24:29+00:00</td>
+      <td>Maja-Majalengka</td>
+      <td>420</td>
+      <td>31</td>
+      <td>47605</td>
+      <td><img src="http://pbs.twimg.com/profile_images/378800000613035396/396cf9d3669710e2d12e3a5981ce53a4_normal.jpeg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>1886</th>
+      <td>575108986</td>
+      <td>haloversa</td>
+      <td>HaloVersa | MINT IS LIVE</td>
+      <td>2012-05-09 06:25:42+00:00</td>
+      <td>Jakarta Capital Region, Indone</td>
+      <td>11671</td>
+      <td>1827</td>
+      <td>18776</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1519867421909483522/hSxuGvZ6_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/575108986/1651199616" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>1894</th>
+      <td>420772409</td>
+      <td>Inforumahtangga</td>
+      <td>Info rumah Tangga</td>
+      <td>2011-11-25 02:36:23+00:00</td>
+      <td>Bandung, Indonesia</td>
+      <td>117</td>
+      <td>122</td>
+      <td>16995</td>
+      <td><img src="http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>1896</th>
+      <td>450418546</td>
+      <td>infoperjaka</td>
+      <td>Info Perjaka</td>
+      <td>2011-12-30 06:44:37+00:00</td>
+      <td>Indonesia</td>
+      <td>85</td>
+      <td>142</td>
+      <td>26940</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1723209905/Dr_Kamera_Ona_023_normal.JPG" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>1897</th>
+      <td>425978915</td>
+      <td>ApakahTau</td>
+      <td>Apakah Tau</td>
+      <td>2011-12-01 17:48:31+00:00</td>
+      <td>Jakarta, Indonesia</td>
+      <td>43</td>
+      <td>117</td>
+      <td>44827</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1668164380/berita_normal.png" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>1898</th>
+      <td>395282005</td>
+      <td>MoraLifeGroup</td>
+      <td>Mora Life Group</td>
+      <td>2011-10-21 12:35:37+00:00</td>
+      <td>Mora Life Group</td>
+      <td>520</td>
+      <td>5</td>
+      <td>8686</td>
+      <td><img src="http://pbs.twimg.com/profile_images/2540919239/yt12e4bhdbkiwfzksd9s_normal.jpeg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>1899</th>
+      <td>347795812</td>
+      <td>SSFeeds</td>
+      <td>Seriboesungai Feeds</td>
+      <td>2011-08-03 11:12:45+00:00</td>
+      <td></td>
+      <td>98</td>
+      <td>0</td>
+      <td>139428</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1475801945/ssfeed_normal.jpg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>1901</th>
+      <td>125236033</td>
+      <td>rizkiyulianto</td>
+      <td>Rizki Y</td>
+      <td>2010-03-22 04:35:16+00:00</td>
+      <td></td>
+      <td>76</td>
+      <td>2</td>
+      <td>66627</td>
+      <td><img src="http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>1903</th>
+      <td>126460757</td>
+      <td>chika_lorenza</td>
+      <td>Chika Lorenza</td>
+      <td>2010-03-25 23:27:04+00:00</td>
+      <td>Jogja</td>
+      <td>942</td>
+      <td>2</td>
+      <td>60207</td>
+      <td><img src="http://pbs.twimg.com/profile_images/775416326/cewek_cantik_bispak_normal.jpg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>1908</th>
+      <td>283900063</td>
+      <td>arxxyad</td>
+      <td>ARXYAD SAM</td>
+      <td>2011-04-18 07:08:32+00:00</td>
+      <td>ÜT: 0.5419314,101.4269378</td>
+      <td>884</td>
+      <td>319</td>
+      <td>192351</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1405165607243313158/fuaqDXCg_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/283900063/1623295039" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>2035</th>
+      <td>489446249</td>
+      <td>Mattdelon</td>
+      <td>Matt Delon</td>
+      <td>2012-02-11 14:55:27+00:00</td>
+      <td>ÜT: -6.3930589,106.8301121</td>
+      <td>902</td>
+      <td>44</td>
+      <td>17023</td>
+      <td><img src="http://pbs.twimg.com/profile_images/2293841417/Mathew-5_normal.jpg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>2038</th>
+      <td>399150531</td>
+      <td>LeviALbukhori</td>
+      <td>Levi Al Bukhori</td>
+      <td>2011-10-27 02:11:41+00:00</td>
+      <td>Indonesia</td>
+      <td>16</td>
+      <td>18</td>
+      <td>14568</td>
+      <td><img src="http://pbs.twimg.com/profile_images/2588058503/khiioo_normal.jpg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>2040</th>
+      <td>367555199</td>
+      <td>1Detik</td>
+      <td>1Detik bijak</td>
+      <td>2011-09-04 04:48:27+00:00</td>
+      <td>Di Rumah Bijak</td>
+      <td>39</td>
+      <td>23</td>
+      <td>20738</td>
+      <td><img src="http://pbs.twimg.com/profile_images/2758616358/3d20262768c3e0f726c7a02a98e94df5_normal.jpeg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>2289</th>
+      <td>61948383</td>
+      <td>gitagiteuk</td>
+      <td>기특이 🐥</td>
+      <td>2009-08-01 03:18:54+00:00</td>
+      <td>Park's Family House</td>
+      <td>360</td>
+      <td>754</td>
+      <td>41915</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1516226277426233348/7MZ0k1Ki_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/61948383/1651828588" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>2365</th>
+      <td>81825217</td>
+      <td>nabilarama</td>
+      <td>Nabila Ramadhani</td>
+      <td>2009-10-12 12:01:05+00:00</td>
+      <td></td>
+      <td>258</td>
+      <td>151</td>
+      <td>14041</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1408379571540402177/0q4vBsSC_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/81825217/1652156401" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>2587</th>
+      <td>471841505</td>
+      <td>alvxxyz</td>
+      <td>B!</td>
+      <td>2012-01-23 09:37:18+00:00</td>
+      <td>pdk gde</td>
+      <td>60</td>
+      <td>17</td>
+      <td>44074</td>
+      <td><img src="http://pbs.twimg.com/profile_images/344513261572958169/88b5c24820500b09a77c848e96f1e17e_normal.jpeg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>3426</th>
+      <td>238034076</td>
+      <td>_aldinoo</td>
+      <td>AldinoAlfasino</td>
+      <td>2011-01-14 06:00:36+00:00</td>
+      <td>Kendari-Kemaraya-Sarungga</td>
+      <td>1560</td>
+      <td>219</td>
+      <td>15695</td>
+      <td><img src="http://pbs.twimg.com/profile_images/588684589251436544/J9Ant1Kx_normal.jpg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>3466</th>
+      <td>166543354</td>
+      <td>notizierei</td>
+      <td>notizierei</td>
+      <td>2010-07-14 12:19:28+00:00</td>
+      <td></td>
+      <td>31</td>
+      <td>0</td>
+      <td>11936</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1674982225/logo_notizierei_normal.jpg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>3508</th>
+      <td>505111348</td>
+      <td>metrotvcom</td>
+      <td>Metro TV News</td>
+      <td>2012-02-26 23:10:21+00:00</td>
+      <td></td>
+      <td>4342</td>
+      <td>1</td>
+      <td>18008</td>
+      <td><img src="http://pbs.twimg.com/profile_images/2249022099/metrotv_normal.jpg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>3526</th>
+      <td>454480099</td>
+      <td>indohead</td>
+      <td>Indonesia Headline</td>
+      <td>2012-01-04 01:40:17+00:00</td>
+      <td>Indonesia</td>
+      <td>55</td>
+      <td>4</td>
+      <td>27358</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1733148710/lo1_normal.jpg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>3547</th>
+      <td>606035079</td>
+      <td>Meeeehhhhhh</td>
+      <td>Meehhhh</td>
+      <td>2012-06-12 02:49:12+00:00</td>
+      <td></td>
+      <td>73</td>
+      <td>59</td>
+      <td>67270</td>
+      <td><img src="http://pbs.twimg.com/profile_images/2702334791/802790d1664ede8dabb43d1c18378e2a_normal.png" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>3564</th>
+      <td>431750849</td>
+      <td>AbbaAkbar</td>
+      <td>Ali Akbar</td>
+      <td>2011-12-08 17:03:33+00:00</td>
+      <td></td>
+      <td>14</td>
+      <td>48</td>
+      <td>36884</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1681155788/295767_167884983294054_100002176592086_348033_503299631_n_normal.jpg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>3574</th>
+      <td>15759058</td>
+      <td>berita</td>
+      <td>Berita</td>
+      <td>2008-08-07 03:18:37+00:00</td>
+      <td>Indonesia</td>
+      <td>9886</td>
+      <td>2331</td>
+      <td>125162</td>
+      <td><img src="http://pbs.twimg.com/profile_images/487183650153168896/qeYQdWp1_normal.jpeg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>3577</th>
+      <td>540401209</td>
+      <td>beritanegara</td>
+      <td>Berita Nasional</td>
+      <td>2012-03-30 00:48:54+00:00</td>
+      <td>Indonesia</td>
+      <td>1390</td>
+      <td>26</td>
+      <td>674057</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1989039222/indo_normal.jpg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>3581</th>
+      <td>301243432</td>
+      <td>onsteptoolate</td>
+      <td>News For Feed</td>
+      <td>2011-05-19 04:05:48+00:00</td>
+      <td>In my mind</td>
+      <td>214</td>
+      <td>22</td>
+      <td>500361</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1754462462/newspaper_feed_512x512_normal.png" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>3585</th>
+      <td>374389354</td>
+      <td>Headlinenews_</td>
+      <td>Metro_TV</td>
+      <td>2011-09-16 07:16:04+00:00</td>
+      <td></td>
+      <td>2476</td>
+      <td>344</td>
+      <td>423272</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1546115591/index_normal.jpeg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>3653</th>
+      <td>107909011</td>
+      <td>AnakNgaco</td>
+      <td>Anak Ngaco #AN</td>
+      <td>2010-01-24 04:49:54+00:00</td>
+      <td>INDONESIA</td>
+      <td>344</td>
+      <td>21</td>
+      <td>101261</td>
+      <td><img src="http://pbs.twimg.com/profile_images/2201383188/lolo_201_normal.jpg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>3664</th>
+      <td>491183401</td>
+      <td>preksoe</td>
+      <td>Mas Juki</td>
+      <td>2012-02-13 10:38:39+00:00</td>
+      <td>Semarang, Jawa Tengah</td>
+      <td>699</td>
+      <td>67</td>
+      <td>184023</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1220297421017636864/CpOe2hta_normal.jpg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>3668</th>
+      <td>539222434</td>
+      <td>IndonesianNow</td>
+      <td>Indonesia Now</td>
+      <td>2012-03-28 17:22:03+00:00</td>
+      <td>Jakarta</td>
+      <td>1488</td>
+      <td>0</td>
+      <td>675376</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1979134653/indonews_normal.jpg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>3676</th>
+      <td>194547590</td>
+      <td>whoa_luthfi</td>
+      <td>dek whoa ⚒</td>
+      <td>2010-09-24 12:08:02+00:00</td>
+      <td>left wing</td>
+      <td>6506</td>
+      <td>666</td>
+      <td>117325</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1523683184122429440/kf-M3pwo_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/194547590/1490201345" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>3698</th>
+      <td>384219506</td>
+      <td>HOTNEWSindo</td>
+      <td>Berita Indonesia</td>
+      <td>2011-10-03 09:00:50+00:00</td>
+      <td>indonesia</td>
+      <td>1876</td>
+      <td>93</td>
+      <td>33141</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1772186205/garis-hijau_2591_l_normal.jpg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>3709</th>
+      <td>144502367</td>
+      <td>fahmika</td>
+      <td>Krisnanda</td>
+      <td>2010-05-16 13:47:06+00:00</td>
+      <td>Jakarta, Bekasi</td>
+      <td>319</td>
+      <td>281</td>
+      <td>79124</td>
+      <td><img src="http://pbs.twimg.com/profile_images/718960655437406208/Zfy5S8gv_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/144502367/1393437243" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>3716</th>
+      <td>435026162</td>
+      <td>berita_politik</td>
+      <td>Berita Politik</td>
+      <td>2011-12-12 15:58:10+00:00</td>
+      <td>Banyuwangi - Indonesia</td>
+      <td>11701</td>
+      <td>2</td>
+      <td>718235</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1788455911/news_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/435026162/1376550846" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>3717</th>
+      <td>57261519</td>
+      <td>Metro_TV</td>
+      <td>METRO TV</td>
+      <td>2009-07-16 06:19:23+00:00</td>
+      <td></td>
+      <td>10882930</td>
+      <td>89</td>
+      <td>1162084</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1475687082890711043/1rV95NS5_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/57261519/1612764217" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>3760</th>
+      <td>76549885</td>
+      <td>Ce_Ce_</td>
+      <td>CharlotteCecily</td>
+      <td>2009-09-23 03:44:53+00:00</td>
+      <td>where your heart is</td>
+      <td>2383</td>
+      <td>704</td>
+      <td>74536</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1343949987/np_cc_twt_normal.jpg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>3769</th>
+      <td>68930552</td>
+      <td>mediaindonesia</td>
+      <td>Media Indonesia</td>
+      <td>2009-08-26 08:17:20+00:00</td>
+      <td>Jakarta - Indonesia</td>
+      <td>1640533</td>
+      <td>88</td>
+      <td>748480</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1481160986040348674/BL20SXSW_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/68930552/1550130077" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>3773</th>
+      <td>426401805</td>
+      <td>KabarSelebritis</td>
+      <td>Kabar Selebritis</td>
+      <td>2011-12-02 06:01:20+00:00</td>
+      <td>ÜT: -6.2570765,106.9113294</td>
+      <td>486</td>
+      <td>141</td>
+      <td>28677</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1768337618/1_normal.jpg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>3775</th>
+      <td>316615950</td>
+      <td>JonathDakota</td>
+      <td>Jonathan Dakota</td>
+      <td>2011-06-13 18:22:11+00:00</td>
+      <td>Indonesia</td>
+      <td>1396</td>
+      <td>110</td>
+      <td>91673</td>
+      <td><img src="http://pbs.twimg.com/profile_images/2746738715/453e60191b8093f38447cf0c6268a039_normal.jpeg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>3776</th>
+      <td>179467370</td>
+      <td>berita24jam</td>
+      <td>IndonesiaNewsChannel</td>
+      <td>2010-08-17 10:50:44+00:00</td>
+      <td>Jakarta, Indonesia</td>
+      <td>101</td>
+      <td>30</td>
+      <td>450286</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1382333638/hotel-icon-24hr-room-service-clip-art-red-white-md_normal.png" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>3795</th>
+      <td>231744097</td>
+      <td>IGUBOX</td>
+      <td>IGUBOX</td>
+      <td>2010-12-29 10:16:15+00:00</td>
+      <td>Indonesia</td>
+      <td>1043</td>
+      <td>1756</td>
+      <td>83641</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1461502296/igubox_3_normal.png" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>3837</th>
+      <td>136202265</td>
+      <td>starletblog</td>
+      <td>StarletTime</td>
+      <td>2010-04-23 08:36:43+00:00</td>
+      <td>Web!</td>
+      <td>38</td>
+      <td>6</td>
+      <td>6625</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1134317072/starlettime_icon_normal.png" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>3967</th>
+      <td>85304119</td>
+      <td>VdtOnline</td>
+      <td>VdtOnline.ro</td>
+      <td>2009-10-26 12:34:54+00:00</td>
+      <td></td>
+      <td>416</td>
+      <td>151</td>
+      <td>26128</td>
+      <td><img src="http://pbs.twimg.com/profile_images/2767781425/9df3e04d9c8602a5ae45165c160162da_normal.jpeg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/85304119/1351280581" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>5975</th>
+      <td>497618415</td>
+      <td>RatnoSadewo</td>
+      <td>Ratno Sadewo</td>
+      <td>2012-02-20 05:43:03+00:00</td>
+      <td>Di antara kamera dan lensa</td>
+      <td>2931</td>
+      <td>1501</td>
+      <td>10376</td>
+      <td><img src="http://pbs.twimg.com/profile_images/668991712287547393/RXEr60Ma_normal.jpg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>6454</th>
+      <td>563797243</td>
+      <td>9satucom</td>
+      <td>9satu.com</td>
+      <td>2012-04-26 15:06:55+00:00</td>
+      <td>Jakarta</td>
+      <td>63</td>
+      <td>681</td>
+      <td>630</td>
+      <td><img src="http://pbs.twimg.com/profile_images/2202150816/Logo_91_web_normal.jpg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>7176</th>
+      <td>381385431</td>
+      <td>namott_jeanne</td>
+      <td>jeanne namott</td>
+      <td>2011-09-28 07:22:34+00:00</td>
+      <td>Belgique</td>
+      <td>215</td>
+      <td>926</td>
+      <td>9551</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1517585813659344897/JMZjkXjq_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/381385431/1607577779" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>7904</th>
+      <td>390180141</td>
+      <td>DDNRocha</td>
+      <td>Detrás de la Noticia</td>
+      <td>2011-10-13 15:52:26+00:00</td>
+      <td></td>
+      <td>4992</td>
+      <td>335</td>
+      <td>85877</td>
+      <td><img src="http://pbs.twimg.com/profile_images/493848211946094593/TtuNhEGY_normal.png" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/390180141/1417537842" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>8293</th>
+      <td>549078511</td>
+      <td>tikanovithasari</td>
+      <td>Akit</td>
+      <td>2012-04-09 09:13:27+00:00</td>
+      <td>Jakarta, Indonesia.</td>
+      <td>2190</td>
+      <td>968</td>
+      <td>80932</td>
+      <td><img src="http://pbs.twimg.com/profile_images/684611604957138944/YaGu1zfx_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/549078511/1423296156" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+  </tbody>
+</table>

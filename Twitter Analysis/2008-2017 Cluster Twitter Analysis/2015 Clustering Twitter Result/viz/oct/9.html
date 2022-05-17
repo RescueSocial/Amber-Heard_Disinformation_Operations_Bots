@@ -1,0 +1,496 @@
+<img src="wordcloud_9.png" style="display: block;width: 350px;margin-left: auto;margin-right: auto;" /><br><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>user.id_str</th>
+      <th>user.screen_name</th>
+      <th>user.name</th>
+      <th>user.created_at</th>
+      <th>user.location</th>
+      <th>user.followers_count</th>
+      <th>user.friends_count</th>
+      <th>user.statuses_count</th>
+      <th>profile_image_url</th>
+      <th>profile_banner_url</th>
+      <th>user.lang</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>10</th>
+      <td>346303704</td>
+      <td>MonteDeuce</td>
+      <td>Brooks Taylor Montange</td>
+      <td>2011-08-01 01:59:15+00:00</td>
+      <td>Ames, IA</td>
+      <td>722</td>
+      <td>449</td>
+      <td>46215</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1515198892324933638/ak3fAQoh_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/346303704/1648010351" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>16</th>
+      <td>251268853</td>
+      <td>SarahElKhodary</td>
+      <td>Lady S.</td>
+      <td>2011-02-12 19:56:15+00:00</td>
+      <td>Cairo, Egypt</td>
+      <td>11184</td>
+      <td>235</td>
+      <td>53980</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1505798529612226562/1IPz9p9m_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/251268853/1541494046" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>118</th>
+      <td>76710828</td>
+      <td>Elliott_C9</td>
+      <td>Elliot Wheeler</td>
+      <td>2009-09-23 18:06:51+00:00</td>
+      <td>Upper West Side / Ithaca</td>
+      <td>789</td>
+      <td>382</td>
+      <td>21231</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1198342579965845505/-k2FSTb1_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/76710828/1598669365" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>133</th>
+      <td>2180960684</td>
+      <td>AYoungLord</td>
+      <td>Pax Verity, in the corner.</td>
+      <td>2013-11-07 22:26:25+00:00</td>
+      <td>Elsweyr</td>
+      <td>209</td>
+      <td>277</td>
+      <td>34431</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1433565327523291137/UjA1sPsc_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/2180960684/1622394172" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>195</th>
+      <td>3131140846</td>
+      <td>winterquake</td>
+      <td>mercury</td>
+      <td>2015-04-01 17:04:53+00:00</td>
+      <td>siempre mami nunca inmami</td>
+      <td>1170</td>
+      <td>1077</td>
+      <td>12394</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1134205760550952961/ATu6UQ1E_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/3131140846/1514855329" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>288</th>
+      <td>1701376244</td>
+      <td>chawiking</td>
+      <td>ian</td>
+      <td>2013-08-26 08:58:50+00:00</td>
+      <td></td>
+      <td>61</td>
+      <td>59</td>
+      <td>5524</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1190151597302669312/5A7QdolD_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/1701376244/1579342477" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>300</th>
+      <td>241682752</td>
+      <td>immylovee</td>
+      <td>Immy</td>
+      <td>2011-01-22 21:54:08+00:00</td>
+      <td></td>
+      <td>512</td>
+      <td>255</td>
+      <td>20973</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1100363542681792513/fyI7Oz6r_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/241682752/1551182107" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>311</th>
+      <td>2284900040</td>
+      <td>thykimdom</td>
+      <td>🌸</td>
+      <td>2014-01-10 10:48:52+00:00</td>
+      <td>🌈 Filipinas</td>
+      <td>830</td>
+      <td>361</td>
+      <td>84494</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1523904517682921472/NItU7xBe_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/2284900040/1636997606" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>312</th>
+      <td>541621258</td>
+      <td>Emeer_Haqeem</td>
+      <td>Emeer</td>
+      <td>2012-03-31 12:38:32+00:00</td>
+      <td>Selangor, Malaysia</td>
+      <td>765</td>
+      <td>350</td>
+      <td>41877</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1444983504719126533/9x0cRDYg_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/541621258/1543669239" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>700</th>
+      <td>3809981472</td>
+      <td>TonightShowVids</td>
+      <td>Tonight Show Videos</td>
+      <td>2015-10-07 03:30:43+00:00</td>
+      <td></td>
+      <td>10</td>
+      <td>91</td>
+      <td>2215</td>
+      <td><img src="http://pbs.twimg.com/profile_images/651991370580652032/cf-iC1F0_normal.png" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>752</th>
+      <td>2332799262</td>
+      <td>paulwxlker</td>
+      <td>wesley</td>
+      <td>2014-02-08 03:42:40+00:00</td>
+      <td>office himym parks b99</td>
+      <td>8320</td>
+      <td>5173</td>
+      <td>187627</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1463918015980916744/-13uSvfF_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/2332799262/1651257424" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>915</th>
+      <td>25230002</td>
+      <td>duncanfine</td>
+      <td>duncan fine</td>
+      <td>2009-03-19 03:36:03+00:00</td>
+      <td>Citizen of the world</td>
+      <td>756</td>
+      <td>1178</td>
+      <td>53424</td>
+      <td><img src="http://pbs.twimg.com/profile_images/991167537684475905/oF96LJkK_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/25230002/1421725388" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>932</th>
+      <td>407985637</td>
+      <td>LiviHowe</td>
+      <td>Olivia Howe</td>
+      <td>2011-11-08 20:36:54+00:00</td>
+      <td>London</td>
+      <td>3476</td>
+      <td>1406</td>
+      <td>3989</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1113361250879250433/mDWSGchU_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/407985637/1457427926" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>1369</th>
+      <td>558371012</td>
+      <td>daveeeyo</td>
+      <td>devi</td>
+      <td>2012-04-20 06:17:30+00:00</td>
+      <td>Republic of the Philippines</td>
+      <td>369</td>
+      <td>252</td>
+      <td>45917</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1510549296063852544/TvBbgfa0_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/558371012/1650513451" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>1467</th>
+      <td>141898258</td>
+      <td>chalany</td>
+      <td>Chalany High Heels</td>
+      <td>2010-05-09 10:21:37+00:00</td>
+      <td></td>
+      <td>3497</td>
+      <td>247</td>
+      <td>20431</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1545743500/facebook-twitter_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/141898258/1400693791" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>1494</th>
+      <td>3444471081</td>
+      <td>Wdym1010</td>
+      <td>~</td>
+      <td>2015-08-26 07:10:53+00:00</td>
+      <td>cu</td>
+      <td>38</td>
+      <td>127</td>
+      <td>1441</td>
+      <td><img src="http://pbs.twimg.com/profile_images/748239751665291264/R7aaxBP2_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/3444471081/1467229232" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>1515</th>
+      <td>419090523</td>
+      <td>URPlaylist</td>
+      <td>UR Playlist</td>
+      <td>2011-11-22 23:12:53+00:00</td>
+      <td></td>
+      <td>1348</td>
+      <td>1190</td>
+      <td>4801</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1652810349/logo_normal.png" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>1516</th>
+      <td>1869075972</td>
+      <td>ShoesPosts</td>
+      <td>Shoes Post</td>
+      <td>2013-09-15 20:30:40+00:00</td>
+      <td></td>
+      <td>117</td>
+      <td>12</td>
+      <td>11689</td>
+      <td><img src="http://pbs.twimg.com/profile_images/378800000519929731/c8e0b54a7f34c5caad94834d6e5533ec_normal.jpeg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>1568</th>
+      <td>1167708349</td>
+      <td>cintiaatestoni</td>
+      <td>cintia</td>
+      <td>2013-02-11 03:21:15+00:00</td>
+      <td></td>
+      <td>369</td>
+      <td>207</td>
+      <td>80825</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1524418246354644999/BaiUc9HI_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/1167708349/1649680894" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>2229</th>
+      <td>2565630435</td>
+      <td>jnpowers1</td>
+      <td>JasonPowers</td>
+      <td>2014-05-26 17:54:21+00:00</td>
+      <td>Orlando, Florida</td>
+      <td>1002</td>
+      <td>4493</td>
+      <td>41190</td>
+      <td><img src="http://pbs.twimg.com/profile_images/471647979146063872/XtGLNjsY_normal.jpeg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/2565630435/1401284615" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>2642</th>
+      <td>45077757</td>
+      <td>phoebebridge_rs</td>
+      <td>celina - 🕊</td>
+      <td>2009-06-06 05:44:11+00:00</td>
+      <td>Ceres</td>
+      <td>579</td>
+      <td>384</td>
+      <td>69602</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1524305830262288385/ol909IfC_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/45077757/1652094595" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>2664</th>
+      <td>2566988509</td>
+      <td>seoulris</td>
+      <td>🍑</td>
+      <td>2014-06-14 11:43:40+00:00</td>
+      <td></td>
+      <td>166</td>
+      <td>64</td>
+      <td>52368</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1185217567431909377/IdL3jRep_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/2566988509/1465372532" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>2976</th>
+      <td>2859589844</td>
+      <td>zarate_rose</td>
+      <td>Monica Rose</td>
+      <td>2014-10-17 06:22:40+00:00</td>
+      <td>Federal Way, WA</td>
+      <td>822</td>
+      <td>1592</td>
+      <td>2957</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1517413530609233920/N8S4LGrn_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/2859589844/1509087224" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>3101</th>
+      <td>3318006736</td>
+      <td>DoozlyBot</td>
+      <td>Doozly Bot</td>
+      <td>2015-06-10 21:15:25+00:00</td>
+      <td></td>
+      <td>10</td>
+      <td>1</td>
+      <td>64816</td>
+      <td><img src="http://pbs.twimg.com/profile_images/610393743066312704/Qalhm8Uq_normal.png" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>3269</th>
+      <td>1578718130</td>
+      <td>elcapitanoguti</td>
+      <td>CEYHUN KAZANCI</td>
+      <td>2013-07-08 21:49:56+00:00</td>
+      <td>Türkiye</td>
+      <td>96</td>
+      <td>267</td>
+      <td>16353</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1506225733005365248/ROaddpQL_normal.jpg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>3276</th>
+      <td>49290406</td>
+      <td>pezhmanism</td>
+      <td>Pezhman Tourtiz</td>
+      <td>2009-06-21 10:58:28+00:00</td>
+      <td>جمهوری اسلامی ایران</td>
+      <td>138</td>
+      <td>400</td>
+      <td>10465</td>
+      <td><img src="http://pbs.twimg.com/profile_images/757434813192241152/OfBdz09K_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/49290406/1404719483" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>3398</th>
+      <td>2821376586</td>
+      <td>FaceClaim</td>
+      <td>Leith's FC Help</td>
+      <td>2014-09-20 08:27:46+00:00</td>
+      <td>he / they</td>
+      <td>5157</td>
+      <td>147</td>
+      <td>35594</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1478954919214436353/fTP2CAxH_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/2821376586/1642335869" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>3500</th>
+      <td>1853109949</td>
+      <td>SomethingEpic3</td>
+      <td>Something Epic</td>
+      <td>2013-09-11 02:32:43+00:00</td>
+      <td>Indiana</td>
+      <td>55</td>
+      <td>261</td>
+      <td>3042</td>
+      <td><img src="http://pbs.twimg.com/profile_images/378800000454497421/067e92636930cb22b91cd6325b0b1642_normal.jpeg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/1853109949/1397179456" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>3509</th>
+      <td>733943023</td>
+      <td>isacvaltersen</td>
+      <td>🦊</td>
+      <td>2012-08-03 01:59:33+00:00</td>
+      <td>ela/dela</td>
+      <td>3987</td>
+      <td>3065</td>
+      <td>37613</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1516345216562876422/Q0kklJKo_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/733943023/1559107191" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>3560</th>
+      <td>961523010</td>
+      <td>neviofalcone</td>
+      <td>luana</td>
+      <td>2012-11-21 01:19:01+00:00</td>
+      <td>missy</td>
+      <td>3887</td>
+      <td>267</td>
+      <td>51897</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1499802894534651907/KyXinVWm_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/961523010/1646415862" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>3691</th>
+      <td>3284133972</td>
+      <td>style_knot</td>
+      <td>Style Knot</td>
+      <td>2015-07-19 09:23:06+00:00</td>
+      <td></td>
+      <td>47</td>
+      <td>38</td>
+      <td>2279</td>
+      <td><img src="http://pbs.twimg.com/profile_images/622698265293664260/AddVYkmx_normal.png" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/3284133972/1437297865" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>3747</th>
+      <td>2408813743</td>
+      <td>FashionEffecto</td>
+      <td>Fashion Effecto</td>
+      <td>2014-03-24 10:31:38+00:00</td>
+      <td></td>
+      <td>379</td>
+      <td>59</td>
+      <td>54974</td>
+      <td><img src="http://pbs.twimg.com/profile_images/448808192168820738/Ghw5DwmF_normal.jpeg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/2408813743/1396078529" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>3787</th>
+      <td>3399148931</td>
+      <td>ShwakScandal</td>
+      <td>Shwak Scandal</td>
+      <td>2015-08-01 19:42:48+00:00</td>
+      <td></td>
+      <td>59</td>
+      <td>315</td>
+      <td>6995</td>
+      <td><img src="http://pbs.twimg.com/profile_images/627566740524797952/2umVle8r_normal.jpg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>3878</th>
+      <td>3189938815</td>
+      <td>pepperolee</td>
+      <td>denise</td>
+      <td>2015-05-09 15:02:14+00:00</td>
+      <td></td>
+      <td>159</td>
+      <td>125</td>
+      <td>5125</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1514966719361843205/m19OCZZ9_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/3189938815/1431183926" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+  </tbody>
+</table>

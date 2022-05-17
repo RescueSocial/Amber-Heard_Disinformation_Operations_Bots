@@ -1,0 +1,510 @@
+<img src="wordcloud_2.png" style="display: block;width: 350px;margin-left: auto;margin-right: auto;" /><br><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>user.id_str</th>
+      <th>user.screen_name</th>
+      <th>user.name</th>
+      <th>user.created_at</th>
+      <th>user.location</th>
+      <th>user.followers_count</th>
+      <th>user.friends_count</th>
+      <th>user.statuses_count</th>
+      <th>profile_image_url</th>
+      <th>profile_banner_url</th>
+      <th>user.lang</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>148</th>
+      <td>79042409</td>
+      <td>Moviehole</td>
+      <td>Moviehole</td>
+      <td>2009-10-02 00:05:39+00:00</td>
+      <td>Moviehole HQ</td>
+      <td>8692</td>
+      <td>6104</td>
+      <td>28890</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1098163058856230912/_PTBovV0_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/79042409/1631711027" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>168</th>
+      <td>63415265</td>
+      <td>XJAlpha7</td>
+      <td>Dana Smith</td>
+      <td>2009-08-06 08:15:53+00:00</td>
+      <td></td>
+      <td>2507</td>
+      <td>1287</td>
+      <td>127829</td>
+      <td><img src="http://pbs.twimg.com/profile_images/352888172/chick_gun_normal.jpg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>170</th>
+      <td>17547378</td>
+      <td>POPSUGAREnt</td>
+      <td>POPSUGAR Ent</td>
+      <td>2008-11-21 22:21:46+00:00</td>
+      <td>San Francisco</td>
+      <td>27951</td>
+      <td>1060</td>
+      <td>79896</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1410596272713568257/uzZdSicv_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/17547378/1505857632" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>180</th>
+      <td>82813641</td>
+      <td>Rali55</td>
+      <td>T</td>
+      <td>2009-10-16 06:12:28+00:00</td>
+      <td></td>
+      <td>29</td>
+      <td>3</td>
+      <td>6049</td>
+      <td><img src="http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>236</th>
+      <td>15786796</td>
+      <td>threeeighths</td>
+      <td>Robo-Kywhi</td>
+      <td>2008-08-09 05:36:10+00:00</td>
+      <td>Wellington City, New Zealand</td>
+      <td>435</td>
+      <td>423</td>
+      <td>31604</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1199188500051943426/XXM3BU1E_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/15786796/1546759168" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>266</th>
+      <td>9730472</td>
+      <td>afterellen</td>
+      <td>AfterEllen.com</td>
+      <td>2007-10-27 08:39:16+00:00</td>
+      <td></td>
+      <td>110133</td>
+      <td>1487</td>
+      <td>30437</td>
+      <td><img src="http://pbs.twimg.com/profile_images/614898636695056384/L-IdOK91_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/9730472/1398964613" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>270</th>
+      <td>52333169</td>
+      <td>MutucElla</td>
+      <td>Ella Mutuc ♥</td>
+      <td>2009-06-30 07:19:25+00:00</td>
+      <td>City of San Fernando Pampanga</td>
+      <td>444</td>
+      <td>77</td>
+      <td>38978</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1515658478886752257/H0WKEtOc_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/52333169/1505687754" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>313</th>
+      <td>21736460</td>
+      <td>buzzhollywood</td>
+      <td>Buzz Hollywood</td>
+      <td>2009-02-24 07:10:56+00:00</td>
+      <td>Hollywood, CA</td>
+      <td>7637</td>
+      <td>43</td>
+      <td>196156</td>
+      <td><img src="http://pbs.twimg.com/profile_images/458798329233555456/mlO9WPLj_normal.jpeg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/21736460/1398221040" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>316</th>
+      <td>69750226</td>
+      <td>followbackz</td>
+      <td>We Follow Back</td>
+      <td>2009-08-29 01:25:27+00:00</td>
+      <td>NYC</td>
+      <td>2224</td>
+      <td>2223</td>
+      <td>109164</td>
+      <td><img src="http://pbs.twimg.com/profile_images/387131171/lydna-carter-wonder-woman_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/69750226/1454803908" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>317</th>
+      <td>71281850</td>
+      <td>MirrorMag</td>
+      <td>Mirror Magazine</td>
+      <td>2009-09-03 15:34:27+00:00</td>
+      <td>New York, NY</td>
+      <td>455</td>
+      <td>257</td>
+      <td>224552</td>
+      <td><img src="http://pbs.twimg.com/profile_images/703611601643917314/T3sMHqr9_normal.jpg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>319</th>
+      <td>14833304</td>
+      <td>POPSUGAR</td>
+      <td>POPSUGAR</td>
+      <td>2008-05-19 14:48:59+00:00</td>
+      <td>San Francisco, LA, NYC</td>
+      <td>230094</td>
+      <td>2190</td>
+      <td>268326</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1509910602948485135/QsAc0sP8_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/14833304/1651696274" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>330</th>
+      <td>78657873</td>
+      <td>think4peace</td>
+      <td>Wilma Flintstone</td>
+      <td>2009-09-30 17:24:27+00:00</td>
+      <td>Work From Home</td>
+      <td>357</td>
+      <td>1623</td>
+      <td>8221</td>
+      <td><img src="http://pbs.twimg.com/profile_images/445791533/111384_main_normal.jpg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>332</th>
+      <td>44993044</td>
+      <td>cool_fashion</td>
+      <td>2na</td>
+      <td>2009-06-05 20:53:18+00:00</td>
+      <td></td>
+      <td>472</td>
+      <td>14</td>
+      <td>43636</td>
+      <td><img src="http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>342</th>
+      <td>63816242</td>
+      <td>namlandlodge</td>
+      <td>leahcim</td>
+      <td>2009-08-07 20:15:52+00:00</td>
+      <td></td>
+      <td>2719</td>
+      <td>3150</td>
+      <td>49442</td>
+      <td><img src="http://pbs.twimg.com/profile_images/364143072/red-lips_normal.jpg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>368</th>
+      <td>18879369</td>
+      <td>haveuheard1</td>
+      <td>Special Days of the Month</td>
+      <td>2009-01-11 20:55:57+00:00</td>
+      <td>New York</td>
+      <td>18673</td>
+      <td>8739</td>
+      <td>37694</td>
+      <td><img src="http://pbs.twimg.com/profile_images/2201406696/huh_small_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/18879369/1393961900" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>423</th>
+      <td>47479204</td>
+      <td>catlynOmalley</td>
+      <td>Ms Chicago Belle</td>
+      <td>2009-06-15 23:33:33+00:00</td>
+      <td>3rd Planet from the Sun</td>
+      <td>1171</td>
+      <td>1882</td>
+      <td>84921</td>
+      <td><img src="http://pbs.twimg.com/profile_images/841934376980119553/ILBBsR25_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/47479204/1422543170" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>424</th>
+      <td>46748249</td>
+      <td>mtvceleb</td>
+      <td>MTV Celebrity</td>
+      <td>2009-06-12 21:04:05+00:00</td>
+      <td>New York, NY</td>
+      <td>81516</td>
+      <td>333</td>
+      <td>14451</td>
+      <td><img src="http://pbs.twimg.com/profile_images/855082225229889536/sroiH2fg_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/46748249/1492702547" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>426</th>
+      <td>22458822</td>
+      <td>Belinda_LD</td>
+      <td>B E L</td>
+      <td>2009-03-02 06:18:44+00:00</td>
+      <td>Sydney, Australia</td>
+      <td>160</td>
+      <td>78</td>
+      <td>5940</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1453903872263536644/b66kdVY1_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/22458822/1523234600" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>427</th>
+      <td>77772639</td>
+      <td>Gossip2You</td>
+      <td>The Gossip Channel</td>
+      <td>2009-09-27 16:31:50+00:00</td>
+      <td>United Kingdom</td>
+      <td>898</td>
+      <td>1326</td>
+      <td>2800</td>
+      <td><img src="http://pbs.twimg.com/profile_images/446698605/gossip_normal.jpeg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>428</th>
+      <td>19538986</td>
+      <td>JustJared</td>
+      <td>JustJared.com</td>
+      <td>2009-01-26 15:24:26+00:00</td>
+      <td>New York City</td>
+      <td>729223</td>
+      <td>2930</td>
+      <td>252084</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1299557778432733184/2Td7yYNU_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/19538986/1403589512" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>430</th>
+      <td>17567689</td>
+      <td>JustJaredDotCom</td>
+      <td>JustJaredDotCom</td>
+      <td>2008-11-23 02:50:32+00:00</td>
+      <td></td>
+      <td>946</td>
+      <td>0</td>
+      <td>16427</td>
+      <td><img src="http://pbs.twimg.com/profile_images/65213084/logo_normal.jpg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>431</th>
+      <td>38241833</td>
+      <td>GossipSpot</td>
+      <td>Celebrity Gossip</td>
+      <td>2009-05-06 18:23:33+00:00</td>
+      <td>Hollywood, CA</td>
+      <td>1624</td>
+      <td>868</td>
+      <td>121694</td>
+      <td><img src="http://pbs.twimg.com/profile_images/201118807/images_normal.jpg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>432</th>
+      <td>16084877</td>
+      <td>gossip_guy</td>
+      <td>Gossip_Guy</td>
+      <td>2008-09-01 17:04:45+00:00</td>
+      <td>New York</td>
+      <td>1441</td>
+      <td>16</td>
+      <td>205377</td>
+      <td><img src="http://pbs.twimg.com/profile_images/59253388/images-1_normal.jpeg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>435</th>
+      <td>21763011</td>
+      <td>RetnaLTD</td>
+      <td>Retna Ltd.</td>
+      <td>2009-02-24 15:30:48+00:00</td>
+      <td>New York, NY</td>
+      <td>800</td>
+      <td>502</td>
+      <td>2420</td>
+      <td><img src="http://pbs.twimg.com/profile_images/705862932127621120/qxbpeUfq_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/21763011/1457550779" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>437</th>
+      <td>38725822</td>
+      <td>celebrifi</td>
+      <td>celebrifi</td>
+      <td>2009-05-08 19:23:36+00:00</td>
+      <td>San Francisco, CA</td>
+      <td>541</td>
+      <td>8</td>
+      <td>37719</td>
+      <td><img src="http://pbs.twimg.com/profile_images/204699098/c-heart-logo_normal.PNG" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>441</th>
+      <td>36178493</td>
+      <td>GossipGander</td>
+      <td>GossipGander.com</td>
+      <td>2009-04-28 20:49:55+00:00</td>
+      <td></td>
+      <td>941</td>
+      <td>629</td>
+      <td>30334</td>
+      <td><img src="http://pbs.twimg.com/profile_images/188986443/gossiplogo_normal.jpg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>442</th>
+      <td>56062418</td>
+      <td>olalalife</td>
+      <td>olalal</td>
+      <td>2009-07-12 10:05:54+00:00</td>
+      <td></td>
+      <td>611</td>
+      <td>1079</td>
+      <td>39302</td>
+      <td><img src="http://pbs.twimg.com/profile_images/333145155/olalalife_normal.jpg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>445</th>
+      <td>78931521</td>
+      <td>Mary4Jane</td>
+      <td>Mariana Jane</td>
+      <td>2009-10-01 15:33:57+00:00</td>
+      <td>chicago</td>
+      <td>275</td>
+      <td>114</td>
+      <td>8267</td>
+      <td><img src="http://pbs.twimg.com/profile_images/615275028410691584/mrPBEWfG_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/78931521/1435527972" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>446</th>
+      <td>62628390</td>
+      <td>TrigeiaGossip</td>
+      <td>Trigeia Gossip</td>
+      <td>2009-08-03 21:36:25+00:00</td>
+      <td>Trigeia Universe</td>
+      <td>80</td>
+      <td>4</td>
+      <td>3554</td>
+      <td><img src="http://pbs.twimg.com/profile_images/346427334/model_icon_normal.jpg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>449</th>
+      <td>59598109</td>
+      <td>hollywoodnewz</td>
+      <td>Hollywood News Now</td>
+      <td>2009-07-23 21:43:47+00:00</td>
+      <td>Hollywood California 90069</td>
+      <td>5730</td>
+      <td>74</td>
+      <td>292047</td>
+      <td><img src="http://pbs.twimg.com/profile_images/423985160220991488/op3VkEl4_normal.jpeg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/59598109/1398382107" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>450</th>
+      <td>30371641</td>
+      <td>medianewsnow</td>
+      <td>Media News Now</td>
+      <td>2009-04-11 02:09:56+00:00</td>
+      <td>Los Angeles, California</td>
+      <td>626</td>
+      <td>780</td>
+      <td>187785</td>
+      <td><img src="http://pbs.twimg.com/profile_images/2486374534/2eefdbf23kkixmu2yg8o_normal.jpeg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/30371641/1424284247" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>547</th>
+      <td>26020465</td>
+      <td>ETCanada</td>
+      <td>ET Canada</td>
+      <td>2009-03-23 15:22:25+00:00</td>
+      <td>Canada</td>
+      <td>387802</td>
+      <td>12458</td>
+      <td>382721</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1412400405959557125/ifwOT0na_normal.jpg" style=max-height:124px;"/></td>
+      <td><img src="https://pbs.twimg.com/profile_banners/26020465/1625593922" style=max-height:124px;"/></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>548</th>
+      <td>17164367</td>
+      <td>theVHT</td>
+      <td>Celebrity Gossip</td>
+      <td>2008-11-04 18:58:18+00:00</td>
+      <td>Hollywood</td>
+      <td>1330</td>
+      <td>791</td>
+      <td>45605</td>
+      <td><img src="http://pbs.twimg.com/profile_images/283419016/profile_normal.gif" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>563</th>
+      <td>64239247</td>
+      <td>GoogCelebrity</td>
+      <td>GoogCelebrity</td>
+      <td>2009-08-09 19:51:04+00:00</td>
+      <td>Hollywood, Los Angeles, CA</td>
+      <td>682</td>
+      <td>876</td>
+      <td>19545</td>
+      <td><img src="http://pbs.twimg.com/profile_images/401803583/jen86v_normal.jpg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <th>570</th>
+      <td>23739448</td>
+      <td>ChandlerDillon</td>
+      <td>Laura</td>
+      <td>2009-03-11 08:55:45+00:00</td>
+      <td></td>
+      <td>146</td>
+      <td>16</td>
+      <td>20837</td>
+      <td><img src="http://pbs.twimg.com/profile_images/1167297480/tumblr_lbneinOh5u1qeweamo1_r1_1280_normal.jpg" style=max-height:124px;"/></td>
+      <td>NaN</td>
+      <td>None</td>
+    </tr>
+  </tbody>
+</table>
