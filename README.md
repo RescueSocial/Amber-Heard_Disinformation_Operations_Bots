@@ -30,7 +30,7 @@ This is the most detailed public analysis of a disinformation operation and the 
  - <b><a href="https://www.kaggle.com/datasets/amberhearddata/data-instagram-amber-heard-social-network-analysis">Instagram</a>:</b> 1,751,113 Comments, 193,967 Posts, 717,311 Accounts (Posts made by 36,137 accounts and 681,174 commented), Links
  - <b>YouTube:</b> <a href="https://www.kaggle.com/datasets/amberhearddata/data-youtube-amber-heard-social-network-analysis">(1)</a> 2,176,926 Comments (1,693,341 Comments with 483,585 Replies), 6,893 Videos (with dislike ratios), 1,152,868 Accounts, Cross-Platform Links, <a href="https://www.kaggle.com/datasets/amberhearddata/data-youtube-amber-heard-social-network-analysis-2">(2)</a> 11,152 videos, 324,029 comments
 - <b><a href="https://www.kaggle.com/datasets/amberhearddata/data-change-petitions-amber-heard-social-networks">Change.org</a>:</b> 28,952 Comments, 181 Petitions, 2,117 Milestones, Cross-Platform Links
-- <b>Facebook:</b> Page Comments and Reviews, Links in Groups for Cross-Platforms 
+- <b><a href="https://www.kaggle.com/datasets/amberhearddata/data-facebook-amber-heard-social-network-analysis">Facebook</a>:</b> Page Comments and Reviews, Links in Groups for Cross-Platforms 
 - Crossplatform for Groups in Facebook, Reddit, and Channels of YouTube<br>
 
 ### <b>Index and Contents:<br></b>
