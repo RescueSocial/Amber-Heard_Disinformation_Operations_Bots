@@ -14,16 +14,18 @@ Twitter is the most studied platform in the scientific world. After a cyber inte
 985,400 Tweets and 275,567 Accounts Jan 2018-April 2021. 497K Tweets with 182K accounts Jan-April 2022, (2) Over 880,000 Tweets of Top Users, (3) 700K+ Retweets, Links, (4) 56K Liking Accounts 2021, (5) 104K Quote Retweets, 57K Accounts of AH Timeline 2017-2022, (6) 134K Comments on Amber Heard Profile 2017-2022, (7) 2008-2017 with 698K Tweets on Amber Heard, Cluster Analysis 2008-2022</i>
 
 ### <b>Reports:</b>
-The first team of 3 Udacity graduates in data analysis quickly studied the years 2018-2021 for peaks, anomalies, and new account layers. NLP analysis is included, though mainly studying timelines and correlations. They created 4 years of reports and a scores report. They used machine learning and botometer to create botscores.
+A Cyber Intelligence Researcher in Italy collected Twitter, Reddit, and Instagram Data on Amber Heard and created Twitter and Reddit Dashboards of statistics. Below analysis was preliminary and the start of our Social Network Analysis project. The Clustering Analysis of this researcher and collections is key.
+
+A team of 3 Udacity graduates in nanoscience/data analysis quickly studied the years 2018-2021 for peaks, anomalies, and new account layers. NLP analysis is included, though mainly studying timelines and correlations. They created 4 years of reports and a scores report. They used machine learning and botometer to create botscores.
 
 A 2nd team did Coordination Analysis of Top 500 accounts, including Network Graphs of following coordination. E.g., DeppSoldier_22 is an automated account with the highest posting and highest following coordination. Their reports are included and most of their data for review. With public safety grants, <a href="https://zaytrics.com/portfolio/">Zaytrics</a> had previously studied identifying risk groups on Twitter: https://www.sciencedirect.com/science/article/abs/pii/S1751157720306386
 
-A Cyber Intelligence Researcher in Italy collected Twitter, Reddit, and Instagram Data on Amber Heard and created Twitter and Reddit Dashboards of statistics. Below analysis was preliminary and the start of our Social Network Analysis project.
 ### Topic-based account groups - Cyber Intelligence Researcher Analysis - April 2021 (The start of our research):
 
 Using Google’s <a href="https://tfhub.dev/google/universal-sentence-encoder/1">Universal Sentence Encoder</a> which encodes text into high dimensional vectors, a cyber intelligence researcher analyzed topics shared by accounts each month during 2020. To do that, they used <a href="https://umap-learn.readthedocs.io/en/latest/parameters.html">UMAP</a> for non-linear dimension reduction, then they clustered similar tweets through <a href="https://hdbscan.readthedocs.io/en/latest/basic_hdbscan.html">HDBCAN</a>.
 Next, they generated a network of co-occurrences for the accounts that appeared in the same clusters. They applied a community detection algorithm to the resulting network, in this case <a href="https://www.nature.com/articles/s41598-019-41695-z">Leiden</a> to find clusters of accounts that shared tweets on the same topic.
-<br><i>They looked at 2 Peak Days in February 2020 and November 2020 on Twitter.</i> We see sports bots, nonsensical mentions, and DC Movie networks in bot networks.
+<br><i>They looked at 2 Peak Days in February 2020 and November 2020 on Twitter.</i> 
+<br>We see sports bots, nonsensical mentions, and DC Movie networks in bot networks.
 
 - Arsenal network (February)<br>
 Most of the groups of accounts have expressed their desire not to see Amber in the upcoming Aquaman sequel. 
@@ -37,7 +39,7 @@ These are probably mentions to accounts, which anyway have very unusual screen_n
 - Mentions network (part 2) (November)<br>
 Similar to the previous group, this group of 50 accounts also shared meaningless keywords.
 
-<b>Clustering Network Analysis and Data Groups by Italian Cyber Intelligence Researcher for 2018-April 2022 on Amber Heard</b>
+### <b>Clustering Network Analysis and Data Groups by Italian Cyber Intelligence Researcher for 2018-April 2022 on Amber Heard</b>
 Over the 5 years of 2018-2022, there are 3,658 clustering groups. 
 <bbr>Each month has its own folders with data and visualization (viz) files. Viz files contain the clustering with hundreds-thousands of wordclouds and groups of accounts.
 
