@@ -3,8 +3,9 @@
 Each month has its own folders with data and visualization (viz) files. Viz files contain the clustering with hundreds-thousands of wordclouds and groups of accounts.
 
 In these files, there are many clusters of Nonsensical Mentions (random letters and numbers) of other accounts, which demonstrates services/a company using bots to target Amber Heard on Twitter to then go onto Change.org petitions. 
+<br>We are doing more analysis on this.
 
-- The flood of nonsencial mentions around Aquaman shows increasing milestones during Amber Heard's court case in April 2022. In April alone, there are 813 clusters.
+- The flood of nonsencial mentions around Aquaman on Twitter shows increasing milestones on Change.org during Amber Heard's court case in April 2022. In April alone, there are 813 clusters which can show botnets within them.
   
 Twitter is especially used for sharing URLS (e.g., the petition against Amber Heard). Wordclouds frequently show attacking Amber Heard about Aquaman and the petitions. <br>Share counts are done on Change.org and log-in accounts to astroturf share counts and views.
 <br>The study on the rescue group White Helmets in academia demonstrates that one of Twitter's main purposes is to share urls/links and that's seen in this study.
