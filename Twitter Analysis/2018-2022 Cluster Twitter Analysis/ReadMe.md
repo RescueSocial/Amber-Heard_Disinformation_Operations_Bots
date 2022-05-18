@@ -6,7 +6,7 @@ In these files, there are many clusters of Nonsensical Mentions (random letters 
 
 <br>
 <div style="width:500px ; height:100px">
-<img src="/blob/main/Twitter%20Analysis/2018-2022%20Cluster%20Twitter%20Analysis/2022%20Clustering%20Twitter%20Result/viz/apr/wordcloud_234.png" alt="Nonsensical Mentions Around Aquaman Amber Heard Petition" title="April wordcloud 234 nonsensical mentions Aquaman Amber Heard"><div>
+<img src="/2022%20Clustering%20Twitter%20Result/viz/apr/wordcloud_234.png" alt="Nonsensical Mentions Around Aquaman Amber Heard Petition" title="April wordcloud 234 nonsensical mentions Aquaman Amber Heard"><div>
 
 The flood of nonsencial mentions around Aquaman shows increasing milestones during Amber Heard's court case in April 2022. In April alone, there are 813 clusters.
   
