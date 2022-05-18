@@ -5,7 +5,7 @@ Each month has its own folders with data and visualization (viz) files. Viz file
 In these files, there are many clusters of Nonsensical Mentions (random letters and numbers) of other accounts, which demonstrates services/a company using bots to target Amber Heard on Twitter to then go onto Change.org petitions. 
 
 <br>
-<div style="width:500px ; height:100px">
+<div style="width:200px; height:100px">
 <img src="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/blob/main/Twitter%20Analysis/2018-2022%20Cluster%20Twitter%20Analysis/2022%20Clustering%20Twitter%20Result/viz/apr/wordcloud_234.png?raw=true" alt="Nonsensical Mentions Around Aquaman Amber Heard Petition" title="April wordcloud 234 nonsensical mentions Aquaman Amber Heard"><div>
 
 The flood of nonsencial mentions around Aquaman shows increasing milestones during Amber Heard's court case in April 2022. In April alone, there are 813 clusters.
