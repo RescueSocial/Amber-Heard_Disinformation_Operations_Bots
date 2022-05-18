@@ -14,7 +14,7 @@ Twitter is especially used for sharing URLS (e.g., the petition against Amber He
 <div style="width:200px; height:100px">
 <img src="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/blob/main/Twitter%20Analysis/2018-2022%20Cluster%20Twitter%20Analysis/2022%20Clustering%20Twitter%20Result/viz/apr/wordcloud_234.png?raw=true" alt="Nonsensical Mentions Around Aquaman Amber Heard Petition" title="April wordcloud 234 nonsensical mentions Aquaman Amber Heard" width="200" height="200">
   
-<img src="  https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/blob/main/Twitter%20Analysis/2018-2022%20Cluster%20Twitter%20Analysis/2022%20Clustering%20Twitter%20Result/viz/apr/wordcloud_236.png?raw=true" alt="Nonsensical Mentions Around Aquaman Amber Heard Petition" title="April wordcloud 236 nonsensical mentions Aquaman Amber Heard" width="200" height="200">
+<img src="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/blob/main/Twitter%20Analysis/2018-2022%20Cluster%20Twitter%20Analysis/2022%20Clustering%20Twitter%20Result/viz/apr/wordcloud_236.png?raw=true" alt="Nonsensical Mentions Around Aquaman Amber Heard Petition" title="April wordcloud 236 nonsensical mentions Aquaman Amber Heard" width="200" height="200">
 
   <div>
 <br>
