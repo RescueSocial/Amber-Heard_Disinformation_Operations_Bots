@@ -1,19 +1,19 @@
 # SNA-AH-Case - Twitter 
 <i><b>Twitter - Social Network Analysis on Amber Heard's Case Example from Data Analysts, Researchers, and Scientists.</b></i>
 
-<b>To get a fuller understanding of the scale of the <a href="https://twitter.com/benimmo/status/1309532354306879488">Category 6</a> operation and of quantifications of the risks, we started with Twitter then moved forward to 6 platforms. </b>
+<b>To get a fuller understanding of the scale of the <a href="https://twitter.com/benimmo/status/1309532354306879488">Category 6</a> operation and of quantifications of the risks, we started with Twitter then moved forward to 7 platforms. Since Twitter operations use more dense Artificial Intelligence, <a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/Twitter%20Analysis/2018-2022%20Cluster%20Twitter%20Analysis">Clustering Analysis</a> algorithms are truly required. </b>
 <br><i>It's important to study multiple platforms for situation awareness and gamification. </i>
-- <b>Clustering Analysis, Analysis, reports, and data of timelines, coordination, accounts, peaks, wordclouds, hashtags, top shared urls, are included. Since Twitter uses more Artificial Intelligence, Clustering Analysis algorithms are truly required.</b>
+- <b>Clustering Analysis, Analysis, reports, and data of timelines, coordination, accounts, peaks, wordclouds, hashtags, top shared urls, are included. </b>
 <br><i><b>-> New accounts created each month and day correlate to peaks on Twitter.</b></i>
 
 Twitter is the most studied platform in the scientific world. After a cyber intelligence researcher collected data with APIs, obtaining analysis on it was relatively fast with previous models already created and high levels of anomalies. However, clustering analysis was required to truly understand the botnets due to the AI use on Twitter of <a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/Positive%20-%20NLG%20Compliments">prompts</a> compared to YouTube or Instagram.
-<br>2ndly, we had use of the academic api, to obtain all data on Amber Heard in the archive until 2006, quote retweets, and retweets. Like-Account analysis was slow and difficult, yet, we still see about 1,200+ accounts that are for liking-only within 10K tweets from 2021.
+<br>2ndly, we had use of the Academic API, to obtain all data on Amber Heard in the archive until 2006, quote retweets, and retweets. Like-Account analysis was slow and difficult, yet, we still see about 1,200+ accounts that are for liking-only within 10K tweets from 2021.
 - Understanding AI NLU, monitoring, and NLG with prompts is useful to understand the increased density 2019 onward and data samples.
 - Although YouTube, one of the least studied platforms, has higher volume of accounts and Tens of Thousands of repeated same texts, and Reddit has 5,025 banned accounts as the most contributing accounts, the operation on Twitter is continual, risk-infused, and dense. There are Tens of Thousands of New Accounts Per Year.
 - <i>Data Collected of Twitter: 1,732,916 Tweets and 459,228 Accounts Jan 2018-April 2022.
 985,400 Tweets and 275,567 Accounts Jan 2018-April 2021. 497K Tweets with 182K accounts Jan-April 2022, (2) Over 880,000 Tweets of Top Users, (3) 700K+ Retweets, Links, (4) 56K Liking Accounts 2021, (5) 104K Quote Retweets, 57K Accounts of AH Timeline 2017-2022, (6) 134K Comments on Amber Heard Profile 2017-2022, (7) 2008-2017 with 698K Tweets on Amber Heard, Cluster Analysis 2008-2022</i>
 
-### <b>Reports:</b>
+### <b>Reports on Twitter:</b>
 A Cyber Intelligence Researcher in Italy collected Twitter, Reddit, and Instagram Data on Amber Heard and created Twitter and Reddit Dashboards of statistics. Below analysis was preliminary and the start of our Social Network Analysis project. The Clustering Analysis of this researcher and collections is key.
 
 A team of 3 Udacity graduates in nanoscience/data analysis quickly studied the years 2018-2021 for peaks, anomalies, and new account layers. NLP analysis is included, though mainly studying timelines and correlations. They created 4 years of reports and a scores report. They used machine learning and botometer to create botscores.
