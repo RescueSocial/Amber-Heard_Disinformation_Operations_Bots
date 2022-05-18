@@ -11,7 +11,7 @@ Twitter is especially used for sharing URLS (e.g., the petition against Amber He
 <br>The study on the rescue group White Helmets in academia demonstrates that one of Twitter's main purposes is to share urls/links and that's seen in this study.
 
 <div style="width:200px; height:100px">
-<img src="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/blob/main/Twitter%20Analysis/2018-2022%20Cluster%20Twitter%20Analysis/2022%20Clustering%20Twitter%20Result/viz/apr/wordcloud_234.png?raw=true" alt="Nonsensical Mentions Around Aquaman Amber Heard Petition" title="April wordcloud 234 nonsensical mentions Aquaman Amber Heard"><div>
+<img src="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/blob/main/Twitter%20Analysis/2018-2022%20Cluster%20Twitter%20Analysis/2022%20Clustering%20Twitter%20Result/viz/apr/wordcloud_234.png?raw=true" alt="Nonsensical Mentions Around Aquaman Amber Heard Petition" title="April wordcloud 234 nonsensical mentions Aquaman Amber Heard" width="200" height="200"><div>
 <br>
 Further, in wordclouds of clustering, we can see language from Reddit threatening images sometimes repeating here (NLP). A research paper shows that Reddit is frequently used as a sandbox, however, there is lower volume of bots on Reddit than YouTube/Twitter as it's hard to use IP4 vs IP6 on it (costs more). 2ndly, Instagram cannot flood against her name like other platforms because <br>Instagram has high restrictions with detecting bots quickly, so attacking her would be more obvious.
 <br>From data science, these groups were astroturfed.
