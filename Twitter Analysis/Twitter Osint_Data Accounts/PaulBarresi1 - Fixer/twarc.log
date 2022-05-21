@@ -1,0 +1,73 @@
+2022-05-08 23:34:27,889 INFO loading None profile from config C:\Users\Administrator\.twarc
+2022-05-08 23:34:27,904 INFO creating http session
+2022-05-08 23:34:27,904 INFO creating OAuth1 user authentication
+2022-05-08 23:34:27,904 INFO getting ('https://api.twitter.com/1.1/account/verify_credentials.json',) {'params': {'tweet_mode': 'extended'}}
+2022-05-08 23:34:28,061 INFO looking up users PaulBarresi1
+2022-05-08 23:34:28,061 INFO getting ('https://api.twitter.com/1.1/users/lookup.json',) {'params': {'screen_name': 'PaulBarresi1', 'tweet_mode': 'extended'}}
+2022-05-08 23:34:28,123 INFO archived 1444771622640971777
+2022-05-08 23:34:50,404 INFO loading None profile from config C:\Users\Administrator\.twarc
+2022-05-08 23:34:50,404 INFO creating http session
+2022-05-08 23:34:50,404 INFO creating OAuth1 user authentication
+2022-05-08 23:34:50,404 INFO getting ('https://api.twitter.com/1.1/account/verify_credentials.json',) {'params': {'tweet_mode': 'extended'}}
+2022-05-08 23:34:50,529 INFO getting ('https://api.twitter.com/1.1/friends/ids.json',) {'params': {'screen_name': 'PaulBarresi1', 'cursor': -1, 'tweet_mode': 'extended'}}
+2022-05-08 23:35:04,180 INFO loading None profile from config C:\Users\Administrator\.twarc
+2022-05-08 23:35:04,180 INFO creating http session
+2022-05-08 23:35:04,180 INFO creating OAuth1 user authentication
+2022-05-08 23:35:04,180 INFO getting ('https://api.twitter.com/1.1/account/verify_credentials.json',) {'params': {'tweet_mode': 'extended'}}
+2022-05-08 23:35:04,335 INFO getting ('https://api.twitter.com/1.1/followers/ids.json',) {'params': {'screen_name': 'PaulBarresi1', 'cursor': -1, 'tweet_mode': 'extended'}}
+2022-05-08 23:35:04,366 INFO archived 1044231098006425601
+2022-05-08 23:35:04,366 INFO archived 264953042
+2022-05-08 23:35:04,366 INFO archived 26494831
+2022-05-08 23:35:04,366 INFO archived 3188788849
+2022-05-08 23:35:21,750 INFO loading None profile from config C:\Users\Administrator\.twarc
+2022-05-08 23:35:21,750 INFO creating http session
+2022-05-08 23:35:21,750 INFO creating OAuth1 user authentication
+2022-05-08 23:35:21,750 INFO getting ('https://api.twitter.com/1.1/account/verify_credentials.json',) {'params': {'tweet_mode': 'extended'}}
+2022-05-08 23:35:21,891 INFO starting user timeline for user PaulBarresi1
+2022-05-08 23:35:21,891 INFO getting ('https://api.twitter.com/1.1/statuses/user_timeline.json',) {'params': {'count': 200, 'screen_name': 'PaulBarresi1', 'include_ext_alt_text': 'true', 'tweet_mode': 'extended'}}
+2022-05-08 23:35:22,125 INFO archived 1522868171086045184
+2022-05-08 23:35:22,125 INFO archived 1522867012774420480
+2022-05-08 23:35:22,125 INFO archived 1522727034639708161
+2022-05-08 23:35:22,125 INFO archived 1522648450919063552
+2022-05-08 23:35:22,125 INFO archived 1522648413409402881
+2022-05-08 23:35:22,141 INFO archived 1522320561296183297
+2022-05-08 23:35:22,141 INFO archived 1522042826401320960
+2022-05-08 23:35:22,141 INFO archived 1522041866375471104
+2022-05-08 23:35:22,141 INFO archived 1522041803096006656
+2022-05-08 23:35:22,141 INFO archived 1522025345020403712
+2022-05-08 23:35:22,141 INFO archived 1522024292069699584
+2022-05-08 23:35:22,141 INFO archived 1522023793350176768
+2022-05-08 23:35:22,141 INFO archived 1522023736232144896
+2022-05-08 23:35:22,141 INFO archived 1522022946671185921
+2022-05-08 23:35:22,141 INFO archived 1522022905604755458
+2022-05-08 23:35:22,141 INFO archived 1522022858876014592
+2022-05-08 23:35:22,141 INFO archived 1522022763707322368
+2022-05-08 23:35:22,141 INFO archived 1522022736104595457
+2022-05-08 23:35:22,141 INFO archived 1522022680735625216
+2022-05-08 23:35:22,141 INFO archived 1522022606425128960
+2022-05-08 23:35:22,141 INFO archived 1522022487139053568
+2022-05-08 23:35:22,141 INFO archived 1522021902486622208
+2022-05-08 23:35:22,141 INFO archived 1522021716125372417
+2022-05-08 23:35:22,156 INFO archived 1522021667458846720
+2022-05-08 23:35:22,156 INFO archived 1522021593982988288
+2022-05-08 23:35:22,156 INFO archived 1522021564614529024
+2022-05-08 23:35:22,156 INFO archived 1522021535690592257
+2022-05-08 23:35:22,156 INFO archived 1522021448851755008
+2022-05-08 23:35:22,156 INFO archived 1522019902239870976
+2022-05-08 23:35:22,156 INFO archived 1517939867543502848
+2022-05-08 23:35:22,156 INFO getting ('https://api.twitter.com/1.1/statuses/user_timeline.json',) {'params': {'count': 200, 'screen_name': 'PaulBarresi1', 'include_ext_alt_text': 'true', 'tweet_mode': 'extended', 'max_id': '1517939867543502847'}}
+2022-05-08 23:35:22,203 INFO no new tweets matching {'count': 200, 'screen_name': 'PaulBarresi1', 'include_ext_alt_text': 'true', 'tweet_mode': 'extended', 'max_id': '1517939867543502847'}
+2022-05-08 23:35:37,776 INFO loading None profile from config C:\Users\Administrator\.twarc
+2022-05-08 23:35:37,776 INFO creating http session
+2022-05-08 23:35:37,776 INFO creating OAuth1 user authentication
+2022-05-08 23:35:37,776 INFO getting ('https://api.twitter.com/1.1/account/verify_credentials.json',) {'params': {'tweet_mode': 'extended'}}
+2022-05-08 23:35:37,901 INFO looking up users 1044231098006425601,264953042,26494831,3188788849
+2022-05-08 23:35:37,901 INFO getting ('https://api.twitter.com/1.1/users/lookup.json',) {'params': {'user_id': '1044231098006425601,264953042,26494831,3188788849', 'tweet_mode': 'extended'}}
+2022-05-08 23:35:37,996 INFO archived 1044231098006425601
+2022-05-08 23:35:37,996 INFO archived 264953042
+2022-05-08 23:35:37,996 INFO archived 26494831
+2022-05-08 23:35:37,996 INFO archived 3188788849
+2022-05-08 23:35:50,604 INFO loading None profile from config C:\Users\Administrator\.twarc
+2022-05-08 23:35:50,604 INFO creating http session
+2022-05-08 23:35:50,604 INFO creating OAuth1 user authentication
+2022-05-08 23:35:50,604 INFO getting ('https://api.twitter.com/1.1/account/verify_credentials.json',) {'params': {'tweet_mode': 'extended'}}
