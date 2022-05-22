@@ -23,7 +23,7 @@ Twitter is especially used for sharing URLS (e.g., the petition against Amber He
 
   <div>
 <br>
-Further, in wordclouds of clustering, we can see language from Reddit threatening images sometimes repeating here (NLP). A research paper shows that Reddit is frequently used as a sandbox, however, there is lower volume of bots on Reddit than YouTube/Twitter as it's hard to use IP4 vs IP6 on it (costs more). 2ndly, Instagram cannot flood against her name like other platforms because <br>Instagram has high restrictions with detecting bots quickly, so attacking her would be more obvious.
+Further, in wordclouds of clustering, we can see language from Reddit threatening images sometimes repeating here (NLP). A research paper shows that Reddit is frequently used as a sandbox (meaning where they test astroturfing), however, there is lower volume of bots on Reddit than YouTube/Twitter as it's hard to use IP4 vs IP6 on it (costs more). 2ndly, Instagram cannot flood against her name like other platforms because <br>Instagram has high restrictions with detecting bots quickly, so attacking her would be more obvious.
 <br>From data science, these groups were astroturfed.
 <br>With the data and analysis, it is clear it's an operation, not a campaign or groups. Sadly, each platform is used for its own purposes. 
 <br>
