@@ -9,7 +9,7 @@
 Twitter is the most studied platform in the scientific world, which makes companies which manipulate Twitter use more advanced technologies. After a cyber intelligence researcher collected data with APIs, obtaining analysis on it was relatively fast with previous models already created and high levels of anomalies. However, clustering analysis was required to truly understand the botnets due to the AI use on Twitter of <a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/Positive%20-%20NLG%20Compliments">prompts</a> compared to YouTube or Instagram.
 
 2ndly, we had use of the Academic API, to obtain all data on Amber Heard in the archive until 2006, quote retweets, and retweets. Like-Account analysis was slow and difficult, yet, we still see about 1,200+ accounts that are for liking-only within 10K tweets from 2021.
-- Clustering Analysis is needed to show use of the platform for bots used on petitions due to nonsensical mentions around Amber Heard, Aquaman, and DC Entertainment.
+- Clustering Analysis is needed to show use of the platform for bots used on petitions due to closely timed, coordinated clusters of accounts around Amber Heard, Aquaman, and DC Entertainment.
 - Understanding AI NLU, monitoring, and NLG with prompts is useful to understand the increased density 2019 onward and data samples. 
 <br>There are over 9,000 deleted or banned accounts in our <a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/NLU%20Labeling%2C%20Monitoring%20Cross-Platforms">NLU Analysis</a>. From browsing other Private Sector/Hollywood Fixer operations, e.g., the modus operendi of deleting accounts after they've targeted victims and the victim's supporters may be common, which requires then monitoring and/or more future cooperation with social media companies.
 - Although YouTube, one of the least studied platforms, has higher volume of accounts and Tens of Thousands of repeated same texts, and Reddit has 5,025 banned accounts as the most contributing accounts, the operation on Twitter is continual, risk-infused, and dense. There are Tens of Thousands of New Accounts Per Year.
@@ -38,7 +38,7 @@ This group stands out from the others because instead of focusing on the events,
 What's suspicious is that all 35 or so accounts have a picture from a movie as their banner image, mostly from DC.
 - Mentions network (November)<br>
 This group of 60 accounts in addition to the most used keywords and hashtags, shared words that didn't seem to make sense. 
-These are probably mentions to accounts, which anyway have very unusual screen_names: tsAHuahu6E, t4m4UWQ0S5 etc..
+These are probably mentions to accounts, which anyway have very unusual screen_names: tsAHuahu6E, t4m4UWQ0S5 etc.. (This was checked to be shortened urls, but they can be closely timed to be coordinated).
 - Mentions network (part 2) (November)<br>
 Similar to the previous group, this group of 50 accounts also shared meaningless keywords.
 
