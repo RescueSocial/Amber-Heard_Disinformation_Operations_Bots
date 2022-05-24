@@ -46,10 +46,11 @@ Similar to the previous group, this group of 50 accounts also shared meaningless
 Over the 5 years of 2018-2022, there are 3,658 clustering groups. 
 <bbr>Each month has its own folders with data and visualization (viz) files. Viz files contain the clustering with hundreds-thousands of wordclouds and groups of accounts.
 
-In these files, there are many clusters of Nonsensical Mentions (random letters and numbers) of other accounts, which demonstrates services/a company using bots to target Amber Heard on Twitter to then go onto Change.org petitions. 
+In these files, there are many clusters of texts which can be analyzed for further interpretation, e.g., nonsensical texts, shortened urls, timings of clusters of accounts. E.g., closely timed clusters of accounts all writing the same texts can often be botnets. The same can especially apply to YouTube, which won't be using as much AI prompts as Twitter is, so it can be obvious there unlike Twitter. 
+<br>From this, it can be demonstrated that services/a company using bots to target Amber Heard on Twitter to then go onto Change.org petitions. 
 <br>We are doing more analysis on this.
 
-- The flood of nonsencial mentions around Aquaman on Twitter shows increasing milestones on Change.org during Amber Heard's court case in April 2022. In April alone, there are 813 clusters which can show botnets within them.
+- The flood of clusters around Aquaman on Twitter shows increasing milestones on Change.org during Amber Heard's court case in April 2022. In April alone, there are 813 clusters which can show botnets within them.
 - To see the wordclouds easier in images, there's this Google Folder: https://drive.google.com/drive/folders/1SD1JLNFbXTjGvYJhkEFvvLKSzZZAcrfu?usp=sharing
   
 Twitter is especially used for sharing URLS (e.g., the petition against Amber Heard). Wordclouds frequently show attacking Amber Heard about Aquaman and the petitions. <br>Share counts are done on Change.org and log-in accounts to astroturf share counts and views.
