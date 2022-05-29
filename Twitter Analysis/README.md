@@ -31,9 +31,13 @@ Next, they generated a network of co-occurrences for the accounts that appeared 
 <br>We see sports bots, nonsensical mentions, and DC Movie networks in bot networks.
 
 - Arsenal network (February)<br>
+<div style="width:200px; height:100px">
+<img src="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/blob/main/Twitter%20Analysis/2020%20BotNet%20Arsenal%20Network%20Feb%20tweets%20analysis.png?raw=true" alt="Arsenal Sports Networj Amber Heard" title="Arsenal sports network Amber Heard" width="200" height="200">
+
 Most of the groups of accounts have expressed their desire not to see Amber in the upcoming Aquaman sequel. 
 Users belonging to one of these groups, however, show similarities, in this case about 30 users have a picture of the Arsenal team as their banner image.
 - Movies network (February)<br>
+  <img src="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/blob/main/Twitter%20Analysis/2020%20BotNet%20Movies%20Network%20Feb%20tweets%20analysis.png?raw=true" alt="Movies Network Aquaman Amber Heard" title="Movies Netwok Aquaman Amber Heard" width="200" height="200">
 This group stands out from the others because instead of focusing on the events, they just tweeted to offend Amber. 
 What's suspicious is that all 35 or so accounts have a picture from a movie as their banner image, mostly from DC.
 - Mentions network (November)<br>
