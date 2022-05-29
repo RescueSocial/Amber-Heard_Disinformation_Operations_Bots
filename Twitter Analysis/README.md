@@ -9,7 +9,7 @@
 Twitter is the most studied platform in the scientific world, which makes companies which manipulate Twitter use more advanced technologies. After a cyber intelligence researcher collected data with APIs, obtaining analysis on it was relatively fast with previous models already created and high levels of anomalies. However, clustering analysis was required to truly understand the botnets due to the AI use on Twitter of <a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/Positive%20-%20NLG%20Compliments">prompts</a> compared to YouTube or Instagram.
 
 2ndly, we had use of the Academic API, to obtain all data on Amber Heard in the archive until 2006, quote retweets, and retweets. Like-Account analysis was slow and difficult, yet, we still see about 1,200+ accounts that are for liking-only within 10K tweets from 2021.
-- Clustering Analysis is needed to show use of the platform for bots used on petitions due to nonsensical mentions around Amber Heard, Aquaman, and DC Entertainment.
+- Clustering Analysis is needed to show use of the platform for bots used on petitions due to closely timed, coordinated clusters of accounts around Amber Heard, Aquaman, and DC Entertainment.
 - Understanding AI NLU, monitoring, and NLG with prompts is useful to understand the increased density 2019 onward and data samples. 
 <br>There are over 9,000 deleted or banned accounts in our <a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/NLU%20Labeling%2C%20Monitoring%20Cross-Platforms">NLU Analysis</a>. From browsing other Private Sector/Hollywood Fixer operations, e.g., the modus operendi of deleting accounts after they've targeted victims and the victim's supporters may be common, which requires then monitoring and/or more future cooperation with social media companies.
 - Although YouTube, one of the least studied platforms, has higher volume of accounts and Tens of Thousands of repeated same texts, and Reddit has 5,025 banned accounts as the most contributing accounts, the operation on Twitter is continual, risk-infused, and dense. There are Tens of Thousands of New Accounts Per Year.
@@ -31,14 +31,18 @@ Next, they generated a network of co-occurrences for the accounts that appeared 
 <br>We see sports bots, nonsensical mentions, and DC Movie networks in bot networks.
 
 - Arsenal network (February)<br>
+<div style="width:200px; height:100px">
+<img src="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/blob/main/Twitter%20Analysis/2020%20BotNet%20Arsenal%20Network%20Feb%20tweets%20analysis.png?raw=true" alt="Arsenal Sports Networj Amber Heard" title="Arsenal sports network Amber Heard" width="400" height="200"><br>
+
 Most of the groups of accounts have expressed their desire not to see Amber in the upcoming Aquaman sequel. 
 Users belonging to one of these groups, however, show similarities, in this case about 30 users have a picture of the Arsenal team as their banner image.
 - Movies network (February)<br>
+  <img src="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/blob/main/Twitter%20Analysis/2020%20BotNet%20Movies%20Network%20Feb%20tweets%20analysis.png?raw=true" alt="Movies Network Aquaman Amber Heard" title="Movies Netwok Aquaman Amber Heard" width="400" height="200"><br>
 This group stands out from the others because instead of focusing on the events, they just tweeted to offend Amber. 
 What's suspicious is that all 35 or so accounts have a picture from a movie as their banner image, mostly from DC.
 - Mentions network (November)<br>
 This group of 60 accounts in addition to the most used keywords and hashtags, shared words that didn't seem to make sense. 
-These are probably mentions to accounts, which anyway have very unusual screen_names: tsAHuahu6E, t4m4UWQ0S5 etc..
+These are probably mentions to accounts, which anyway have very unusual screen_names: tsAHuahu6E, t4m4UWQ0S5 etc.. (This was checked to be shortened urls, but they can be closely timed to be coordinated).
 - Mentions network (part 2) (November)<br>
 Similar to the previous group, this group of 50 accounts also shared meaningless keywords.
 
@@ -46,10 +50,11 @@ Similar to the previous group, this group of 50 accounts also shared meaningless
 Over the 5 years of 2018-2022, there are 3,658 clustering groups. 
 <bbr>Each month has its own folders with data and visualization (viz) files. Viz files contain the clustering with hundreds-thousands of wordclouds and groups of accounts.
 
-In these files, there are many clusters of Nonsensical Mentions (random letters and numbers) of other accounts, which demonstrates services/a company using bots to target Amber Heard on Twitter to then go onto Change.org petitions. 
+In these files, there are many clusters of texts which can be analyzed for further interpretation, e.g., nonsensical texts, shortened urls, timings of clusters of accounts. E.g., closely timed clusters of accounts all writing the same texts can often be botnets. The same can especially apply to YouTube, which won't be using as much AI prompts as Twitter is, so it can be obvious there unlike Twitter. 
+<br>From this, it can be demonstrated that services/a company using bots to target Amber Heard on Twitter to then go onto Change.org petitions. 
 <br>We are doing more analysis on this.
 
-- The flood of nonsencial mentions around Aquaman on Twitter shows increasing milestones on Change.org during Amber Heard's court case in April 2022. In April alone, there are 813 clusters which can show botnets within them.
+- The flood of clusters around Aquaman on Twitter shows increasing milestones on Change.org during Amber Heard's court case in April 2022. In April alone, there are 813 clusters which can show botnets within them.
 - To see the wordclouds easier in images, there's this Google Folder: https://drive.google.com/drive/folders/1SD1JLNFbXTjGvYJhkEFvvLKSzZZAcrfu?usp=sharing
   
 Twitter is especially used for sharing URLS (e.g., the petition against Amber Heard). Wordclouds frequently show attacking Amber Heard about Aquaman and the petitions. <br>Share counts are done on Change.org and log-in accounts to astroturf share counts and views.

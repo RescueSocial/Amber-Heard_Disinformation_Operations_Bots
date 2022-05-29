@@ -6,7 +6,8 @@ Each month has its own folders with data and visualization (viz) files. Viz file
 In these files, there are many clusters of Nonsensical Mentions (random letters and numbers) of other accounts, which demonstrates services/a company using bots to target Amber Heard on Twitter to then go onto Change.org petitions. 
 <br>We are doing more analysis on this.
 
-- The flood of nonsencial mentions around Aquaman on Twitter shows increasing milestones on Change.org during Amber Heard's court case in April 2022. In April alone, there are 813 clusters which can show botnets within them.
+- The flood of nonsencial mentions around Aquaman on Twitter shows increasing milestones on Change.org during Amber Heard's court case in April 2022. (This means that the increases in clusters with the nonsensical bot mentions on Twitter correlate with the millions of sudden signatures on Change.org).  In April alone, there are 813 clusters which can show botnets within them. 
+
 - To see the wordclouds easier in images, there's this Google Folder: https://drive.google.com/drive/folders/1SD1JLNFbXTjGvYJhkEFvvLKSzZZAcrfu?usp=sharing
   
 Twitter is especially used for sharing URLS (e.g., the petition against Amber Heard). Wordclouds frequently show attacking Amber Heard about Aquaman and the petitions. <br>Share counts are done on Change.org and log-in accounts to astroturf share counts and views.
@@ -22,7 +23,7 @@ Twitter is especially used for sharing URLS (e.g., the petition against Amber He
 
   <div>
 <br>
-Further, in wordclouds of clustering, we can see language from Reddit threatening images sometimes repeating here (NLP). A research paper shows that Reddit is frequently used as a sandbox, however, there is lower volume of bots on Reddit than YouTube/Twitter as it's hard to use IP4 vs IP6 on it (costs more). 2ndly, Instagram cannot flood against her name like other platforms because <br>Instagram has high restrictions with detecting bots quickly, so attacking her would be more obvious.
+Further, in wordclouds of clustering, we can see language from Reddit threatening images sometimes repeating here (NLP). A research paper shows that Reddit is frequently used as a sandbox (meaning where they test astroturfing), however, there is lower volume of bots on Reddit than YouTube/Twitter as it's hard to use IP4 vs IP6 on it (costs more). 2ndly, Instagram cannot flood against her name like other platforms because <br>Instagram has high restrictions with detecting bots quickly, so attacking her would be more obvious.
 <br>From data science, these groups were astroturfed.
 <br>With the data and analysis, it is clear it's an operation, not a campaign or groups. Sadly, each platform is used for its own purposes. 
 <br>
