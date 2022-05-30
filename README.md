@@ -6,7 +6,7 @@
 
 We're Worldwide Independent Researchers with over 20 data analysts, scientists, and observers analyzing this data for over a year. Research and development is ongoing, and this public operation spanning for years continues. We invite researchers, an ethical public, and students to study this public case example. 
 
-#### <i><b>Data collected on Amber Heard is collected from 2008-2022. Data is primarily related to the years of the operation of 2018-2022.</b></i>
+#### <i><b>Data collected on Amber Heard is primarily related to the years of the operation of 2018-2022, but is fully collected from 2008-2022.</b></i>
 
 This is the most detailed public analysis of a disinformation operation and the most voluminous yet - showing the impact of <a href="https://www.brookings.edu/research/the-breakout-scale-measuring-the-impact-of-influence-operations"><i>Category 6</a> influence,</b></i> globally affecting the public, businesses, nonprofits, reporters, social connections, well-being and entities beyond the victim, Amber Heard. 
 <br>This dynamic project is in-progress, prepared for review, and ready to be built upon.  
