@@ -1,12 +1,12 @@
 # Amber-Heard_Disinformation_Operations_Bots
 <b><i>Social Network Analysis of Disinformation/Influence Operations and Bots</i> Cross-Platforms on <i>Amber Heard</i>. 
-<br>Twitter, Reddit, YouTube, Instagram, Change.org, and Facebook for <i>6 Social Media Platforms</i>.</b>
+<br>Twitter, Reddit, YouTube, Instagram, Change.org, Facebook, Tumblr for <i>7 Social Media Platforms</i>.</b>
 
 #### <i><b>Millions of Texts and Millions of Accounts were studied for Social Network Analysis.</b></i>
 
 We're Worldwide Independent Researchers with over 20 data analysts, scientists, and observers analyzing this data for over a year. Research and development is ongoing, and this public operation spanning for years continues. We invite researchers, an ethical public, and students to study this public case example. 
 
-#### <i><b>Data collected on Amber Heard is primarily related to the years 2018-2021, ongoing into 2022.</b></i>
+#### <i><b>Data collected on Amber Heard is primarily related to the years of the operation of 2018-2022, but is fully collected from 2008-2022.</b></i>
 
 This is the most detailed public analysis of a disinformation operation and the most voluminous yet - showing the impact of <a href="https://www.brookings.edu/research/the-breakout-scale-measuring-the-impact-of-influence-operations"><i>Category 6</a> influence,</b></i> globally affecting the public, businesses, nonprofits, reporters, social connections, well-being and entities beyond the victim, Amber Heard. 
 <br>This dynamic project is in-progress, prepared for review, and ready to be built upon.  
@@ -24,11 +24,12 @@ This is the most detailed public analysis of a disinformation operation and the 
 <img src="Summary Amber Heard Social Network Analysis 1 Cover.jpeg" alt="Cover" title="Summary Amber Heard Social Network Analysis 1 Cover"><div>
 
  ### <b>Amounts of <a href="https://www.kaggle.com/amberhearddata/datasets">Data Collections</a> [Updates]:</b><br>
- - <b><a href="https://www.kaggle.com/datasets/amberhearddata/data-twitter-amber-heard-social-network-analysis">Twitter</a>:</b> 1,732,916 Tweets and 459,228 Accounts Jan 2018-April 2022.
+ - <b><a href="https://www.kaggle.com/datasets/amberhearddata/data-twitter-amber-heard-social-network-analysis">Twitter</a>:</b> <a href="https://www.kaggle.com/datasets/amberhearddata/data-twitter-amber-heard-2008-2017">2008-2022 Data on Amber Heard</a>.
+<br> 1,732,916 Tweets and 459,228 Accounts Jan 2018-April 2022. 
  <br>985,400 Tweets and 275,567 Accounts Jan 2018-April 2021. 497K Tweets with 182K accounts Jan-April 2022, (2) Over 880,000 Tweets of Top Users, (3) 700K+ Retweets, Links, (4) 56K Liking Accounts 2021, (5) 104K Quote Retweets, 57K Accounts of AH Timeline 2017-2022, (6) 134K Comments on Amber Heard Profile 2017-2022, (7) 2008-2017 with 698K Tweets on Amber Heard, Cluster Analysis 2008-2022
 - <b><a href="https://www.kaggle.com/datasets/amberhearddata/data-reddit-amber-heard-social-network-analysis">Reddit</a>:</b> 164,530 Contributions, 15,896 Submissions, 71,319 Accounts, Links - 2018-2021
  - <b><a href="https://www.kaggle.com/datasets/amberhearddata/data-instagram-amber-heard-social-network-analysis">Instagram</a>:</b> 1,751,113 Comments, 193,967 Posts, 717,311 Accounts (Posts made by 36,137 accounts and 681,174 commented), Links - 2018-2021
- - <b>YouTube:</b> <a href="https://www.kaggle.com/datasets/amberhearddata/data-youtube-amber-heard-social-network-analysis">(1)</a> 2,176,926 Comments (1,693,341 Comments with 483,585 Replies), 6,893 Videos (with dislike ratios), 1,152,868 Accounts, Cross-Platform Links, <a href="https://www.kaggle.com/datasets/amberhearddata/data-youtube-amber-heard-social-network-analysis-2">(2)</a> 11,152 videos, 324,029 comments
+ - <b><a href="https://www.kaggle.com/datasets/amberhearddata/data-youtube-amber-heard-social-network-analysis">YouTube</a>:</b> <a href="https://www.kaggle.com/datasets/amberhearddata/data-youtube-amber-heard-social-network-analysis">(1)</a> 2,176,926 Comments (1,693,341 Comments with 483,585 Replies), 6,893 Videos (with dislike ratios), 1,152,868 Accounts, Cross-Platform Links, <a href="https://www.kaggle.com/datasets/amberhearddata/data-youtube-amber-heard-social-network-analysis-2">(2)</a> 11,152 videos, 324,029 comments (2 collections)
 - <b><a href="https://www.kaggle.com/datasets/amberhearddata/data-change-petitions-amber-heard-social-networks">Change.org</a>:</b> 28,952 Comments, 181 Petitions, 2,117 Milestones, Cross-Platform Links
 - <b><a href="https://www.kaggle.com/datasets/amberhearddata/data-facebook-amber-heard-social-network-analysis">Facebook</a>:</b> Page Comments and Reviews, Links in Groups for Cross-Platforms 
  - <b><a href="https://www.kaggle.com/datasets/amberhearddata/data-tumblr-amber-heard-social-network-analysis">Tumblr</a>:</b> 35,898 Tumblr Posts Data with "Amber Heard" tag 2009-2022
@@ -91,6 +92,8 @@ All collaborators, researchers, and observers are required to sign, acknowledge,
 
 ### <b>Data Samples and Full Data [Updates]:</b><br>
 On GitHub:
+- Metrics of Twitter Data and Clustering Data 2008 - April 2022
+- Search queries on YouTube, video detail lists
 - 5 Months of Data for Cross-Platform Analysis:
 - 307,649 Tweets of Twitter, Texts of Accounts in Coordination, 674,469 Retweets, and All Listed Accounts
 - 43,509 Contributions of Reddit and All Listed Accounts
@@ -122,7 +125,7 @@ Analysis is in-progress across-platforms, <b>going beyond any previous public st
 - <b><i>We show increases of threats and escalations - even in spite of her winning in cases or gaps of announcements.</b></i>
 - Threat analysis and our studies shows the timelines to escalations of risks with keywords, phrases use. Hundreds of thousands of threatening texts exist against Amber Heard on 6 platforms. In social dynamics, within automated simulations caused by services are percentages of incited people to harm. In examples, within tens of thousands of repeated same texts on YouTube (e.g., <a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/Adapt%20and%20Survive%20Amber%20Heard%20-%20YouTube%20Video">"Adapt and Survive"</a>), false interactions on all platforms, and cryptic bot networks are people brought into them to threaten Amber Heard.  
 - Experts saw cyber crime and <a href="https://www.iosi.global">suspicious activities needing flagging for removal</a> by cybersecurity. See more in <i>Study Case</i>.
-- Clustering analysis with cyber intelligence research reveals scientifically operations to cause distress beyond searching manually. Clustering further shows sports bots networks, movie networks, and 506 other clusters around the Aquaman petition, nonsense mentions, and astroturfing e.g., Reddit NLP sandbox.
+- Clustering analysis with cyber intelligence research reveals scientifically operations to cause distress beyond searching manually. Clustering further shows sports bots networks, movie networks, and 3,658 other clusters 2018-2022 that partly contain the Aquaman petition, and astroturfing e.g., Reddit NLP sandbox.
 - Multiple layers of companies, services, are likely. Along with the case's circumstances of intimidation, violence, missing people, high wealth of opposition, <a href="https://abcnews.go.com/Primetime/LegalCenter/story?id=1625097&page=1">Hollywood Fixers</a>, and suspicious activities, the online world similarly has been made threatening to exploit the <a href="https://datasociety.net/library/data-voids">Data Void</a>. 
 <br><i>"Data voids are not unique to search engines; they occur on social media platforms, too."</i>
 
@@ -154,7 +157,7 @@ There have been victims of disinformation and influence operations in the <b>Pri
 - Amber Heard, Cyrillic Spiders from Mars - https://www.thegeekbuzz.com/the-basement/cyrillic-russian-spiders-from-mars
 
 ### <b>Scientific Methods:</b>
-Worldwide Data Scientists, Researchers in Cyber Intelligence, PhDs, Data Analysts, and a former Google Research Intern collected and analyzed data. We use the scientific method of testing.
+Worldwide Data Scientists, Researchers in Cyber Intelligence, PhDs, Data Analysts, Artificial Intelligence Researchers, and a former Google Research Intern collected and analyzed data. We use the scientific method of testing.
 <br>
 - <i><b>Category 6: <a href="https://www.brookings.edu/research/the-breakout-scale-measuring-the-impact-of-influence-operations/">The Breakout Scale: Measuring the Impact of Influence Operations</a> by <a href="https://twitter.com/benimmo/status/1309532354306879488">Ben Nimmo</a> in Social Network Analysis Standards:</b></i><br>
 "Category One operations only spread within one community on one platform, while Category Two operations either spread in one community across multiple platforms, or spread across multiple communities on one platform. Category Three operations spread across <i>multiple social media platforms and reach multiple communities.</i> 

@@ -9,7 +9,7 @@ Timeseries Graph shows that 2016 and early 2019 had the most posts on Amber Hear
 - 14,040 Posts with "Amber Heard" Tag from Oct 10, 2017 to May 3, 2022. 
 
 <div style="width:500px ; height:100px">
-<center><img src="/_Tumblr Data/AH Tumblr TimeSeries.png" alt="Cover" title="Tumblr Graph Timeseries on Amber Heard"></center><div>
+<center><img src="/_Tumblr Analysis/AH Tumblr TimeSeries.png" alt="Cover" title="Tumblr Graph Timeseries on Amber Heard"></center><div>
 - There are peaks of posts in between 2016 and 2019 at higher levels than during the disinformation/influence operations start.
 <br>- A similar comparison to show how to spot normal vs abnormal peaks can be made with Reddit showing lower posts in late 2020 than peaks on YouTube and Twitter showing increasing targeting against her 2020-2022 despite real-world events of winning cases.
 <br>
