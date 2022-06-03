@@ -8,10 +8,10 @@ We're Worldwide Independent Researchers with over 20 data analysts, scientists, 
 
 #### <i><b>Data collected on Amber Heard is primarily related to the years of the operation of 2018-2022, but is fully collected from 2008-2022.</b></i>
 
-This is the most detailed public analysis of a disinformation operation and the most voluminous yet - showing the impact of <a href="https://www.brookings.edu/research/the-breakout-scale-measuring-the-impact-of-influence-operations"><i>Category 6</a> influence,</b></i> globally affecting the public, businesses, nonprofits, reporters, social connections, well-being and entities beyond the victim, human rights activist <a href="https://web.archive.org/web/20180921235815/https://www.standup4humanrights.org/en/hr-champions-aheard.html">Amber Heard</a>. 
+This is the most detailed public analysis of a disinformation operation and the most voluminous yet - showing the impact of <a href="https://www.brookings.edu/research/the-breakout-scale-measuring-the-impact-of-influence-operations"><i>Category 6</a> influence,</b></i> globally affecting the public, businesses, nonprofits, reporters, witnesses, social connections, well-being, and entities beyond the victim and human rights activist <a href="https://web.archive.org/web/20180921235815/https://www.standup4humanrights.org/en/hr-champions-aheard.html">Amber Heard</a>. 
 <br>This dynamic project is in-progress, prepared for review, and ready to be built upon.  
 
-<b>Our Study creates Precedents and Foundations to help victims of cyberabuse, bots, domestic abuse, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a>, hostile environments, and Disinformation Operations to Improve Lives.</b> 
+<b>Our Study creates Precedents and Foundations to help victims of cyberabuse, bots, domestic abuse, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a>, crime, hostile environments, and Disinformation Operations to Improve Lives.</b> 
 <br>We want to save lives and help partners create systems to help online - e.g., specialized and accurate rescue, quality custom studies, data analysis, Social Network Analysis, forensics, research, situation awareness, data science projects, prevention, and rescue/public safety technologies - <i>with focus on the victim primarily and <b>her environment</b></i>.
 
 - <a href="https://www.teamscopeapp.com/blog/6-repositories-to-share-your-research-data"><b>Public Research:</b></a> 
@@ -75,14 +75,14 @@ Compliments Generation on Amber Heard based on Jason Momoa<br>
 <img src="1 Summary Social Network Analysis Amber Heard.jpeg" alt="Cover" title="Summary Social Network Analysis Amber Heard">
 
 ### <b>Collaboration:</b> 
-If you're a humanitarian, researcher, social enterprise, organization, student, or academic helping female victims of abuse, coercive control, domestic abuse, bots, operations, violence, harassment, or hostile environments - we welcome collaboration with you.
+If you're a humanitarian, researcher, social enterprise, organization, student, or academic helping female victims of abuse, coercive control, domestic abuse, crime, bots, operations, violence, harassment, or hostile environments - we welcome collaboration with you.
 <br>Our studies and data can be used for Social Network Analysis, Data Analysis, machine learning, Natural Language Processing, artificial intelligence, Data Science labeling, anti-abuse, rescue projects, anti-crime, timelines, OSINT, simulations, and monitoring systems to help other victims and their lives. 
 <br><br>Since this data is high volume about domestic abuse and gender, with an actress/model and film industry element, it's highly relevant for classification and data science projects on those topics.
 <br><i>Please contact us for collaboration or if with questions on obtaining more data and code.</i>
 <br><br>
-<b>Although it's abuse of process, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a> is becoming illegal in more countries and states/provinces worldwide.</b> 
+<b>Although it's abuse of process, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a> is becoming illegal in more countries and states/provinces worldwide. <a href="https://cal.lawsoup.org/legal-guides/harassment/">Harrassment</a> is illegal.</b> 
 <br>To this degree, severity, and volume of intimidation, <a href="https://en.wikipedia.org/wiki/Witness_tampering">witness tampering</a> and <a href="https://en.wikipedia.org/wiki/Extortion">extortion</a> is already illegal.
-- <i>If you're a victim needing help against cyberabuse especially in <a href="https://safeescape.org">online domestic abuse</a>, operations, and <a href="https://metta-space.com">hostile environments</a>, please use this example for your own awareness and contact us.</i><br>
+- <i>If you're a victim needing help against cyberabuse especially in <a href="https://safeescape.org">online domestic abuse</a>, operations, crime, and <a href="https://metta-space.com">hostile environments</a>, please use this example for your own awareness and contact us.</i><br>
 
 #### <b>Do No Harm:</b>
 All collaborators, researchers, and observers are required to sign, acknowledge, agree to "Do No Harm" agreements. If you are one of the victims, businesses, nonprofits, or entities listed in this study and want to collaborate with us, please contact us.
@@ -132,7 +132,7 @@ Analysis is in-progress across-platforms, <b>going beyond any previous public st
 <b>Origins, Risks, Situation, and Private Sector Operations:</b>
 - After reviewing analysis and data quantifications, explanations of origins and motive can be discovered. 
 <br>Folder <i><a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/-%20Study%20Case%20-%20Effects%2C%20Risks%2C%20Origins">'Study Case - Effects, Risks, Origins'</a></i> shows dangerous Private Sector operations. 
-- <a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/Subjective%20Preliminary%20Claims">'Subjective Preliminary Claims'</a> sources explanations to layers of services, companies, decades of fixers, coercive control, social media building, insider threats, and malice where extortion using cyber activities can come from.
+- <a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/Subjective%20Preliminary%20Claims">'Subjective Preliminary Claims'</a> sources explanations to layers of services, companies, decades of fixers, coercive control, social media building, insider threats, and malice where tampering and extortion using cyber activities can come from.
 
 ### <b>Background:</b>
 - Amber Heard's August 2020 Counterclaims on Bots focused on Correlating Edited Media Leaks and Top Posting Twitter Accounts Layer only: https://www.scribd.com/document/473092071/cl-2019-2911-def-counterclaims-8-10-2020
@@ -143,7 +143,7 @@ Analysis is in-progress across-platforms, <b>going beyond any previous public st
 
 ### <b>Related Articles for Understanding:</b><br> 
 <i>"Disinformation in the Private Sector: The Price of Influence"</i><br>
-There have been victims of witness tampering, disinformation and influence operations in the <b>Private Sector</b> for decades. Operations can mirror coercive control strategies of multiple types of abuse. This open-source study can be used to help others by creating awareness, warning, and guides without needing to start from scratch.
+There have been victims of witness tampering, crime, disinformation and influence operations in the <b>Private Sector</b> for decades. Operations can mirror coercive control strategies of multiple types of abuse. This open-source study can be used to help others by creating awareness, warning, and guides without needing to start from scratch.
 
 - <b>Hired Services - New Accounts Layers, Aged Accounts, Created News-Sites:</b></br>
 <a href="https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf">https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf</a><br>
