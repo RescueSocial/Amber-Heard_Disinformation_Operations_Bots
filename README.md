@@ -81,8 +81,8 @@ If you're a humanitarian, researcher, social enterprise, organization, student, 
 <br><i>Please contact us for collaboration or if with questions on obtaining more data and code.</i>
 <br><br>
 <b>Although it's abuse of process, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a> is becoming illegal in more countries and states/provinces worldwide.</b> 
-<br>To this degree, severity, and volume of intimidation, <a href="https://en.wikipedia.org/wiki/Extortion">extortion</a> is already illegal.
-- <i>If you're a victim needing help against cyberabuse especially in <a href="https://safeescape.org">online domestic abuse</a>, operations, and <a href="https://metta-space.com">hostile environments</a>, please contact us.</i><br>
+<br>To this degree, severity, and volume of intimidation, <a href="https://en.wikipedia.org/wiki/Witness_tampering">witness tampering</a> and <a href="https://en.wikipedia.org/wiki/Extortion">extortion</a> is already illegal.
+- <i>If you're a victim needing help against cyberabuse especially in <a href="https://safeescape.org">online domestic abuse</a>, operations, and <a href="https://metta-space.com">hostile environments</a>, please use this example for your own awareness and contact us.</i><br>
 
 #### <b>Do No Harm:</b>
 All collaborators, researchers, and observers are required to sign, acknowledge, agree to "Do No Harm" agreements. If you are one of the victims, businesses, nonprofits, or entities listed in this study and want to collaborate with us, please contact us.
@@ -126,7 +126,7 @@ Analysis is in-progress across-platforms, <b>going beyond any previous public st
 - Threat analysis and our studies shows the timelines to escalations of risks with keywords, phrases use. Hundreds of thousands of threatening texts exist against Amber Heard on 6 platforms. In social dynamics, within automated simulations caused by services are percentages of incited people to harm. In examples, within tens of thousands of repeated same texts on YouTube (e.g., <a href="https://github.com/RescueSocialTech/Amber-Heard_Disinformation_Operations_Bots/tree/main/Adapt%20and%20Survive%20Amber%20Heard%20-%20YouTube%20Video">"Adapt and Survive"</a>), false interactions on all platforms, and cryptic bot networks are people brought into them to threaten Amber Heard.  
 - Experts saw cyber crime and <a href="https://www.iosi.global">suspicious activities needing flagging for removal</a> by cybersecurity. See more in <i>Study Case</i>.
 - Clustering analysis with cyber intelligence research reveals scientifically operations to cause distress beyond searching manually. Clustering further shows sports bots networks, movie networks, and 3,658 other clusters 2018-2022 that partly contain the Aquaman petition, and astroturfing e.g., Reddit NLP sandbox.
-- Multiple layers of companies, services, are likely. Along with the case's circumstances of intimidation, violence, missing people, high wealth of opposition, <a href="https://abcnews.go.com/Primetime/LegalCenter/story?id=1625097&page=1">Hollywood Fixers</a>, and suspicious activities, the online world similarly has been made threatening to exploit the <a href="https://datasociety.net/library/data-voids">Data Void</a>. 
+- Multiple layers of companies, services, are likely. Along with the case's circumstances of intimidation, violence, missing people, <a href="https://www.hollywoodinterrupted.com/single-post/2019/12/20/the-bagman">witness tampering</a>, high wealth of opposition, <a href="https://abcnews.go.com/Primetime/LegalCenter/story?id=1625097&page=1">Hollywood Fixers</a>, and suspicious activities, the online world similarly has been made threatening to exploit the <a href="https://datasociety.net/library/data-voids">Data Void</a>. 
 <br><i>"Data voids are not unique to search engines; they occur on social media platforms, too."</i>
 
 <b>Origins, Risks, Situation, and Private Sector Operations:</b>
@@ -143,7 +143,7 @@ Analysis is in-progress across-platforms, <b>going beyond any previous public st
 
 ### <b>Related Articles for Understanding:</b><br> 
 <i>"Disinformation in the Private Sector: The Price of Influence"</i><br>
-There have been victims of disinformation and influence operations in the <b>Private Sector</b> for decades. Operations can mirror coercive control strategies. This open-source study can be used to help others by creating guides without needing to start from scratch.
+There have been victims of witness tampering, disinformation and influence operations in the <b>Private Sector</b> for decades. Operations can mirror coercive control strategies of multiple types of abuse. This open-source study can be used to help others by creating awareness, warning, and guides without needing to start from scratch.
 
 - <b>Hired Services - New Accounts Layers, Aged Accounts, Created News-Sites:</b></br>
 <a href="https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf">https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf</a><br>
