@@ -8,7 +8,7 @@ We're Worldwide Independent Researchers with over 20 data analysts, scientists, 
 
 #### <i><b>Data collected on Amber Heard is primarily related to the years of the operation of 2018-2022, but is fully collected from 2008-2022.</b></i>
 
-This is the most detailed public analysis of a disinformation operation and the most voluminous yet - showing the impact of <a href="https://www.brookings.edu/research/the-breakout-scale-measuring-the-impact-of-influence-operations"><i>Category 6</a> influence,</b></i> globally affecting the public, businesses, nonprofits, reporters, social connections, well-being and entities beyond the victim, Amber Heard. 
+This is the most detailed public analysis of a disinformation operation and the most voluminous yet - showing the impact of <a href="https://www.brookings.edu/research/the-breakout-scale-measuring-the-impact-of-influence-operations"><i>Category 6</a> influence,</b></i> globally affecting the public, businesses, nonprofits, reporters, social connections, well-being and entities beyond the victim, human rights activist <a href="https://web.archive.org/web/20180921235815/https://www.standup4humanrights.org/en/hr-champions-aheard.html">Amber Heard</a>. 
 <br>This dynamic project is in-progress, prepared for review, and ready to be built upon.  
 
 <b>Our Study creates Precedents and Foundations to help victims of cyberabuse, bots, domestic abuse, <a href="https://www.connecticutprotectivemoms.org/coercive-control-legislation-in-the">coercive control</a>, hostile environments, and Disinformation Operations to Improve Lives.</b> 
