@@ -143,7 +143,7 @@ Analysis is in-progress across-platforms, <b>going beyond any previous public st
 
 ### <b>Related Articles for Understanding:</b><br> 
 <i>"Disinformation in the Private Sector: The Price of Influence"</i><br>
-There have been victims of witness tampering, crime, disinformation and influence operations in the <b>Private Sector</b> for decades. Operations can mirror coercive control strategies of multiple types of abuse. This open-source study can be used to help others by creating awareness, warning, and guides without needing to start from scratch.
+There have been victims of disinformation, intimidation, witness tampering, crime, and influence operations in the <b>Private Sector</b> for decades. Operations can mirror coercive control strategies of multiple types of abuse. This open-source study can be used to help others by creating awareness, warning, and guides without needing to start from scratch.
 
 - <b>Hired Services - New Accounts Layers, Aged Accounts, Created News-Sites:</b></br>
 <a href="https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf">https://go.recordedfuture.com/hubfs/reports/cta-2019-0930.pdf</a><br>
