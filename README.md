@@ -1,6 +1,6 @@
 # Amber-Heard_Disinformation_Operations_Bots
 <b><i>Social Network Analysis of Disinformation/Influence Operations and Bots</i> Cross-Platforms on <i>Amber Heard</i>. 
-<br>Twitter, Reddit, YouTube, Instagram, Change.org, Facebook, Tumblr for <i>7 Social Media Platforms</i>.</b>
+<br>Twitter, Reddit, YouTube, Instagram, Change.org, Facebook, TikTok, Tumblr for <i>8 Social Media Platforms</i>.</b>
 
 #### <i><b>Millions of Texts and Millions of Accounts were studied for Social Network Analysis.</b></i>
 
@@ -33,6 +33,7 @@ This is the most detailed public analysis of a disinformation operation and the 
 - <b><a href="https://www.kaggle.com/datasets/amberhearddata/data-change-petitions-amber-heard-social-networks">Change.org</a>:</b> 28,952 Comments, 181 Petitions, 2,117 Milestones, Cross-Platform Links
 - <b><a href="https://www.kaggle.com/datasets/amberhearddata/data-facebook-amber-heard-social-network-analysis">Facebook</a>:</b> Page Comments and Reviews, Links in Groups for Cross-Platforms 
  - <b><a href="https://www.kaggle.com/datasets/amberhearddata/data-tumblr-amber-heard-social-network-analysis">Tumblr</a>:</b> 35,898 Tumblr Posts Data with "Amber Heard" tag 2009-2022
+- TikTok: Data of daily feed videos under 45 related hashtags to AH
 - Crossplatform for Groups in Facebook, Reddit, and Channels of YouTube<br>
 
 ### <b>Index and Contents:<br></b>
