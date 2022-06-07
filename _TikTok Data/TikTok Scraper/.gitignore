@@ -1,0 +1,15 @@
+node_modules/
+reverse_eng/
+build/
+coverage/
+garbage/
+
+.DS_Store
+*.csv
+*.zip
+ex.js
+ex.ts
+yarn.lock
+yarn-error.log
+proxy
+bulk
