@@ -1,6 +1,6 @@
 # Amber-Heard_Disinformation_Operations_Bots
 <b><i>Social Network Analysis of Disinformation/Influence Operations and Bots</i> Cross-Platforms on <i>Amber Heard</i>. 
-<br>Twitter, Reddit, YouTube, Instagram, Change.org, Facebook, Tumblr for <i>7 Social Media Platforms</i>.</b>
+<br>Twitter, Reddit, YouTube, Instagram, Change.org, Facebook, TikTok, Tumblr for <i>8 Social Media Platforms</i>.</b>
 
 #### <i><b>Millions of Texts and Millions of Accounts were studied for Social Network Analysis.</b></i>
 
@@ -26,13 +26,14 @@ This is the most detailed public analysis of a disinformation operation and the 
  ### <b>Amounts of <a href="https://www.kaggle.com/amberhearddata/datasets">Data Collections</a> [Updates]:</b><br>
  - <b><a href="https://www.kaggle.com/datasets/amberhearddata/data-twitter-amber-heard-social-network-analysis">Twitter</a>:</b> <a href="https://www.kaggle.com/datasets/amberhearddata/data-twitter-amber-heard-2008-2017">2008-2022 Data on Amber Heard</a>.
 <br> 1,732,916 Tweets and 459,228 Accounts Jan 2018-April 2022. 
- <br>985,400 Tweets and 275,567 Accounts Jan 2018-April 2021. 497K Tweets with 182K accounts Jan-April 2022, (2) Over 880,000 Tweets of Top Users, (3) 700K+ Retweets, Links, (4) 56K Liking Accounts 2021, (5) 104K Quote Retweets, 57K Accounts of AH Timeline 2017-2022, (6) 134K Comments on Amber Heard Profile 2017-2022, (7) 2008-2017 with 698K Tweets on Amber Heard, Cluster Analysis 2008-2022
+ <br>985,400 Tweets and 275,567 Accounts Jan 2018-April 2021. 497K Tweets with 182K accounts Jan-April 2022, (2) Over 880,000 Tweets of Top Users, (3) 700K+ Retweets, Links, (4) 56K Liking Accounts 2021, (5) 104K Quote Retweets, 57K Accounts of AH Timeline 2017-2022, (6) 134K Comments on Amber Heard Profile 2017-2022, <a href="https://www.kaggle.com/datasets/amberhearddata/data-twitter-amber-heard-2008-2017">(7) 2008-2017</a> with 698K Tweets on Amber Heard, Cluster Analysis 2008-2022
 - <b><a href="https://www.kaggle.com/datasets/amberhearddata/data-reddit-amber-heard-social-network-analysis">Reddit</a>:</b> 164,530 Contributions, 15,896 Submissions, 71,319 Accounts, Links - 2018-2021
  - <b><a href="https://www.kaggle.com/datasets/amberhearddata/data-instagram-amber-heard-social-network-analysis">Instagram</a>:</b> 1,751,113 Comments, 193,967 Posts, 717,311 Accounts (Posts made by 36,137 accounts and 681,174 commented), Links - 2018-2021
  - <b><a href="https://www.kaggle.com/datasets/amberhearddata/data-youtube-amber-heard-social-network-analysis">YouTube</a>:</b> <a href="https://www.kaggle.com/datasets/amberhearddata/data-youtube-amber-heard-social-network-analysis">(1)</a> 2,176,926 Comments (1,693,341 Comments with 483,585 Replies), 6,893 Videos (with dislike ratios), 1,152,868 Accounts, Cross-Platform Links, <a href="https://www.kaggle.com/datasets/amberhearddata/data-youtube-amber-heard-social-network-analysis-2">(2)</a> 11,152 videos, 324,029 comments (2 collections)
 - <b><a href="https://www.kaggle.com/datasets/amberhearddata/data-change-petitions-amber-heard-social-networks">Change.org</a>:</b> 28,952 Comments, 181 Petitions, 2,117 Milestones, Cross-Platform Links
 - <b><a href="https://www.kaggle.com/datasets/amberhearddata/data-facebook-amber-heard-social-network-analysis">Facebook</a>:</b> Page Comments and Reviews, Links in Groups for Cross-Platforms 
  - <b><a href="https://www.kaggle.com/datasets/amberhearddata/data-tumblr-amber-heard-social-network-analysis">Tumblr</a>:</b> 35,898 Tumblr Posts Data with "Amber Heard" tag 2009-2022
+- <b><a href="https://www.kaggle.com/datasets/amberhearddata/tiktok-data-amber-heard-social-media-2022">TikTok</a></b>: Data of daily feed videos under 57 related hashtags to AH
 - Crossplatform for Groups in Facebook, Reddit, and Channels of YouTube<br>
 
 ### <b>Index and Contents:<br></b>
