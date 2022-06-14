@@ -26,3 +26,6 @@ Cross-Platforms Analysis/YouTube data_4_months/df_comments_21_4_months.csv
 Cross-Platforms Analysis/YouTube data_4_months/df_comments_21_months.json
 NLU Labeling, Monitoring Cross-Platforms/NlpEngine/models/pytorch_model_GPU.bin
 NLU Labeling, Monitoring Cross-Platforms/Nlp-Engine/models/pytorch_model_GPU.bin
+.DS_Store
+__pycache__
+.ipynb_checkpoints
