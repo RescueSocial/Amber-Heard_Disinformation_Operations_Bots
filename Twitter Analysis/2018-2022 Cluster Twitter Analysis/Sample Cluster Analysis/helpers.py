@@ -265,9 +265,9 @@ def draw_heatmap(*args, **kwargs):
     d = d.reindex(index=months[::-1])
     sb.heatmap(d, **kwargs)    
 
-def facet_heat(df, title='title', n_col=2, vmax=100):
+def facet_heat(df, title='title', heat_col='n_tweets', n_col=2, vmax=100):
     g = sb.FacetGrid(df, col='year', col_wrap=n_col, height=4.5)
-    g.map_dataframe(draw_heatmap, 'dayofmonth', 'month', 'n_tweets', cmap='rocket_r', vmin=0, vmax=vmax);
+    g.map_dataframe(draw_heatmap, 'dayofmonth', 'month', heat_col, cmap='rocket_r', vmin=0, vmax=vmax);
 
     plt.suptitle(title, y=1.06, fontsize=22)
     g.set_titles("{col_name}", size=16)
@@ -298,9 +298,9 @@ def facet_day_month(df, x, y, facet_on='month', n_col=4, year_str='2018'):
     g.set_titles("{col_name}", size=16, y=-0.30)
     
     if facet_on=='month':
-        title = '"Aquman Petition" Tweets Created in Each Day of ' + year_str 
+        title = '"Aquman Petition" ' + y + ' Created in Each Day of ' + year_str 
     else:
-        title = '"Aquman Petition" Tweets Created in Each Month'
+        title = '"Aquman Petition" ' + y + ' Created in Each Month'
     g.fig.suptitle(title, fontsize=22, y=1.05)
 #     g.set_yticklabels(size = 4)
 #     g.set_xticklabels(size = 10)
