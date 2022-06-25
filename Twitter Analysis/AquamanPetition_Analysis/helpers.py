@@ -337,7 +337,7 @@ def clean_data(df):
 # 0) Filter on Specific columns
     cols = {'created_at', 'full_text', 'id_str', 'lang', 'user.created_at', 'user.description', 'user.followers_count', 'user.friends_count', 'user.id_str', 'user.location', 'user.name', 'user.profile_banner_url', 'user.profile_image_url', 'user.screen_name', 'user.statuses_count', 'user.url', 'user.verified'}
     df = df[list(cols)].copy()
-    
+
 # 1) Rename Columns & Change Dtypes
     df.rename(columns={'user.name': 'username',
                           'user.id_str': 'user_id',
@@ -355,22 +355,40 @@ def clean_data(df):
                           'user.screen_name': 'user_screen_name',
                           'full_text': 'text'}, inplace=True);
     
+# # 1) Rename Columns & Change Dtypes
+#     df.rename(columns={'user.name': 'username',
+#                           'user.id_str': 'user_id',
+#                           'user.description': 'user_description',
+#                           'user.profile_banner_url': 'profile_banner_url',
+#                           'user.location': 'user_location',
+#                           'user.verified': 'is_verified',
+#                           'user.profile_image_url': 'profile_image_url',
+#                           'user.statuses_count': 'n_statuses',
+#                           'id_str': 'tweet_id',
+#                           'user.url': 'user_url',
+#                           'user.friends_count': 'n_friends',
+#                           'user.created_at': 'user_created_at',
+#                           'user.followers_count': 'n_followers',
+#                           'user.screen_name': 'user_screen_name',
+#                           'full_text': 'text'}, inplace=True);
+    
     
     df['user_id'] = df['user_id'].astype('str')
     df['tweet_id'] = df['tweet_id'].astype('str')
 
-    df["created_at"] = pd.to_datetime(df["created_at"], unit='ms')
-    df["user_created_at"] = pd.to_datetime(df["user_created_at"], unit='ms')
-    
-    df.sort_values(by='created_at', inplace=True)
+#     df["created_at"] = pd.to_datetime(df["created_at"], unit='ms')
+#     df["user_created_at"] = pd.to_datetime(df["user_created_at"], unit='ms')
+   
     
 # # use format to remove the +00:00    
-# df_merged["created_at"] = pd.to_datetime(df_merged["created_at"], format="%Y-%m-%d %H:%M:%S+00:00")
-# df_merged["user_created_at"] = pd.to_datetime(df_merged["user_created_at"], format="%Y-%m-%d %H:%M:%S+00:00")   
-                
+    df["created_at"] = pd.to_datetime(df["created_at"], format="%Y-%m-%d %H:%M:%S+00:00")
+    df["user_created_at"] = pd.to_datetime(df["user_created_at"], format="%Y-%m-%d %H:%M:%S+00:00")   
+    df.sort_values(by='created_at', inplace=True)                
                 
 # 2) Adding More Columns
 # Adding year, month, dayofmonth and a diff columns
+# https://stackoverflow.com/questions/1345827/how-do-i-find-the-time-difference-between-two-datetime-objects-in-python
+
     df["date"] = df["created_at"].dt.date
     df["year"] = df["created_at"].dt.year
     df["month"] = df["created_at"].dt.strftime("%b")
@@ -378,8 +396,9 @@ def clean_data(df):
     df["hour"] = df["created_at"].dt.hour
     df["diff"] = df["created_at"] - df["user_created_at"]
     df["days_diff"] = df["diff"].dt.days
-    # df["hours_diff"] = df["diff"].dt.components['hours']
-    df["hours_diff"] = df["diff"].astype(str).str.split(" ").str[2]
+    df["minutes_diff"] = round( (df["diff"].dt.total_seconds() % (24*60*60)) / 60, 2)
+#     df["hours_diff"] = df["diff"].dt.components['hours']
+#     df["hours_diff"] = df["diff"].astype(str).str.split(" ").str[2]
     
     df["date"] = pd.to_datetime(df["date"])
     
